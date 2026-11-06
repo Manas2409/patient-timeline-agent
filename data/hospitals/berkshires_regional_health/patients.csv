@@ -1,0 +1,3 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+BERKSH-591a1c,Luke,,Hoeger,07-02-2006,False,M,913 VonRueden Route Apt 3,Williamstown,Massachusetts,01267,
+BERKSH-ee35ac,Hui,,Stoltenberg,07/22/1990,True,F,481 Jerde St Suite 0,Lenox,Massachusetts,01240,999-56-6306

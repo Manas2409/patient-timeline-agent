@@ -1,0 +1,24 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+NORTH_-74af15,Grisel,,Balistreri,1948-06-15,False,F,493 Schamberger Tunnel,Quincy,Massachusetts,02170,
+NORTH_-98cdc1,Darren,,Rogahn,11/06/1979,False,M,1006 Fadel Underpass,Leominster,Massachusetts,01420,999-42-4352
+NORTH_-6c70d0,Armand,,McGlynn,11/06/1979,False,M,1007 Becker Haven Unit 74,Leominster,Massachusetts,01420,999-53-8789
+NORTH_-7fe6a1,Bebe,Miss,Simonis,"Nov 5, 1964",False,F,,Wellesley,Massachusetts,,
+NORTH_-509b05,Zachariah,Guy,Morar,1963-09-25,False,M,307 Sauer Wynd Unit 22,Maynard,Massachusetts,01754,999-67-9987
+NORTH_-caa471,B.,,Gibson,11-08-1960,False,M,198 Bauch Flat Apt 27,Barnstable,Massachusetts,02668,
+NORTH_-8728e5,Nada,,Keeling,"Oct 7, 1967",False,F,638 Beier Bay,Boston,Massachusetts,02113,
+NORTH_-a98c79,Rick,Rudolph,Kulas,1954-10-05,False,M,826 Vandervort Fort Apt 52,Beverly,Massachusetts,01915,
+NORTH_-16b9d4,Emmanuel,,Considine,1956-10-18,False,M,,Hanover,Massachusetts,,999-50-4092
+NORTH_-a0b98d,Shaun,Javier,Cormier,05-12-1953,False,M,,Wellesley,Massachusetts,,999-25-8410
+NORTH_-f24575,J.,,Cormier,1981-01-20,False,F,,Shirley,Massachusetts,,999-77-7216
+NORTH_-da7dc3,Aurelio,,Eichmann,"Apr 4, 1942",False,M,,Mattapoisett,Massachusetts,,999-95-3958
+NORTH_-0dce8b,Jewell,,Hammes,2012-08-12,False,M,904 Treutel Mill,Gardner,Massachusetts,01440,
+NORTH_-53d91c,Benito,,Gulgowski,1980-10-04,False,M,346 Watsica Ranch Apt 49,Reading,Massachusetts,01801,999-24-5790
+NORTH_-9cc709,Leland,,King,11-06-1930,False,M,,Belmont,Massachusetts,,
+NORTH_-6ec9f7,Boyce,,Nolan,01-13-1980,False,M,,Springfield,Massachusetts,,999-52-9992
+NORTH_-f51a07,Ellis,,Larson,08-20-1969,False,M,241 Block Alley Apt 74,Newton,Massachusetts,02460,
+NORTH_-7f12e2,Rogelio,Prince,Monahan,"Dec 18, 1961",False,M,,Sudbury,Massachusetts,,
+NORTH_-266ee7,B.,,Klein,1963-03-16,False,M,,Saugus,Massachusetts,,999-41-6645
+NORTH_-7cca4c,Michale,,Ankunding,05/09/1962,False,M,,Newton,Massachusetts,,999-73-2790
+NORTH_-1cbba8,Barbra,,Conn,02-11-1998,False,F,158 Cormier Overpass,Stow,Massachusetts,00000,
+NORTH_-59ed7e,C.,,Corwin,10/11/1944,False,M,566 Hartmann Parade,Boston,Massachusetts,02114,999-94-3814
+NORTH_-c315c6,Maurice,,Auer,1973-03-25,False,M,628 Emard Walk Suite 0,Andover,Massachusetts,01810,

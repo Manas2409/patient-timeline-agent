@@ -1,0 +1,16 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+WEST_S-0d961f,Jayne,,Bruen,02/11/2001,False,F,,Bedford,Massachusetts,,999-32-1995
+WEST_S-db5bad,Susan,,Hegmann,"Apr 25, 1969",False,F,551 Rau Hollow,Newton,Massachusetts,02461,999-52-2854
+WEST_S-2e8bad,Merlene,Marlin,Thompson,1972-09-11,False,F,773 Kilback Byway Apt 21,Wellesley,Massachusetts,02457,999-30-1429
+WEST_S-41bc86,Alexandra,,Mosciski,05/25/1981,False,F,,Waltham,Massachusetts,,999-20-6297
+WEST_S-3263d3,Bebe,Miss,Simonis,"Nov 5, 1964",False,F,1011 Paucek Trafficway Suite 37,Wellesley,Massachusetts,02481,
+WEST_S-64e1c9,Shaun,,Cormier,"May 21, 1953",True,M,,Wellesley,Massachusetts,,999-25-8410
+WEST_S-a95d7a,Leland,,King,"Nov 6, 1930",False,M,719 Renner Ferry Unit 37,Belmont,Massachusetts,02478,
+WEST_S-40cf7b,Babara,,Gutkowski,2001-11-10,False,F,,Boston,Massachusetts,,
+WEST_S-40a7b4,Ellis,,Larson,1969-08-20,False,M,,Newton,Massachusetts,,
+WEST_S-c2c0e8,Lamar,,Beer,"Feb 16, 1971",False,M,,Needham,Massachusetts,,999-92-1780
+WEST_S-8b63da,Maximo,,Pagac,"Feb 14, 2000",False,M,,Arlington,Massachusetts,,
+WEST_S-5116f1,Tabatha,,Ruecker,1961-07-02,False,F,125 Hilpert Meadow Suite 82,Watertown,Massachusetts,02472,
+WEST_S-956ee0,Michale,,Ankunding,05-09-1962,False,M,269 Roob Tun Unit 10,Newton,Massachusetts,02462,999-73-2790
+WEST_S-ec1bd7,Brittany,,Mante,"Jan 30, 1995",False,F,391 Gutkowski Promenade Unit 2,Watertown,Massachusetts,02472,999-56-4688
+WEST_S-971cc7,Cole,,Corwin,1944-10-11,False,M,566 Hartmann Parade,Boston,Massachusetts,02114,

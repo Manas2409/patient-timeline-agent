@@ -1,0 +1,580 @@
+{
+  "cluster_id": "25",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "2015-11-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-11-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "yl est",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-11-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-11-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-11-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-11-04T13:52:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-08-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cystitis",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-11-14"
+        }
+      ]
+    },
+    {
+      "date": "2016-11-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nitrofurantoin",
+          "canonical": "nitrofurantoin macrocrystals | nitrofurantoin monohydrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-11-14T03:18:52Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "macrocrystals",
+          "canonical": "nitrofurantoin macrocrystals",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-11-14T03:18:52Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nitrofurantoin",
+          "canonical": "nitrofurantoin macrocrystals | nitrofurantoin monohydrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-11-14T03:18:52Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "monohydrate",
+          "canonical": "nitrofurantoin monohydrate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-11-14T03:18:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "AMERICAN CHINESE MEDICAL CENTER PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Risk",
+          "canonical": "Risk",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2017-10-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sin",
+          "canonical": "Viral sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-10-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-10-23T11:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-10-23T11:52:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "AMERICAN CHINESE MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-02-06"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinus",
+          "canonical": "Viral sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-06"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-02-06T05:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-02-06T05:52:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "AMERICAN CHINESE MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2020-01-04",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "AMERICAN CHINESE MEDICAL CENTER PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "higher education",
+          "canonical": "higher education",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-10-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-10-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinusitis",
+          "canonical": "Viral sinusitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2020-10-23"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "AMERICAN CHINESE MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-05-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-10-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "yl est",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-04T13:52:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-07-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-07-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-08-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-09-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-10-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-11-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-12-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2024-01-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "AMERICAN CHINESE MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BENJAMIN HEALTHCARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2024-03-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-11-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-12-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-01-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-02-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-03-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-04-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-05-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-05-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-06-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-06-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BENJAMIN HEALTHCARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2026-08-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute infective cystitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Viral sinusitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

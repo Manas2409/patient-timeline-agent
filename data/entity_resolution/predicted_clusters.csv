@@ -1,0 +1,177 @@
+CLUSTER_ID,HOSPITAL_SLUG,LOCAL_PATIENT_ID,FIRST,LAST,DOB
+0,berkshires_regional_health,BERKSH-591a1c,Luke,Hoeger,07-02-2006
+1,berkshires_regional_health,BERKSH-ee35ac,Hui,Stoltenberg,07/22/1990
+2,cape_cod_islands_health,CAPE_C-145904,Benedict,Gibson,1960-11-08
+2,north_central_mass_health,NORTH_-caa471,B.,Gibson,11-08-1960
+2,south_shore_health_alliance,SOUTH_-a1fb3a,Benedict,Gibson,11/08/1960
+3,cape_cod_islands_health,CAPE_C-7667e7,Preston,Little,03/04/1995
+4,cape_cod_islands_health,CAPE_C-5d1a1d,Rosanne,Simonis,01/18/1989
+4,south_shore_health_alliance,SOUTH_-8d7313,Rosanne,Koch,1989-01-18
+5,greater_boston_medical_center,GREATE-51bedd,Grisel,Balistreri,06-15-1948
+5,norfolk_county_health_network,NORFOL-e82565,Grisel,Balistreri,06/15/1948
+5,north_central_mass_health,NORTH_-74af15,Grisel,Balistreri,1948-06-15
+6,greater_boston_medical_center,GREATE-248ede,Arnulfo,Boyer,01/23/1995
+7,greater_boston_medical_center,GREATE-d82559,Stephine,Christiansen,2001-05-20
+7,merrimack_valley_health_network,MERRIM-80b959,Stephine,Christiansen,2001-05-20
+8,greater_boston_medical_center,GREATE-86daed,Dena,Padberg,11/28/2008
+9,greater_boston_medical_center,GREATE-bf30f8,Titus,Langosh,"Feb 12, 2008"
+10,greater_boston_medical_center,GREATE-1e24b3,R.,McLaughlin,1973-11-12
+10,merrimack_valley_health_network,MERRIM-0ac500,Raphael,McLaughlin,11/12/1973
+11,greater_boston_medical_center,GREATE-79dbbe,Grady,Davis,"Jul 29, 1981"
+11,norfolk_county_health_network,NORFOL-f201ef,G.,Davis,"Jul 29, 1981"
+12,greater_boston_medical_center,GREATE-dcb2bd,Angelina,West,"Apr 11, 1989"
+13,greater_boston_medical_center,GREATE-e8f6db,Gayle,Zboncak,"Apr 26, 2023"
+14,greater_boston_medical_center,GREATE-4f96de,Nada,Keeling,10-07-1967
+14,north_central_mass_health,NORTH_-8728e5,Nada,Keeling,"Oct 7, 1967"
+15,greater_boston_medical_center,GREATE-861f00,T.,Carroll,"Dec 23, 1979"
+15,norfolk_county_health_network,NORFOL-d8deec,Theressa,Carroll,1979-12-23
+15,south_shore_health_alliance,SOUTH_-394788,Theressa,Carroll,12/23/1979
+16,greater_boston_medical_center,GREATE-4bd2f2,Matilda,Kihn,10/07/1967
+17,greater_boston_medical_center,GREATE-87eb35,Emmanuel,Considine,1956-10-18
+17,north_central_mass_health,NORTH_-16b9d4,Emmanuel,Considine,1956-10-18
+17,south_shore_health_alliance,SOUTH_-a09a50,Emmanuel,Considine,1956-10-18
+18,greater_boston_medical_center,GREATE-ab9dcb,Angel,Mraz,06/23/1964
+18,norfolk_county_health_network,NORFOL-4b71fa,Angel,Mraz,1964-06-23
+19,greater_boston_medical_center,GREATE-36929c,Lance,Padberg,06/23/1964
+19,merrimack_valley_health_network,MERRIM-19b639,Lance,Padberg,06/23/1964
+20,greater_boston_medical_center,GREATE-a96949,Ken,Grant,"Jun 23, 1964"
+21,greater_boston_medical_center,GREATE-0304cf,Bryce,Stoltenberg,10-04-1980
+21,merrimack_valley_health_network,MERRIM-70ea72,Bryce,Stoltenberg,10/04/1980
+22,greater_boston_medical_center,GREATE-40a009,Benito,Gulgowski,1980-10-04
+22,merrimack_valley_health_network,MERRIM-83325f,Benito,Gulgowski,10/04/1980
+22,north_central_mass_health,NORTH_-53d91c,Benito,Gulgowski,1980-10-04
+23,greater_boston_medical_center,GREATE-aeb5da,Julian,Walsh,"Oct 4, 1980"
+23,merrimack_valley_health_network,MERRIM-150703,Julian,Walsh,"Oct 4, 1980"
+24,greater_boston_medical_center,GREATE-e57722,Leland,King,1930-11-06
+24,north_central_mass_health,NORTH_-9cc709,Leland,King,11-06-1930
+24,west_suburban_boston_health,WEST_S-a95d7a,Leland,King,"Nov 6, 1930"
+25,greater_boston_medical_center,GREATE-337828,B.,Gutkowski,11-10-2001
+25,west_suburban_boston_health,WEST_S-40cf7b,Babara,Gutkowski,2001-11-10
+26,greater_boston_medical_center,GREATE-8800fa,M.,Frami,1981-01-08
+26,norfolk_county_health_network,NORFOL-e876cb,Manuel,Frami,01/08/1981
+26,south_shore_health_alliance,SOUTH_-65488f,Manuel,Frami,1981-01-08
+27,greater_boston_medical_center,GREATE-93c4c4,Maximo,Pagac,2000-02-14
+27,west_suburban_boston_health,WEST_S-8b63da,Maximo,Pagac,"Feb 14, 2000"
+28,greater_boston_medical_center,GREATE-358e1d,T.,Lubowitz,12-02-1984
+29,greater_boston_medical_center,GREATE-3b5a13,Angelique,Gerhold,2006-10-30
+29,norfolk_county_health_network,NORFOL-cd0813,Angelique,Gerhold,2006-10-30
+30,greater_boston_medical_center,GREATE-3a1793,Tabatha,Ruecker,1961-07-02
+30,west_suburban_boston_health,WEST_S-5116f1,Tabatha,Ruecker,1961-07-02
+31,greater_boston_medical_center,GREATE-88cada,Thuy,VonRueden,07-22-1998
+31,merrimack_valley_health_network,MERRIM-fab223,T.,VonRueden,"Jul 22, 1998"
+32,greater_boston_medical_center,GREATE-49cebd,Nan,Bednar,11/17/1993
+33,greater_boston_medical_center,GREATE-4607ed,Cole,Corwin,1944-10-11
+33,merrimack_valley_health_network,MERRIM-bacf17,C.,Corwin,1944-10-11
+33,north_central_mass_health,NORTH_-59ed7e,C.,Corwin,10/11/1944
+33,west_suburban_boston_health,WEST_S-971cc7,Cole,Corwin,1944-10-11
+34,greater_boston_medical_center,GREATE-8b88b4,G.,Murphy,11-30-1985
+35,merrimack_valley_health_network,MERRIM-70dd97,Jayne,Bruen,02-11-2001
+35,west_suburban_boston_health,WEST_S-0d961f,Jayne,Bruen,02/11/2001
+36,merrimack_valley_health_network,MERRIM-2bdac4,Ali,Krajcik,2000-09-17
+36,metrowest_health_partners,METROW-9d727d,A.,Krajcik,2000-09-17
+37,merrimack_valley_health_network,MERRIM-078e57,Byron,Emard,12/14/2009
+37,north_shore_health_alliance,NORTH_-cd5527,Byron,Emard,12/14/2009
+38,merrimack_valley_health_network,MERRIM-f92cfe,C.,Jenkins,02/24/2019
+39,merrimack_valley_health_network,MERRIM-786ca5,Zachariah,Morar,1963-09-25
+39,metrowest_health_partners,METROW-1f35d4,Zachariah,Morar,1963-09-25
+39,north_central_mass_health,NORTH_-509b05,Zachariah,Morar,1963-09-25
+40,merrimack_valley_health_network,MERRIM-146d19,Clemencia,Gaylord,11/01/1972
+40,metrowest_health_partners,METROW-d2cc11,C.,Gaylord,11-01-1972
+41,merrimack_valley_health_network,MERRIM-ce076c,Christiana,O'Kon,12/17/1990
+42,merrimack_valley_health_network,MERRIM-6b9d10,Mario,VonRueden,01-14-1990
+43,merrimack_valley_health_network,MERRIM-c498d3,Francine,Hyatt,"Oct 8, 1984"
+43,metrowest_health_partners,METROW-2549bd,Francine,Hyatt,"Oct 8, 1984"
+44,merrimack_valley_health_network,MERRIM-8b1e3e,Nilda,Wiza,10-08-1984
+44,metrowest_health_partners,METROW-f81d19,N.,Wiza,10-08-1984
+45,merrimack_valley_health_network,MERRIM-ac192b,Tonisha,Grady,03/08/2009
+46,merrimack_valley_health_network,MERRIM-b32e00,J.,Abbott,1999-11-07
+46,metrowest_health_partners,METROW-0fe329,J.,Abbott,11/07/1999
+47,merrimack_valley_health_network,MERRIM-1b72a6,R.,Monahan,12/18/1961
+47,metrowest_health_partners,METROW-f498eb,Rogelio,Monahan,1961-12-18
+47,north_central_mass_health,NORTH_-7f12e2,Rogelio,Monahan,"Dec 18, 1961"
+48,merrimack_valley_health_network,MERRIM-c4f683,Marylee,Fisher,2011-10-16
+49,merrimack_valley_health_network,MERRIM-7383c4,Maurice,Auer,03-25-1973
+49,north_central_mass_health,NORTH_-c315c6,Maurice,Auer,1973-03-25
+49,north_shore_health_alliance,NORTH_-3f4705,Maurice,Auer,03-25-1973
+50,metrowest_health_partners,METROW-c247fb,Josef,Champlin,06/15/1986
+50,worcester_regional_medical_center,WORCES-106f71,Josef,Champlin,"Jun 15, 1986"
+51,metrowest_health_partners,METROW-a11d75,F.,Bechtelar,"Nov 5, 2017"
+52,metrowest_health_partners,METROW-61630f,Bebe,Larkin,"Nov 5, 1964"
+52,north_central_mass_health,NORTH_-7fe6a1,Bebe,Simonis,"Nov 5, 1964"
+52,west_suburban_boston_health,WEST_S-3263d3,Bebe,Simonis,"Nov 5, 1964"
+53,metrowest_health_partners,METROW-1bc0a3,W.,Haley,10-09-1998
+53,worcester_regional_medical_center,WORCES-1a6cdb,W.,Haley,10-09-1998
+54,metrowest_health_partners,METROW-c414c1,M.,Rendón,"Jun 21, 1985"
+54,worcester_regional_medical_center,WORCES-c121ad,Micaela,Rendón,06-12-1985
+55,metrowest_health_partners,METROW-c330ba,Tony,Schoen,11/30/1985
+56,metrowest_health_partners,METROW-d2f872,Barbra,Schaefer,02/11/1998
+56,north_central_mass_health,NORTH_-1cbba8,Barbra,Conn,02-11-1998
+57,norfolk_county_health_network,NORFOL-961b76,Esperanza,Auer,07-19-2015
+57,south_shore_health_alliance,SOUTH_-876f47,Esperanza,Auer,"Jul 19, 2015"
+57,southcoast_health,SOUTHC-ac561e,Esperanza,Auer,2015-07-19
+58,norfolk_county_health_network,NORFOL-23389d,E.,Waters,02-06-2015
+58,south_shore_health_alliance,SOUTH_-35094a,E.,Waters,02-06-2015
+58,southcoast_health,SOUTHC-9ae386,Elodia,Waters,2015-02-06
+59,norfolk_county_health_network,NORFOL-d010b2,Magali,Abbott,07/02/2004
+59,southcoast_health,SOUTHC-5aa69b,Magali,Abbott,2004-07-02
+60,norfolk_county_health_network,NORFOL-a75855,Reynalda,Leuschke,"Jun 28, 2007"
+60,south_shore_health_alliance,SOUTH_-29ef9d,Reynalda,Leuschke,2007-06-28
+60,southcoast_health,SOUTHC-ec63bd,R.,Leuschke,2007-06-28
+61,norfolk_county_health_network,NORFOL-c0283b,Marci,Murphy,01/05/2014
+62,norfolk_county_health_network,NORFOL-8a483d,Audra,Maggio,"Oct 3, 2019"
+63,norfolk_county_health_network,NORFOL-d01758,Barton,Upton,12/28/2004
+64,norfolk_county_health_network,NORFOL-9c5acc,Carmelo,Kirlin,1981-01-08
+65,norfolk_county_health_network,NORFOL-951ff0,Enrique,Rojas,12/14/1984
+66,norfolk_county_health_network,NORFOL-e26be4,Brady,Olson,01/13/1980
+66,south_shore_health_alliance,SOUTH_-0a9f25,Brady,Olson,1980-01-13
+67,norfolk_county_health_network,NORFOL-45e46b,Lou,Little,02-18-1990
+68,norfolk_county_health_network,NORFOL-92880a,M.,Hettinger,09-21-1980
+68,south_shore_health_alliance,SOUTH_-04256a,Mathilde,Hettinger,1980-09-21
+69,north_central_mass_health,NORTH_-98cdc1,Darren,Rogahn,11/06/1979
+70,north_central_mass_health,NORTH_-6c70d0,Armand,McGlynn,11/06/1979
+71,north_central_mass_health,NORTH_-a98c79,Rick,Kulas,1954-10-05
+71,north_shore_health_alliance,NORTH_-238b1d,Rick,Kulas,10-05-1954
+72,north_central_mass_health,NORTH_-a0b98d,Shaun,Cormier,05-12-1953
+72,west_suburban_boston_health,WEST_S-64e1c9,Shaun,Cormier,"May 21, 1953"
+73,north_central_mass_health,NORTH_-f24575,J.,Cormier,1981-01-20
+74,north_central_mass_health,NORTH_-da7dc3,Aurelio,Eichmann,"Apr 4, 1942"
+74,south_shore_health_alliance,SOUTH_-e66f8b,Aurelio,Eichmann,04/04/1942
+74,southcoast_health,SOUTHC-ede5b7,Aurelio,Eichmann,04-04-1942
+75,north_central_mass_health,NORTH_-0dce8b,Jewell,Hammes,2012-08-12
+76,north_central_mass_health,NORTH_-6ec9f7,Boyce,Nolan,01-13-1980
+76,pioneer_valley_health_network,PIONEE-629a68,Boyce,Nolan,1980-01-13
+77,north_central_mass_health,NORTH_-f51a07,Ellis,Larson,08-20-1969
+77,west_suburban_boston_health,WEST_S-40a7b4,Ellis,Larson,1969-08-20
+78,north_central_mass_health,NORTH_-266ee7,B.,Klein,1963-03-16
+78,north_shore_health_alliance,NORTH_-6a632d,B.,Klein,03-16-1963
+79,north_central_mass_health,NORTH_-7cca4c,Michale,Ankunding,05/09/1962
+79,west_suburban_boston_health,WEST_S-956ee0,Michale,Ankunding,05-09-1962
+80,north_shore_health_alliance,NORTH_-879e5f,B.,Gutkowski,05/13/1995
+81,north_shore_health_alliance,NORTH_-889d4f,Carman,Bergnaum,1988-12-25
+82,north_shore_health_alliance,NORTH_-c76981,Manuela,Montoya,2004-10-12
+83,north_shore_health_alliance,NORTH_-7c56c1,Pat,Rutherford,10-22-1975
+84,pioneer_valley_health_network,PIONEE-2c833f,Guillermo,VonRueden,"Jan 16, 1978"
+84,worcester_regional_medical_center,WORCES-390062,Guillermo,VonRueden,01-16-1978
+85,pioneer_valley_health_network,PIONEE-004af5,Germán,Collado,03-10-2018
+86,pioneer_valley_health_network,PIONEE-13d3b6,Dallas,Graham,01/02/2024
+87,pioneer_valley_health_network,PIONEE-a5051b,D.,Grimes,2017-03-25
+88,pioneer_valley_health_network,PIONEE-dd32dc,Marquitta,Hickle,10-18-2010
+89,pioneer_valley_health_network,PIONEE-fbc37b,Martha,Wiegand,"Mar 25, 2023"
+90,pioneer_valley_health_network,PIONEE-cb82ef,Stanton,Schimmel,05-27-2026
+91,pioneer_valley_health_network,PIONEE-a22169,Basilia,Hagenes,1968-09-24
+92,south_shore_health_alliance,SOUTH_-f82c25,John,D'Amore,1994-05-08
+93,south_shore_health_alliance,SOUTH_-977c95,Booker,Jakubowski,2020-08-14
+94,southcoast_health,SOUTHC-748765,S.,Zemlak,2015-01-05
+95,southcoast_health,SOUTHC-b970b5,Nathaniel,Kuhic,02/22/1964
+96,southcoast_health,SOUTHC-a9fb35,Dudley,Torphy,"Mar 25, 1960"
+97,southcoast_health,SOUTHC-932357,H.,Spinka,2018-05-07
+98,southcoast_health,SOUTHC-3375af,Danny,Jacobs,03/25/1960
+99,west_suburban_boston_health,WEST_S-db5bad,Susan,Hegmann,"Apr 25, 1969"
+100,west_suburban_boston_health,WEST_S-2e8bad,Merlene,Thompson,1972-09-11
+101,west_suburban_boston_health,WEST_S-41bc86,Alexandra,Mosciski,05/25/1981
+102,west_suburban_boston_health,WEST_S-c2c0e8,Lamar,Beer,"Feb 16, 1971"
+103,west_suburban_boston_health,WEST_S-ec1bd7,Brittany,Mante,"Jan 30, 1995"
+104,worcester_regional_medical_center,WORCES-3330be,Brock,Lockman,12/06/1991
+105,worcester_regional_medical_center,WORCES-edee44,Eleonor,Mosciski,"Oct 1, 2006"
+106,worcester_regional_medical_center,WORCES-c3dcd8,Micah,Hirthe,05/27/1990
+107,worcester_regional_medical_center,WORCES-992abe,Madalyn,Crist,12-29-1994

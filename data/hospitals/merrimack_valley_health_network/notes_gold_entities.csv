@@ -1,0 +1,1285 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+8b9df7af-24b3-66ee-4f78-03cdb6ff5bba,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-4f78-03cdb6ff5bba,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-d48d-a93131227737,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-4471-11430487e72a,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-b97e-1c176cec62b8,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-9d06-83dc92f9a5ef,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-9cc4-2984f0ec47fe,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-1167-3b1eca5a2d7e,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-78c2-50cf19fce820,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-28ef-815aae24040e,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-478d-13b9c49a3711,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-06bd-475d45a43175,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-7fad-869b4430a8aa,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-b5e3-425f8288f353,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-b5e3-425f8288f353,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-91d1-5f83576c9c1f,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-587c-25de867f4519,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-8585-435498f3c0f5,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-b42c-bbf046bc0ab8,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-6e92-99e3acd14bac,MERRIM-70dd97,DIAGNOSIS,a sinus infection
+8b9df7af-24b3-66ee-6e92-99e3acd14bac,MERRIM-70dd97,DIAGNOSIS,viral sinusitis
+8b9df7af-24b3-66ee-31b1-033f231db143,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-4272-0881a1395d49,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-b19d-4331a0dc2a85,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-7a57-9152a0fd284b,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-987c-a47acb8b28a9,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-8975-1ef03abfc74d,MERRIM-70dd97,DIAGNOSIS,acute infective cystitis
+8b9df7af-24b3-66ee-5ca7-72a6a1f9f6bc,MERRIM-70dd97,DIAGNOSIS,acute infective cystitis
+8b9df7af-24b3-66ee-5ca7-72a6a1f9f6bc,MERRIM-70dd97,MEDICATION,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet
+8b9df7af-24b3-66ee-4ddb-21d867a9468e,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-4ddb-21d867a9468e,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-5d36-10b5aa04c135,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-c09b-0032c401e2c2,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-c09b-0032c401e2c2,MERRIM-70dd97,DIAGNOSIS,miscarriage in second trimester
+8b9df7af-24b3-66ee-c09b-0032c401e2c2,MERRIM-70dd97,DIAGNOSIS,congenital uterine anomaly
+8b9df7af-24b3-66ee-55a2-0fb29e44e440,MERRIM-70dd97,DIAGNOSIS,congenital uterine anomaly
+8b9df7af-24b3-66ee-55a2-0fb29e44e440,MERRIM-70dd97,DIAGNOSIS,past pregnancy history of miscarriage
+8b9df7af-24b3-66ee-276d-b0d31e4b09ba,MERRIM-70dd97,DIAGNOSIS,acute bronchitis
+8b9df7af-24b3-66ee-276d-b0d31e4b09ba,MERRIM-70dd97,DIAGNOSIS,a chest cold
+8b9df7af-24b3-66ee-276d-b0d31e4b09ba,MERRIM-70dd97,MEDICATION,Acetaminophen 325 MG Oral Tablet
+8b9df7af-24b3-66ee-f894-82c17d1ea6db,MERRIM-70dd97,DIAGNOSIS,viral sinusitis
+8b9df7af-24b3-66ee-f894-82c17d1ea6db,MERRIM-70dd97,DIAGNOSIS,viral sinusitis
+8b9df7af-24b3-66ee-29f0-922778478d6d,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-29f0-922778478d6d,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-9dcb-d8741bb2695c,MERRIM-70dd97,DIAGNOSIS,acute viral pharyngitis
+8b9df7af-24b3-66ee-9dcb-d8741bb2695c,MERRIM-70dd97,DIAGNOSIS,a sore throat
+8b9df7af-24b3-66ee-185a-88d5f175c333,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-9804-e0e8b3da4793,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-6c30-b58c004451a0,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-1210-f68874be88a5,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-aaa8-477cddb35e9b,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-17bc-5e79e81c237e,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-b7c8-f014ff07652b,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-eb41-51c775e7f964,MERRIM-70dd97,DIAGNOSIS,sprain (morphologic abnormality)
+8b9df7af-24b3-66ee-eb41-51c775e7f964,MERRIM-70dd97,DIAGNOSIS,sprain (morphologic abnormality)
+8b9df7af-24b3-66ee-eb41-51c775e7f964,MERRIM-70dd97,DIAGNOSIS,sprain of ankle
+8b9df7af-24b3-66ee-eb41-51c775e7f964,MERRIM-70dd97,MEDICATION,Acetaminophen 325 MG Oral Tablet
+8b9df7af-24b3-66ee-4651-4c7a9f177207,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-17a0-a4332e1be12b,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-17a0-a4332e1be12b,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-54c5-e64e1a58f927,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-2790-1781792485b4,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-7598-ee5379ec466e,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-7598-ee5379ec466e,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-d35e-86dac93d3bc7,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-d2b9-bc48cbb4ab75,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-1ebd-36cda2ea80f3,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-1ebd-36cda2ea80f3,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-3bd8-99c55bc704a1,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-0699-652a802bf405,MERRIM-70dd97,DIAGNOSIS,normal pregnancy
+8b9df7af-24b3-66ee-642b-5775fe565710,MERRIM-70dd97,MEDICATION,1 ML medroxyprogesterone acetate 150 MG/ML Injection
+8b9df7af-24b3-66ee-b703-e162169e58c2,MERRIM-70dd97,DIAGNOSIS,gum inflammation
+8b9df7af-24b3-66ee-b703-e162169e58c2,MERRIM-70dd97,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+9389eec9-a5c3-a9e1-668d-f126350322a4,MERRIM-80b959,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+9389eec9-a5c3-a9e1-ecd6-a456432c56f2,MERRIM-80b959,DIAGNOSIS,gingivitis
+9389eec9-a5c3-a9e1-ecd6-a456432c56f2,MERRIM-80b959,DIAGNOSIS,gum disease
+9389eec9-a5c3-a9e1-ecd6-a456432c56f2,MERRIM-80b959,DIAGNOSIS,primary dental caries
+9389eec9-a5c3-a9e1-ecd6-a456432c56f2,MERRIM-80b959,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+9389eec9-a5c3-a9e1-419c-23e600484574,MERRIM-80b959,DIAGNOSIS,acute viral pharyngitis
+9389eec9-a5c3-a9e1-419c-23e600484574,MERRIM-80b959,DIAGNOSIS,a sore throat
+9389eec9-a5c3-a9e1-0136-291f289128f9,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-0136-291f289128f9,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-0136-291f289128f9,MERRIM-80b959,DIAGNOSIS,miscarriage in first trimester
+9389eec9-a5c3-a9e1-0136-291f289128f9,MERRIM-80b959,DIAGNOSIS,blighted ovum
+9389eec9-a5c3-a9e1-f46c-43bae3357f23,MERRIM-80b959,DIAGNOSIS,blighted ovum
+9389eec9-a5c3-a9e1-f46c-43bae3357f23,MERRIM-80b959,DIAGNOSIS,past pregnancy history of miscarriage
+9389eec9-a5c3-a9e1-aac8-9bb64ab88101,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-aac8-9bb64ab88101,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-ea30-1a945c5da86a,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-ea30-1a945c5da86a,MERRIM-80b959,DIAGNOSIS,acute infective cystitis
+9389eec9-a5c3-a9e1-593f-97645f5c913b,MERRIM-80b959,DIAGNOSIS,acute infective cystitis
+9389eec9-a5c3-a9e1-593f-97645f5c913b,MERRIM-80b959,MEDICATION,nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule
+9389eec9-a5c3-a9e1-2bfa-f0581f00b317,MERRIM-80b959,DIAGNOSIS,acute infective cystitis
+9389eec9-a5c3-a9e1-0adb-1e857aeec7f4,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-b529-e6c8be475edb,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-c45c-e7bc49418e1a,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-a483-8fc335f38902,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-53ee-50502d6395bf,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-a2d6-1fc55e98e868,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-10af-ba718d11f940,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-ce33-16c8b32db101,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-df33-33f0c4999786,MERRIM-80b959,DIAGNOSIS,chronic pain
+9389eec9-a5c3-a9e1-df33-33f0c4999786,MERRIM-80b959,DIAGNOSIS,ongoing pain
+9389eec9-a5c3-a9e1-df33-33f0c4999786,MERRIM-80b959,DIAGNOSIS,chronic low back pain
+9389eec9-a5c3-a9e1-df33-33f0c4999786,MERRIM-80b959,DIAGNOSIS,chronic neck pain
+9389eec9-a5c3-a9e1-df33-33f0c4999786,MERRIM-80b959,MEDICATION,tramadol hydrochloride 50 MG Oral Tablet
+9389eec9-a5c3-a9e1-dd36-fed085906cdd,MERRIM-80b959,DIAGNOSIS,fractured dental filling
+9389eec9-a5c3-a9e1-dd36-fed085906cdd,MERRIM-80b959,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+9389eec9-a5c3-a9e1-207f-348a088b07b1,MERRIM-80b959,DIAGNOSIS,chronic pain
+9389eec9-a5c3-a9e1-207f-348a088b07b1,MERRIM-80b959,MEDICATION,72 HR Fentanyl 0.025 MG/HR Transdermal System
+9389eec9-a5c3-a9e1-7766-91bdcb5af10a,MERRIM-80b959,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+9389eec9-a5c3-a9e1-d2df-0933372e036e,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-d2df-0933372e036e,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-9f6e-85e7a4fca6c6,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-c8d2-45eca7c8e2ce,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-ff78-d12fdb4dcc7a,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-ff78-d12fdb4dcc7a,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-2492-62dd51004cc1,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-13e8-b5956e8cc3f3,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-b70a-8248bac7942a,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-d085-203734e9ad90,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-3514-e54cc93212dc,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-b659-22980fe96038,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-b46d-d83859776de2,MERRIM-80b959,DIAGNOSIS,normal pregnancy
+9389eec9-a5c3-a9e1-1943-d5cf752d1ace,MERRIM-80b959,DIAGNOSIS,sinusitis
+9389eec9-a5c3-a9e1-1943-d5cf752d1ace,MERRIM-80b959,DIAGNOSIS,sinusitis
+9389eec9-a5c3-a9e1-f0db-de49eab962b0,MERRIM-80b959,DIAGNOSIS,sinusitis
+9389eec9-a5c3-a9e1-f0db-de49eab962b0,MERRIM-80b959,DIAGNOSIS,chronic sinusitis
+9389eec9-a5c3-a9e1-d91f-3f6833946a79,MERRIM-80b959,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+9389eec9-a5c3-a9e1-1e69-a4c845cbc53b,MERRIM-80b959,MEDICATION,72 HR Fentanyl 0.025 MG/HR Transdermal System
+9389eec9-a5c3-a9e1-1e69-a4c845cbc53b,MERRIM-80b959,MEDICATION,tramadol hydrochloride 50 MG Oral Tablet
+9389eec9-a5c3-a9e1-0e1b-a08e2a7abfdc,MERRIM-80b959,DIAGNOSIS,gum disease
+9389eec9-a5c3-a9e1-d053-009e527fe5f9,MERRIM-80b959,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+9389eec9-a5c3-a9e1-97ed-8c4784b88c75,MERRIM-80b959,DIAGNOSIS,gingivitis
+9389eec9-a5c3-a9e1-99ef-263786ec63cd,MERRIM-80b959,DIAGNOSIS,viral sinusitis
+9389eec9-a5c3-a9e1-99ef-263786ec63cd,MERRIM-80b959,DIAGNOSIS,a sinus infection
+9389eec9-a5c3-a9e1-99ef-263786ec63cd,MERRIM-80b959,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+6095681c-dfc1-8f20-73e3-eff033cd60c8,MERRIM-2bdac4,DIAGNOSIS,a sore throat
+6095681c-dfc1-8f20-73e3-eff033cd60c8,MERRIM-2bdac4,DIAGNOSIS,a sore throat
+6095681c-dfc1-8f20-c91b-9a56cc8db074,MERRIM-2bdac4,DIAGNOSIS,a chest cold
+6095681c-dfc1-8f20-c91b-9a56cc8db074,MERRIM-2bdac4,DIAGNOSIS,a chest cold
+6095681c-dfc1-8f20-c91b-9a56cc8db074,MERRIM-2bdac4,MEDICATION,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+6095681c-dfc1-8f20-e0a1-b2f2610e05e1,MERRIM-2bdac4,DIAGNOSIS,gum inflammation
+6095681c-dfc1-8f20-e0a1-b2f2610e05e1,MERRIM-2bdac4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+6095681c-dfc1-8f20-3af5-988ca0c1cd41,MERRIM-2bdac4,DIAGNOSIS,gingivitis
+6095681c-dfc1-8f20-3af5-988ca0c1cd41,MERRIM-2bdac4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+6095681c-dfc1-8f20-e1ad-a730b1fee016,MERRIM-2bdac4,DIAGNOSIS,gum inflammation
+6095681c-dfc1-8f20-929e-34c3b2480375,MERRIM-2bdac4,DIAGNOSIS,acute viral pharyngitis
+6095681c-dfc1-8f20-929e-34c3b2480375,MERRIM-2bdac4,DIAGNOSIS,a sore throat
+6095681c-dfc1-8f20-6d4c-7a24596ee746,MERRIM-2bdac4,DIAGNOSIS,primary dental caries
+6095681c-dfc1-8f20-6d4c-7a24596ee746,MERRIM-2bdac4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+6095681c-dfc1-8f20-1af4-acd8852752c0,MERRIM-2bdac4,DIAGNOSIS,gingivitis
+6095681c-dfc1-8f20-7409-6f37c8d4beaa,MERRIM-2bdac4,DIAGNOSIS,a chest cold
+6095681c-dfc1-8f20-7409-6f37c8d4beaa,MERRIM-2bdac4,DIAGNOSIS,acute bronchitis
+6095681c-dfc1-8f20-7409-6f37c8d4beaa,MERRIM-2bdac4,MEDICATION,Acetaminophen 325 MG Oral Tablet
+6095681c-dfc1-8f20-db8f-ef7286e1134f,MERRIM-2bdac4,DIAGNOSIS,gum inflammation
+6095681c-dfc1-8f20-2844-2ff659ea9ce0,MERRIM-2bdac4,DIAGNOSIS,streptococcal sore throat
+6095681c-dfc1-8f20-2844-2ff659ea9ce0,MERRIM-2bdac4,DIAGNOSIS,streptococcal sore throat
+6095681c-dfc1-8f20-2844-2ff659ea9ce0,MERRIM-2bdac4,MEDICATION,Penicillin V Potassium 500 MG Oral Tablet
+6095681c-dfc1-8f20-076e-50b9f94922d5,MERRIM-2bdac4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+8c5b83b2-737e-46cf-80d3-d09fe21dd361,MERRIM-0ac500,DIAGNOSIS,prediabetes
+8c5b83b2-737e-46cf-80d3-d09fe21dd361,MERRIM-0ac500,DIAGNOSIS,anemia
+8c5b83b2-737e-46cf-f9a0-bc65823d2da3,MERRIM-0ac500,DIAGNOSIS,significant weight gain
+8c5b83b2-737e-46cf-a779-bae98fa2653a,MERRIM-0ac500,DIAGNOSIS,gingivitis
+83093df7-a1e4-b827-be3e-2eea7c39e98b,MERRIM-078e57,DIAGNOSIS,streptococcal sore throat
+83093df7-a1e4-b827-be3e-2eea7c39e98b,MERRIM-078e57,DIAGNOSIS,streptococcal sore throat
+83093df7-a1e4-b827-be3e-2eea7c39e98b,MERRIM-078e57,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+83093df7-a1e4-b827-256c-f242238075e0,MERRIM-078e57,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+83093df7-a1e4-b827-0b1f-610e8188d262,MERRIM-078e57,DIAGNOSIS,acute bronchitis
+83093df7-a1e4-b827-0b1f-610e8188d262,MERRIM-078e57,DIAGNOSIS,a chest cold
+83093df7-a1e4-b827-0b1f-610e8188d262,MERRIM-078e57,MEDICATION,Acetaminophen 325 MG Oral Tablet
+83093df7-a1e4-b827-e83b-9caf2552b87e,MERRIM-078e57,DIAGNOSIS,gum inflammation
+83093df7-a1e4-b827-2ad7-6c084423a6a4,MERRIM-078e57,DIAGNOSIS,gingivitis
+83093df7-a1e4-b827-2ad7-6c084423a6a4,MERRIM-078e57,DIAGNOSIS,gum disease
+83093df7-a1e4-b827-2ad7-6c084423a6a4,MERRIM-078e57,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+83093df7-a1e4-b827-3396-bdd8829af079,MERRIM-078e57,DIAGNOSIS,acute bronchitis
+83093df7-a1e4-b827-3396-bdd8829af079,MERRIM-078e57,DIAGNOSIS,acute bronchitis
+83093df7-a1e4-b827-3396-bdd8829af079,MERRIM-078e57,MEDICATION,Acetaminophen 325 MG Oral Tablet
+83093df7-a1e4-b827-3e76-9fa984311901,MERRIM-078e57,DIAGNOSIS,acute viral pharyngitis
+83093df7-a1e4-b827-3e76-9fa984311901,MERRIM-078e57,DIAGNOSIS,a sore throat
+83093df7-a1e4-b827-3e76-9fa984311901,MERRIM-078e57,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+83093df7-a1e4-b827-cc95-06075c087429,MERRIM-078e57,DIAGNOSIS,gingivitis
+83093df7-a1e4-b827-cc95-06075c087429,MERRIM-078e57,DIAGNOSIS,gingival disease
+83093df7-a1e4-b827-cc95-06075c087429,MERRIM-078e57,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+83093df7-a1e4-b827-83c4-019220f36dde,MERRIM-078e57,DIAGNOSIS,a sinus infection
+83093df7-a1e4-b827-83c4-019220f36dde,MERRIM-078e57,DIAGNOSIS,a sinus infection
+83093df7-a1e4-b827-83c4-019220f36dde,MERRIM-078e57,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+83093df7-a1e4-b827-9a47-f31c91185d52,MERRIM-078e57,DIAGNOSIS,gum inflammation
+45f3a7b6-d706-f174-72f7-f5282fdbe809,MERRIM-f92cfe,DIAGNOSIS,acute bronchitis
+45f3a7b6-d706-f174-72f7-f5282fdbe809,MERRIM-f92cfe,DIAGNOSIS,a chest cold
+45f3a7b6-d706-f174-72f7-f5282fdbe809,MERRIM-f92cfe,MEDICATION,Acetaminophen 325 MG Oral Tablet
+45f3a7b6-d706-f174-763f-3c0fdd7cc489,MERRIM-f92cfe,DIAGNOSIS,a middle-ear infection
+45f3a7b6-d706-f174-763f-3c0fdd7cc489,MERRIM-f92cfe,DIAGNOSIS,otitis media
+45f3a7b6-d706-f174-763f-3c0fdd7cc489,MERRIM-f92cfe,MEDICATION,Amoxicillin 500 MG Oral Tablet
+45f3a7b6-d706-f174-763f-3c0fdd7cc489,MERRIM-f92cfe,MEDICATION,Ibuprofen 100 MG Oral Tablet
+45f3a7b6-d706-f174-4147-32cd15559da3,MERRIM-f92cfe,DIAGNOSIS,shellfish
+45f3a7b6-d706-f174-13ee-73516a1139ab,MERRIM-f92cfe,DIAGNOSIS,allergic disposition
+45f3a7b6-d706-f174-13ee-73516a1139ab,MERRIM-f92cfe,MEDICATION,Fexofenadine hydrochloride 30 MG Oral Tablet
+45f3a7b6-d706-f174-13ee-73516a1139ab,MERRIM-f92cfe,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+45f3a7b6-d706-f174-13ee-73516a1139ab,MERRIM-f92cfe,ALLERGY,Shellfish
+45f3a7b6-d706-f174-1ce3-a19c06a5d62e,MERRIM-f92cfe,DIAGNOSIS,seasonal allergic rhinitis
+45f3a7b6-d706-f174-1ce3-a19c06a5d62e,MERRIM-f92cfe,DIAGNOSIS,seasonal allergic rhinitis
+45f3a7b6-d706-f174-6f47-6e914e4787af,MERRIM-f92cfe,DIAGNOSIS,a middle-ear infection
+45f3a7b6-d706-f174-6f47-6e914e4787af,MERRIM-f92cfe,DIAGNOSIS,otitis media
+45f3a7b6-d706-f174-6f47-6e914e4787af,MERRIM-f92cfe,MEDICATION,Ibuprofen 100 MG Oral Tablet
+45f3a7b6-d706-f174-0603-792f0d9a8d8a,MERRIM-f92cfe,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+45f3a7b6-d706-f174-e63a-3a68946df226,MERRIM-f92cfe,DIAGNOSIS,a middle-ear infection
+45f3a7b6-d706-f174-e63a-3a68946df226,MERRIM-f92cfe,DIAGNOSIS,otitis media
+45f3a7b6-d706-f174-e63a-3a68946df226,MERRIM-f92cfe,MEDICATION,Azithromycin 250 MG Oral Capsule
+45f3a7b6-d706-f174-e63a-3a68946df226,MERRIM-f92cfe,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+45f3a7b6-d706-f174-3c92-7d580fae5fdd,MERRIM-f92cfe,DIAGNOSIS,shellfish
+029c95e2-d252-d8d3-365e-7cbeb2bc3a13,MERRIM-146d19,DIAGNOSIS,tubal pregnancy
+029c95e2-d252-d8d3-365e-7cbeb2bc3a13,MERRIM-146d19,DIAGNOSIS,past pregnancy history of miscarriage
+029c95e2-d252-d8d3-e8d7-3b8dd705a8c1,MERRIM-146d19,DIAGNOSIS,prediabetes
+029c95e2-d252-d8d3-e8d7-3b8dd705a8c1,MERRIM-146d19,DIAGNOSIS,a low blood count
+029c95e2-d252-d8d3-4ff0-660f796f4167,MERRIM-146d19,DIAGNOSIS,chronic pain
+029c95e2-d252-d8d3-4ff0-660f796f4167,MERRIM-146d19,DIAGNOSIS,chronic pain
+029c95e2-d252-d8d3-4ff0-660f796f4167,MERRIM-146d19,DIAGNOSIS,chronic neck pain
+029c95e2-d252-d8d3-0ea1-d3cfe1877d57,MERRIM-146d19,DIAGNOSIS,significant weight gain
+029c95e2-d252-d8d3-d052-728547a16a2e,MERRIM-146d19,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+029c95e2-d252-d8d3-29d0-7ab78aa260c5,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-a1a7-9788a0d941ba,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-950f-59c4ad245bfb,MERRIM-146d19,DIAGNOSIS,viral sinusitis
+029c95e2-d252-d8d3-950f-59c4ad245bfb,MERRIM-146d19,DIAGNOSIS,viral sinusitis
+029c95e2-d252-d8d3-9581-d543de5842e3,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-684e-ca613f35f30b,MERRIM-146d19,MEDICATION,1 ML medroxyprogesterone acetate 150 MG/ML Injection
+029c95e2-d252-d8d3-dc44-e219c71e0fa9,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-e618-02c22c934526,MERRIM-146d19,MEDICATION,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]
+029c95e2-d252-d8d3-afe9-2e2b243fcaec,MERRIM-146d19,DIAGNOSIS,gingivitis
+029c95e2-d252-d8d3-afe9-2e2b243fcaec,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-1867-23ba6f57c827,MERRIM-146d19,DIAGNOSIS,gingivitis
+029c95e2-d252-d8d3-9d7c-5e6910dbe500,MERRIM-146d19,DIAGNOSIS,normal pregnancy
+029c95e2-d252-d8d3-9d7c-5e6910dbe500,MERRIM-146d19,DIAGNOSIS,normal pregnancy
+029c95e2-d252-d8d3-9d7c-5e6910dbe500,MERRIM-146d19,DIAGNOSIS,miscarriage in first trimester
+029c95e2-d252-d8d3-9d7c-5e6910dbe500,MERRIM-146d19,DIAGNOSIS,complete miscarriage
+029c95e2-d252-d8d3-3f58-eddec46c2c11,MERRIM-146d19,DIAGNOSIS,complete miscarriage
+029c95e2-d252-d8d3-fa2d-3964f9bf06de,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-9472-1fd467ae4731,MERRIM-146d19,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+029c95e2-d252-d8d3-0375-0f4e0e0454d7,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-0c9e-f3e260c23109,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-4244-928d0b83f368,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-144c-7701bcef10d7,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-346b-5730a1651d44,MERRIM-146d19,DIAGNOSIS,gum disease
+029c95e2-d252-d8d3-346b-5730a1651d44,MERRIM-146d19,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+029c95e2-d252-d8d3-1b68-517f3db0add4,MERRIM-146d19,DIAGNOSIS,epidermal burn of skin
+029c95e2-d252-d8d3-6751-1baf80492b3a,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-1d9c-3d2d09747dd5,MERRIM-146d19,DIAGNOSIS,epidermal burn of skin
+029c95e2-d252-d8d3-2abf-0c7210e8023a,MERRIM-146d19,DIAGNOSIS,osteoarthritis of hip
+029c95e2-d252-d8d3-2abf-0c7210e8023a,MERRIM-146d19,DIAGNOSIS,osteoarthritis of hip
+029c95e2-d252-d8d3-2abf-0c7210e8023a,MERRIM-146d19,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+029c95e2-d252-d8d3-94ad-3388053bf3b4,MERRIM-146d19,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+029c95e2-d252-d8d3-c94d-14ea38271057,MERRIM-146d19,DIAGNOSIS,primary dental caries
+029c95e2-d252-d8d3-61c8-59c88a5eee15,MERRIM-146d19,DIAGNOSIS,a sinus infection
+029c95e2-d252-d8d3-61c8-59c88a5eee15,MERRIM-146d19,DIAGNOSIS,a sinus infection
+e170fdcd-8830-89c4-13a1-942849671b05,MERRIM-ce076c,DIAGNOSIS,prediabetes
+e170fdcd-8830-89c4-13a1-942849671b05,MERRIM-ce076c,DIAGNOSIS,a low blood count
+e170fdcd-8830-89c4-500c-39ee420a9be8,MERRIM-ce076c,DIAGNOSIS,a low blood count
+e170fdcd-8830-89c4-500c-39ee420a9be8,MERRIM-ce076c,MEDICATION,ferrous sulfate 325 MG Oral Tablet
+e170fdcd-8830-89c4-500c-39ee420a9be8,MERRIM-ce076c,MEDICATION,Vitamin B12 5 MG/ML Injectable Solution
+e170fdcd-8830-89c4-2e3b-005b54e0d260,MERRIM-ce076c,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+e170fdcd-8830-89c4-fe09-c25c9ba3997a,MERRIM-ce076c,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+e170fdcd-8830-89c4-f2e5-9620e0b2017d,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-f2e5-9620e0b2017d,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-5dd0-28f5061b3573,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-dc3e-df5839ecc35d,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-b95e-ca491774cf5d,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-89de-a8dc7cdaf59c,MERRIM-ce076c,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+e170fdcd-8830-89c4-6b80-e82ea964a1ed,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-95c0-2110538e7355,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-21a3-eb8def4d6e83,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-d689-2970c864a23e,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-b2e0-ea1770cff68f,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-6057-8465f584909a,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-aee1-3efd4de8d9a2,MERRIM-ce076c,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+e170fdcd-8830-89c4-8bb7-d542ce96c64d,MERRIM-ce076c,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+e170fdcd-8830-89c4-4ea2-ac7930ba5f66,MERRIM-ce076c,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+e170fdcd-8830-89c4-7b17-28a759583522,MERRIM-ce076c,DIAGNOSIS,gingivitis
+e170fdcd-8830-89c4-9120-6ed7cd497e8a,MERRIM-ce076c,DIAGNOSIS,gum inflammation
+e170fdcd-8830-89c4-dd94-c2b563fc01de,MERRIM-ce076c,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+e170fdcd-8830-89c4-9ea9-0bc183f2a9f1,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-9ea9-0bc183f2a9f1,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-4111-49f1d96e3d36,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-e136-852e9738b2d4,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-a01f-5ee7bd779688,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-3f13-b474e9c7c876,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-378a-2a1739aca245,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-6671-f76ad1e24668,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-1ac7-008920c45254,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-7c57-3702ffc678fb,MERRIM-ce076c,DIAGNOSIS,normal pregnancy
+e170fdcd-8830-89c4-caef-dd14d84dee74,MERRIM-ce076c,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+e170fdcd-8830-89c4-94ae-234355fecdec,MERRIM-ce076c,MEDICATION,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]
+e170fdcd-8830-89c4-f3ad-500cfe98531c,MERRIM-ce076c,DIAGNOSIS,gum inflammation
+e170fdcd-8830-89c4-e01a-cf11452701f0,MERRIM-ce076c,DIAGNOSIS,gum inflammation
+e170fdcd-8830-89c4-e01a-cf11452701f0,MERRIM-ce076c,DIAGNOSIS,gingival disease
+e170fdcd-8830-89c4-e01a-cf11452701f0,MERRIM-ce076c,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+e170fdcd-8830-89c4-412a-62fa538e78b2,MERRIM-ce076c,DIAGNOSIS,viral sinusitis
+e170fdcd-8830-89c4-412a-62fa538e78b2,MERRIM-ce076c,DIAGNOSIS,a sinus infection
+e170fdcd-8830-89c4-5416-88c878948691,MERRIM-ce076c,MEDICATION,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]
+2e9a9dab-f5b6-8960-c661-a66a9a9263d9,MERRIM-6b9d10,DIAGNOSIS,pediatric asthma
+2e9a9dab-f5b6-8960-8e61-884091e1159b,MERRIM-6b9d10,DIAGNOSIS,reactive airway disease
+2e9a9dab-f5b6-8960-80ce-a8862d53702e,MERRIM-6b9d10,DIAGNOSIS,borderline blood sugar
+2e9a9dab-f5b6-8960-80ce-a8862d53702e,MERRIM-6b9d10,DIAGNOSIS,a low blood count
+2e9a9dab-f5b6-8960-1728-ec60c96081b2,MERRIM-6b9d10,DIAGNOSIS,complete miscarriage
+2e9a9dab-f5b6-8960-1728-ec60c96081b2,MERRIM-6b9d10,DIAGNOSIS,past pregnancy history of miscarriage
+2e9a9dab-f5b6-8960-2419-1582617bc0cb,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-2419-1582617bc0cb,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-ee45-157441827b80,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-ee45-157441827b80,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-a49b-dca1b115bc0a,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-8e4e-db82892d0dd2,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-535a-df58135132c4,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-6be3-a74db4babe03,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-d9ae-f817b94edd12,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-12e4-bed3919e6879,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-6eeb-88797b59fdd7,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-b10a-3b1a4033da24,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-3228-d9ecc99ddfbb,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-3228-d9ecc99ddfbb,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-953e-f6cfc8bcb4e2,MERRIM-6b9d10,DIAGNOSIS,leaking dental filling
+2e9a9dab-f5b6-8960-0cf4-cfcd158e1bc4,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-0cf4-cfcd158e1bc4,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-cce9-ee73d6048b21,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-7a8c-82723331ae3c,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-1c8f-31deb68d2fc5,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-7b03-2e2db2de44b6,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-d8b6-6b54d36c6832,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-f553-09c66b55429b,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-3151-cc0d322729de,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-4d4f-7248cfb7ecdd,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-d6d2-b1d033e76677,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-d6d2-b1d033e76677,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-428a-8f849b02f123,MERRIM-6b9d10,MEDICATION,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]
+2e9a9dab-f5b6-8960-8c59-115e830f83d0,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-8c59-115e830f83d0,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-c52a-6279f702c0d2,MERRIM-6b9d10,MEDICATION,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]
+2e9a9dab-f5b6-8960-8fb1-e564a42af2b7,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-8fb1-e564a42af2b7,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-fc97-b5e3c0705925,MERRIM-6b9d10,DIAGNOSIS,asthma
+2e9a9dab-f5b6-8960-b8d9-5da581f10bce,MERRIM-6b9d10,DIAGNOSIS,asthma
+2e9a9dab-f5b6-8960-4cc9-2d7b5f19a9b5,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-4cc9-2d7b5f19a9b5,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-f8cd-eb934c776d1b,MERRIM-6b9d10,MEDICATION,{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]
+2e9a9dab-f5b6-8960-a542-ce8064b673ca,MERRIM-6b9d10,DIAGNOSIS,significant weight gain
+2e9a9dab-f5b6-8960-a542-ce8064b673ca,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-a542-ce8064b673ca,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-c69d-84733660dfbd,MERRIM-6b9d10,DIAGNOSIS,leaking dental filling
+2e9a9dab-f5b6-8960-22a8-5ac3db48de9b,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-22a8-5ac3db48de9b,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-c574-8f077e741564,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-c574-8f077e741564,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-335b-1364dc491f08,MERRIM-6b9d10,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2e9a9dab-f5b6-8960-3893-63c950f88b85,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-1561-6adff3f6a450,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-8450-e2786cca462a,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-8f4a-c9517a96625a,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-27fe-ab51d6e6bcdf,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-9343-4eb9e2bcd03f,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-f7e6-41495d76f448,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-19eb-4251cc3a4e5c,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-9616-e61a28da98ef,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-57e5-8eacbb19f205,MERRIM-6b9d10,DIAGNOSIS,normal pregnancy
+2e9a9dab-f5b6-8960-ed5e-6dd1c39bc449,MERRIM-6b9d10,MEDICATION,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+2e9a9dab-f5b6-8960-da1a-d00e01c67125,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-da1a-d00e01c67125,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-84ec-d256ee97102c,MERRIM-6b9d10,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2e9a9dab-f5b6-8960-9900-278eeca0a92a,MERRIM-6b9d10,DIAGNOSIS,gingivitis
+2e9a9dab-f5b6-8960-9900-278eeca0a92a,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-9900-278eeca0a92a,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-d55d-9652367acc32,MERRIM-6b9d10,DIAGNOSIS,viral sinusitis
+2e9a9dab-f5b6-8960-d55d-9652367acc32,MERRIM-6b9d10,DIAGNOSIS,a sinus infection
+2e9a9dab-f5b6-8960-d55d-9652367acc32,MERRIM-6b9d10,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+2e9a9dab-f5b6-8960-745c-4b34421bcb10,MERRIM-6b9d10,DIAGNOSIS,gingivitis
+2e9a9dab-f5b6-8960-3430-f63d95b55664,MERRIM-6b9d10,DIAGNOSIS,reactive airway disease
+2e9a9dab-f5b6-8960-b032-523be36600b9,MERRIM-6b9d10,MEDICATION,Etonogestrel 68 MG Drug Implant
+2e9a9dab-f5b6-8960-e226-12bdf9a235cb,MERRIM-6b9d10,DIAGNOSIS,gingivitis
+2e9a9dab-f5b6-8960-e226-12bdf9a235cb,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-e226-12bdf9a235cb,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2e9a9dab-f5b6-8960-c0e9-d8ec50a910cb,MERRIM-6b9d10,DIAGNOSIS,gingivitis
+2e9a9dab-f5b6-8960-63e5-cd916bfe024e,MERRIM-6b9d10,DIAGNOSIS,reactive airway disease
+2e9a9dab-f5b6-8960-4e15-c1eb437d0c65,MERRIM-6b9d10,MEDICATION,{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]
+2e9a9dab-f5b6-8960-89d6-5090bebbd7b2,MERRIM-6b9d10,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+2e9a9dab-f5b6-8960-89d6-5090bebbd7b2,MERRIM-6b9d10,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2211f478-b7b4-7711-9a9f-03d1d5bff6f1,MERRIM-c498d3,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-9a9f-03d1d5bff6f1,MERRIM-c498d3,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-9a9f-03d1d5bff6f1,MERRIM-c498d3,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-8583-ac8486f7ccf0,MERRIM-c498d3,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-8583-ac8486f7ccf0,MERRIM-c498d3,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-8583-ac8486f7ccf0,MERRIM-c498d3,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,DIAGNOSIS,gum inflammation
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+716c6d0a-2a5d-0aaa-0259-525eee714321,MERRIM-19b639,MEDICATION,lisinopril 10 MG Oral Tablet
+716c6d0a-2a5d-0aaa-0259-525eee714321,MERRIM-19b639,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+6b687f11-0721-ccaf-15ef-c92376252182,MERRIM-70ea72,DIAGNOSIS,gingivitis
+6b687f11-0721-ccaf-f1ee-1cd6247be04d,MERRIM-70ea72,DIAGNOSIS,gum inflammation
+6b687f11-0721-ccaf-60b3-178a73b27787,MERRIM-70ea72,DIAGNOSIS,concussion injury of brain
+6b687f11-0721-ccaf-60b3-178a73b27787,MERRIM-70ea72,DIAGNOSIS,concussion injury of brain
+6b687f11-0721-ccaf-60b3-178a73b27787,MERRIM-70ea72,DIAGNOSIS,concussion with no loss of consciousness
+6b687f11-0721-ccaf-daa4-523d0beedb7d,MERRIM-70ea72,DIAGNOSIS,concussion injury of brain
+6b687f11-0721-ccaf-daa4-523d0beedb7d,MERRIM-70ea72,DIAGNOSIS,concussion injury of brain
+6b687f11-0721-ccaf-c6bc-e72561afb13f,MERRIM-70ea72,DIAGNOSIS,concussion injury of brain
+a5816bea-ad10-431f-05b7-acd51fce6a6e,MERRIM-ac192b,DIAGNOSIS,atopic dermatitis
+a5816bea-ad10-431f-05b7-acd51fce6a6e,MERRIM-ac192b,DIAGNOSIS,atopic dermatitis
+a5816bea-ad10-431f-4602-285e3fade212,MERRIM-ac192b,DIAGNOSIS,eggs (edible)
+a5816bea-ad10-431f-6cd4-9e367b41a769,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-6cd4-9e367b41a769,MERRIM-ac192b,MEDICATION,cetirizine hydrochloride 5 MG Oral Tablet
+a5816bea-ad10-431f-6cd4-9e367b41a769,MERRIM-ac192b,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+a5816bea-ad10-431f-6cd4-9e367b41a769,MERRIM-ac192b,ALLERGY,Tree nut
+a5816bea-ad10-431f-4ac3-5c69888cbebd,MERRIM-ac192b,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+a5816bea-ad10-431f-4ac3-5c69888cbebd,MERRIM-ac192b,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+a5816bea-ad10-431f-032d-53dd1e563d76,MERRIM-ac192b,DIAGNOSIS,gingivitis
+a5816bea-ad10-431f-e315-b96b26a585d6,MERRIM-ac192b,DIAGNOSIS,gum inflammation
+a5816bea-ad10-431f-828c-6ee257676ef6,MERRIM-ac192b,DIAGNOSIS,acute viral pharyngitis
+a5816bea-ad10-431f-828c-6ee257676ef6,MERRIM-ac192b,DIAGNOSIS,acute viral pharyngitis
+a5816bea-ad10-431f-1d58-a903bc1315c4,MERRIM-ac192b,DIAGNOSIS,primary dental caries
+a5816bea-ad10-431f-5ea4-5863bdb673d0,MERRIM-ac192b,DIAGNOSIS,sprain (morphologic abnormality)
+a5816bea-ad10-431f-5ea4-5863bdb673d0,MERRIM-ac192b,DIAGNOSIS,sprain (morphologic abnormality)
+a5816bea-ad10-431f-5ea4-5863bdb673d0,MERRIM-ac192b,DIAGNOSIS,sprain of wrist
+a5816bea-ad10-431f-5ea4-5863bdb673d0,MERRIM-ac192b,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+a5816bea-ad10-431f-be0d-1ebd7c1ca24f,MERRIM-ac192b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+a5816bea-ad10-431f-540c-328954e2b7d3,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-f88d-ed7fb59c9876,MERRIM-ac192b,DIAGNOSIS,viral sinusitis
+a5816bea-ad10-431f-f88d-ed7fb59c9876,MERRIM-ac192b,DIAGNOSIS,viral sinusitis
+a5816bea-ad10-431f-8bc1-52904e75c5a0,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-93f3-30f648ec913a,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-5d82-def3b04da629,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-15de-ead2fdb09498,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-4ec7-b7046325136f,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-3eaf-c964da2b67cb,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-7c8c-cb2827a0628c,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-ad37-c3d4e3668a0a,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-8dd0-126c6c2cf8d5,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-8209-21a0d852a0a3,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-da06-941aeaa2c176,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-3bd5-ae5634f6014c,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-5547-c998e863d828,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-9be5-e9e7ede9d972,MERRIM-ac192b,MEDICATION,1 ML medroxyprogesterone acetate 150 MG/ML Injection
+a5816bea-ad10-431f-39fa-6525a77fd19a,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-bfb8-c87dc3541a54,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-270c-bacef17d2b18,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-3406-c446db0b4f14,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-d04c-97f15abc583f,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-3f5c-8b0fe6a994c2,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-e567-d7b8fbd7bb0e,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-db79-1cbb47bb4c39,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-5a2b-93bbb9e8c7f4,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-87b5-92f387820b13,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-b4ac-03aa9160c938,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-d235-69793c96f3b1,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-19f6-05c997f41861,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-1d06-c382c093d31a,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-e183-c8c0e1b9bfdd,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-7d58-98000a6fe67b,MERRIM-ac192b,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+a5816bea-ad10-431f-d67f-b247caa77d57,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-3f67-bd62b15c62bc,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-ae95-4ca8531e52e0,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-0da2-c89576242b59,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-b923-479d0de6bf77,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-690d-7fb87ec4f860,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-6e59-7f009feb3309,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-3d0a-4f431a094ba7,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-8214-57fc54187639,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-72e6-08aded69ea97,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-da0f-ffbc4746e7d7,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-fe19-d75b5ad7c058,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-fa2e-6cc96de9d7a0,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-a2c6-6124b14700de,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-39db-2e8303885e4d,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-3fd2-73421bfcc459,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-1f94-3f2b55f6fdb6,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-cbfd-3cbe950c9c7e,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-0d7a-062f6695a7de,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-4bdc-94c1dc419d59,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-e663-26a8588323d4,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-ebab-0e440671f697,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-e616-835f7349d0e3,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-c87b-0741f53eb006,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-2b9b-74a34606c606,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-64ec-d09482dbf641,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-a671-bd3c80b0a423,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-9213-9fd33005813c,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-2f3e-5900c8d82323,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-3b00-f32245df35ab,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-4637-f1adcff4bbf4,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-4b02-c3b470906f16,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+a5816bea-ad10-431f-5541-91f0d4eeb13c,MERRIM-ac192b,DIAGNOSIS,allergic disposition
+82623afe-e51c-e02e-489b-38187503b81b,MERRIM-b32e00,DIAGNOSIS,eggs (edible)
+82623afe-e51c-e02e-9fa0-5b2cd8d72efe,MERRIM-b32e00,DIAGNOSIS,allergic disposition
+82623afe-e51c-e02e-9fa0-5b2cd8d72efe,MERRIM-b32e00,MEDICATION,Fexofenadine hydrochloride 30 MG Oral Tablet
+82623afe-e51c-e02e-9fa0-5b2cd8d72efe,MERRIM-b32e00,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+82623afe-e51c-e02e-9fa0-5b2cd8d72efe,MERRIM-b32e00,ALLERGY,Peanut
+82623afe-e51c-e02e-f0b3-f0900610212e,MERRIM-b32e00,DIAGNOSIS,pediatric asthma
+82623afe-e51c-e02e-f0b3-f0900610212e,MERRIM-b32e00,DIAGNOSIS,childhood asthma
+82623afe-e51c-e02e-6f70-5548bbc9db1a,MERRIM-b32e00,DIAGNOSIS,seasonal allergic rhinitis
+82623afe-e51c-e02e-6f70-5548bbc9db1a,MERRIM-b32e00,DIAGNOSIS,seasonal allergic rhinitis
+82623afe-e51c-e02e-121d-23cd199b3bef,MERRIM-b32e00,DIAGNOSIS,allergic disposition
+82623afe-e51c-e02e-43c8-b8e6de275c23,MERRIM-b32e00,DIAGNOSIS,allergic disposition
+82623afe-e51c-e02e-890d-ced3b59ccd02,MERRIM-b32e00,DIAGNOSIS,allergic disposition
+82623afe-e51c-e02e-4693-55e5715057b8,MERRIM-b32e00,DIAGNOSIS,allergic disposition
+82623afe-e51c-e02e-d617-5326c746b07d,MERRIM-b32e00,DIAGNOSIS,allergic disposition
+82623afe-e51c-e02e-ad5c-56e0ed756bb6,MERRIM-b32e00,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+82623afe-e51c-e02e-50a5-a61df30f297d,MERRIM-b32e00,DIAGNOSIS,ongoing pain
+82623afe-e51c-e02e-50a5-a61df30f297d,MERRIM-b32e00,DIAGNOSIS,chronic pain
+82623afe-e51c-e02e-50a5-a61df30f297d,MERRIM-b32e00,DIAGNOSIS,chronic neck pain
+82623afe-e51c-e02e-ec45-5907ffcd90c8,MERRIM-b32e00,DIAGNOSIS,ongoing pain
+82623afe-e51c-e02e-9ee6-ea135635af06,MERRIM-b32e00,DIAGNOSIS,pediatric asthma
+82623afe-e51c-e02e-7b7e-6eeae7efc71a,MERRIM-b32e00,DIAGNOSIS,ongoing pain
+82623afe-e51c-e02e-e633-33a113cd107d,MERRIM-b32e00,DIAGNOSIS,chronic pain
+82623afe-e51c-e02e-6a01-ea0ec85a1d53,MERRIM-b32e00,DIAGNOSIS,ongoing pain
+82623afe-e51c-e02e-4423-69428b6b3c8f,MERRIM-b32e00,DIAGNOSIS,chronic pain
+82623afe-e51c-e02e-1b9e-7c382fe96f42,MERRIM-b32e00,DIAGNOSIS,chronic pain
+82623afe-e51c-e02e-3aa2-fdbbf1445328,MERRIM-b32e00,DIAGNOSIS,gum inflammation
+82623afe-e51c-e02e-696c-849f4b8f9400,MERRIM-b32e00,DIAGNOSIS,ongoing pain
+82623afe-e51c-e02e-a5ee-2f10ca04c560,MERRIM-b32e00,DIAGNOSIS,chronic pain
+82623afe-e51c-e02e-4167-7b021d4ff53d,MERRIM-b32e00,DIAGNOSIS,chronic pain
+82623afe-e51c-e02e-effe-6bcedeee22bb,MERRIM-b32e00,DIAGNOSIS,chronic pain
+82623afe-e51c-e02e-be02-f544e661d4b2,MERRIM-b32e00,DIAGNOSIS,childhood asthma
+82623afe-e51c-e02e-827f-70c092e0dffa,MERRIM-b32e00,DIAGNOSIS,gum inflammation
+82623afe-e51c-e02e-827f-70c092e0dffa,MERRIM-b32e00,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+82623afe-e51c-e02e-b054-a0a4ba49bd05,MERRIM-b32e00,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+82623afe-e51c-e02e-9995-5c34cdb367c8,MERRIM-b32e00,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+82623afe-e51c-e02e-6fd9-324021abf32c,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-6fd9-324021abf32c,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-be33-3ef1f1acf854,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-967a-35afa35b1228,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-cfd3-63e4f130b180,MERRIM-b32e00,DIAGNOSIS,asthma
+82623afe-e51c-e02e-0730-e6eb8c67dc33,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-ac50-1ca53b62c365,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-d4f6-ad02d8b2ea2e,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-712a-8325d2196c22,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-895a-1aa5958d0ee0,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-61c0-d181f9634113,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-63ff-d419d11c0bcf,MERRIM-b32e00,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+82623afe-e51c-e02e-3166-f7a90226cf72,MERRIM-b32e00,DIAGNOSIS,gum inflammation
+82623afe-e51c-e02e-3166-f7a90226cf72,MERRIM-b32e00,DIAGNOSIS,gingival disease
+82623afe-e51c-e02e-723c-cf9d5c953aa5,MERRIM-b32e00,MEDICATION,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+82623afe-e51c-e02e-da81-92c81bfa0e1b,MERRIM-b32e00,DIAGNOSIS,essential hypertension
+82623afe-e51c-e02e-da81-92c81bfa0e1b,MERRIM-b32e00,MEDICATION,lisinopril 10 MG Oral Tablet
+82623afe-e51c-e02e-dc6e-f42553468d57,MERRIM-b32e00,DIAGNOSIS,essential hypertension
+82623afe-e51c-e02e-dc6e-f42553468d57,MERRIM-b32e00,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+82623afe-e51c-e02e-5583-e9793c0f5d3c,MERRIM-b32e00,DIAGNOSIS,essential hypertension
+82623afe-e51c-e02e-a5e8-40b727529037,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-a5e8-40b727529037,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-87a4-3fca56df856a,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-e292-c69380c0b276,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-577b-b587d8bfbab3,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-1747-76a4a1b9f9b5,MERRIM-b32e00,DIAGNOSIS,gum inflammation
+82623afe-e51c-e02e-1747-76a4a1b9f9b5,MERRIM-b32e00,DIAGNOSIS,gingival disease
+82623afe-e51c-e02e-1747-76a4a1b9f9b5,MERRIM-b32e00,DIAGNOSIS,primary dental caries
+82623afe-e51c-e02e-1747-76a4a1b9f9b5,MERRIM-b32e00,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+82623afe-e51c-e02e-667f-8930c99419bb,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-85de-9c0704f0d4dd,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-6382-935863095721,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-9dd4-92c7dc1f9bb8,MERRIM-b32e00,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-7838-78fab592a0da,MERRIM-b32e00,DIAGNOSIS,history of tubal ligation
+82623afe-e51c-e02e-f8f3-6c3f237e0144,MERRIM-b32e00,DIAGNOSIS,gum inflammation
+8d91c36a-1f7e-3842-48ee-0b986de96d92,MERRIM-83325f,DIAGNOSIS,laceration - injury
+8d91c36a-1f7e-3842-48ee-0b986de96d92,MERRIM-83325f,DIAGNOSIS,laceration - injury
+8d91c36a-1f7e-3842-48ee-0b986de96d92,MERRIM-83325f,DIAGNOSIS,laceration of hand
+8d91c36a-1f7e-3842-48ee-0b986de96d92,MERRIM-83325f,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+8d91c36a-1f7e-3842-c5a8-3d51f8bb0e72,MERRIM-83325f,DIAGNOSIS,significant weight gain
+8d91c36a-1f7e-3842-c5a8-3d51f8bb0e72,MERRIM-83325f,MEDICATION,carvedilol 25 MG Oral Tablet
+8d91c36a-1f7e-3842-c5a8-3d51f8bb0e72,MERRIM-83325f,MEDICATION,Furosemide 40 MG Oral Tablet
+8d91c36a-1f7e-3842-c5a8-3d51f8bb0e72,MERRIM-83325f,MEDICATION,losartan potassium 50 MG Oral Tablet
+8d91c36a-1f7e-3842-f145-ead7c5c00ed9,MERRIM-83325f,MEDICATION,carvedilol 25 MG Oral Tablet
+8d91c36a-1f7e-3842-f145-ead7c5c00ed9,MERRIM-83325f,MEDICATION,Furosemide 40 MG Oral Tablet
+8d91c36a-1f7e-3842-f145-ead7c5c00ed9,MERRIM-83325f,MEDICATION,losartan potassium 50 MG Oral Tablet
+8d91c36a-1f7e-3842-f145-ead7c5c00ed9,MERRIM-83325f,MEDICATION,lisinopril 20 MG Oral Tablet
+8d91c36a-1f7e-3842-f2ee-063081772107,MERRIM-83325f,MEDICATION,carvedilol 25 MG Oral Tablet
+8d91c36a-1f7e-3842-f2ee-063081772107,MERRIM-83325f,MEDICATION,Furosemide 40 MG Oral Tablet
+8d91c36a-1f7e-3842-f2ee-063081772107,MERRIM-83325f,MEDICATION,losartan potassium 50 MG Oral Tablet
+8d91c36a-1f7e-3842-f2ee-063081772107,MERRIM-83325f,MEDICATION,lisinopril 20 MG Oral Tablet
+8d91c36a-1f7e-3842-3c8b-9f8a2437d1e9,MERRIM-83325f,DIAGNOSIS,chronic congestive heart failure
+8d91c36a-1f7e-3842-ecec-fec2b9831667,MERRIM-83325f,DIAGNOSIS,chronic congestive heart failure
+e142981b-3577-4115-bddc-c6a2733dfeac,MERRIM-150703,DIAGNOSIS,gum inflammation
+e142981b-3577-4115-635e-f12a71321634,MERRIM-150703,DIAGNOSIS,laceration - injury
+e142981b-3577-4115-635e-f12a71321634,MERRIM-150703,DIAGNOSIS,laceration - injury
+e142981b-3577-4115-635e-f12a71321634,MERRIM-150703,DIAGNOSIS,laceration of forearm
+e142981b-3577-4115-635e-f12a71321634,MERRIM-150703,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+e142981b-3577-4115-635e-f12a71321634,MERRIM-150703,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+e142981b-3577-4115-8baa-9b9ca21f5138,MERRIM-150703,DIAGNOSIS,gum inflammation
+e142981b-3577-4115-bc8b-952262a597c3,MERRIM-150703,DIAGNOSIS,burn injury (morphologic abnormality)
+e142981b-3577-4115-bc8b-952262a597c3,MERRIM-150703,DIAGNOSIS,burn injury (morphologic abnormality)
+e142981b-3577-4115-bc8b-952262a597c3,MERRIM-150703,DIAGNOSIS,epidermal burn of skin
+e142981b-3577-4115-bc8b-952262a597c3,MERRIM-150703,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+dc77ef0d-1846-94fd-21ee-53eb16bd49e8,MERRIM-c4f683,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+dc77ef0d-1846-94fd-7f6e-741293cc1fb9,MERRIM-c4f683,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+dc77ef0d-1846-94fd-681b-bb812a714698,MERRIM-c4f683,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+dc77ef0d-1846-94fd-015e-80c19e6bb8ca,MERRIM-c4f683,DIAGNOSIS,acute viral pharyngitis
+dc77ef0d-1846-94fd-015e-80c19e6bb8ca,MERRIM-c4f683,DIAGNOSIS,a sore throat
+dc77ef0d-1846-94fd-53b7-8bdef186295b,MERRIM-c4f683,DIAGNOSIS,gum inflammation
+dc77ef0d-1846-94fd-336b-18823bead21e,MERRIM-c4f683,DIAGNOSIS,gingivitis
+dc77ef0d-1846-94fd-b824-5df950f21bbe,MERRIM-c4f683,MEDICATION,{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]
+dc77ef0d-1846-94fd-3552-4360fc140325,MERRIM-c4f683,DIAGNOSIS,injury of knee
+dc77ef0d-1846-94fd-3552-4360fc140325,MERRIM-c4f683,DIAGNOSIS,injury of knee
+dc77ef0d-1846-94fd-3552-4360fc140325,MERRIM-c4f683,DIAGNOSIS,tear of meniscus of knee
+dc77ef0d-1846-94fd-3552-4360fc140325,MERRIM-c4f683,MEDICATION,Acetaminophen 325 MG Oral Tablet
+bca1691f-8839-1d66-a0c9-295ffe4f6650,MERRIM-bacf17,DIAGNOSIS,hypertriglyceridemia
+bca1691f-8839-1d66-3ecf-c3f5ff267d42,MERRIM-bacf17,DIAGNOSIS,chronic kidney disease stage 2
+bca1691f-8839-1d66-3ecf-c3f5ff267d42,MERRIM-bacf17,DIAGNOSIS,microalbuminuria due to type 2 diabetes mellitus
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,DIAGNOSIS,chronic kidney disease stage 3
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,DIAGNOSIS,proteinuria due to type 2 diabetes mellitus
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,DIAGNOSIS,gum inflammation
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,DIAGNOSIS,gingivitis
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,DIAGNOSIS,gum inflammation
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,DIAGNOSIS,gum inflammation
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,DIAGNOSIS,gum inflammation
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,DIAGNOSIS,alzheimer's disease
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,Galantamine 4 MG Oral Tablet
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,DIAGNOSIS,gum inflammation
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,DIAGNOSIS,gum inflammation
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,DIAGNOSIS,gum inflammation
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,DIAGNOSIS,gingivitis
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,DIAGNOSIS,gingivitis
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,DIAGNOSIS,gingivitis
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,verapamil hydrochloride 80 MG Oral Tablet [Calan]
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Digoxin 0.125 MG Oral Tablet
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Warfarin Sodium 5 MG Oral Tablet
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,verapamil hydrochloride 80 MG Oral Tablet [Calan]
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Digoxin 0.125 MG Oral Tablet
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Warfarin Sodium 5 MG Oral Tablet
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,verapamil hydrochloride 80 MG Oral Tablet [Calan]
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Digoxin 0.125 MG Oral Tablet
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Warfarin Sodium 5 MG Oral Tablet
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,verapamil hydrochloride 80 MG Oral Tablet [Calan]
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Digoxin 0.125 MG Oral Tablet
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Warfarin Sodium 5 MG Oral Tablet
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,verapamil hydrochloride 80 MG Oral Tablet [Calan]
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Digoxin 0.125 MG Oral Tablet
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Warfarin Sodium 5 MG Oral Tablet
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,verapamil hydrochloride 80 MG Oral Tablet [Calan]
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Digoxin 0.125 MG Oral Tablet
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Warfarin Sodium 5 MG Oral Tablet
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,verapamil hydrochloride 80 MG Oral Tablet [Calan]
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Digoxin 0.125 MG Oral Tablet
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Warfarin Sodium 5 MG Oral Tablet
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,lisinopril 10 MG Oral Tablet
+5693c080-f485-91e7-4533-c0538f2b28d4,MERRIM-7383c4,DIAGNOSIS,borderline blood sugar
+5693c080-f485-91e7-4533-c0538f2b28d4,MERRIM-7383c4,DIAGNOSIS,obesity (BMI 30+)
+5693c080-f485-91e7-b1f0-289af62b1d07,MERRIM-7383c4,DIAGNOSIS,anemia
+5693c080-f485-91e7-d551-b4f8563a4bd8,MERRIM-7383c4,DIAGNOSIS,impacted molars
+5693c080-f485-91e7-d551-b4f8563a4bd8,MERRIM-7383c4,DIAGNOSIS,impacted molars
+5693c080-f485-91e7-e02b-5ffa119e99eb,MERRIM-7383c4,DIAGNOSIS,high blood pressure
+5693c080-f485-91e7-fdd9-76b03dda82f4,MERRIM-7383c4,DIAGNOSIS,metabolic syndrome X
+5693c080-f485-91e7-fe53-5e8b40e60bbc,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-0f9b-348962beab27,MERRIM-7383c4,DIAGNOSIS,a chest cold
+5693c080-f485-91e7-0f9b-348962beab27,MERRIM-7383c4,DIAGNOSIS,a chest cold
+5693c080-f485-91e7-0f9b-348962beab27,MERRIM-7383c4,MEDICATION,Acetaminophen 325 MG Oral Tablet
+5693c080-f485-91e7-0f9b-348962beab27,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,DIAGNOSIS,chronic kidney disease stage 1
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,DIAGNOSIS,disorder of kidney due to diabetes mellitus
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-89e2-6783bb97e4bd,MERRIM-7383c4,DIAGNOSIS,primary dental caries
+5693c080-f485-91e7-b60b-1358639543c0,MERRIM-7383c4,DIAGNOSIS,gingivitis
+5693c080-f485-91e7-b60b-1358639543c0,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-b60b-1358639543c0,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-a5ca-fd711e26862e,MERRIM-7383c4,DIAGNOSIS,gum inflammation
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,DIAGNOSIS,chronic kidney disease stage 2
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,DIAGNOSIS,microalbuminuria due to type 2 diabetes mellitus
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,DIAGNOSIS,gum inflammation
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-c38f-c0f011d6753e,MERRIM-7383c4,DIAGNOSIS,gingivitis
+5693c080-f485-91e7-c38f-c0f011d6753e,MERRIM-7383c4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+5693c080-f485-91e7-93ff-ef1d9821fe5c,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-93ff-ef1d9821fe5c,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,DIAGNOSIS,chronic kidney disease stage 3
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,DIAGNOSIS,proteinuria due to type 2 diabetes mellitus
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-16a2-7bfc60dc4738,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-16a2-7bfc60dc4738,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-885d-53d40376852a,MERRIM-7383c4,DIAGNOSIS,sleep disorder
+5693c080-f485-91e7-885d-53d40376852a,MERRIM-7383c4,DIAGNOSIS,sleep disorder
+5693c080-f485-91e7-8610-1b1971129b45,MERRIM-7383c4,DIAGNOSIS,sleep disorder
+5693c080-f485-91e7-ae83-ad4291638b88,MERRIM-7383c4,DIAGNOSIS,sleep disorder
+5693c080-f485-91e7-ae83-ad4291638b88,MERRIM-7383c4,DIAGNOSIS,sleep apnea
+5693c080-f485-91e7-9dff-fe3bf78f6e18,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-9dff-fe3bf78f6e18,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-d100-588719f55734,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-d100-588719f55734,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-ab5d-37c52ec04c90,MERRIM-7383c4,DIAGNOSIS,fracture of bone
+5693c080-f485-91e7-ab5d-37c52ec04c90,MERRIM-7383c4,DIAGNOSIS,fracture of bone
+5693c080-f485-91e7-ab5d-37c52ec04c90,MERRIM-7383c4,DIAGNOSIS,fracture subluxation of wrist
+5693c080-f485-91e7-ab5d-37c52ec04c90,MERRIM-7383c4,MEDICATION,Ibuprofen 200 MG Oral Tablet
+5693c080-f485-91e7-5cd7-5693d8b26122,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5cd7-5693d8b26122,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-76b9-019244d1a38d,MERRIM-7383c4,DIAGNOSIS,gum inflammation
+5693c080-f485-91e7-76b9-019244d1a38d,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-76b9-019244d1a38d,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-f2cc-ca1d58f1bff4,MERRIM-7383c4,DIAGNOSIS,fracture subluxation of wrist
+5693c080-f485-91e7-fc09-a17e1ef182a2,MERRIM-7383c4,DIAGNOSIS,gingivitis
+5693c080-f485-91e7-fc09-a17e1ef182a2,MERRIM-7383c4,DIAGNOSIS,infection of tooth
+5693c080-f485-91e7-f8e0-eaa515864eaa,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-f8e0-eaa515864eaa,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-3ff0-793ab6c45796,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-3ff0-793ab6c45796,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-8fc6-9debaf65a3f8,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-8fc6-9debaf65a3f8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-1b74-3d2497220e99,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-1b74-3d2497220e99,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-b4f0-4e8972de91b2,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-b4f0-4e8972de91b2,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-1bae-e1c7ee79ce81,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-1bae-e1c7ee79ce81,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-08be-99c241180048,MERRIM-7383c4,DIAGNOSIS,gingivitis
+5693c080-f485-91e7-08be-99c241180048,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-08be-99c241180048,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-f392-f08776f03c80,MERRIM-7383c4,DIAGNOSIS,gum inflammation
+5693c080-f485-91e7-f392-f08776f03c80,MERRIM-7383c4,DIAGNOSIS,leaking dental filling
+5693c080-f485-91e7-f392-f08776f03c80,MERRIM-7383c4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+5693c080-f485-91e7-0551-1d90530afd21,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-0551-1d90530afd21,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-4cf1-6353996906ef,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-4cf1-6353996906ef,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-08f2-c9bb02499e4a,MERRIM-7383c4,DIAGNOSIS,a chest cold
+5693c080-f485-91e7-08f2-c9bb02499e4a,MERRIM-7383c4,DIAGNOSIS,acute bronchitis
+5693c080-f485-91e7-08f2-c9bb02499e4a,MERRIM-7383c4,MEDICATION,Acetaminophen 325 MG Oral Tablet
+5693c080-f485-91e7-bcb8-528126589a71,MERRIM-7383c4,DIAGNOSIS,gingivitis
+5693c080-f485-91e7-bcb8-528126589a71,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-bcb8-528126589a71,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-f2df-50b62e7ed395,MERRIM-7383c4,DIAGNOSIS,gingivitis
+5693c080-f485-91e7-6f8c-f2fa084ea40d,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-6f8c-f2fa084ea40d,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-82bd-031de9785457,MERRIM-7383c4,DIAGNOSIS,ischemic heart disease
+5693c080-f485-91e7-82bd-031de9785457,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-82bd-031de9785457,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Clopidogrel 75 MG Oral Tablet
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Simvastatin 20 MG Oral Tablet
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+5693c080-f485-91e7-6467-2dfff77d136f,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-6467-2dfff77d136f,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-f14d-4a441626bcfa,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-f14d-4a441626bcfa,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-5070-33c6eec97be5,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5070-33c6eec97be5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-a439-311484e63827,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-a439-311484e63827,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-b01a-b761da138d96,MERRIM-7383c4,DIAGNOSIS,gingivitis
+5693c080-f485-91e7-b01a-b761da138d96,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-b01a-b761da138d96,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-c5bb-d67b926205e5,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-c5bb-d67b926205e5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-9eb9-1c504b89ffae,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-9eb9-1c504b89ffae,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-d59e-825579665ebf,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-d59e-825579665ebf,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-5adf-5eb510ff9305,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5adf-5eb510ff9305,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-6473-03dfbee628e3,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-6473-03dfbee628e3,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-27eb-bc9427f9f697,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-27eb-bc9427f9f697,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-7489-44956e8f91f8,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-7489-44956e8f91f8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-2295-9ebc819b7573,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-2295-9ebc819b7573,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-72d4-4245f58abd50,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-72d4-4245f58abd50,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-e348-bce2765ff5c4,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-e348-bce2765ff5c4,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-86e8-a4777be05afb,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-86e8-a4777be05afb,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-bda4-b35ab8f532ff,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-bda4-b35ab8f532ff,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-d382-1105552e9144,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-d382-1105552e9144,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-4ea1-f60e44f2d024,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-4ea1-f60e44f2d024,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-fcf7-131e1dfa24e8,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-fcf7-131e1dfa24e8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-6b79-dae2069f547b,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-6b79-dae2069f547b,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-d891-754be4002310,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-d891-754be4002310,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-e065-5fdc37452de5,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-e065-5fdc37452de5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-8bdf-409835149bed,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-8bdf-409835149bed,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-4732-8f092674410a,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-4732-8f092674410a,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-5e1d-015254d67162,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5e1d-015254d67162,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-5492-ccc24cb6399c,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5492-ccc24cb6399c,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-c883-9f1aa4792250,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-c883-9f1aa4792250,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-5fd7-55b2ff2b152a,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5fd7-55b2ff2b152a,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-80b7-b9c6d63a6bd6,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-80b7-b9c6d63a6bd6,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-5b7f-d47811499ef6,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5b7f-d47811499ef6,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-ac17-a9bfb75ed20d,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-ac17-a9bfb75ed20d,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-4b3d-daa1f9f59aec,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-4b3d-daa1f9f59aec,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-981e-5d157ae12974,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-981e-5d157ae12974,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-bd2e-670dbabf2e76,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-bd2e-670dbabf2e76,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-8db8-42e5c59f0c39,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-8db8-42e5c59f0c39,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-004f-7dd9fe101f30,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-004f-7dd9fe101f30,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-b568-563711e9477b,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-b568-563711e9477b,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-6f47-bab6657d8417,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-6f47-bab6657d8417,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-d65c-4181cd25f860,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-d65c-4181cd25f860,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-cd16-2bf6edcdd350,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-cd16-2bf6edcdd350,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-89fc-f43f764cb6a5,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-89fc-f43f764cb6a5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-5bf9-55394374a359,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-5bf9-55394374a359,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-4137-b9b3a772bc0e,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-4137-b9b3a772bc0e,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-fe95-0c0438e8002a,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-fe95-0c0438e8002a,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-b717-03a877c82e5e,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-b717-03a877c82e5e,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-bfa1-7c5a31b329ab,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-bfa1-7c5a31b329ab,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-9897-235847e014d5,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-9897-235847e014d5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-a953-e31a68ed5402,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-a953-e31a68ed5402,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-0a16-21c3a2966b3b,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-0a16-21c3a2966b3b,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-0cff-74234d4364ac,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-0cff-74234d4364ac,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-29bf-6ebe26e532d8,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-29bf-6ebe26e532d8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-6c95-3ec83f8da3a3,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-6c95-3ec83f8da3a3,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-2b8e-3766984e0ded,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-2b8e-3766984e0ded,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-747d-616456a1bde8,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-747d-616456a1bde8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-ee79-8b7773bf61ab,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-ee79-8b7773bf61ab,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-c457-7123951dd9a4,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-c457-7123951dd9a4,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-034b-3de865cc2797,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-034b-3de865cc2797,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-624a-95829a0defc7,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-624a-95829a0defc7,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-90b3-f232dde54da1,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-90b3-f232dde54da1,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-c7db-571f996cfd66,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-c7db-571f996cfd66,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-23dd-922afabbd9e4,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-23dd-922afabbd9e4,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-a4a1-9872c1e148a9,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-a4a1-9872c1e148a9,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-f2ec-14abfb3a8219,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-f2ec-14abfb3a8219,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-aca5-32aee652e771,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-aca5-32aee652e771,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+5693c080-f485-91e7-3fd3-a7cb9c4518f6,MERRIM-7383c4,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+5693c080-f485-91e7-3fd3-a7cb9c4518f6,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet

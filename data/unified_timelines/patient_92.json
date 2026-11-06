@@ -1,0 +1,304 @@
+{
+  "cluster_id": "92",
+  "hospitals": [
+    "South Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "2011-06-26",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2012-07-01",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Housing",
+          "canonical": "Housing",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Educated",
+          "canonical": "Educated",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-07-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-10-23",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2016-11-11",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "HOSPICE SERVICES OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-12-06"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-12-06"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "laceration of foot",
+          "canonical": "Laceration of foot",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-12-06T17:31:10Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-14",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-07-28",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2019-07-29",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-08-07"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sin",
+          "canonical": "Viral sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-08-07"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sulfamethoxazole",
+          "canonical": "sulfamethoxazole",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-14T16:16:13Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "trimethoprim",
+          "canonical": "trimethoprim",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-14T16:16:13Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-06",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-04",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2022-07-17",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unemployed",
+          "canonical": "Unemployed",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-07-20"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealthy alcohol",
+          "canonical": "Unhealthy alcohol",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-31",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-31T19:00:44Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-07-31T19:00:44Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-31",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-22",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Sprain (morphologic abnormality)",
+      "seen_at": "HOSPICE SERVICES OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-05"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-05"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-05T17:31:10Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-20",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-05-31",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

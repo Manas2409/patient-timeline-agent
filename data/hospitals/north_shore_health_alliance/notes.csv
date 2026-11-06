@@ -1,0 +1,869 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+239b0c86-371a-3080-583a-1327b97f90c1,NORTH_-879e5f,1995-12-31,Seen in clinic for acute bacterial sinusitis. New findings on exam include chronic sinusitis. No new medications prescribed at this time.
+239b0c86-371a-3080-4fc1-023f6c279cb5,NORTH_-879e5f,1998-12-30,Seen in clinic for perennial allergic rhinitis with seasonal variation. Plan: initiate Loratadine 5 MG Chewable Tablet.
+239b0c86-371a-3080-a233-d4a7bb71d391,NORTH_-879e5f,1999-01-03,Presenting complaint: allergic disposition. Medications prescribed today: NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Allergy history notable for Allergic disposition.
+239b0c86-371a-3080-76ff-6c53260cef25,NORTH_-879e5f,2013-07-06,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Only received primary school education, and Full-time employment."
+239b0c86-371a-3080-3705-07c92462fe0d,NORTH_-879e5f,2014-07-12,Patient seen for a scheduled wellness encounter. Care-coordination note: Stress.
+239b0c86-371a-3080-4c61-740bae151fb8,NORTH_-879e5f,2016-01-26,Outpatient visit for general evaluation. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] during this encounter.
+239b0c86-371a-3080-d705-55c103ebe520,NORTH_-879e5f,2017-07-15,Patient seen for a scheduled wellness encounter.
+239b0c86-371a-3080-21af-7582d7d624b7,NORTH_-879e5f,2018-01-15,Diagnosed with acute infective cystitis at this visit. Patient given {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] during this encounter.
+239b0c86-371a-3080-5a95-3f1faf102297,NORTH_-879e5f,2018-08-31,Patient presents today with acute infective cystitis. Plan: initiate cephalexin 500 MG Oral Tablet.
+239b0c86-371a-3080-63cb-55792a22ce1e,NORTH_-879e5f,2019-05-22,Patient reports symptoms consistent with acute viral pharyngitis. New findings on exam include acute viral pharyngitis.
+239b0c86-371a-3080-1921-fc20d50e762c,NORTH_-879e5f,2020-01-05,Patient seen for a scheduled outpatient encounter. Started on 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection.
+239b0c86-371a-3080-d2e1-0ef6160fa37e,NORTH_-879e5f,2020-04-18,"Routine outpatient visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+239b0c86-371a-3080-a747-1569955c5adb,NORTH_-879e5f,2020-07-18,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Stress, and Victim of intimate partner abuse."
+239b0c86-371a-3080-90e2-720148158646,NORTH_-879e5f,2020-07-25,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-2c39-ea1a55405f24,NORTH_-879e5f,2020-10-24,"Routine outpatient visit, no acute complaints voiced at check-in."
+239b0c86-371a-3080-2a80-536ffd0830ab,NORTH_-879e5f,2021-01-23,"Routine outpatient visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+239b0c86-371a-3080-c6b6-64e2d9eef026,NORTH_-879e5f,2021-04-24,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-2525-2dd1449b5d98,NORTH_-879e5f,2021-07-24,Patient seen for a scheduled outpatient encounter. Medication list unchanged.
+239b0c86-371a-3080-5c63-19137a19645e,NORTH_-879e5f,2021-08-21,"Routine outpatient visit, no acute complaints voiced at check-in."
+239b0c86-371a-3080-8cb7-caf8d0bccfb3,NORTH_-879e5f,2021-10-23,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-5731-cf137eeb7e2d,NORTH_-879e5f,2021-12-25,Patient seen for a scheduled outpatient encounter. Medications prescribed today: 1 ML medroxyprogesterone acetate 150 MG/ML Injection.
+239b0c86-371a-3080-fa24-fe1b553753cc,NORTH_-879e5f,2022-01-22,"Routine outpatient visit, no acute complaints voiced at check-in. Medication list unchanged."
+239b0c86-371a-3080-5c3b-9056b9113129,NORTH_-879e5f,2022-04-23,"Routine outpatient visit, no acute complaints voiced at check-in."
+239b0c86-371a-3080-da2b-bee98c0e8ed6,NORTH_-879e5f,2022-07-23,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-3401-f06deeabcd58,NORTH_-879e5f,2022-10-15,New findings on exam include gingivitis. Care-coordination note: Medication review due and Social isolation.
+239b0c86-371a-3080-9b32-2894ac29b6fa,NORTH_-879e5f,2022-10-22,Patient seen for a scheduled outpatient encounter. Care-coordination note: Medication review due.
+239b0c86-371a-3080-f892-ea08f9fdbdfa,NORTH_-879e5f,2022-10-29,Seen in clinic for acute bronchitis. Diagnosed with acute bronchitis at this visit. Medications prescribed today: Acetaminophen 325 MG Oral Tablet.
+239b0c86-371a-3080-c2a5-81a39720127c,NORTH_-879e5f,2022-11-05,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-a1d5-21ea652c2c51,NORTH_-879e5f,2022-11-12,Seen in clinic for gum inflammation. New findings on exam include infection of tooth. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+239b0c86-371a-3080-529f-c94be9c07755,NORTH_-879e5f,2022-12-20,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]."
+239b0c86-371a-3080-5d16-a79cfd29843c,NORTH_-879e5f,2022-12-24,Outpatient visit for general evaluation.
+239b0c86-371a-3080-cb32-73f087a66bda,NORTH_-879e5f,2023-02-04,"Routine outpatient visit, no acute complaints voiced at check-in."
+239b0c86-371a-3080-bb63-6afd569b1ef2,NORTH_-879e5f,2023-02-11,Patient presents today with laceration - injury. New findings on exam include laceration - injury and laceration of forearm. Started on Acetaminophen 325 MG Oral Tablet.
+239b0c86-371a-3080-e532-c4cf2a692624,NORTH_-879e5f,2023-05-06,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-6120-abc460eff99c,NORTH_-879e5f,2023-07-22,Assessment: severe anxiety with panic features. Social history noted: Stress.
+239b0c86-371a-3080-5ce9-50d053801203,NORTH_-879e5f,2023-08-05,"Routine outpatient visit, no acute complaints voiced at check-in. Medication list unchanged."
+239b0c86-371a-3080-e494-4c4d16711b1b,NORTH_-879e5f,2023-11-04,Outpatient visit for general evaluation. Medication list unchanged.
+239b0c86-371a-3080-cabf-b6f2b116d003,NORTH_-879e5f,2023-12-19,Patient seen for a scheduled outpatient encounter. Started on {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique].
+239b0c86-371a-3080-9ab7-8b267995152f,NORTH_-879e5f,2024-02-03,Outpatient visit for general evaluation.
+239b0c86-371a-3080-2179-4f0c635cb815,NORTH_-879e5f,2024-05-04,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-49a5-dbd6302f9dc1,NORTH_-879e5f,2024-08-03,"Routine outpatient visit, no acute complaints voiced at check-in."
+239b0c86-371a-3080-4e67-4df1f96f9eea,NORTH_-879e5f,2024-11-02,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-e4bb-f93e65b86270,NORTH_-879e5f,2024-11-09,Presenting complaint: viral sinusitis. Clinical impression: a sinus infection.
+239b0c86-371a-3080-eacc-19377fafa53a,NORTH_-879e5f,2025-02-01,Outpatient visit for general evaluation. Medication list unchanged.
+239b0c86-371a-3080-4049-0285d0b4518c,NORTH_-879e5f,2025-05-03,Patient seen for a scheduled outpatient encounter.
+239b0c86-371a-3080-819e-685ce9cf4ffa,NORTH_-879e5f,2025-08-02,"Routine outpatient visit, no acute complaints voiced at check-in."
+239b0c86-371a-3080-c538-81d26b024ff7,NORTH_-879e5f,2025-09-27,Patient was evaluated for normal pregnancy. Assessment: normal pregnancy.
+239b0c86-371a-3080-0c0a-f7ee5d0a77c3,NORTH_-879e5f,2025-10-25,Patient reports symptoms consistent with normal pregnancy.
+239b0c86-371a-3080-50a9-a52cedafbe13,NORTH_-879e5f,2025-11-22,Follow-up visit regarding normal pregnancy.
+239b0c86-371a-3080-3b65-7b4fa24e244f,NORTH_-879e5f,2025-12-20,Seen in clinic for normal pregnancy. Medication list unchanged.
+239b0c86-371a-3080-8f3c-6df842fd3d0d,NORTH_-879e5f,2026-01-17,Follow-up visit regarding normal pregnancy.
+239b0c86-371a-3080-e114-0f92ec76c7fa,NORTH_-879e5f,2026-02-14,Presenting complaint: normal pregnancy.
+239b0c86-371a-3080-08d2-d10f08926e02,NORTH_-879e5f,2026-03-14,Seen in clinic for normal pregnancy.
+239b0c86-371a-3080-63d3-2a5accf8ce04,NORTH_-879e5f,2026-04-11,Patient reports symptoms consistent with normal pregnancy.
+239b0c86-371a-3080-c5ad-1c0f353ae7c7,NORTH_-879e5f,2026-04-25,Seen in clinic for normal pregnancy.
+239b0c86-371a-3080-1dd0-0c519384ef64,NORTH_-879e5f,2026-05-02,Patient presents today with normal pregnancy. Medication list unchanged.
+239b0c86-371a-3080-eca3-7b0794d2f4d5,NORTH_-879e5f,2026-06-13,Ambulatory visit for general evaluation.
+239b0c86-371a-3080-e10b-744151fca259,NORTH_-879e5f,2026-07-25,Diagnosed with gingivitis at this visit. Care-coordination note: Unemployed.
+239b0c86-371a-3080-1e57-cf86a2510d4b,NORTH_-879e5f,2026-08-08,Presenting complaint: gum inflammation.
+7132442e-b0b9-a886-bed2-7f538e542b05,NORTH_-889d4f,2007-02-18,Patient seen for a scheduled wellness encounter. Care-coordination note: Received higher education and Full-time employment.
+7132442e-b0b9-a886-eb08-907164c08dcf,NORTH_-889d4f,2011-02-27,Patient seen for a scheduled wellness encounter. Care-coordination note: Social isolation. No new medications prescribed at this time.
+7132442e-b0b9-a886-620c-21e21ab91983,NORTH_-889d4f,2014-03-02,Patient seen for a scheduled wellness encounter. Social history noted: Limited social contact and Reports of violence in the environment.
+7132442e-b0b9-a886-9c04-e8d342e3eb0b,NORTH_-889d4f,2017-03-05,Wellness visit for general evaluation. Care-coordination note: Medication review due and Stress.
+7132442e-b0b9-a886-91d2-dd922ea627bd,NORTH_-889d4f,2017-12-10,Patient reports symptoms consistent with normal pregnancy. Diagnosed with normal pregnancy at this visit.
+7132442e-b0b9-a886-31ee-4b12bcc81cda,NORTH_-889d4f,2017-12-29,Seen in clinic for normal pregnancy.
+7132442e-b0b9-a886-a145-067b606a5674,NORTH_-889d4f,2018-01-16,Seen in clinic for normal pregnancy. No new medications prescribed at this time.
+7132442e-b0b9-a886-ef00-9f75fc589cbb,NORTH_-889d4f,2018-12-02,Presenting complaint: normal pregnancy. Patient continues to be followed for normal pregnancy. Medication list unchanged.
+7132442e-b0b9-a886-ed59-d2701d86ac01,NORTH_-889d4f,2018-12-30,Patient presents today with normal pregnancy.
+7132442e-b0b9-a886-160f-9a02d6be76ae,NORTH_-889d4f,2019-01-27,Patient was evaluated for normal pregnancy. Assessment: miscarriage in second trimester and fetus with chromosomal abnormality.
+7132442e-b0b9-a886-a241-e6540dbf1920,NORTH_-889d4f,2019-02-14,Patient reports symptoms consistent with fetus with chromosomal abnormality. New findings on exam include past pregnancy history of miscarriage. No new medications prescribed at this time.
+7132442e-b0b9-a886-ad2e-8411a6c0d0a7,NORTH_-889d4f,2020-03-08,"Clinical impression: high blood pressure and gum inflammation. Care-coordination note: Medication review due, Part-time employment, and Victim of intimate partner abuse. Plan: initiate lisinopril 10 MG Oral Tablet and lisinopril 10 MG Oral Tablet."
+7132442e-b0b9-a886-7448-385cb5d501f5,NORTH_-889d4f,2020-03-22,Patient was evaluated for gum inflammation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+7132442e-b0b9-a886-4c03-c1c3c0bbacd6,NORTH_-889d4f,2020-04-07,Presenting complaint: essential hypertension. Patient given Hydrochlorothiazide 25 MG Oral Tablet during this encounter.
+7132442e-b0b9-a886-e6b3-450b100b1494,NORTH_-889d4f,2020-06-10,Patient seen for a scheduled outpatient encounter. Patient given {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] during this encounter.
+7132442e-b0b9-a886-da83-c201dc3154d6,NORTH_-889d4f,2021-03-14,Wellness visit for general evaluation. Social history noted: Full-time employment and Misuses drugs. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+7132442e-b0b9-a886-2bea-32785bbdeba2,NORTH_-889d4f,2021-10-17,Outpatient visit for general evaluation.
+7132442e-b0b9-a886-fca3-948ca137d029,NORTH_-889d4f,2022-03-20,New findings on exam include significant weight gain. Social history noted: Medication review due. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+7132442e-b0b9-a886-fe92-7f0d89912259,NORTH_-889d4f,2022-07-10,Presenting complaint: normal pregnancy. New findings on exam include normal pregnancy. No new medications prescribed at this time.
+7132442e-b0b9-a886-8d08-b3e8d05ad4e9,NORTH_-889d4f,2022-07-21,Patient reports symptoms consistent with normal pregnancy.
+7132442e-b0b9-a886-e7a2-a57021b22e87,NORTH_-889d4f,2022-08-10,Patient reports symptoms consistent with normal pregnancy.
+7132442e-b0b9-a886-05be-65df068c3d6a,NORTH_-889d4f,2022-08-21,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]."
+7132442e-b0b9-a886-1e63-322384eb2922,NORTH_-889d4f,2022-08-30,Presenting complaint: sinusitis. Diagnosed with sinusitis at this visit.
+7132442e-b0b9-a886-c9f4-333cf26d82c2,NORTH_-889d4f,2022-10-22,Presenting complaint: sinusitis. New findings on exam include chronic sinusitis.
+7132442e-b0b9-a886-818a-250528165e26,NORTH_-889d4f,2022-10-27,Patient presents today with acute bronchitis. Clinical impression: acute bronchitis. Medications prescribed today: Acetaminophen 325 MG Oral Tablet.
+7132442e-b0b9-a886-0459-9340d4890046,NORTH_-889d4f,2022-11-06,"Emergency visit for general evaluation. Care-coordination note: Medication review due, Not in labor force, Stress, and Has a criminal record. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter."
+7132442e-b0b9-a886-4138-b570193f1642,NORTH_-889d4f,2022-11-13,Urgentcare visit for general evaluation. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+7132442e-b0b9-a886-4363-331f905c18a8,NORTH_-889d4f,2022-11-20,Outpatient visit for general evaluation. Social history noted: Part-time employment. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+7132442e-b0b9-a886-cbf8-f7bf1b29008b,NORTH_-889d4f,2022-11-27,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+7132442e-b0b9-a886-ea3f-a73adf5feff5,NORTH_-889d4f,2022-12-04,Presenting complaint: sinusitis.
+7132442e-b0b9-a886-2b3f-b873e6926b9f,NORTH_-889d4f,2023-03-26,Patient seen for a scheduled wellness encounter. Social history noted: Full-time employment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+7132442e-b0b9-a886-2a9b-875ff84b1c48,NORTH_-889d4f,2023-08-16,Outpatient visit for general evaluation. Medications prescribed today: {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day].
+7132442e-b0b9-a886-ce01-741e991e3025,NORTH_-889d4f,2024-03-31,Patient seen for a scheduled wellness encounter. Care-coordination note: Stress. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+7132442e-b0b9-a886-9155-bb137b73c35e,NORTH_-889d4f,2024-04-14,"Routine ambulatory visit, no acute complaints voiced at check-in. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel."
+7132442e-b0b9-a886-beee-62912fa2c614,NORTH_-889d4f,2024-08-10,Patient seen for a scheduled outpatient encounter. Care-coordination note: Sterilization requested.
+7132442e-b0b9-a886-ffb8-bf1fe921f656,NORTH_-889d4f,2024-08-19,Assessment: history of tubal ligation.
+7132442e-b0b9-a886-99ba-a6a75f8e294a,NORTH_-889d4f,2025-04-06,Patient continues to be followed for severe anxiety with panic features. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+7132442e-b0b9-a886-3665-34ac7e917376,NORTH_-889d4f,2025-04-20,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+7132442e-b0b9-a886-dd3e-61db29e37a5f,NORTH_-889d4f,2025-04-27,Presenting complaint: laceration - injury. Patient continues to be followed for laceration - injury and laceration of thigh. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+7132442e-b0b9-a886-6c29-693da418b191,NORTH_-889d4f,2026-04-12,Patient seen for a scheduled wellness encounter. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+83093df7-a1e4-b827-a944-208533d7b47b,NORTH_-cd5527,2016-12-05,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. No new medications prescribed at this time.
+83093df7-a1e4-b827-e1b4-aece8e5a599f,NORTH_-cd5527,2017-12-11,Patient seen for a scheduled wellness encounter.
+83093df7-a1e4-b827-1af2-c252a592fbd4,NORTH_-cd5527,2018-05-21,"Routine urgentcare visit, no acute complaints voiced at check-in."
+83093df7-a1e4-b827-90f9-eaeee98f1f04,NORTH_-cd5527,2018-12-17,"Routine wellness visit, no acute complaints voiced at check-in."
+83093df7-a1e4-b827-ec35-4f898790b3a4,NORTH_-cd5527,2019-12-23,New findings on exam include gingivitis. Social history noted: Medication review due.
+83093df7-a1e4-b827-cc02-6335b974c638,NORTH_-cd5527,2020-12-28,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+83093df7-a1e4-b827-a188-e6e3a33df48c,NORTH_-cd5527,2022-01-03,Assessment: gum inflammation.
+83093df7-a1e4-b827-1f10-39a59a8ca5ab,NORTH_-cd5527,2023-01-09,Assessment: gum inflammation.
+83093df7-a1e4-b827-567e-9ea93ee14b40,NORTH_-cd5527,2024-01-15,Wellness visit for general evaluation.
+83093df7-a1e4-b827-520f-8e09ffce32d9,NORTH_-cd5527,2025-01-20,"Routine wellness visit, no acute complaints voiced at check-in."
+83093df7-a1e4-b827-d0f4-c2c1f8aee421,NORTH_-cd5527,2026-01-26,Diagnosed with gingivitis at this visit. Social history noted: Medication review due.
+1d63466e-0cfd-eb12-6f25-6253030e6685,NORTH_-238b1d,1972-11-28,Patient seen for a scheduled wellness encounter. Social history noted: Received higher education.
+1d63466e-0cfd-eb12-078b-7c1e59f012fb,NORTH_-238b1d,1988-12-20,New findings on exam include significant weight gain.
+1d63466e-0cfd-eb12-faff-f211e8dab0f4,NORTH_-238b1d,1996-10-15,Assessment: hyperlipidemia.
+1d63466e-0cfd-eb12-239d-df9bcbcda3e7,NORTH_-238b1d,1996-11-05,Follow-up visit regarding hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-6d75-3379042518f2,NORTH_-238b1d,2004-10-12,Patient continues to be followed for polyp of colon.
+1d63466e-0cfd-eb12-6acc-480e20359753,NORTH_-238b1d,2005-11-24,Patient presents today with polyp of colon. Assessment: recurrent rectal polyp and a low blood count.
+1d63466e-0cfd-eb12-a0b2-dec3b555f261,NORTH_-238b1d,2006-10-17,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Limited social contact."
+1d63466e-0cfd-eb12-82ce-a042fd331cd1,NORTH_-238b1d,2007-07-04,Patient was evaluated for osteoarthritis of knee. Diagnosed with osteoarthritis of knee at this visit. Medications prescribed today: Naproxen sodium 220 MG Oral Tablet.
+1d63466e-0cfd-eb12-28cf-4d4ea8699a7f,NORTH_-238b1d,2007-10-23,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Social isolation."
+1d63466e-0cfd-eb12-64d2-02c4c75478cf,NORTH_-238b1d,2010-11-09,"Patient continues to be followed for ischemic heart disease. Medications prescribed today: Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, and Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray."
+1d63466e-0cfd-eb12-0993-a57f39fb1dee,NORTH_-238b1d,2014-12-02,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment. Medication list unchanged.
+1d63466e-0cfd-eb12-dde9-462fb9852ba8,NORTH_-238b1d,2015-12-15,Seen in clinic for hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+1d63466e-0cfd-eb12-9912-dfe95e92dff1,NORTH_-238b1d,2016-12-13,Wellness visit for general evaluation. Social history noted: Medication review due and Stress.
+1d63466e-0cfd-eb12-e47f-5de60e437176,NORTH_-238b1d,2016-12-14,Patient was evaluated for hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-06fe-510b14c095fc,NORTH_-238b1d,2016-12-27,"Routine ambulatory visit, no acute complaints voiced at check-in. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel."
+1d63466e-0cfd-eb12-40e9-8feed080b478,NORTH_-238b1d,2017-12-19,Wellness visit for general evaluation. Care-coordination note: Medication review due and Part-time employment. No new medications prescribed at this time.
+1d63466e-0cfd-eb12-f951-153397413067,NORTH_-238b1d,2017-12-26,Presenting complaint: hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-94ff-aa4e08a03837,NORTH_-238b1d,2018-12-25,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Full-time employment."
+1d63466e-0cfd-eb12-7735-22bb20e36bb6,NORTH_-238b1d,2018-12-26,Patient reports symptoms consistent with hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-da1a-a163e2447d97,NORTH_-238b1d,2019-01-08,Ambulatory visit for general evaluation.
+1d63466e-0cfd-eb12-b07a-cf6b2db83995,NORTH_-238b1d,2019-10-08,Patient presents today with malignant neoplasm of colon.
+1d63466e-0cfd-eb12-4e8a-1d4ec3b55480,NORTH_-238b1d,2019-12-31,Wellness visit for general evaluation. Social history noted: Stress.
+1d63466e-0cfd-eb12-fc3e-dbdac058d902,NORTH_-238b1d,2020-01-07,Presenting complaint: hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-f137-68c3326a1936,NORTH_-238b1d,2020-01-14,Patient seen for a scheduled ambulatory encounter. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+1d63466e-0cfd-eb12-7abd-6ddfab5af360,NORTH_-238b1d,2020-06-04,Patient was evaluated for concussion injury of brain. Diagnosed with concussion injury of brain and concussion with loss of consciousness at this visit.
+1d63466e-0cfd-eb12-a751-98a34a540860,NORTH_-238b1d,2020-07-15,Patient reports symptoms consistent with concussion with loss of consciousness. No new medications prescribed at this time.
+1d63466e-0cfd-eb12-254a-47ac3916ff6a,NORTH_-238b1d,2021-01-05,Patient seen for a scheduled wellness encounter.
+1d63466e-0cfd-eb12-bd78-0fe004653b22,NORTH_-238b1d,2021-01-06,Patient reports symptoms consistent with hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-c084-51c38334f687,NORTH_-238b1d,2021-01-19,Outpatient visit for general evaluation.
+1d63466e-0cfd-eb12-4188-1dc9d9f16205,NORTH_-238b1d,2021-02-16,Outpatient visit for general evaluation. No new medications prescribed at this time.
+1d63466e-0cfd-eb12-6899-7b247a84c02e,NORTH_-238b1d,2022-01-11,Wellness visit for general evaluation. Medication list unchanged.
+1d63466e-0cfd-eb12-90a4-e5619c1e38f6,NORTH_-238b1d,2022-01-18,Patient was evaluated for hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-e13e-71b180faecd1,NORTH_-238b1d,2022-01-25,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+1d63466e-0cfd-eb12-e194-7e6dba60304d,NORTH_-238b1d,2022-07-11,Patient presents today with acute bacterial sinusitis. New findings on exam include acute bacterial sinusitis.
+1d63466e-0cfd-eb12-371d-ad41a33812ce,NORTH_-238b1d,2022-07-28,Follow-up visit regarding acute bacterial sinusitis. Patient continues to be followed for long-standing sinus infection.
+1d63466e-0cfd-eb12-2a40-1f81357e5a18,NORTH_-238b1d,2022-10-06,Patient reports symptoms consistent with acute bacterial sinusitis.
+1d63466e-0cfd-eb12-f64b-1d810742f729,NORTH_-238b1d,2022-11-17,Patient presents today with acute bacterial sinusitis.
+1d63466e-0cfd-eb12-4eb5-0ad9b26c312a,NORTH_-238b1d,2022-12-08,Follow-up visit regarding acute bacterial sinusitis.
+1d63466e-0cfd-eb12-c617-600b75f132fd,NORTH_-238b1d,2022-12-20,Patient seen for a scheduled outpatient encounter. Social history noted: Medication review due and Social isolation.
+1d63466e-0cfd-eb12-64e5-4847d162bcb5,NORTH_-238b1d,2023-01-03,"Routine ambulatory visit, no acute complaints voiced at check-in. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel."
+1d63466e-0cfd-eb12-0fe6-f4644c8db0bb,NORTH_-238b1d,2023-01-17,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Stress. No new medications prescribed at this time."
+1d63466e-0cfd-eb12-304b-48a2dfd5accf,NORTH_-238b1d,2023-01-18,Follow-up visit regarding hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-8e7b-f41157f1f5cf,NORTH_-238b1d,2024-01-23,Wellness visit for general evaluation. Social history noted: Medication review due.
+1d63466e-0cfd-eb12-06e5-414cc6c0a273,NORTH_-238b1d,2024-01-30,Seen in clinic for hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-c5df-11c27acd8861,NORTH_-238b1d,2024-07-05,Patient reports symptoms consistent with laceration - injury. Assessment: laceration - injury and laceration of foot. Plan: initiate Acetaminophen 325 MG Oral Tablet.
+1d63466e-0cfd-eb12-1023-a90eb5f765a8,NORTH_-238b1d,2025-01-28,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Stress. Medication list unchanged."
+1d63466e-0cfd-eb12-3f42-76b478c00540,NORTH_-238b1d,2025-01-29,Seen in clinic for hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+1d63466e-0cfd-eb12-6ba7-65e9bf978a83,NORTH_-238b1d,2026-02-03,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Misuses drugs."
+1d63466e-0cfd-eb12-3158-566e4dcd39cd,NORTH_-238b1d,2026-02-06,Seen in clinic for a sore throat. Clinical impression: a sore throat.
+1d63466e-0cfd-eb12-299b-67e25538a06e,NORTH_-238b1d,2026-02-10,Seen in clinic for hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+ccaa0537-4e7f-99d8-8030-8e0713557873,NORTH_-c76981,2004-12-18,Patient was evaluated for acute bacterial sinusitis. Assessment: chronic sinusitis.
+ccaa0537-4e7f-99d8-0f19-87292b393e21,NORTH_-c76981,2005-11-01,Presenting complaint: cow's milk.
+ccaa0537-4e7f-99d8-5b00-ea8836fb3d5c,NORTH_-c76981,2005-11-11,Patient was evaluated for allergic disposition. Medications prescribed today: Loratadine 5 MG Chewable Tablet and NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Chart notes an existing Cow's milk allergy.
+ccaa0537-4e7f-99d8-622d-58938fae3366,NORTH_-c76981,2007-10-13,Follow-up visit regarding atopic dermatitis. New findings on exam include atopic dermatitis.
+ccaa0537-4e7f-99d8-16ed-742008811cf5,NORTH_-c76981,2007-12-04,Patient presents today with perennial allergic rhinitis with seasonal variation. Assessment: perennial allergic rhinitis with seasonal variation.
+ccaa0537-4e7f-99d8-1e1c-1b5866601df1,NORTH_-c76981,2015-10-27,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+ccaa0537-4e7f-99d8-44fa-5e07c6c808e6,NORTH_-c76981,2016-11-01,"Routine wellness visit, no acute complaints voiced at check-in."
+ccaa0537-4e7f-99d8-a4fd-08357a6db664,NORTH_-c76981,2017-09-18,Seen in clinic for cow's milk.
+ccaa0537-4e7f-99d8-3900-807fb3d44af2,NORTH_-c76981,2017-10-17,Seen in clinic for allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-c90c-d4f1987515d3,NORTH_-c76981,2017-11-07,Wellness visit for general evaluation. Care-coordination note: Medication review due and Risk activity involvement.
+ccaa0537-4e7f-99d8-aa5a-ef4d65560473,NORTH_-c76981,2017-11-10,Patient presents today with allergic disposition.
+ccaa0537-4e7f-99d8-d3ab-4cd1e779ca14,NORTH_-c76981,2017-12-05,Presenting complaint: allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-2a53-c72d4a336087,NORTH_-c76981,2017-12-30,Patient was evaluated for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-fb05-337e96036e86,NORTH_-c76981,2018-01-23,Patient was evaluated for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-f88d-921722a83541,NORTH_-c76981,2018-02-14,Patient presents today with allergic disposition.
+ccaa0537-4e7f-99d8-ef00-8eaea8880f12,NORTH_-c76981,2018-03-10,Patient reports symptoms consistent with allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-eb41-18c7b2fe5a16,NORTH_-c76981,2018-04-03,Presenting complaint: allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-5711-2d8a89a1328b,NORTH_-c76981,2018-04-29,Seen in clinic for allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-a63d-d8172c9d284e,NORTH_-c76981,2018-05-26,Patient was evaluated for allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-c91e-e2a20556028b,NORTH_-c76981,2018-06-19,Seen in clinic for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-59d9-49914b077c41,NORTH_-c76981,2018-07-13,Presenting complaint: allergic disposition.
+ccaa0537-4e7f-99d8-882f-0af0ab72fa9f,NORTH_-c76981,2018-08-09,Patient reports symptoms consistent with allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-89dc-32f6b01f6882,NORTH_-c76981,2018-09-01,Presenting complaint: allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-1e95-e241b9e3371f,NORTH_-c76981,2018-09-27,Seen in clinic for allergic disposition.
+ccaa0537-4e7f-99d8-e209-53fc3c227771,NORTH_-c76981,2018-10-23,Follow-up visit regarding allergic disposition.
+ccaa0537-4e7f-99d8-c920-72e3f6ebe81f,NORTH_-c76981,2018-11-13,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Medication list unchanged."
+ccaa0537-4e7f-99d8-8c1d-43a1a9316276,NORTH_-c76981,2018-11-15,Presenting complaint: allergic disposition.
+ccaa0537-4e7f-99d8-4b09-d5e12cd1720b,NORTH_-c76981,2018-12-12,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-0a51-dd67e08471d3,NORTH_-c76981,2019-01-02,Patient reports symptoms consistent with allergic disposition.
+ccaa0537-4e7f-99d8-be74-99eab04a6e1d,NORTH_-c76981,2019-01-25,Presenting complaint: allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-3ac9-ca248dedb930,NORTH_-c76981,2019-02-20,Seen in clinic for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-e634-908e714e8a92,NORTH_-c76981,2019-03-17,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-a03d-9a265be59bdb,NORTH_-c76981,2019-04-07,Patient reports symptoms consistent with allergic disposition.
+ccaa0537-4e7f-99d8-1eab-cf7d7fa1dbf4,NORTH_-c76981,2019-04-28,Presenting complaint: allergic disposition.
+ccaa0537-4e7f-99d8-15a2-c2774a57b80e,NORTH_-c76981,2019-05-24,Patient reports symptoms consistent with allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-b61a-abc6905c8bb0,NORTH_-c76981,2019-06-20,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-1323-0f3c09e11751,NORTH_-c76981,2019-07-14,Presenting complaint: allergic disposition.
+ccaa0537-4e7f-99d8-cf4b-129b0a23ea02,NORTH_-c76981,2019-08-10,Patient reports symptoms consistent with allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-bfa4-fc26d396ae64,NORTH_-c76981,2019-09-05,Seen in clinic for allergic disposition.
+ccaa0537-4e7f-99d8-4e04-c9d8e2a0bd77,NORTH_-c76981,2019-09-26,Follow-up visit regarding allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-b3ba-564091d0a01a,NORTH_-c76981,2019-10-19,Patient reports symptoms consistent with allergic disposition.
+ccaa0537-4e7f-99d8-ebb1-32267870e964,NORTH_-c76981,2019-11-09,Follow-up visit regarding allergic disposition.
+ccaa0537-4e7f-99d8-baee-301f69e6c082,NORTH_-c76981,2019-11-19,New findings on exam include gum inflammation. Care-coordination note: Medication review due. Medication list unchanged.
+ccaa0537-4e7f-99d8-a675-e79a781ea527,NORTH_-c76981,2019-12-03,Patient reports symptoms consistent with gingivitis. New findings on exam include gingival disease. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+ccaa0537-4e7f-99d8-b272-c51381457b6d,NORTH_-c76981,2019-12-17,Seen in clinic for allergic disposition.
+ccaa0537-4e7f-99d8-0e10-3a10daa554f9,NORTH_-c76981,2020-01-12,Seen in clinic for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-ba6e-ddbe797041bd,NORTH_-c76981,2020-02-04,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-b122-44b9d65bbdb8,NORTH_-c76981,2020-02-29,Patient reports symptoms consistent with allergic disposition.
+ccaa0537-4e7f-99d8-c329-9dc289c9ed22,NORTH_-c76981,2020-03-25,Presenting complaint: allergic disposition.
+ccaa0537-4e7f-99d8-8d92-e259a252f7ae,NORTH_-c76981,2020-04-19,Patient reports symptoms consistent with allergic disposition.
+ccaa0537-4e7f-99d8-85ab-1011930d86ff,NORTH_-c76981,2020-05-15,Presenting complaint: allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-7160-7afe5c2cc9d2,NORTH_-c76981,2020-06-09,Follow-up visit regarding allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-8511-0b6e5822d290,NORTH_-c76981,2020-07-01,Patient was evaluated for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-ed1e-4da06402b4f2,NORTH_-c76981,2020-07-28,Follow-up visit regarding allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-77d6-683868a06584,NORTH_-c76981,2020-08-20,Seen in clinic for allergic disposition.
+ccaa0537-4e7f-99d8-1187-aeba875d49ea,NORTH_-c76981,2020-09-16,Patient presents today with allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-cf19-d0880784f413,NORTH_-c76981,2020-10-01,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] during this encounter."
+ccaa0537-4e7f-99d8-0cb3-f0ec82621bb6,NORTH_-c76981,2020-10-07,Patient was evaluated for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-37ff-3cb24be6a85f,NORTH_-c76981,2020-11-04,Follow-up visit regarding allergic disposition.
+ccaa0537-4e7f-99d8-1bec-5e64b286e62d,NORTH_-c76981,2020-11-24,Wellness visit for general evaluation.
+ccaa0537-4e7f-99d8-7d2c-f17d3afc4d2f,NORTH_-c76981,2020-11-29,Patient reports symptoms consistent with allergic disposition.
+ccaa0537-4e7f-99d8-9580-33b998cff01f,NORTH_-c76981,2020-12-25,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-e304-d8501dbd464e,NORTH_-c76981,2021-01-17,Follow-up visit regarding allergic disposition.
+ccaa0537-4e7f-99d8-0e8c-57e1a3fbf68a,NORTH_-c76981,2021-02-12,Patient was evaluated for allergic disposition. Medication list unchanged.
+ccaa0537-4e7f-99d8-313d-80b685e7caef,NORTH_-c76981,2021-02-28,Seen in clinic for atopic dermatitis. Medications prescribed today: Hydrocortisone 10 MG/ML Topical Cream.
+ccaa0537-4e7f-99d8-7b88-898d6b63b75e,NORTH_-c76981,2021-03-05,Patient presents today with allergic disposition.
+ccaa0537-4e7f-99d8-11aa-da14b285b487,NORTH_-c76981,2021-04-01,Presenting complaint: allergic disposition.
+ccaa0537-4e7f-99d8-06ff-4afc1aaee8dc,NORTH_-c76981,2021-04-28,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-e7b9-6a598fbfb45d,NORTH_-c76981,2021-05-25,Seen in clinic for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-0624-1a97fb619f23,NORTH_-c76981,2021-06-19,Follow-up visit regarding allergic disposition.
+ccaa0537-4e7f-99d8-bb0e-7c9c9db7d724,NORTH_-c76981,2021-07-11,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-324c-b18a4d81bd7b,NORTH_-c76981,2021-08-07,Follow-up visit regarding allergic disposition.
+ccaa0537-4e7f-99d8-75ce-c83b04fcb716,NORTH_-c76981,2021-09-01,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-8609-6428f0804391,NORTH_-c76981,2021-09-22,Patient was evaluated for allergic disposition.
+ccaa0537-4e7f-99d8-a9dc-372abce0a22e,NORTH_-c76981,2021-10-19,Presenting complaint: allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-d618-fb646ec71682,NORTH_-c76981,2021-11-12,Patient was evaluated for allergic disposition. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-4458-9e69a79a80c3,NORTH_-c76981,2021-11-30,Diagnosed with gum inflammation at this visit. Medication list unchanged.
+ccaa0537-4e7f-99d8-2def-cbbd4d3bc2e2,NORTH_-c76981,2021-12-09,Patient presents today with allergic disposition.
+ccaa0537-4e7f-99d8-1dcb-cb68d9b377d1,NORTH_-c76981,2021-12-14,Patient reports symptoms consistent with gum inflammation. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+ccaa0537-4e7f-99d8-ba4c-5353334782f8,NORTH_-c76981,2022-12-06,"New findings on exam include gum inflammation. Care-coordination note: Medication review due, Received higher education, Full-time employment, and Stress."
+ccaa0537-4e7f-99d8-1f94-9dbc9d2560e5,NORTH_-c76981,2022-12-20,Presenting complaint: gingivitis. Diagnosed with gum disease at this visit. Medication list unchanged.
+ccaa0537-4e7f-99d8-0806-06fca44d9c4b,NORTH_-c76981,2023-12-12,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+ccaa0537-4e7f-99d8-ca55-ad8b349a39ae,NORTH_-c76981,2024-04-02,Patient was evaluated for normal pregnancy. Diagnosed with normal pregnancy at this visit. Medication list unchanged.
+ccaa0537-4e7f-99d8-af43-dc2f0ab0aa97,NORTH_-c76981,2024-04-30,Presenting complaint: normal pregnancy.
+ccaa0537-4e7f-99d8-f25f-15dd47206088,NORTH_-c76981,2024-05-28,Patient reports symptoms consistent with normal pregnancy.
+ccaa0537-4e7f-99d8-6d92-e2d0ad96d25e,NORTH_-c76981,2024-06-25,Follow-up visit regarding normal pregnancy.
+ccaa0537-4e7f-99d8-3749-ae04c6584ac3,NORTH_-c76981,2024-07-23,Patient reports symptoms consistent with normal pregnancy. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-9c2c-88570b444419,NORTH_-c76981,2024-08-20,Presenting complaint: normal pregnancy.
+ccaa0537-4e7f-99d8-7a0c-3297fa6b8b65,NORTH_-c76981,2024-09-17,Follow-up visit regarding normal pregnancy. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-a44e-0be795149c84,NORTH_-c76981,2024-10-15,Presenting complaint: normal pregnancy. Diagnosed with eclampsia in pregnancy at this visit.
+ccaa0537-4e7f-99d8-e23c-16f36a83bdff,NORTH_-c76981,2024-10-29,Seen in clinic for normal pregnancy. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-70c7-000d75096ea0,NORTH_-c76981,2024-11-05,Presenting complaint: normal pregnancy.
+ccaa0537-4e7f-99d8-6d36-52411ae7433e,NORTH_-c76981,2024-12-17,Patient seen for a scheduled ambulatory encounter.
+ccaa0537-4e7f-99d8-e8fc-24bc363ae726,NORTH_-c76981,2024-12-24,Patient seen for a scheduled outpatient encounter. Patient given {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] during this encounter.
+ccaa0537-4e7f-99d8-8ac0-b0288842e021,NORTH_-c76981,2025-03-04,Patient seen for a scheduled urgentcare encounter. Social history noted: Medication review due and Part-time employment.
+ccaa0537-4e7f-99d8-2965-c19493cd90be,NORTH_-c76981,2025-03-11,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+ccaa0537-4e7f-99d8-d15e-a7e7dd110c72,NORTH_-c76981,2025-03-18,Follow-up visit regarding a chest cold. Clinical impression: acute bronchitis. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+ccaa0537-4e7f-99d8-ca8a-2573d2458647,NORTH_-c76981,2025-03-25,Patient continues to be followed for acute infective cystitis. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+ccaa0537-4e7f-99d8-842c-89f47ea77085,NORTH_-c76981,2025-05-16,Follow-up visit regarding acute infective cystitis. Started on ciprofloxacin 250 MG Oral Tablet.
+ccaa0537-4e7f-99d8-7a05-07ff1552a8ae,NORTH_-c76981,2026-03-31,Patient presents today with normal pregnancy. Clinical impression: normal pregnancy.
+ccaa0537-4e7f-99d8-5ba3-0ea826d62c81,NORTH_-c76981,2026-04-28,Patient reports symptoms consistent with normal pregnancy. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-7371-f5ecbd0002b5,NORTH_-c76981,2026-05-26,Seen in clinic for normal pregnancy.
+ccaa0537-4e7f-99d8-f969-a7cfb9712090,NORTH_-c76981,2026-06-23,Patient reports symptoms consistent with normal pregnancy. No new medications prescribed at this time.
+ccaa0537-4e7f-99d8-f3a2-2073938c48b0,NORTH_-c76981,2026-07-21,Presenting complaint: normal pregnancy. Medication list unchanged.
+57efda89-b582-bb08-1845-a233d9ef1b64,NORTH_-7c56c1,1991-12-04,Wellness visit for general evaluation. Care-coordination note: Risk activity involvement. No new medications prescribed at this time.
+57efda89-b582-bb08-896b-cf75a8b67d3f,NORTH_-7c56c1,1993-12-15,Assessment: borderline blood sugar and a low blood count. Social history noted: Received higher education. No new medications prescribed at this time.
+57efda89-b582-bb08-860d-80e116aff96a,NORTH_-7c56c1,1994-12-21,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Has a criminal record."
+57efda89-b582-bb08-2a76-fb4c96db7a79,NORTH_-7c56c1,2000-12-27,Diagnosed with type 2 diabetes at this visit.
+57efda89-b582-bb08-2b03-a02d15664c30,NORTH_-7c56c1,2003-12-31,Clinical impression: hypertriglyceridemia.
+57efda89-b582-bb08-d4c2-a60dfd28161c,NORTH_-7c56c1,2007-01-14,Patient reports symptoms consistent with contact dermatitis. Medications prescribed today: Hydrocortisone 10 MG/ML Topical Cream.
+57efda89-b582-bb08-45fc-2fbce654236e,NORTH_-7c56c1,2007-01-28,Patient reports symptoms consistent with allergic disposition. Started on cetirizine hydrochloride 10 MG Oral Tablet and NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Allergy history notable for Allergic disposition.
+57efda89-b582-bb08-6ff9-5006c9f9a320,NORTH_-7c56c1,2008-11-01,Seen in clinic for acute bacterial sinusitis. Clinical impression: long-standing sinus infection.
+57efda89-b582-bb08-7fbb-b28837e09104,NORTH_-7c56c1,2010-01-06,Diagnosed with metabolic syndrome X at this visit. No new medications prescribed at this time.
+57efda89-b582-bb08-af4b-c8101719e409,NORTH_-7c56c1,2011-04-27,New findings on exam include chronic kidney disease stage 1 and disorder of kidney due to diabetes mellitus.
+57efda89-b582-bb08-4864-36ecd4fa9c56,NORTH_-7c56c1,2014-05-21,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment.
+57efda89-b582-bb08-e9ac-55bb1b965b6a,NORTH_-7c56c1,2016-04-20,"Routine urgentcare visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+57efda89-b582-bb08-57b7-ea62855aa368,NORTH_-7c56c1,2016-06-01,Wellness visit for general evaluation. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-3b50-2b561fef03dc,NORTH_-7c56c1,2017-03-15,Diagnosed with gum inflammation at this visit. Care-coordination note: Part-time employment and Limited social contact. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-969c-54b5615b3e61,NORTH_-7c56c1,2017-03-29,Patient reports symptoms consistent with gingivitis.
+57efda89-b582-bb08-ec07-8adcafe76814,NORTH_-7c56c1,2017-06-07,New findings on exam include gum inflammation. Social history noted: Full-time employment. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-32d9-36f98d9ad720,NORTH_-7c56c1,2017-06-21,Patient reports symptoms consistent with gum inflammation.
+57efda89-b582-bb08-5cd7-93a9486aab7c,NORTH_-7c56c1,2017-09-16,Follow-up visit regarding acute bronchitis. Diagnosed with a chest cold at this visit. Plan: initiate Acetaminophen 325 MG Oral Tablet.
+57efda89-b582-bb08-43f0-2416145eb223,NORTH_-7c56c1,2017-09-27,Emergency visit for general evaluation. Care-coordination note: Medication review due and Stress. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-422d-097d8ebec7e7,NORTH_-7c56c1,2017-10-04,Patient seen for a scheduled emergency encounter. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-2759-bef47addbe80,NORTH_-7c56c1,2017-10-11,Patient seen for a scheduled emergency encounter. Social history noted: Part-time employment and Limited social contact. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-586a-e10af7650f68,NORTH_-7c56c1,2017-10-18,Urgentcare visit for general evaluation. Social history noted: Medication review due. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-528e-8e19281953df,NORTH_-7c56c1,2017-10-25,Outpatient visit for general evaluation. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-77db-d2451e757783,NORTH_-7c56c1,2017-11-01,Patient seen for a scheduled outpatient encounter. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-daa0-f7cff043c1a7,NORTH_-7c56c1,2017-11-08,"Routine urgentcare visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Not in labor force. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-301c-166fd3fc0fb2,NORTH_-7c56c1,2017-11-15,Patient reports symptoms consistent with acute viral pharyngitis. Diagnosed with a sore throat at this visit. Medication list unchanged.
+57efda89-b582-bb08-8bc1-79081acbd2d9,NORTH_-7c56c1,2017-12-27,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due and Full-time employment. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-3bc8-90e8edcb5b3e,NORTH_-7c56c1,2018-01-10,"Outpatient visit for general evaluation. Care-coordination note: Medication review due, Stress, and Victim of intimate partner abuse. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter."
+57efda89-b582-bb08-d96c-d20f3d0c1c8b,NORTH_-7c56c1,2018-01-17,"Routine ambulatory visit, no acute complaints voiced at check-in."
+57efda89-b582-bb08-bc42-807e0caee4eb,NORTH_-7c56c1,2018-02-07,Assessment: chronic kidney disease stage 2 and microalbuminuria due to type 2 diabetes mellitus. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-4137-0b48a3a8c5ef,NORTH_-7c56c1,2018-04-04,Patient continues to be followed for gum inflammation. Social history noted: Medication review due and Social isolation. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-69cc-36125d73b863,NORTH_-7c56c1,2018-04-18,Follow-up visit regarding gum inflammation. New findings on exam include gingival disease. No new medications prescribed at this time.
+57efda89-b582-bb08-c21f-a0018e61be22,NORTH_-7c56c1,2018-06-13,Patient continues to be followed for gum inflammation. Social history noted: Medication review due and Victim of intimate partner abuse. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-c58e-59677362fd07,NORTH_-7c56c1,2018-06-27,Patient presents today with gingivitis. Diagnosed with dental filling lost at this visit. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-2da0-b3fa3672de0f,NORTH_-7c56c1,2018-10-03,Diagnosed with gum inflammation at this visit. Care-coordination note: Medication review due and Limited social contact. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-950f-44046ada09f9,NORTH_-7c56c1,2018-10-10,Outpatient visit for general evaluation. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-966a-7ff22a59e40e,NORTH_-7c56c1,2018-10-17,Seen in clinic for gingivitis.
+57efda89-b582-bb08-4218-d9957fce1922,NORTH_-7c56c1,2018-10-31,Outpatient visit for general evaluation. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-117e-8f5de0118c16,NORTH_-7c56c1,2019-03-27,Diagnosed with gum inflammation at this visit. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-3e55-549ff5624476,NORTH_-7c56c1,2019-04-03,"Routine urgentcare visit, no acute complaints voiced at check-in. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-9f45-7bc3845b01d2,NORTH_-7c56c1,2019-04-10,Patient reports symptoms consistent with gum inflammation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-6056-b13567030251,NORTH_-7c56c1,2019-06-19,Wellness visit for general evaluation. Social history noted: Medication review due and Stress. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-8e78-e47d96d7cc38,NORTH_-7c56c1,2019-07-31,Patient continues to be followed for chronic kidney disease stage 3 and proteinuria due to type 2 diabetes mellitus. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-57ab-a55366f3324b,NORTH_-7c56c1,2019-08-14,Assessment: primary dental caries. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-fad5-50cf7e51f6cd,NORTH_-7c56c1,2019-08-28,Diagnosed with gum inflammation at this visit. Social history noted: Not in labor force. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-f9d1-ea9e4672bd89,NORTH_-7c56c1,2019-09-11,Follow-up visit regarding gum inflammation. Patient continues to be followed for fractured dental filling.
+57efda89-b582-bb08-4d30-b1f686c795cb,NORTH_-7c56c1,2019-10-30,"Patient seen for a scheduled outpatient encounter. Social history noted: Medication review due, Full-time employment, and Victim of intimate partner abuse. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-6661-c23b46bdd3e5,NORTH_-7c56c1,2019-11-27,New findings on exam include gingivitis. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-5bdf-2c919cea1aff,NORTH_-7c56c1,2019-12-11,Presenting complaint: gum inflammation. Clinical impression: gingival disease. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-447b-d02615e20e0f,NORTH_-7c56c1,2019-12-25,"New findings on exam include gingivitis. Care-coordination note: Medication review due, Part-time employment, and Limited social contact. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-df85-ab420bf99dc3,NORTH_-7c56c1,2020-01-08,Seen in clinic for gingivitis. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-d35a-6d7c19cff1c7,NORTH_-7c56c1,2020-02-19,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due and Full-time employment. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-ba69-230ada412c9b,NORTH_-7c56c1,2020-02-26,"Routine outpatient visit, no acute complaints voiced at check-in. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-9ae0-cef2fa730e94,NORTH_-7c56c1,2020-03-04,New findings on exam include leaking dental filling. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+57efda89-b582-bb08-17ae-f6b8e81c9738,NORTH_-7c56c1,2020-04-29,Outpatient visit for general evaluation. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-22f8-74270d8952cb,NORTH_-7c56c1,2020-06-24,Wellness visit for general evaluation. Care-coordination note: Medication review due and Stress. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-ffb6-7931ff8b182e,NORTH_-7c56c1,2020-10-14,Patient seen for a scheduled outpatient encounter. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-0c3d-8d460a65a819,NORTH_-7c56c1,2020-10-21,"Routine outpatient visit, no acute complaints voiced at check-in. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-caa4-d86856d366a5,NORTH_-7c56c1,2020-11-25,"Routine urgentcare visit, no acute complaints voiced at check-in. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-f9a7-0ddbe451bb7a,NORTH_-7c56c1,2021-01-13,"Outpatient visit for general evaluation. Social history noted: Part-time employment, Social isolation, and Stress. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-4367-91b38b2c41b7,NORTH_-7c56c1,2021-01-20,"Routine urgentcare visit, no acute complaints voiced at check-in. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter."
+57efda89-b582-bb08-bd21-bb28c41975ab,NORTH_-7c56c1,2021-02-17,Assessment: gingivitis. Social history noted: Medication review due and Full-time employment. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-8187-560328b438bf,NORTH_-7c56c1,2021-03-03,Patient reports symptoms consistent with gum inflammation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-dc50-65a8b2f55059,NORTH_-7c56c1,2021-04-21,Patient continues to be followed for gum inflammation. Social history noted: Medication review due and Unemployed. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-94a9-04145389042c,NORTH_-7c56c1,2021-05-05,Presenting complaint: gingivitis. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-853b-3a7ce1090d82,NORTH_-7c56c1,2021-05-19,Diagnosed with chronic kidney disease stage 4 at this visit. Social history noted: Medication review due. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-9751-bdf7ded430ec,NORTH_-7c56c1,2021-05-26,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-26e8-4f0e6f493f75,NORTH_-7c56c1,2021-05-26,Patient was evaluated for chronic kidney disease stage 4.
+57efda89-b582-bb08-c1fc-669e8872c61b,NORTH_-7c56c1,2021-05-29,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-0a4e-2c9d3c7d20ef,NORTH_-7c56c1,2021-06-01,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e438-19477eae6dae,NORTH_-7c56c1,2021-06-04,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-d645-9d2c2e804763,NORTH_-7c56c1,2021-06-07,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-da09-3d3a06d1d648,NORTH_-7c56c1,2021-06-10,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d1f6-8abec831161c,NORTH_-7c56c1,2021-06-14,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-aef6-779e0f1a7639,NORTH_-7c56c1,2021-06-23,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-446f-bd7047023129,NORTH_-7c56c1,2021-06-30,Wellness visit for general evaluation. Care-coordination note: Medication review due. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-b5fb-8da1275521fa,NORTH_-7c56c1,2021-07-07,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b6bd-c1f4efb53017,NORTH_-7c56c1,2021-07-07,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-a099-5ea3bfd00a75,NORTH_-7c56c1,2021-07-10,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-adbd-8af176554a7f,NORTH_-7c56c1,2021-07-13,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a50b-a8041006c1a8,NORTH_-7c56c1,2021-07-16,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e2e0-bdda6b5934e5,NORTH_-7c56c1,2021-07-19,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6991-98bcb86dab1a,NORTH_-7c56c1,2021-07-22,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6278-dfc54f90754a,NORTH_-7c56c1,2021-07-25,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-f28f-fb2dcf635a6e,NORTH_-7c56c1,2021-07-29,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-7208-14e9a3ad0b1f,NORTH_-7c56c1,2021-08-01,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-33d7-4964ef6ee440,NORTH_-7c56c1,2021-08-04,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-858b-d77e7a4456c5,NORTH_-7c56c1,2021-08-07,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-ea6c-c10d8b8a8a72,NORTH_-7c56c1,2021-08-07,Patient presents today with chronic kidney disease stage 4.
+57efda89-b582-bb08-7009-40777a062b7c,NORTH_-7c56c1,2021-08-10,Follow-up visit regarding chronic kidney disease stage 4. Clinical impression: awaiting transplantation of kidney. Medication list unchanged.
+57efda89-b582-bb08-d778-17e982e913a6,NORTH_-7c56c1,2021-08-10,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-51c2-ca4f0b4a5b9c,NORTH_-7c56c1,2021-08-11,Outpatient visit for general evaluation.
+57efda89-b582-bb08-8c31-c75e3cb7a1ac,NORTH_-7c56c1,2021-08-18,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Social isolation and Stress. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter."
+57efda89-b582-bb08-26d3-3bd28a7bfb56,NORTH_-7c56c1,2021-08-25,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-5a7a-e7b0bc76d849,NORTH_-7c56c1,2021-08-28,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3202-c77f24a81e15,NORTH_-7c56c1,2021-08-31,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-db8d-6bb9d66a2712,NORTH_-7c56c1,2021-09-03,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1715-3bc66d3b5e36,NORTH_-7c56c1,2021-09-06,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-683f-52e40367cd4f,NORTH_-7c56c1,2021-09-06,Patient presents today with chronic kidney disease stage 4.
+57efda89-b582-bb08-d16b-29e75747c36a,NORTH_-7c56c1,2021-09-08,"Routine outpatient visit, no acute complaints voiced at check-in."
+57efda89-b582-bb08-d0ce-2d0b21557d3e,NORTH_-7c56c1,2021-09-15,Outpatient visit for general evaluation. Care-coordination note: Full-time employment. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-b215-2b7766fc2f3a,NORTH_-7c56c1,2021-09-22,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-3e2d-29484afbf10f,NORTH_-7c56c1,2021-09-25,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d322-d2b87a32b26d,NORTH_-7c56c1,2021-09-28,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-a85e-5cd1fe97450b,NORTH_-7c56c1,2021-10-06,"Routine ambulatory visit, no acute complaints voiced at check-in. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter."
+57efda89-b582-bb08-7efc-737670ba5e1e,NORTH_-7c56c1,2021-10-13,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c44d-a63e4c361e93,NORTH_-7c56c1,2021-10-13,Seen in clinic for chronic kidney disease stage 4.
+57efda89-b582-bb08-6433-d06b51a7ea24,NORTH_-7c56c1,2021-10-16,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-9bf7-073c177473cd,NORTH_-7c56c1,2021-10-19,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2773-3f186493fa68,NORTH_-7c56c1,2021-10-27,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-22fb-ce9ee5610132,NORTH_-7c56c1,2021-11-03,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-520c-e783daa9ad70,NORTH_-7c56c1,2021-11-06,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-0b3d-b6a086c62597,NORTH_-7c56c1,2021-11-09,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-fc49-b98d624ad980,NORTH_-7c56c1,2021-11-12,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-056f-6042c1305dcc,NORTH_-7c56c1,2021-11-12,Seen in clinic for chronic kidney disease stage 4.
+57efda89-b582-bb08-4d50-95f3c689682e,NORTH_-7c56c1,2021-11-15,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-5864-997b87c5596b,NORTH_-7c56c1,2021-11-18,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6d33-ad0b5e712b8a,NORTH_-7c56c1,2021-11-22,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-093a-f7e94797a82e,NORTH_-7c56c1,2021-11-25,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a77c-009eea2c4672,NORTH_-7c56c1,2021-11-28,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2664-674ce062e334,NORTH_-7c56c1,2021-12-08,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-3267-1a5d47b84dc6,NORTH_-7c56c1,2021-12-15,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-61b4-4f12facdd997,NORTH_-7c56c1,2021-12-15,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-e7bb-b8ac7bec128a,NORTH_-7c56c1,2021-12-18,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7ed4-48f4fbfbb348,NORTH_-7c56c1,2021-12-21,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2c3e-74320fb76c94,NORTH_-7c56c1,2021-12-29,Diagnosed with leaking dental filling at this visit. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-af19-2471d8ece6e1,NORTH_-7c56c1,2022-01-05,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6a42-f8b9104a5b5d,NORTH_-7c56c1,2022-01-08,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-c2e3-e0d9717163af,NORTH_-7c56c1,2022-01-11,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-0c10-09f18649c158,NORTH_-7c56c1,2022-01-14,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1bb6-9224b136e3c9,NORTH_-7c56c1,2022-01-14,Seen in clinic for chronic kidney disease stage 4.
+57efda89-b582-bb08-51fc-bbc196c8c44f,NORTH_-7c56c1,2022-01-17,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-eed6-ce91ac80ec0e,NORTH_-7c56c1,2022-01-20,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-e93d-fbe939953c0e,NORTH_-7c56c1,2022-01-24,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-5553-02c5490bd333,NORTH_-7c56c1,2022-01-27,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-5045-134161f261e0,NORTH_-7c56c1,2022-01-30,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-9ab7-e3193847d89e,NORTH_-7c56c1,2022-02-02,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-dfe4-8a4c8091c777,NORTH_-7c56c1,2022-02-05,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-ade0-4603c458908b,NORTH_-7c56c1,2022-02-08,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-0f8f-738f82b2c3cb,NORTH_-7c56c1,2022-02-16,Patient seen for a scheduled urgentcare encounter. Social history noted: Not in labor force. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-c369-65cf13d2bb57,NORTH_-7c56c1,2022-02-23,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-f53b-49bd426d92fa,NORTH_-7c56c1,2022-02-23,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-3ebc-a8635555ba21,NORTH_-7c56c1,2022-02-26,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c1e9-189eaf317491,NORTH_-7c56c1,2022-03-01,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e748-4b62b9e32f5c,NORTH_-7c56c1,2022-03-09,Patient seen for a scheduled ambulatory encounter. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-3d3a-2e6c9c805de7,NORTH_-7c56c1,2022-03-16,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-25a4-a50b40f5367e,NORTH_-7c56c1,2022-03-19,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-90c6-27c5acadea1e,NORTH_-7c56c1,2022-03-22,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a3e8-4665c4745377,NORTH_-7c56c1,2022-03-25,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-9ca8-41a47385c10c,NORTH_-7c56c1,2022-03-25,Follow-up visit regarding chronic kidney disease stage 4.
+57efda89-b582-bb08-fd53-122b7d812e39,NORTH_-7c56c1,2022-03-28,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-bfe5-d8572337ef40,NORTH_-7c56c1,2022-03-31,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-9d1e-44338c968e05,NORTH_-7c56c1,2022-04-03,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a9d8-c8f6822d9f1a,NORTH_-7c56c1,2022-04-07,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1461-1859a3a6486b,NORTH_-7c56c1,2022-04-10,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4092-ea6cf7a2064d,NORTH_-7c56c1,2022-04-13,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3b66-3bdc7a15aafe,NORTH_-7c56c1,2022-04-16,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-624d-f33c3d1d5a1e,NORTH_-7c56c1,2022-04-19,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-1ad2-08044c993625,NORTH_-7c56c1,2022-04-22,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2e86-da58caa245d8,NORTH_-7c56c1,2022-04-25,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e746-0680c341a538,NORTH_-7c56c1,2022-04-26,Presenting complaint: chronic kidney disease stage 4.
+57efda89-b582-bb08-f8fa-2d3e37ca17b6,NORTH_-7c56c1,2022-04-29,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-24e8-7ee12b4b642e,NORTH_-7c56c1,2022-05-02,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-45f2-9cfd54dec085,NORTH_-7c56c1,2022-05-05,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-315a-116e981f09b6,NORTH_-7c56c1,2022-05-08,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2223-c16d748000d8,NORTH_-7c56c1,2022-05-18,Patient continues to be followed for gingivitis. Social history noted: Medication review due and Full-time employment. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-b401-441160839552,NORTH_-7c56c1,2022-05-25,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6e9d-435d6d6079df,NORTH_-7c56c1,2022-05-28,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-8258-37cd46b1b4e2,NORTH_-7c56c1,2022-05-28,Patient reports symptoms consistent with chronic kidney disease stage 4. No new medications prescribed at this time.
+57efda89-b582-bb08-8118-ace86936d126,NORTH_-7c56c1,2022-05-31,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-093b-b19c594b6d4f,NORTH_-7c56c1,2022-06-08,Presenting complaint: gum inflammation.
+57efda89-b582-bb08-89f0-03279d352baa,NORTH_-7c56c1,2022-06-15,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-7c6d-4a1d54d88713,NORTH_-7c56c1,2022-06-18,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1b5e-a65aef265e6c,NORTH_-7c56c1,2022-06-21,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-21ab-6967da1e37b8,NORTH_-7c56c1,2022-06-29,Patient seen for a scheduled outpatient encounter. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-1b02-eb5575672191,NORTH_-7c56c1,2022-07-06,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-47a3-eaba256909c0,NORTH_-7c56c1,2022-07-13,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-49e4-291dbf0ea91d,NORTH_-7c56c1,2022-07-13,Presenting complaint: chronic kidney disease stage 4.
+57efda89-b582-bb08-6ae3-be12257f19b3,NORTH_-7c56c1,2022-07-16,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2dc1-91a777b06704,NORTH_-7c56c1,2022-07-19,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3dbb-f0d405f5207b,NORTH_-7c56c1,2022-07-22,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-0e3e-6efa99757e77,NORTH_-7c56c1,2022-07-25,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-08da-202b69894b0f,NORTH_-7c56c1,2022-07-28,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b80f-3ceb2e2a3a0d,NORTH_-7c56c1,2022-08-01,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1c2d-4d643f52b68a,NORTH_-7c56c1,2022-08-04,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-ebcb-7f6c4c91045c,NORTH_-7c56c1,2022-08-07,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1c7c-5cfdc5c2cb89,NORTH_-7c56c1,2022-08-10,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-dc2f-a92fb7251d91,NORTH_-7c56c1,2022-08-13,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2319-484648897159,NORTH_-7c56c1,2022-08-13,Patient was evaluated for chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-f382-d8b3568f1994,NORTH_-7c56c1,2022-08-16,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-ab9b-968dd0a9dae2,NORTH_-7c56c1,2022-08-19,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7cfe-495e82d9b3de,NORTH_-7c56c1,2022-08-22,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-75c7-ae0507e744c3,NORTH_-7c56c1,2022-08-26,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-39cc-d7d05d003e07,NORTH_-7c56c1,2022-08-29,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c9e1-c43d405d850f,NORTH_-7c56c1,2022-09-01,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4645-14ca220eef20,NORTH_-7c56c1,2022-09-04,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-623a-f859d6dbfa0c,NORTH_-7c56c1,2022-09-07,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-8dde-6dfd10d836ab,NORTH_-7c56c1,2022-09-10,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-42e9-ae1d0258aa15,NORTH_-7c56c1,2022-09-13,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6737-76969f5c4c78,NORTH_-7c56c1,2022-09-13,Patient was evaluated for chronic kidney disease stage 4.
+57efda89-b582-bb08-3975-4a9cd7b2eb43,NORTH_-7c56c1,2022-09-16,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-68ef-3b7399ea6dc3,NORTH_-7c56c1,2022-09-19,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a1c6-fca7ab3f9adb,NORTH_-7c56c1,2022-09-23,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c9a2-9272527f84bd,NORTH_-7c56c1,2022-09-26,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6a28-7ed6315ad9ac,NORTH_-7c56c1,2022-09-29,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a3a6-e2a0de7e55cf,NORTH_-7c56c1,2022-10-02,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d890-c18983c28db3,NORTH_-7c56c1,2022-10-05,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-47ff-fe2b0db23f7c,NORTH_-7c56c1,2022-10-08,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b732-2f3c0119bcb1,NORTH_-7c56c1,2022-10-11,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7aee-9886aafe5ded,NORTH_-7c56c1,2022-10-14,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6a5d-883b2f178c74,NORTH_-7c56c1,2022-10-15,Patient was evaluated for chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-44e0-54b6293819d3,NORTH_-7c56c1,2022-10-18,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-b42b-8956309bfe73,NORTH_-7c56c1,2022-10-21,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3b0e-831d7ddfd233,NORTH_-7c56c1,2022-10-24,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-39b7-39bccd8de4ec,NORTH_-7c56c1,2022-11-02,Patient seen for a scheduled outpatient encounter. Social history noted: Part-time employment. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-ca2b-33fa545f99bb,NORTH_-7c56c1,2022-11-09,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter."
+57efda89-b582-bb08-bd52-87739e162953,NORTH_-7c56c1,2022-11-16,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-cd93-d962d0cb11bf,NORTH_-7c56c1,2022-11-16,Follow-up visit regarding chronic kidney disease stage 4.
+57efda89-b582-bb08-8e52-209cbfaaa556,NORTH_-7c56c1,2022-11-19,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-ad6d-824dd5d8bda1,NORTH_-7c56c1,2022-11-22,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d83e-9d372db62eeb,NORTH_-7c56c1,2022-11-25,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-f7f9-d24da2b14e83,NORTH_-7c56c1,2022-11-28,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-75fd-cc3af05a8199,NORTH_-7c56c1,2022-12-01,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d773-a7f9f758ff31,NORTH_-7c56c1,2022-12-05,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2c43-70887a168d5d,NORTH_-7c56c1,2022-12-14,Diagnosed with gingivitis at this visit. Social history noted: Medication review due. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-ef6d-9e447388acd1,NORTH_-7c56c1,2022-12-21,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-f461-9b0636ffceb3,NORTH_-7c56c1,2022-12-21,Follow-up visit regarding chronic kidney disease stage 4.
+57efda89-b582-bb08-b962-18649dd0bb91,NORTH_-7c56c1,2022-12-24,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-5d60-1ee03cb1834e,NORTH_-7c56c1,2022-12-27,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-39df-fd75c1316a34,NORTH_-7c56c1,2023-01-04,Presenting complaint: gingivitis. Patient continues to be followed for primary dental caries.
+57efda89-b582-bb08-234c-be1113e80e0d,NORTH_-7c56c1,2023-01-11,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-cadc-83447b139428,NORTH_-7c56c1,2023-01-14,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4b27-fcf651f3442e,NORTH_-7c56c1,2023-01-17,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-033a-7b37ebb26d06,NORTH_-7c56c1,2023-01-25,"Routine urgentcare visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due, Full-time employment, and Limited social contact. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-125e-beb527e441d5,NORTH_-7c56c1,2023-02-01,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7351-1e69daa83abd,NORTH_-7c56c1,2023-02-01,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-9aa5-b6969eeef824,NORTH_-7c56c1,2023-02-04,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-fcb1-f8833d6f4bbd,NORTH_-7c56c1,2023-02-07,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1423-9d3820d3fc47,NORTH_-7c56c1,2023-02-15,New findings on exam include gingivitis. Care-coordination note: Part-time employment and Stress. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-6856-ab7a424b1bfa,NORTH_-7c56c1,2023-02-22,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-70f9-a03d47b50906,NORTH_-7c56c1,2023-02-25,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e00a-1f1ff260dd54,NORTH_-7c56c1,2023-02-28,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-995e-10d06973c276,NORTH_-7c56c1,2023-03-08,Presenting complaint: gum inflammation. New findings on exam include gingival disease and fractured dental filling. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-b988-9d104289a237,NORTH_-7c56c1,2023-03-15,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-f8bb-95f0b1fed4d3,NORTH_-7c56c1,2023-03-15,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-4074-408277d1c4bd,NORTH_-7c56c1,2023-03-18,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-11cc-457429cb9bb6,NORTH_-7c56c1,2023-03-21,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-a5a3-e2b93fd7d41d,NORTH_-7c56c1,2023-03-29,Outpatient visit for general evaluation. Care-coordination note: Full-time employment. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-4f33-4e192eb50936,NORTH_-7c56c1,2023-04-05,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-6658-3a284eb92db1,NORTH_-7c56c1,2023-04-08,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c817-4f467c61b471,NORTH_-7c56c1,2023-04-11,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-d7c6-0a8028ed0b8b,NORTH_-7c56c1,2023-04-19,Patient seen for a scheduled outpatient encounter. Care-coordination note: Medication review due. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-ec0c-f5d310c867b0,NORTH_-7c56c1,2023-04-26,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-136c-f6e8b006d9e2,NORTH_-7c56c1,2023-04-26,Seen in clinic for chronic kidney disease stage 4.
+57efda89-b582-bb08-d5e0-4a9458819324,NORTH_-7c56c1,2023-04-29,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-762e-bc5f181d45c3,NORTH_-7c56c1,2023-05-02,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-643c-166047a18a17,NORTH_-7c56c1,2023-05-05,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-3e6c-87cb57669e62,NORTH_-7c56c1,2023-05-08,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7d5c-d6a4bc27e65a,NORTH_-7c56c1,2023-05-11,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-789e-d691e4a17283,NORTH_-7c56c1,2023-05-15,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b934-1dae2edc1478,NORTH_-7c56c1,2023-05-18,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-0440-200ddfd8185c,NORTH_-7c56c1,2023-05-21,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4e91-8f0337b050db,NORTH_-7c56c1,2023-05-24,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-fab6-0732adab67f4,NORTH_-7c56c1,2023-05-27,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e8a8-3f1ca730d5ed,NORTH_-7c56c1,2023-05-27,Patient presents today with chronic kidney disease stage 4.
+57efda89-b582-bb08-0726-e90036530d29,NORTH_-7c56c1,2023-05-30,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-5080-f8c8364d9b39,NORTH_-7c56c1,2023-06-02,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-fb9c-f941c4e0748b,NORTH_-7c56c1,2023-06-06,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-79bf-ae55a263e194,NORTH_-7c56c1,2023-06-09,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-a132-7821f108337f,NORTH_-7c56c1,2023-06-12,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7aee-2b63a7705f64,NORTH_-7c56c1,2023-06-15,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b70c-49fa899bb805,NORTH_-7c56c1,2023-06-18,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-8cb7-d99dc1af3a7d,NORTH_-7c56c1,2023-06-21,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-58df-a2d882e2b2e4,NORTH_-7c56c1,2023-06-24,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b388-bd019233eab0,NORTH_-7c56c1,2023-06-27,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-7ea1-ae3aed9414e5,NORTH_-7c56c1,2023-06-28,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-e725-964f71b916c5,NORTH_-7c56c1,2023-07-01,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-ec33-65d076eafc2b,NORTH_-7c56c1,2023-07-04,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-cd59-4eb631707a6c,NORTH_-7c56c1,2023-07-12,Clinical impression: gum inflammation. Social history noted: Medication review due and Part-time employment. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-15ad-cc28ad2c4273,NORTH_-7c56c1,2023-07-19,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2d7d-88ac3014ee11,NORTH_-7c56c1,2023-07-22,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-fe59-eb19afeb4b45,NORTH_-7c56c1,2023-07-25,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a297-7c714e13ee95,NORTH_-7c56c1,2023-08-02,Follow-up visit regarding gum inflammation. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-00b1-e56e3217100c,NORTH_-7c56c1,2023-08-09,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2a68-284d5b91ee8c,NORTH_-7c56c1,2023-08-09,Presenting complaint: chronic kidney disease stage 4.
+57efda89-b582-bb08-4b75-e1f79c57eb36,NORTH_-7c56c1,2023-08-12,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d57a-3ad86154fc52,NORTH_-7c56c1,2023-08-15,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-bb6a-43ff46ea90ea,NORTH_-7c56c1,2023-08-18,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-287a-4113f0cf243b,NORTH_-7c56c1,2023-08-21,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-5b37-0e796c0bd90b,NORTH_-7c56c1,2023-08-24,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-56d1-54da366e7143,NORTH_-7c56c1,2023-08-28,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-5fc8-9f16d5f845cc,NORTH_-7c56c1,2023-09-06,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-55b0-cf25f206742c,NORTH_-7c56c1,2023-09-13,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-7783-4da27d3835ea,NORTH_-7c56c1,2023-09-13,Patient was evaluated for chronic kidney disease stage 4.
+57efda89-b582-bb08-2093-fc423a7e5cbe,NORTH_-7c56c1,2023-09-16,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-730d-7fe9fffb12b9,NORTH_-7c56c1,2023-09-19,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6c40-4c5d4507e54b,NORTH_-7c56c1,2023-09-27,Ambulatory visit for general evaluation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-833a-3d39f99a6d07,NORTH_-7c56c1,2023-10-04,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-f3f5-387c977627b4,NORTH_-7c56c1,2023-10-07,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-ebfd-56c01a5ce385,NORTH_-7c56c1,2023-10-10,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e66e-5c70b7bd4f7f,NORTH_-7c56c1,2023-10-13,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-93d2-5528523c5049,NORTH_-7c56c1,2023-10-13,Follow-up visit regarding chronic kidney disease stage 4.
+57efda89-b582-bb08-cf82-f15d61b926c8,NORTH_-7c56c1,2023-10-16,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2dc9-34a9c6060de7,NORTH_-7c56c1,2023-10-19,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-cecf-ef36c94389c5,NORTH_-7c56c1,2023-10-23,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3a3d-a8434558128f,NORTH_-7c56c1,2023-10-26,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-2d48-960726023edb,NORTH_-7c56c1,2023-10-29,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-41e4-809fc54ba23b,NORTH_-7c56c1,2023-11-08,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Part-time employment and Stress. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-b04a-34da6042baa5,NORTH_-7c56c1,2023-11-15,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e9eb-d01274b7c0cb,NORTH_-7c56c1,2023-11-15,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-0842-af1c86bb2b24,NORTH_-7c56c1,2023-11-18,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6d39-86808b8bf979,NORTH_-7c56c1,2023-11-21,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-040d-d249685db8ef,NORTH_-7c56c1,2023-11-29,Patient seen for a scheduled ambulatory encounter.
+57efda89-b582-bb08-3dc7-5a7a00d8392f,NORTH_-7c56c1,2023-12-06,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3e2f-737fe84d1fcb,NORTH_-7c56c1,2023-12-09,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-6e27-e17adf7d9c17,NORTH_-7c56c1,2023-12-12,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-eee5-cefa8673e72e,NORTH_-7c56c1,2023-12-15,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-705f-0d439a31db51,NORTH_-7c56c1,2023-12-15,Presenting complaint: chronic kidney disease stage 4.
+57efda89-b582-bb08-203d-04c569f083e5,NORTH_-7c56c1,2023-12-18,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-0aa9-f4144f8b5e92,NORTH_-7c56c1,2023-12-21,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b30c-3c03be836b80,NORTH_-7c56c1,2023-12-24,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6429-21dd81696d5e,NORTH_-7c56c1,2023-12-27,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d6d5-f3b1d9674675,NORTH_-7c56c1,2023-12-31,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e0e5-1a549a5ff92c,NORTH_-7c56c1,2024-01-03,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6f95-a410b5731d18,NORTH_-7c56c1,2024-01-06,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7d65-009db2c10797,NORTH_-7c56c1,2024-01-09,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-45e7-7d69d16a8558,NORTH_-7c56c1,2024-01-12,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-25aa-f3c609f7730b,NORTH_-7c56c1,2024-01-15,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2b46-5b827ddff766,NORTH_-7c56c1,2024-01-15,Follow-up visit regarding chronic kidney disease stage 4.
+57efda89-b582-bb08-d6f5-b7d52f70cb0a,NORTH_-7c56c1,2024-01-18,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-45aa-5005fdbd83b8,NORTH_-7c56c1,2024-01-21,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b9f7-c09124a9a7b3,NORTH_-7c56c1,2024-01-31,Outpatient visit for general evaluation. Care-coordination note: Full-time employment. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-0859-a3c9d56e8f22,NORTH_-7c56c1,2024-02-07,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3eca-e66da49f977c,NORTH_-7c56c1,2024-02-10,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-862b-4eb16fe02b19,NORTH_-7c56c1,2024-02-13,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b2f9-6037d1b1474f,NORTH_-7c56c1,2024-02-16,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-07c4-d89049cc5b01,NORTH_-7c56c1,2024-02-16,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-550d-80f3dc2f2d45,NORTH_-7c56c1,2024-02-19,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-9d6e-88396fbed065,NORTH_-7c56c1,2024-02-22,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-8070-dcad3806a5a0,NORTH_-7c56c1,2024-02-25,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-9a19-c9251a1aebfd,NORTH_-7c56c1,2024-02-29,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-55ce-d03c027c13ac,NORTH_-7c56c1,2024-03-03,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-def7-a8e25fb46353,NORTH_-7c56c1,2024-03-06,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-70e4-fd0d8f0b22e8,NORTH_-7c56c1,2024-03-09,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-daad-4c76c90fb4a1,NORTH_-7c56c1,2024-03-12,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-199c-10aecbd217a5,NORTH_-7c56c1,2024-03-15,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-89fd-d6815792a622,NORTH_-7c56c1,2024-03-18,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-232d-afa60b68bd97,NORTH_-7c56c1,2024-03-18,Patient presents today with chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-0498-a78f5c1f20cf,NORTH_-7c56c1,2024-03-21,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-749d-6f4131a7f19a,NORTH_-7c56c1,2024-03-25,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-bbc8-0547553f0424,NORTH_-7c56c1,2024-04-03,New findings on exam include gum inflammation. Social history noted: Medication review due and Not in labor force. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-9772-ca11f70fd96b,NORTH_-7c56c1,2024-04-10,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-750a-62705a501d0e,NORTH_-7c56c1,2024-04-13,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-dcdc-d8e3a1513e83,NORTH_-7c56c1,2024-04-16,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7212-b4b82455cc7e,NORTH_-7c56c1,2024-04-24,Seen in clinic for gum inflammation. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-6631-bb9c209fe5f0,NORTH_-7c56c1,2024-05-01,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1842-8e4b1d68ca29,NORTH_-7c56c1,2024-05-01,Patient presents today with chronic kidney disease stage 4.
+57efda89-b582-bb08-87a4-beab47da2876,NORTH_-7c56c1,2024-05-04,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-f976-51146187daa5,NORTH_-7c56c1,2024-05-07,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-19e9-f4cd309eead1,NORTH_-7c56c1,2024-05-15,Patient seen for a scheduled outpatient encounter. Social history noted: Full-time employment. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-2cad-cf46e9e2c0c7,NORTH_-7c56c1,2024-05-22,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-dc93-b25b9f31476b,NORTH_-7c56c1,2024-05-25,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-c779-325efd606240,NORTH_-7c56c1,2024-05-28,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e618-a7aa089c491e,NORTH_-7c56c1,2024-06-05,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Medication review due, Limited social contact, and Stress. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-e601-8176b7c2a85f,NORTH_-7c56c1,2024-06-12,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-727b-c1e90b339498,NORTH_-7c56c1,2024-06-12,Patient presents today with chronic kidney disease stage 4.
+57efda89-b582-bb08-0f91-c664c7407f57,NORTH_-7c56c1,2024-06-15,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7849-e7eebae0f99e,NORTH_-7c56c1,2024-06-18,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-55dd-ab2bcc2e2171,NORTH_-7c56c1,2024-06-21,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-2632-9dcf3b16d1af,NORTH_-7c56c1,2024-06-24,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-8ad0-75aa888b85a3,NORTH_-7c56c1,2024-06-27,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-895e-b4515d38fec8,NORTH_-7c56c1,2024-07-01,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-4360-f5c356778fcb,NORTH_-7c56c1,2024-07-04,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b381-b89715c87cd7,NORTH_-7c56c1,2024-07-07,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-f3bd-48b46ccee7eb,NORTH_-7c56c1,2024-07-17,Patient seen for a scheduled wellness encounter. Social history noted: Not in labor force. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-1206-30f0b56cef79,NORTH_-7c56c1,2024-07-24,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2ff7-d1ec97dd1914,NORTH_-7c56c1,2024-07-24,Seen in clinic for chronic kidney disease stage 4.
+57efda89-b582-bb08-67f1-5aeb99398ff7,NORTH_-7c56c1,2024-07-27,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-8c04-4992e60756d9,NORTH_-7c56c1,2024-07-30,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2166-1b84158cb4d6,NORTH_-7c56c1,2024-08-02,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-8d10-4d137cc109b4,NORTH_-7c56c1,2024-08-05,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4333-6056cb1ce713,NORTH_-7c56c1,2024-08-08,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-f9ba-68bea8607f79,NORTH_-7c56c1,2024-08-12,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1c08-71e4c1fbad59,NORTH_-7c56c1,2024-08-15,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-7b9a-56961c77de1c,NORTH_-7c56c1,2024-08-18,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d02c-41aec997bd63,NORTH_-7c56c1,2024-08-28,New findings on exam include gum inflammation. Care-coordination note: Part-time employment. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-f98c-64e43be63214,NORTH_-7c56c1,2024-09-04,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2d2c-a6a8f3d119d9,NORTH_-7c56c1,2024-09-04,Seen in clinic for chronic kidney disease stage 4.
+57efda89-b582-bb08-769e-1c5038d3b5dc,NORTH_-7c56c1,2024-09-07,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2328-c475489414f4,NORTH_-7c56c1,2024-09-10,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-24a4-e51cb027260c,NORTH_-7c56c1,2024-09-18,Follow-up visit regarding gum inflammation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-73f5-7d385cce6836,NORTH_-7c56c1,2024-09-25,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-9217-713b2a635586,NORTH_-7c56c1,2024-09-28,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-89d2-519262075811,NORTH_-7c56c1,2024-10-01,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c487-8f87444a6e9a,NORTH_-7c56c1,2024-10-04,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-2dab-621c7dda5a02,NORTH_-7c56c1,2024-10-04,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-af72-01d0ef85678c,NORTH_-7c56c1,2024-10-07,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a034-8840e9515224,NORTH_-7c56c1,2024-10-10,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-f5aa-9051b6aee657,NORTH_-7c56c1,2024-10-14,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-f93a-4a6861464c5b,NORTH_-7c56c1,2024-10-23,"Patient seen for a scheduled outpatient encounter. Care-coordination note: Full-time employment, Social isolation, Stress, and Victim of intimate partner abuse. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-9ef3-1c570ca3ac3c,NORTH_-7c56c1,2024-10-30,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b487-62aec306c270,NORTH_-7c56c1,2024-11-02,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-49d6-a3af21de9990,NORTH_-7c56c1,2024-11-05,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-597b-cf3ded1662b5,NORTH_-7c56c1,2024-11-05,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-1ccc-e636c88d22e7,NORTH_-7c56c1,2024-11-13,"Routine ambulatory visit, no acute complaints voiced at check-in."
+57efda89-b582-bb08-49c1-48468494b198,NORTH_-7c56c1,2024-11-20,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-75b3-c35742cd9103,NORTH_-7c56c1,2024-11-23,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c12e-cb5c0419eb8f,NORTH_-7c56c1,2024-11-26,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-3f1a-71e6ecd8d3b3,NORTH_-7c56c1,2024-11-29,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-8cdc-a0aff146152a,NORTH_-7c56c1,2024-12-02,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1366-6e926cd260c2,NORTH_-7c56c1,2024-12-05,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-b0cd-d4b8ec7fa95d,NORTH_-7c56c1,2024-12-06,Follow-up visit regarding chronic kidney disease stage 4.
+57efda89-b582-bb08-4b8c-e3a46aa54507,NORTH_-7c56c1,2024-12-09,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e3c6-72c0725f4138,NORTH_-7c56c1,2024-12-12,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d6fa-a228ce545db0,NORTH_-7c56c1,2024-12-15,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-11e7-f131bbaad048,NORTH_-7c56c1,2024-12-18,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1bc6-d33f795a9f60,NORTH_-7c56c1,2024-12-21,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-1a85-b84dca66ec24,NORTH_-7c56c1,2024-12-24,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c678-2b1610360ac6,NORTH_-7c56c1,2024-12-27,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-90c9-737cfa43c115,NORTH_-7c56c1,2024-12-31,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7ee1-b5b6a032369c,NORTH_-7c56c1,2025-01-03,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-8577-a39ac170a054,NORTH_-7c56c1,2025-01-06,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-9e3a-e927c64369be,NORTH_-7c56c1,2025-01-06,Patient reports symptoms consistent with chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-b673-2a7efce2ef31,NORTH_-7c56c1,2025-01-09,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4e51-d3a7f65bf47b,NORTH_-7c56c1,2025-01-12,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-35b1-c78c7c2c70de,NORTH_-7c56c1,2025-01-22,Clinical impression: gum inflammation. Care-coordination note: Medication review due. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-3ac2-80efa44c2635,NORTH_-7c56c1,2025-01-29,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-10f8-4d15a86a67d7,NORTH_-7c56c1,2025-02-01,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-0d38-4e5e0c7f951a,NORTH_-7c56c1,2025-02-04,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7e56-f3dad2e46f99,NORTH_-7c56c1,2025-02-12,Patient presents today with gingivitis. Medication list unchanged.
+57efda89-b582-bb08-79cd-903539b442ee,NORTH_-7c56c1,2025-02-19,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-340d-f2ae5a882e8b,NORTH_-7c56c1,2025-02-19,Presenting complaint: chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-4ff8-746507899848,NORTH_-7c56c1,2025-02-22,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-d967-757fd9e4da40,NORTH_-7c56c1,2025-02-25,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a2ba-165b71285b92,NORTH_-7c56c1,2025-03-05,Patient continues to be followed for gum inflammation. Care-coordination note: Medication review due. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-73e0-eb61081a7dec,NORTH_-7c56c1,2025-03-12,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b9f4-77c20344c65f,NORTH_-7c56c1,2025-03-15,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b59e-c7aa4d0b45b7,NORTH_-7c56c1,2025-03-18,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-584b-ee7d4dd8bcf8,NORTH_-7c56c1,2025-03-26,Patient was evaluated for gum inflammation. Assessment: gum disease.
+57efda89-b582-bb08-c76e-cb02808d5d8f,NORTH_-7c56c1,2025-04-02,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-df98-506d6e0840e4,NORTH_-7c56c1,2025-04-02,Presenting complaint: chronic kidney disease stage 4.
+57efda89-b582-bb08-b255-2f45d55b5e18,NORTH_-7c56c1,2025-04-05,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3a4f-aace56130af9,NORTH_-7c56c1,2025-04-08,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c13e-48f4696d5305,NORTH_-7c56c1,2025-04-11,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-f20a-dbd55da8bd80,NORTH_-7c56c1,2025-04-14,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-4710-26aa117670c2,NORTH_-7c56c1,2025-04-17,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b8e4-94d2ba4b3fef,NORTH_-7c56c1,2025-04-21,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-596e-90c16c33c66c,NORTH_-7c56c1,2025-04-30,"Outpatient visit for general evaluation. Social history noted: Medication review due, Unemployed, and Stress. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-b8cf-d62bbe88ebb5,NORTH_-7c56c1,2025-05-07,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-ce36-7bbdc9331493,NORTH_-7c56c1,2025-05-07,Seen in clinic for chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-1b59-a398b3d2c795,NORTH_-7c56c1,2025-05-10,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-49d7-764c34467ed8,NORTH_-7c56c1,2025-05-13,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b65e-f5724b8b94aa,NORTH_-7c56c1,2025-05-16,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-0c49-fb294c789958,NORTH_-7c56c1,2025-05-19,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-cedd-82fd8f6c66ef,NORTH_-7c56c1,2025-05-22,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-5232-a881277dab80,NORTH_-7c56c1,2025-05-25,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4d43-407d53a5b9e7,NORTH_-7c56c1,2025-05-29,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4d22-39add32967b3,NORTH_-7c56c1,2025-06-01,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-e959-458ca7d837cb,NORTH_-7c56c1,2025-06-04,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-c9f2-9daf425bca53,NORTH_-7c56c1,2025-06-07,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-336c-f54831d62eac,NORTH_-7c56c1,2025-06-07,Patient presents today with chronic kidney disease stage 4.
+57efda89-b582-bb08-182d-74c82c96e84f,NORTH_-7c56c1,2025-06-10,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-4a39-bc1721a17f24,NORTH_-7c56c1,2025-06-13,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-bfc0-27752fe5166a,NORTH_-7c56c1,2025-06-16,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-66c5-ce23ab6df123,NORTH_-7c56c1,2025-06-19,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e266-137771ad80cd,NORTH_-7c56c1,2025-06-23,Patient presents today with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-5e8d-ebc96f72283c,NORTH_-7c56c1,2025-07-02,Patient seen for a scheduled outpatient encounter. Care-coordination note: Medication review due and Reports of violence in the environment. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-ebce-f28395491042,NORTH_-7c56c1,2025-07-09,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-ffa6-0096cfcdc426,NORTH_-7c56c1,2025-07-09,Patient reports symptoms consistent with chronic kidney disease stage 4.
+57efda89-b582-bb08-b42f-c1c900cd2a05,NORTH_-7c56c1,2025-07-12,Patient presents today with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-5d69-e53768f1bc78,NORTH_-7c56c1,2025-07-15,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7a3f-7f98c2169ad0,NORTH_-7c56c1,2025-07-23,New findings on exam include gum inflammation. Social history noted: Medication review due and Limited social contact. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter.
+57efda89-b582-bb08-8789-fd897f0ae0ab,NORTH_-7c56c1,2025-07-30,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-290a-ceddedb85c21,NORTH_-7c56c1,2025-08-02,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-d225-eaa1e5456d70,NORTH_-7c56c1,2025-08-05,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-327f-7260ac4fa3ca,NORTH_-7c56c1,2025-08-13,Patient was evaluated for gum inflammation.
+57efda89-b582-bb08-a8d6-b8525c37f8e4,NORTH_-7c56c1,2025-08-20,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-5626-5a7d7b0f994f,NORTH_-7c56c1,2025-08-20,Patient presents today with chronic kidney disease stage 4. No new medications prescribed at this time.
+57efda89-b582-bb08-c0a0-6f25419b9e5b,NORTH_-7c56c1,2025-08-23,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2e3f-3f53de7e39a8,NORTH_-7c56c1,2025-08-26,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-92bc-2d0648eda687,NORTH_-7c56c1,2025-08-29,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-d49f-be7d09057961,NORTH_-7c56c1,2025-09-01,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-3791-0ac952a46534,NORTH_-7c56c1,2025-09-04,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3e99-e4f86bf01b51,NORTH_-7c56c1,2025-09-07,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1524-67155821ca56,NORTH_-7c56c1,2025-09-11,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-af54-41cf60aa47b4,NORTH_-7c56c1,2025-09-14,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-17f7-73abf9d67d94,NORTH_-7c56c1,2025-09-24,Patient seen for a scheduled outpatient encounter. Care-coordination note: Medication review due and Full-time employment. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-7a1b-a8433174a2c6,NORTH_-7c56c1,2025-10-01,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6971-abe4b878ea41,NORTH_-7c56c1,2025-10-01,Seen in clinic for chronic kidney disease stage 4. No new medications prescribed at this time.
+57efda89-b582-bb08-4bae-a5ff904cb417,NORTH_-7c56c1,2025-10-04,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-09fd-64652f8f43f4,NORTH_-7c56c1,2025-10-07,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-8134-cc313ba1918b,NORTH_-7c56c1,2025-10-10,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-d160-0388787c6f9b,NORTH_-7c56c1,2025-10-13,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e34c-7aa0e1f03b24,NORTH_-7c56c1,2025-10-22,"Routine ambulatory visit, no acute complaints voiced at check-in."
+57efda89-b582-bb08-d305-a9bab52c8847,NORTH_-7c56c1,2025-10-29,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1810-d91553aae9a3,NORTH_-7c56c1,2025-11-01,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2518-6c6a5f252fb7,NORTH_-7c56c1,2025-11-01,Follow-up visit regarding chronic kidney disease stage 4.
+57efda89-b582-bb08-6979-2bb98211e502,NORTH_-7c56c1,2025-11-04,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-93ea-e52d51fa646e,NORTH_-7c56c1,2025-11-12,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Limited social contact and Stress. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-0e78-cee9a983e4ef,NORTH_-7c56c1,2025-11-19,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-2a33-ef97dacae6bc,NORTH_-7c56c1,2025-11-22,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-cf1d-b68714fa678b,NORTH_-7c56c1,2025-11-25,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-b60e-ec1d3b07cf0a,NORTH_-7c56c1,2025-11-28,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1fec-a8111f06bb9c,NORTH_-7c56c1,2025-12-01,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-8360-5813cb9a7552,NORTH_-7c56c1,2025-12-01,Presenting complaint: chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-68aa-be57b55d8979,NORTH_-7c56c1,2025-12-04,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c2d0-406d32e95306,NORTH_-7c56c1,2025-12-08,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-edd4-cb61cb417b45,NORTH_-7c56c1,2025-12-11,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1073-76c8369d0d87,NORTH_-7c56c1,2025-12-14,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-69b1-d09c34380a6e,NORTH_-7c56c1,2025-12-24,New findings on exam include obesity (BMI 30+). Care-coordination note: Medication review due. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-0f6d-e71dfdd26d86,NORTH_-7c56c1,2025-12-31,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-bf40-6fd47943b823,NORTH_-7c56c1,2026-01-03,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-fe42-d260eeafcf95,NORTH_-7c56c1,2026-01-03,Follow-up visit regarding chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-e680-d7a03de599b7,NORTH_-7c56c1,2026-01-06,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-209f-3938e6c908e0,NORTH_-7c56c1,2026-01-09,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a4f6-763264ac6fba,NORTH_-7c56c1,2026-01-12,Patient presents today with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a73f-15e081f34b5d,NORTH_-7c56c1,2026-01-15,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-725d-04a8f67c2ab9,NORTH_-7c56c1,2026-01-19,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-311c-d313d7544aae,NORTH_-7c56c1,2026-01-28,"Patient seen for a scheduled outpatient encounter. Care-coordination note: Medication review due, Part-time employment, and Stress. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-3074-a5efbf1bd0e6,NORTH_-7c56c1,2026-02-04,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-afdb-b82a8204a8ff,NORTH_-7c56c1,2026-02-04,Presenting complaint: chronic kidney disease stage 4.
+57efda89-b582-bb08-f995-3c57bbbe4a09,NORTH_-7c56c1,2026-02-07,Patient reports symptoms consistent with chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-a2dd-5588d7640cdf,NORTH_-7c56c1,2026-02-10,Patient reports symptoms consistent with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-cf28-bff653fc958e,NORTH_-7c56c1,2026-02-18,Patient seen for a scheduled ambulatory encounter.
+57efda89-b582-bb08-5ede-e942bacc5f37,NORTH_-7c56c1,2026-02-25,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-a521-05ede2152ae7,NORTH_-7c56c1,2026-02-28,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-34dd-43a8893eb947,NORTH_-7c56c1,2026-03-03,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-24e6-954d1566e3c3,NORTH_-7c56c1,2026-03-11,"Outpatient visit for general evaluation. Care-coordination note: Medication review due, Full-time employment, and Limited social contact. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+57efda89-b582-bb08-4710-5c1c92cfbb28,NORTH_-7c56c1,2026-03-18,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-6c72-9d974626dfbb,NORTH_-7c56c1,2026-03-18,Seen in clinic for chronic kidney disease stage 4.
+57efda89-b582-bb08-e201-88aae3a08db7,NORTH_-7c56c1,2026-03-21,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-da2c-df8a8fc96935,NORTH_-7c56c1,2026-03-24,Presenting complaint: chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-143f-766c618325f5,NORTH_-7c56c1,2026-03-27,Seen in clinic for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-fa36-74d9abbcc8c5,NORTH_-7c56c1,2026-03-30,Follow-up visit regarding chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-14f8-0e10232ff8d1,NORTH_-7c56c1,2026-04-02,Presenting complaint: chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c60d-c379947ab084,NORTH_-7c56c1,2026-04-05,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-b382-f6009a6add28,NORTH_-7c56c1,2026-04-15,Patient seen for a scheduled outpatient encounter. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-c0bd-af58ab643cfa,NORTH_-7c56c1,2026-04-22,Seen in clinic for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-7bb8-e437945ff0aa,NORTH_-7c56c1,2026-04-22,Follow-up visit regarding chronic kidney disease stage 4.
+57efda89-b582-bb08-ad1c-9e5d77217578,NORTH_-7c56c1,2026-04-25,Seen in clinic for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3846-5ddd9f710aba,NORTH_-7c56c1,2026-04-28,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-22e8-b7f462359bbd,NORTH_-7c56c1,2026-05-01,Patient was evaluated for chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-e337-a4d559ffa500,NORTH_-7c56c1,2026-05-04,Patient reports symptoms consistent with chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c5d2-ea52131e9a1d,NORTH_-7c56c1,2026-05-07,Presenting complaint: chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-22cb-eaef2180fba5,NORTH_-7c56c1,2026-05-10,Presenting complaint: chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3a94-324268b7a551,NORTH_-7c56c1,2026-05-20,Outpatient visit for general evaluation. Social history noted: Medication review due. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-1e62-65af1a0bb86e,NORTH_-7c56c1,2026-05-27,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-7b26-57783596ff88,NORTH_-7c56c1,2026-05-27,Follow-up visit regarding chronic kidney disease stage 4. Medication list unchanged.
+57efda89-b582-bb08-e43e-77e8609af771,NORTH_-7c56c1,2026-05-30,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-3266-73c861259686,NORTH_-7c56c1,2026-06-02,Patient was evaluated for chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-0085-bc6dfa049350,NORTH_-7c56c1,2026-06-10,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+57efda89-b582-bb08-7bcf-27bafea9e3bd,NORTH_-7c56c1,2026-06-17,Seen in clinic for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-c7a0-f2f3611fbd27,NORTH_-7c56c1,2026-06-20,Patient presents today with chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-3c32-5b3bf865f4ae,NORTH_-7c56c1,2026-06-23,Follow-up visit regarding chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-fbaf-260ce36f9ccd,NORTH_-7c56c1,2026-06-26,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-9d87-3c2655a77968,NORTH_-7c56c1,2026-06-26,Patient presents today with chronic kidney disease stage 4. No new medications prescribed at this time.
+57efda89-b582-bb08-12a9-49e367c73dc8,NORTH_-7c56c1,2026-06-29,Follow-up visit regarding chronic kidney disease stage 4. Started on 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-8d96-aec222bdf445,NORTH_-7c56c1,2026-07-02,Patient was evaluated for chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-1c09-b9f2254c9028,NORTH_-7c56c1,2026-07-06,Patient reports symptoms consistent with chronic kidney disease stage 4. Plan: initiate 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-e5ee-05b089d074e2,NORTH_-7c56c1,2026-07-09,Follow-up visit regarding chronic kidney disease stage 4. Patient given 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] during this encounter.
+57efda89-b582-bb08-1fd2-0f7a6094ed4d,NORTH_-7c56c1,2026-07-12,Patient was evaluated for chronic kidney disease stage 4. Medications prescribed today: 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen].
+57efda89-b582-bb08-f6c9-ffc0cb5ff62d,NORTH_-7c56c1,2026-07-22,Clinical impression: gingivitis. Social history noted: Medication review due and Stress. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].
+57efda89-b582-bb08-2d1f-2e409dc43337,NORTH_-7c56c1,2026-07-29,"Routine wellness visit, no acute complaints voiced at check-in. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] during this encounter."
+57efda89-b582-bb08-1db6-83f7d6cb6445,NORTH_-7c56c1,2026-08-05,Patient was evaluated for gingivitis. Assessment: gingival disease. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+57efda89-b582-bb08-8019-a5187810469e,NORTH_-7c56c1,2026-08-12,Patient reports symptoms consistent with chronic kidney disease stage 4.
+23da8e71-dfb9-9773-501c-34eec351f652,NORTH_-6a632d,1966-03-05,Seen in clinic for appendicitis. Diagnosed with history of appendectomy at this visit.
+23da8e71-dfb9-9773-973d-c78a31321645,NORTH_-6a632d,1981-05-09,Wellness visit for general evaluation. Care-coordination note: Received higher education.
+23da8e71-dfb9-9773-21e0-cdbb5eacb006,NORTH_-6a632d,1985-05-18,Assessment: prediabetes. Medication list unchanged.
+23da8e71-dfb9-9773-575e-a7efde105a99,NORTH_-6a632d,2003-03-22,Patient continues to be followed for a low blood count.
+23da8e71-dfb9-9773-4ef3-38d7e6df5d4a,NORTH_-6a632d,2011-04-09,"New findings on exam include coronary artery disease. Started on Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, and Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray."
+23da8e71-dfb9-9773-b385-c1c2e43c3fa1,NORTH_-6a632d,2013-03-16,New findings on exam include obesity (BMI 30+). Social history noted: Stress.
+23da8e71-dfb9-9773-899c-c206ca652805,NORTH_-6a632d,2016-04-02,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment.
+23da8e71-dfb9-9773-ce11-f593e3ac1798,NORTH_-6a632d,2017-04-08,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+23da8e71-dfb9-9773-331e-562f496b2575,NORTH_-6a632d,2018-03-23,Ambulatory visit for general evaluation.
+23da8e71-dfb9-9773-804d-479b72142a5f,NORTH_-6a632d,2018-04-14,New findings on exam include gum inflammation. Social history noted: Medication review due and Not in labor force. No new medications prescribed at this time.
+23da8e71-dfb9-9773-a4d6-2ae7196c068f,NORTH_-6a632d,2018-04-28,Follow-up visit regarding gingivitis. Patient continues to be followed for gum disease. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+23da8e71-dfb9-9773-0816-f654b51d4833,NORTH_-6a632d,2019-04-20,"Clinical impression: gingivitis. Care-coordination note: Part-time employment, Social isolation, and Stress."
+23da8e71-dfb9-9773-b9ea-0e17fab55da9,NORTH_-6a632d,2019-05-04,Follow-up visit regarding gingivitis. Patient continues to be followed for infection of tooth.
+23da8e71-dfb9-9773-9064-81ee1cb12de4,NORTH_-6a632d,2020-04-25,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment."
+23da8e71-dfb9-9773-f6d4-860df6473ee3,NORTH_-6a632d,2020-05-09,Ambulatory visit for general evaluation.
+23da8e71-dfb9-9773-cbae-8fbe4519a45d,NORTH_-6a632d,2021-04-17,Outpatient visit for general evaluation.
+23da8e71-dfb9-9773-dd7a-77d34189ca3e,NORTH_-6a632d,2021-05-01,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Limited social contact and Stress."
+23da8e71-dfb9-9773-00c5-16735075106d,NORTH_-6a632d,2021-05-08,Outpatient visit for general evaluation. No new medications prescribed at this time.
+23da8e71-dfb9-9773-963a-39299865c43c,NORTH_-6a632d,2021-12-27,Patient presents today with a sore throat. Clinical impression: acute viral pharyngitis.
+23da8e71-dfb9-9773-d7cd-9c9d613da691,NORTH_-6a632d,2022-05-07,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Victim of intimate partner abuse."
+23da8e71-dfb9-9773-6c38-c1ac9be66493,NORTH_-6a632d,2023-03-18,Seen in clinic for laceration - injury. New findings on exam include laceration - injury and facial laceration. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+23da8e71-dfb9-9773-2563-3d8c7b0f523c,NORTH_-6a632d,2023-04-01,"Routine ambulatory visit, no acute complaints voiced at check-in."
+23da8e71-dfb9-9773-bfbf-b5982671be30,NORTH_-6a632d,2023-05-13,"Patient seen for a scheduled wellness encounter. Social history noted: Medication review due, Part-time employment, and Limited social contact. No new medications prescribed at this time."
+23da8e71-dfb9-9773-61ba-3bb2b9e633ee,NORTH_-6a632d,2023-05-27,"Routine ambulatory visit, no acute complaints voiced at check-in."
+23da8e71-dfb9-9773-4f8a-ac87f5fd4592,NORTH_-6a632d,2024-05-18,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment and Social isolation. Medication list unchanged.
+23da8e71-dfb9-9773-10ac-690469d26801,NORTH_-6a632d,2025-05-24,Patient seen for a scheduled wellness encounter. Social history noted: Victim of intimate partner abuse.
+23da8e71-dfb9-9773-fe60-928ede66e20f,NORTH_-6a632d,2026-05-30,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due and Not in labor force. No new medications prescribed at this time."
+23da8e71-dfb9-9773-3031-34d8acfa0cbb,NORTH_-6a632d,2026-06-13,"Routine ambulatory visit, no acute complaints voiced at check-in."
+23da8e71-dfb9-9773-14fe-120a2533ccb2,NORTH_-6a632d,2026-06-20,Patient was evaluated for viral sinusitis. Patient continues to be followed for a sinus infection.
+5693c080-f485-91e7-60d7-02a9dbc031d7,NORTH_-3f4705,2021-05-23,Patient seen for a scheduled urgentcare encounter. Social history noted: Medication review due. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet.
+5693c080-f485-91e7-5892-98dbd1e5b6a6,NORTH_-3f4705,2022-06-19,"Routine urgentcare visit, no acute complaints voiced at check-in. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet during this encounter."
+5693c080-f485-91e7-eb36-9a13913db62c,NORTH_-3f4705,2025-04-20,"Routine urgentcare visit, no acute complaints voiced at check-in. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet."
+5693c080-f485-91e7-d164-6aa580934907,NORTH_-3f4705,2025-05-18,Patient seen for a scheduled urgentcare encounter. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet.
+5693c080-f485-91e7-b2e4-d983aadd710b,NORTH_-3f4705,2025-07-13,Urgentcare visit for general evaluation. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet.
+5693c080-f485-91e7-123e-b622ac2958fe,NORTH_-3f4705,2025-07-20,Urgentcare visit for general evaluation. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet.
+5693c080-f485-91e7-7bbe-c1ab1b38bf9d,NORTH_-3f4705,2026-04-12,Patient seen for a scheduled urgentcare encounter. Patient given insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet during this encounter.
+5693c080-f485-91e7-e9fa-6167e5b46a2f,NORTH_-3f4705,2026-05-17,"Routine urgentcare visit, no acute complaints voiced at check-in. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet."
+5693c080-f485-91e7-0e74-0981cb317cab,NORTH_-3f4705,2026-07-12,Urgentcare visit for general evaluation. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet.
+5693c080-f485-91e7-6f0d-5cce7824b373,NORTH_-3f4705,2026-08-09,"Routine urgentcare visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] and Hydrochlorothiazide 25 MG Oral Tablet."

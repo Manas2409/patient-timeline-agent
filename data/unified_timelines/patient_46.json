@@ -1,0 +1,1118 @@
+{
+  "cluster_id": "46",
+  "hospitals": [
+    "Merrimack Valley Health Network",
+    "MetroWest Health Partners"
+  ],
+  "timeline": [
+    {
+      "date": "2000-12-22",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Eggs (edible) (substance)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2001-01-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic disposition",
+          "canonical": "allergic disposition",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fexofenadine hydrochloride",
+          "canonical": "Fexofenadine hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Peanut",
+          "canonical": "Peanut",
+          "match_method": "fuzzy",
+          "reaction": "Wheal (finding)",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "date": "2002-09-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2005-04-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Seasonal allergic rhinitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2012-11-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2015-12-20",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-08-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2016-10-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2016-11-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-31T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-31T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-01-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-08T02:42:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-12-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-12-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-12-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-12-31",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "time",
+          "canonical": "time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-01-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-06T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-06T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-01-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-01-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-01-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-01-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-01-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-02-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-02-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-06-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-01-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-12T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-12T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-20T02:31:47Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-01-20T02:31:47Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-12",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-01-17T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-01-17T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "hala",
+          "canonical": "hala",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-01-17T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-01-17T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-09-25T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-09-25T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-09-25T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-25T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-16",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Sprain (morphologic abnormality)",
+      "seen_at": "LIFE CARE CENTER OF ACTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-12-30T02:41:57Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-23T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Inhala",
+          "canonical": "ML Inhalation Solution | ML Inhalation Suspension",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-01-23T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Suspension",
+          "canonical": "ML Inhalation Suspension | ML Injectable Suspension | ML Oral Suspension",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-01-23T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-23T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "hala",
+          "canonical": "hala",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-01-23T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-06-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-01-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unemployed",
+          "canonical": "Unemployed",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-01-29"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-29T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-29T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-06T03:35:23Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-02-06T03:35:23Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-05-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-05-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-06-19",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-06-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-07-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-08-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-09-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-10-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-10-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-11-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LIFE CARE CENTER OF ACTON",
+      "entities": []
+    },
+    {
+      "date": "2022-12-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-12-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-12-20T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-12-20T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-29",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-02-04T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-02-04T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-12-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ethinyl Estradiol",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-14T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norelgestromin",
+          "canonical": "norelgestromin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-14T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-04",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-09T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-09T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-09T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-03-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "virtual",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-09T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "virtual",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-02-09T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-11-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-12-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-01-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-02-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-15T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-15T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-15T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-02-15T00:32:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-15T00:32:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-02-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2025-02-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-23T06:18:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-04-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-05-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-06-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-06-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LIFE CARE CENTER OF ACTON",
+      "entities": []
+    },
+    {
+      "date": "2025-08-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-08-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-08-22",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "inpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "EMERSON HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "tubal ligation",
+          "canonical": "History of tubal ligation",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "ALLERGY",
+      "canonical": "Peanut",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "History of tubal ligation",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

@@ -1,0 +1,2905 @@
+{
+  "cluster_id": "17",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "North Central Mass Health",
+    "South Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "1956-11-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "to swallow",
+          "canonical": "Unable to swallow saliva",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "1972-11-30",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Risk",
+          "canonical": "Risk",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "1974-12-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2002-04-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Localized  primary osteoarthritis of the hand (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "oste",
+          "canonical": "oste",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2004-12-05",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "heart",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Chronic congestive heart failure | Ischemic heart disease",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "STEMI",
+          "canonical": "STEMI",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2004-12-05",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Acute ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "STEM",
+          "canonical": "STEM",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "atorvastatin",
+          "canonical": "atorvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2006-10-19",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "blood sugar",
+          "canonical": "blood sugar",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2009-11-05",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "partner",
+          "canonical": "partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-22"
+        }
+      ]
+    },
+    {
+      "date": "2010-11-11",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hypertriglyceridemia",
+          "canonical": "Hypertriglyceridemia",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "metabolic syndrome",
+          "canonical": "Metabolic syndrome X",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-12-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2016-10-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2016-11-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2016-12-15",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronary",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | History of coronary artery bypass grafting",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-22",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2016-12-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2016-12-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cefazolin",
+          "canonical": "cefazolin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T08:51:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "heparin sodium  porcine",
+          "canonical": "heparin sodium porcine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T08:51:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "protamine sulfate",
+          "canonical": "protamine sulfate (USP)",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T08:51:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-12-25T08:54:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ondansetron",
+          "canonical": "NDA | Ondansetron",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-12-25T09:37:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Midazolam",
+          "canonical": "Midazolam",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T09:37:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Propofol",
+          "canonical": "Propofol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T09:37:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Rocuronium bromide",
+          "canonical": "Rocuronium bromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T09:37:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "isoflurane",
+          "canonical": "isoflurane",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T09:37:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alfentanil",
+          "canonical": "Alfentanil",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-25T09:37:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of coronary artery bypass grafting (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2016-12-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of coronary artery bypass grafting (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2017-01-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-05T23:08:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-28T22:11:55Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-06-28T22:11:55Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "mic",
+          "canonical": "mic",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-06-28T22:11:55Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2017-12-21",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2017-12-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-05-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "diabetic retinopathy",
+          "canonical": "Nonproliferative diabetic retinopathy due to type II diabetes mellitus",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "type II diabetes mellitus",
+          "canonical": "Nonproliferative diabetic retinopathy due to type II diabetes mellitus",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-24T22:29:20Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-24T22:29:20Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-12-27",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealthy alcohol drinking",
+          "canonical": "Unhealthy alcohol drinking",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-01-02"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2019-04-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-04-19T22:47:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-04-19T22:47:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-01-02",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-01-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-03-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-04-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-13T23:04:44Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-13T23:04:44Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-04",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-19T02:15:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of clavicle (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-01-07",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-01-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-01-21T22:55:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-09T23:22:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-09T23:22:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "mic",
+          "canonical": "mic",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-09T23:22:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-05-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-10-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-11-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-12-30",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "kidney disease",
+          "canonical": "Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "disorder",
+          "canonical": "Disorder of kidney due to diabetes mellitus | Seizure disorder | Sleep disorder",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "diabetes",
+          "canonical": "Diabetes mellitus due to cystic fibrosis | Diabetes mellitus type 2 | Disorder of kidney due to diabetes mellitus | Microalbuminuria due to type 2 diabetes mellitus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2022-01-20"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-30T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-12-30T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-30T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-12-30T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-01-14"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sinus",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-13",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-03T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-03T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-03T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-20T23:16:33Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-03",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-10T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-10T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-17T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-17T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-17T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-17",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-24T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-24T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-24",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-03T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-03-03T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-03",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-10T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-03-10T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-03-10T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-17T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-03-17T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-17",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-24T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-03-24T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-03-24T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-31T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-03-31T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-31",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-07T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-04-07T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-07",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-14T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-04-14T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-04-14T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-14",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-21T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-04-21T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-28T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-04-28T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-28",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-05T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-05-05T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-05",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-12T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-05-12T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-19T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-05-19T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-05-19T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-26T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-05-26T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-26",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-02T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-06-02T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-06-02T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-02",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-09T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-06-09T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-19T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-01-19T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-07-04"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-04T20:15:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-23T22:42:52Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-06-23T22:42:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-30T20:08:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-30T20:08:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-01-19",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-05-25T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-05-25T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-05-25T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-02T22:24:25Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-22T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-06-22T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-06-22T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "regular",
+          "canonical": "insulin regular human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-22T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-05-26T20:27:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-05-26T20:27:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "halmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-05-26T20:27:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-06-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-10-12T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-10-12T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-10-12T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part",
+          "canonical": "Part",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-01-11"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-12-05"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-11T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-01-11T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-01-11T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "virtual",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2024-01-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealthy alcohol",
+          "canonical": "Unhealthy alcohol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-04-11"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-25T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-01-25T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-01-25T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-25",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-11T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-04-11T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-02-01T20:08:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-02-01T20:08:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-05T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-05T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2024-12-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-12T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-12T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-12T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-19T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-19T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-19",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-01-02"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-26T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-26T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-26T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-26",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-02T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-02T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-02",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-09T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-09T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-09",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-16T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-16T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-16T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-16",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-01-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "environment",
+          "canonical": "environment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-01-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-01-30"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-23T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-23T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-23T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-30T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-30T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-30T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-30",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-06T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-02-06T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-02-06T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-13T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-02-13T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-13",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-20T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-02-20T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-02-20T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-20",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-27T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-02-27T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-27T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-03-27T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-03-27T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-03-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-13T20:08:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-13T20:08:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-04-12"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-04-12"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-27",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-03T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-04-03T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-04-03T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-03",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-10T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-04-10T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-04-10T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-08T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-05-08T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-05-08T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-17T22:51:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-10T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-07-10T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-07-10T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-07-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-09T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-09T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-09T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-10-09",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-05T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-02-05T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-02-05T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY & PREVENTIVE CARE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2026-02-19"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-07T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-05-07T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-05-07T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-06T20:26:52Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-02-06T20:26:52Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "halmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-06T20:26:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-19T22:41:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-02-19T22:41:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SOUTHSHORE HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-14T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-05-14T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-21T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-05-21T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-28T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-05-28T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-04T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-06-04T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-11T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-06-11T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-09T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-07-09T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cerebral palsy (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-06-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-06-26"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "streptococca",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-16"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "strept",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-16T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-07-16T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-08-06T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-08-06T20:04:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-08-06T20:04:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-08-06",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "SYMPTOM",
+      "canonical": "Unable to swallow saliva",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Myocardial infarction",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Hypertriglyceridemia",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Metabolic syndrome X",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Nonproliferative diabetic retinopathy due to type II diabetes mellitus",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Streptococcal sore throat",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Streptococcal sore throat",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

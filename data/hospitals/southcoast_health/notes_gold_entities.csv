@@ -1,0 +1,384 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+9a3814bb-f5b0-05f3-3c53-f8c9735ec82c,SOUTHC-ac561e,DIAGNOSIS,tree nut
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,DIAGNOSIS,allergic disposition
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,MEDICATION,cetirizine hydrochloride 5 MG Oral Tablet
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,ALLERGY,Tree nut
+9a3814bb-f5b0-05f3-8607-12bcd1ea3eba,SOUTHC-ac561e,DIAGNOSIS,pediatric asthma
+9a3814bb-f5b0-05f3-8607-12bcd1ea3eba,SOUTHC-ac561e,DIAGNOSIS,pediatric asthma
+9a3814bb-f5b0-05f3-8607-12bcd1ea3eba,SOUTHC-ac561e,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-8607-12bcd1ea3eba,SOUTHC-ac561e,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-6f85-20b8fe1a53e0,SOUTHC-ac561e,DIAGNOSIS,childhood asthma
+9a3814bb-f5b0-05f3-e0dc-309e11331886,SOUTHC-ac561e,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-e0dc-309e11331886,SOUTHC-ac561e,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-230f-6985db10794d,SOUTHC-ac561e,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+9a3814bb-f5b0-05f3-2250-ae200a0ef6f1,SOUTHC-ac561e,DIAGNOSIS,acute bacterial sinusitis
+9a3814bb-f5b0-05f3-2250-ae200a0ef6f1,SOUTHC-ac561e,DIAGNOSIS,acute bacterial sinusitis
+9a3814bb-f5b0-05f3-a43f-3241e9cb896f,SOUTHC-ac561e,DIAGNOSIS,acute bacterial sinusitis
+9a3814bb-f5b0-05f3-a43f-3241e9cb896f,SOUTHC-ac561e,DIAGNOSIS,chronic sinusitis
+9a3814bb-f5b0-05f3-dc32-28cb99d5b416,SOUTHC-ac561e,DIAGNOSIS,acute bacterial sinusitis
+9a3814bb-f5b0-05f3-4909-86e1cbc82d22,SOUTHC-ac561e,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+9a3814bb-f5b0-05f3-4909-86e1cbc82d22,SOUTHC-ac561e,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,DIAGNOSIS,streptococcal sore throat
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,DIAGNOSIS,streptococcal sore throat
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+9a3814bb-f5b0-05f3-6f9f-4d5f03daf23a,SOUTHC-ac561e,DIAGNOSIS,pediatric asthma
+9a3814bb-f5b0-05f3-173a-1276dc11f969,SOUTHC-ac561e,DIAGNOSIS,tree nut
+9a3814bb-f5b0-05f3-4c97-bdf8295b8a0b,SOUTHC-ac561e,DIAGNOSIS,childhood asthma
+9a3814bb-f5b0-05f3-9d5d-5b85d9fc6d0c,SOUTHC-ac561e,DIAGNOSIS,primary dental caries
+9a3814bb-f5b0-05f3-38a7-d04d770223c1,SOUTHC-ac561e,DIAGNOSIS,childhood asthma
+9a3814bb-f5b0-05f3-f853-69d65aca1542,SOUTHC-ac561e,DIAGNOSIS,primary dental caries
+9a3814bb-f5b0-05f3-f853-69d65aca1542,SOUTHC-ac561e,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+9a3814bb-f5b0-05f3-d5d2-0e67c98717f7,SOUTHC-ac561e,DIAGNOSIS,childhood asthma
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,DIAGNOSIS,a chest cold
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,DIAGNOSIS,a chest cold
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,MEDICATION,Acetaminophen 325 MG Oral Tablet
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-e4d0-1f4e3f48d49e,SOUTHC-ac561e,DIAGNOSIS,gum inflammation
+9a3814bb-f5b0-05f3-e4d0-1f4e3f48d49e,SOUTHC-ac561e,DIAGNOSIS,gingival disease
+9a3814bb-f5b0-05f3-e4d0-1f4e3f48d49e,SOUTHC-ac561e,DIAGNOSIS,primary dental caries
+9a3814bb-f5b0-05f3-e4d0-1f4e3f48d49e,SOUTHC-ac561e,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+9a3814bb-f5b0-05f3-8f6e-9a15b5a948c0,SOUTHC-ac561e,DIAGNOSIS,pediatric asthma
+9a3814bb-f5b0-05f3-8a36-71495c57357a,SOUTHC-ac561e,DIAGNOSIS,gum inflammation
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,DIAGNOSIS,streptococcal sore throat
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,DIAGNOSIS,streptococcal sore throat
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,DIAGNOSIS,a middle-ear infection
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,DIAGNOSIS,otitis media
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,MEDICATION,Amoxicillin 500 MG Oral Tablet
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,DIAGNOSIS,streptococcal sore throat
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,DIAGNOSIS,streptococcal sore throat
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+f30304ab-8e45-1cbd-0d13-378caf6b943b,SOUTHC-9ae386,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+f30304ab-8e45-1cbd-d4b6-ec39d16a0d0a,SOUTHC-9ae386,DIAGNOSIS,a sinus infection
+f30304ab-8e45-1cbd-d4b6-ec39d16a0d0a,SOUTHC-9ae386,DIAGNOSIS,a sinus infection
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,DIAGNOSIS,otitis media
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,DIAGNOSIS,a middle-ear infection
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,MEDICATION,Amoxicillin 500 MG Oral Tablet
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+f30304ab-8e45-1cbd-b3df-26028bc9bb51,SOUTHC-9ae386,DIAGNOSIS,gum inflammation
+f30304ab-8e45-1cbd-b3df-26028bc9bb51,SOUTHC-9ae386,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,DIAGNOSIS,viral sinusitis
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,DIAGNOSIS,a sinus infection
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,DIAGNOSIS,streptococcal sore throat
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,DIAGNOSIS,streptococcal sore throat
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+f30304ab-8e45-1cbd-7040-1a04104db872,SOUTHC-9ae386,DIAGNOSIS,streptococcal sore throat
+f30304ab-8e45-1cbd-7040-1a04104db872,SOUTHC-9ae386,DIAGNOSIS,streptococcal sore throat
+f30304ab-8e45-1cbd-7040-1a04104db872,SOUTHC-9ae386,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+f30304ab-8e45-1cbd-c58a-7ed6222e947f,SOUTHC-9ae386,DIAGNOSIS,gum inflammation
+e34a6a5e-1d77-508d-c128-551e959572f0,SOUTHC-5aa69b,DIAGNOSIS,gum inflammation
+e34a6a5e-1d77-508d-d5b0-c8501f3ec0e2,SOUTHC-5aa69b,DIAGNOSIS,gingivitis
+e34a6a5e-1d77-508d-d5b0-c8501f3ec0e2,SOUTHC-5aa69b,DIAGNOSIS,gingival disease
+e34a6a5e-1d77-508d-d5b0-c8501f3ec0e2,SOUTHC-5aa69b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+e34a6a5e-1d77-508d-5ccb-6650ff7a6211,SOUTHC-5aa69b,MEDICATION,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+e34a6a5e-1d77-508d-7a77-e15f104d697e,SOUTHC-5aa69b,DIAGNOSIS,severe anxiety with panic features
+e34a6a5e-1d77-508d-77a5-a9466c0dc37b,SOUTHC-5aa69b,DIAGNOSIS,normal pregnancy
+e34a6a5e-1d77-508d-77a5-a9466c0dc37b,SOUTHC-5aa69b,DIAGNOSIS,normal pregnancy
+e34a6a5e-1d77-508d-a025-6feca335d77c,SOUTHC-5aa69b,DIAGNOSIS,normal pregnancy
+e34a6a5e-1d77-508d-5db0-8397e971a90d,SOUTHC-5aa69b,DIAGNOSIS,normal pregnancy
+e34a6a5e-1d77-508d-ef63-a951fa0fba76,SOUTHC-5aa69b,DIAGNOSIS,gum inflammation
+e34a6a5e-1d77-508d-9f39-137908c0c841,SOUTHC-5aa69b,DIAGNOSIS,gum inflammation
+e34a6a5e-1d77-508d-9f39-137908c0c841,SOUTHC-5aa69b,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+e34a6a5e-1d77-508d-9f39-137908c0c841,SOUTHC-5aa69b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,cough
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,sputum finding
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,dyspnea
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,wheezing
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,fever
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,loss of taste
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,acute infective cystitis
+e34a6a5e-1d77-508d-20c5-f49607a46f9a,SOUTHC-5aa69b,MEDICATION,ciprofloxacin 250 MG Oral Tablet
+e34a6a5e-1d77-508d-0c1c-ac0a39473576,SOUTHC-5aa69b,DIAGNOSIS,gingivitis
+e34a6a5e-1d77-508d-044d-372a89f08d28,SOUTHC-5aa69b,DIAGNOSIS,gingivitis
+e34a6a5e-1d77-508d-044d-372a89f08d28,SOUTHC-5aa69b,DIAGNOSIS,gum disease
+e34a6a5e-1d77-508d-8a2c-76b0b324d33a,SOUTHC-5aa69b,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+e34a6a5e-1d77-508d-e4e8-00aacb1f2de9,SOUTHC-5aa69b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,DIAGNOSIS,viral sinusitis
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,DIAGNOSIS,a sinus infection
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+e34a6a5e-1d77-508d-9ae5-50132dd0d519,SOUTHC-5aa69b,MEDICATION,21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]
+e34a6a5e-1d77-508d-ba7b-1b257533ebca,SOUTHC-5aa69b,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+e34a6a5e-1d77-508d-8ac4-58226ac25605,SOUTHC-5aa69b,DIAGNOSIS,a sinus infection
+e34a6a5e-1d77-508d-8ac4-58226ac25605,SOUTHC-5aa69b,DIAGNOSIS,viral sinusitis
+e34a6a5e-1d77-508d-ecf7-dd010ec08d2b,SOUTHC-5aa69b,DIAGNOSIS,normal pregnancy
+e34a6a5e-1d77-508d-ecf7-dd010ec08d2b,SOUTHC-5aa69b,DIAGNOSIS,normal pregnancy
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,DIAGNOSIS,fracture of bone
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,DIAGNOSIS,fracture of bone
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,DIAGNOSIS,fracture of clavicle
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,MEDICATION,Ibuprofen 100 MG Oral Tablet
+4af53267-820e-7687-efdd-05535f115b82,SOUTHC-748765,DIAGNOSIS,fracture of clavicle
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,DIAGNOSIS,otitis media
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,DIAGNOSIS,a middle-ear infection
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,MEDICATION,Amoxicillin 500 MG Oral Tablet
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+4af53267-820e-7687-aeff-58b01699b5d7,SOUTHC-748765,DIAGNOSIS,laceration - injury
+4af53267-820e-7687-aeff-58b01699b5d7,SOUTHC-748765,DIAGNOSIS,laceration - injury
+4af53267-820e-7687-aeff-58b01699b5d7,SOUTHC-748765,DIAGNOSIS,laceration of forearm
+4af53267-820e-7687-aeff-58b01699b5d7,SOUTHC-748765,MEDICATION,Ibuprofen 100 MG Oral Tablet
+4af53267-820e-7687-0d4a-4cb55cc3f6b9,SOUTHC-748765,DIAGNOSIS,a chest cold
+4af53267-820e-7687-0d4a-4cb55cc3f6b9,SOUTHC-748765,DIAGNOSIS,acute bronchitis
+4af53267-820e-7687-0d4a-4cb55cc3f6b9,SOUTHC-748765,MEDICATION,Acetaminophen 325 MG Oral Tablet
+4af53267-820e-7687-b6e8-1f8e36f03db8,SOUTHC-748765,DIAGNOSIS,acute viral pharyngitis
+4af53267-820e-7687-b6e8-1f8e36f03db8,SOUTHC-748765,DIAGNOSIS,acute viral pharyngitis
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,DIAGNOSIS,a middle-ear infection
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,DIAGNOSIS,otitis media
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,MEDICATION,Amoxicillin 500 MG Oral Tablet
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+4af53267-820e-7687-8b04-81f74e0a75a1,SOUTHC-748765,DIAGNOSIS,acute viral pharyngitis
+4af53267-820e-7687-8b04-81f74e0a75a1,SOUTHC-748765,DIAGNOSIS,acute viral pharyngitis
+4af53267-820e-7687-2f5d-9d4612f17306,SOUTHC-748765,DIAGNOSIS,acute viral pharyngitis
+4af53267-820e-7687-2f5d-9d4612f17306,SOUTHC-748765,DIAGNOSIS,acute viral pharyngitis
+4af53267-820e-7687-d35f-41940515cb96,SOUTHC-748765,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+4af53267-820e-7687-a686-a5876353f831,SOUTHC-748765,DIAGNOSIS,acute viral pharyngitis
+4af53267-820e-7687-a686-a5876353f831,SOUTHC-748765,DIAGNOSIS,a sore throat
+4af53267-820e-7687-45e5-c77aee25e072,SOUTHC-748765,DIAGNOSIS,gum inflammation
+4af53267-820e-7687-b510-47d4dc6b8c9c,SOUTHC-748765,DIAGNOSIS,gum inflammation
+4af53267-820e-7687-b510-47d4dc6b8c9c,SOUTHC-748765,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+8ece28c6-f931-b0e0-7153-534549127919,SOUTHC-ede5b7,DIAGNOSIS,gout
+8ece28c6-f931-b0e0-7153-534549127919,SOUTHC-ede5b7,DIAGNOSIS,gout
+8ece28c6-f931-b0e0-3ed7-6472c6a43e53,SOUTHC-ede5b7,DIAGNOSIS,essential hypertension
+8ece28c6-f931-b0e0-43b3-e2985a38eb14,SOUTHC-ede5b7,DIAGNOSIS,chronic pain
+8ece28c6-f931-b0e0-43b3-e2985a38eb14,SOUTHC-ede5b7,DIAGNOSIS,ongoing pain
+8ece28c6-f931-b0e0-974b-be019fd9601e,SOUTHC-ede5b7,DIAGNOSIS,osteoporosis
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,DIAGNOSIS,coronary artery disease
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,DIAGNOSIS,severe anxiety with panic features
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Clopidogrel 75 MG Oral Tablet
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Simvastatin 20 MG Oral Tablet
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+8ece28c6-f931-b0e0-1150-c3970bfce3e4,SOUTHC-ede5b7,DIAGNOSIS,primary dental caries
+8ece28c6-f931-b0e0-1150-c3970bfce3e4,SOUTHC-ede5b7,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+8ece28c6-f931-b0e0-09ba-f35679165318,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-09ba-f35679165318,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-505a-d00a6c0ce72d,SOUTHC-ede5b7,DIAGNOSIS,a sore throat
+8ece28c6-f931-b0e0-505a-d00a6c0ce72d,SOUTHC-ede5b7,DIAGNOSIS,acute viral pharyngitis
+8ece28c6-f931-b0e0-7e64-8a67114567b3,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-7e64-8a67114567b3,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-a2fc-625d9ab8471c,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-a2fc-625d9ab8471c,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-d6a7-5d016fabc380,SOUTHC-ede5b7,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+8ece28c6-f931-b0e0-ac7a-190e12763c8d,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-ac7a-190e12763c8d,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-1657-76ea6a17c20c,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-1657-76ea6a17c20c,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-129b-d9fc3267ad8b,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-129b-d9fc3267ad8b,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-4da7-3be24086a224,SOUTHC-ede5b7,DIAGNOSIS,gum inflammation
+8ece28c6-f931-b0e0-4da7-3be24086a224,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-4da7-3be24086a224,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-3431-7e367fa57e2c,SOUTHC-ede5b7,DIAGNOSIS,gingivitis
+8ece28c6-f931-b0e0-5870-cda02b8d71fe,SOUTHC-ede5b7,DIAGNOSIS,acute viral pharyngitis
+8ece28c6-f931-b0e0-5870-cda02b8d71fe,SOUTHC-ede5b7,DIAGNOSIS,acute viral pharyngitis
+8ece28c6-f931-b0e0-b284-105a73d139fa,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-b284-105a73d139fa,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-0665-4317289e5ba4,SOUTHC-ede5b7,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+8ece28c6-f931-b0e0-e15e-f120e984198e,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-e15e-f120e984198e,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-1775-8f401a2c6f78,SOUTHC-ede5b7,DIAGNOSIS,gout
+8ece28c6-f931-b0e0-1775-8f401a2c6f78,SOUTHC-ede5b7,MEDICATION,Naproxen 500 MG Oral Tablet
+8ece28c6-f931-b0e0-1775-8f401a2c6f78,SOUTHC-ede5b7,MEDICATION,Allopurinol 100 MG Oral Tablet
+8ece28c6-f931-b0e0-759b-fd032d795588,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-759b-fd032d795588,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-3d4d-e37ad4b472f0,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-3d4d-e37ad4b472f0,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-0eb0-5570f29cf3ea,SOUTHC-ede5b7,DIAGNOSIS,viral sinusitis
+8ece28c6-f931-b0e0-0eb0-5570f29cf3ea,SOUTHC-ede5b7,DIAGNOSIS,viral sinusitis
+8ece28c6-f931-b0e0-b43e-9b7f3b9b74eb,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+8ece28c6-f931-b0e0-b43e-9b7f3b9b74eb,SOUTHC-ede5b7,MEDICATION,Alendronic acid 10 MG Oral Tablet
+8ece28c6-f931-b0e0-2fd7-cdf53c8d48c2,SOUTHC-ede5b7,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+197ec76f-0730-2587-3b15-0bac5d16c0d4,SOUTHC-ec63bd,DIAGNOSIS,panic attacks
+197ec76f-0730-2587-673e-70c01b4cb343,SOUTHC-ec63bd,DIAGNOSIS,acute infective cystitis
+adec1419-cf81-6640-ca48-e157e556a90b,SOUTHC-b970b5,DIAGNOSIS,acute bacterial sinusitis
+adec1419-cf81-6640-ca48-e157e556a90b,SOUTHC-b970b5,DIAGNOSIS,chronic sinusitis
+adec1419-cf81-6640-5b13-5c5dc26d52fe,SOUTHC-b970b5,DIAGNOSIS,appendicitis
+adec1419-cf81-6640-5b13-5c5dc26d52fe,SOUTHC-b970b5,DIAGNOSIS,history of appendectomy
+adec1419-cf81-6640-db7e-444b27362fc7,SOUTHC-b970b5,DIAGNOSIS,significant weight gain
+adec1419-cf81-6640-461a-aab35fa16657,SOUTHC-b970b5,DIAGNOSIS,gout
+adec1419-cf81-6640-461a-aab35fa16657,SOUTHC-b970b5,DIAGNOSIS,gout
+adec1419-cf81-6640-a305-482d20d5f967,SOUTHC-b970b5,DIAGNOSIS,loss of teeth
+adec1419-cf81-6640-a305-482d20d5f967,SOUTHC-b970b5,DIAGNOSIS,loss of teeth
+adec1419-cf81-6640-49d9-90c3415555f1,SOUTHC-b970b5,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,DIAGNOSIS,sinusitis
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,DIAGNOSIS,sinusitis
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+adec1419-cf81-6640-88b1-f9c1d971e11b,SOUTHC-b970b5,DIAGNOSIS,acute viral pharyngitis
+adec1419-cf81-6640-88b1-f9c1d971e11b,SOUTHC-b970b5,DIAGNOSIS,acute viral pharyngitis
+adec1419-cf81-6640-800a-48bd3fdabd8c,SOUTHC-b970b5,DIAGNOSIS,loss of teeth
+adec1419-cf81-6640-e511-9242926b8050,SOUTHC-b970b5,DIAGNOSIS,loss of teeth
+adec1419-cf81-6640-655d-98ecd1601371,SOUTHC-b970b5,DIAGNOSIS,sleep disorder
+adec1419-cf81-6640-655d-98ecd1601371,SOUTHC-b970b5,DIAGNOSIS,sleep disorder
+adec1419-cf81-6640-cbed-68436847f9b0,SOUTHC-b970b5,DIAGNOSIS,sleep disorder
+adec1419-cf81-6640-38e6-96474eb27726,SOUTHC-b970b5,DIAGNOSIS,sleep disorder
+adec1419-cf81-6640-38e6-96474eb27726,SOUTHC-b970b5,DIAGNOSIS,obstructive sleep apnea syndrome
+adec1419-cf81-6640-0e04-1bd67f0589d2,SOUTHC-b970b5,DIAGNOSIS,acute infective cystitis
+adec1419-cf81-6640-f2b2-526546936cd5,SOUTHC-b970b5,DIAGNOSIS,acute infective cystitis
+adec1419-cf81-6640-f2b2-526546936cd5,SOUTHC-b970b5,MEDICATION,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet
+adec1419-cf81-6640-6a36-9e7a6f5f75cc,SOUTHC-b970b5,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+adec1419-cf81-6640-ca88-24dea7690ef7,SOUTHC-b970b5,DIAGNOSIS,acute viral pharyngitis
+adec1419-cf81-6640-ca88-24dea7690ef7,SOUTHC-b970b5,DIAGNOSIS,acute viral pharyngitis
+adec1419-cf81-6640-119c-d6c95ecf57b9,SOUTHC-b970b5,DIAGNOSIS,gingivitis
+adec1419-cf81-6640-c933-50af50fca041,SOUTHC-b970b5,DIAGNOSIS,gum inflammation
+adec1419-cf81-6640-709f-fe2067c85415,SOUTHC-b970b5,DIAGNOSIS,acute bronchitis
+adec1419-cf81-6640-709f-fe2067c85415,SOUTHC-b970b5,DIAGNOSIS,a chest cold
+adec1419-cf81-6640-709f-fe2067c85415,SOUTHC-b970b5,MEDICATION,Acetaminophen 325 MG Oral Tablet
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,DIAGNOSIS,laceration - injury
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,DIAGNOSIS,laceration - injury
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,DIAGNOSIS,laceration of hand
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,MEDICATION,Ibuprofen 200 MG Oral Tablet
+adec1419-cf81-6640-68af-3301b5fafada,SOUTHC-b970b5,DIAGNOSIS,gum inflammation
+adec1419-cf81-6640-81f9-a0c63d748dd1,SOUTHC-b970b5,DIAGNOSIS,gum inflammation
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,DIAGNOSIS,seizure disorder
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,DIAGNOSIS,seizure disorder
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,DIAGNOSIS,history of seizure
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,MEDICATION,clonazePAM 0.25 MG Oral Tablet
+30889246-5f7d-9305-890d-e32a05fcef38,SOUTHC-a9fb35,MEDICATION,carbamazepine 20 MG/ML Oral Suspension [Tegretol]
+30889246-5f7d-9305-cdc7-c5a7ce794dbf,SOUTHC-a9fb35,MEDICATION,carbamazepine 20 MG/ML Oral Suspension [Tegretol]
+30889246-5f7d-9305-46a9-78e82d3b58f3,SOUTHC-a9fb35,DIAGNOSIS,sudden cardiac death
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,DIAGNOSIS,otitis media
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,DIAGNOSIS,otitis media
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,MEDICATION,Amoxicillin 500 MG Oral Tablet
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,DIAGNOSIS,streptococcal sore throat
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,DIAGNOSIS,streptococcal sore throat
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+1dabc422-e007-d5ee-d391-5e79e6a4a0e0,SOUTHC-932357,DIAGNOSIS,gingival disease
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,DIAGNOSIS,otitis media
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,DIAGNOSIS,a middle-ear infection
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,MEDICATION,Amoxicillin 500 MG Oral Tablet
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,MEDICATION,Ibuprofen 100 MG Oral Tablet
+1dabc422-e007-d5ee-e5c3-99c5cde95736,SOUTHC-932357,DIAGNOSIS,primary dental caries
+1dabc422-e007-d5ee-e5c3-99c5cde95736,SOUTHC-932357,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+1dabc422-e007-d5ee-6aa6-8b44a027df8b,SOUTHC-932357,DIAGNOSIS,gunshot wound
+1dabc422-e007-d5ee-6aa6-8b44a027df8b,SOUTHC-932357,DIAGNOSIS,gunshot wound
+1dabc422-e007-d5ee-6aa6-8b44a027df8b,SOUTHC-932357,DIAGNOSIS,bullet wound
+1dabc422-e007-d5ee-6aa6-8b44a027df8b,SOUTHC-932357,MEDICATION,Ibuprofen 100 MG Oral Tablet
+1dabc422-e007-d5ee-4cc9-3f740040d606,SOUTHC-932357,DIAGNOSIS,bullet wound
+1dabc422-e007-d5ee-bb02-414ecad9934f,SOUTHC-932357,DIAGNOSIS,acute viral pharyngitis
+1dabc422-e007-d5ee-bb02-414ecad9934f,SOUTHC-932357,DIAGNOSIS,a sore throat
+1dabc422-e007-d5ee-6ed0-a0f80627124d,SOUTHC-932357,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+1dabc422-e007-d5ee-d3a4-159aad9323a6,SOUTHC-932357,DIAGNOSIS,acute viral pharyngitis
+1dabc422-e007-d5ee-d3a4-159aad9323a6,SOUTHC-932357,DIAGNOSIS,acute viral pharyngitis
+1dabc422-e007-d5ee-9fe8-f0a90cc9a3f1,SOUTHC-932357,DIAGNOSIS,injury of tendon of the rotator cuff of shoulder
+1dabc422-e007-d5ee-9fe8-f0a90cc9a3f1,SOUTHC-932357,DIAGNOSIS,injury of tendon of the rotator cuff of shoulder
+1dabc422-e007-d5ee-747f-8f639a19ff30,SOUTHC-932357,DIAGNOSIS,injury of tendon of the rotator cuff of shoulder
+3732fde5-efc6-d57a-0793-f144f041af74,SOUTHC-3375af,DIAGNOSIS,osteoarthritis of knee
+3732fde5-efc6-d57a-0793-f144f041af74,SOUTHC-3375af,DIAGNOSIS,osteoarthritis of knee
+3732fde5-efc6-d57a-220f-3a7f37fe4522,SOUTHC-3375af,DIAGNOSIS,high blood pressure
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-0520-6184d092114d,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-0520-6184d092114d,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-2ad1-50b9e41abf46,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-2ad1-50b9e41abf46,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-2ad1-50b9e41abf46,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-ddc3-4358f4d15145,SOUTHC-3375af,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+3732fde5-efc6-d57a-e54f-bb5e158fe3d0,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-e54f-bb5e158fe3d0,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-0c0f-5258ae49bf4e,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-0c0f-5258ae49bf4e,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-0c0f-5258ae49bf4e,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-82f0-65485cba9875,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-82f0-65485cba9875,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-105c-58e6664f3efa,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-105c-58e6664f3efa,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-105c-58e6664f3efa,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-7773-b123991c509a,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-7773-b123991c509a,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-60d9-7e3435cb75a4,SOUTHC-3375af,DIAGNOSIS,acute infective cystitis
+3732fde5-efc6-d57a-495c-e18dfeb5ad8c,SOUTHC-3375af,DIAGNOSIS,acute infective cystitis
+3732fde5-efc6-d57a-36a1-6c3ebef58fe0,SOUTHC-3375af,DIAGNOSIS,acute infective cystitis
+3732fde5-efc6-d57a-36a1-6c3ebef58fe0,SOUTHC-3375af,MEDICATION,ciprofloxacin 500 MG Oral Tablet
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,DIAGNOSIS,gum inflammation
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-aafc-3ee4323a41c3,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-aafc-3ee4323a41c3,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-1386-f506588b63cb,SOUTHC-3375af,DIAGNOSIS,gum inflammation
+3732fde5-efc6-d57a-1386-f506588b63cb,SOUTHC-3375af,DIAGNOSIS,gingival disease
+3732fde5-efc6-d57a-1386-f506588b63cb,SOUTHC-3375af,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,DIAGNOSIS,cough
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,DIAGNOSIS,dyspnea
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,DIAGNOSIS,wheezing
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,DIAGNOSIS,fever
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,DIAGNOSIS,disease caused by severe acute respiratory syndrome coronavirus 2
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,DIAGNOSIS,disease caused by severe acute respiratory syndrome coronavirus 2
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,DIAGNOSIS,pneumonia
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,DIAGNOSIS,hypoxemia
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,DIAGNOSIS,respiratory distress
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,DIAGNOSIS,acute deep venous thrombosis
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen 500 MG Oral Tablet
+3732fde5-efc6-d57a-1c15-0f3aac2481f1,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-1c15-0f3aac2481f1,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-1c15-0f3aac2481f1,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-a710-2eb0a64c6eef,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-a710-2eb0a64c6eef,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-4290-bac0578594c4,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-4290-bac0578594c4,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-4290-bac0578594c4,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-656a-45cd54c64340,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-656a-45cd54c64340,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-8cc4-c12fde87e9b0,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-8cc4-c12fde87e9b0,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-8cc4-c12fde87e9b0,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-fd13-1f02a1221868,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-fd13-1f02a1221868,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-65e5-dceafa38ca2f,SOUTHC-3375af,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+3732fde5-efc6-d57a-f3e3-ed3ea674f94e,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-f3e3-ed3ea674f94e,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-f3e3-ed3ea674f94e,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-ddea-4bd3c30a6eaf,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-ddea-4bd3c30a6eaf,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-847c-1f58b45e68f2,SOUTHC-3375af,DIAGNOSIS,a sinus infection
+3732fde5-efc6-d57a-847c-1f58b45e68f2,SOUTHC-3375af,DIAGNOSIS,a sinus infection
+3732fde5-efc6-d57a-14d2-1a5bfba44ffe,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-14d2-1a5bfba44ffe,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-14d2-1a5bfba44ffe,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-ce46-cee24523c019,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-ce46-cee24523c019,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,DIAGNOSIS,gum inflammation
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,MEDICATION,lisinopril 10 MG Oral Tablet
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3732fde5-efc6-d57a-0be1-1dfc33a723af,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia
+3732fde5-efc6-d57a-0be1-1dfc33a723af,SOUTHC-3375af,MEDICATION,Simvastatin 10 MG Oral Tablet
+3732fde5-efc6-d57a-7ce6-486c5a0ccaf9,SOUTHC-3375af,DIAGNOSIS,gingivitis

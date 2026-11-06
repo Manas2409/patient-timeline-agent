@@ -1,0 +1,17 @@
+flowchart TD
+    A["Patient's records live in<br/>separate, disconnected hospitals"] --> B["Patient checks in<br/>with name + date of birth"]
+    B --> C{"Match identity across<br/>hospitals despite<br/>inconsistent records"}
+    C --> D["Unified Patient History<br/>(diagnoses, meds, allergies, visits)"]
+
+    D -- "same fact from 2+ hospitals" --> E["Marked confirmed"]
+    D -- "fact from only 1 hospital" --> F["Marked unconfirmed"]
+
+    B2["Doctor enters today's complaint"] --> G{"Enough history to<br/>brief confidently?"}
+    E --> G
+    F --> G
+
+    G -- "no, too vague" --> H["Agent asks a<br/>clarifying question"]
+    H --> B2
+
+    G -- "yes" --> I["Agent checks for red flags:<br/>allergies, drug interactions,<br/>recurring symptoms"]
+    I --> J["Doctor sees: short briefing<br/>+ full annotated history,<br/>confirmed vs unconfirmed"]

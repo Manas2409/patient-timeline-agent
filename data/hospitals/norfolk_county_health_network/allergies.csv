@@ -1,0 +1,15 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+NORFOL-d01758,2006-04-09,Allergic disposition (finding),,
+NORFOL-d01758,2006-04-09,Latex (substance),Allergic angioedema (disorder),MODERATE
+NORFOL-d01758,2006-04-09,Bee venom (substance),,
+NORFOL-d01758,2006-04-09,Mold (organism),Nasal discharge present (situation),MILD
+NORFOL-d01758,2006-04-09,Animal dander (substance),Cough (finding),MODERATE
+NORFOL-d01758,2006-04-09,Grass pollen (substance),,
+NORFOL-d01758,2006-04-09,Wheat (substance),Eruption of skin (disorder),MODERATE
+NORFOL-d01758,2006-04-09,Shellfish (substance),Eruption of skin (disorder),MODERATE
+NORFOL-951ff0,1986-05-25,Allergic disposition (finding),,
+NORFOL-951ff0,1986-05-25,Shellfish (substance),Eruption of skin (disorder),MODERATE
+NORFOL-e876cb,1981-12-02,Allergic disposition (finding),,
+NORFOL-e876cb,1981-12-02,Tree pollen (substance),,
+NORFOL-e876cb,1981-12-02,Aspirin,,
+NORFOL-e876cb,1981-12-02,Shellfish (substance),Eruption of skin (disorder),MODERATE

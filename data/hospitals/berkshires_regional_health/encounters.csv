@@ -1,0 +1,83 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,ENCOUNTERCLASS,DESCRIPTION,REASONDESCRIPTION,SEEN_AT
+d21fc5fa-6dc5-8058-6429-d512a7d040c4,BERKSH-591a1c,2016-07-10T23:25:26Z,2016-07-10T23:41:55Z,wellness,Well child visit (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-0483-5028718ee63d,BERKSH-591a1c,2017-07-16T23:25:26Z,2017-07-16T23:40:26Z,wellness,Well child visit (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-e632-38d1e7468329,BERKSH-591a1c,2017-07-23T23:25:26Z,2017-07-24T03:06:49Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,2018-02-18T23:25:26Z,2018-02-19T00:25:26Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),WILLIAMSTOWN COMMONS NURSING & REHAB
+d21fc5fa-6dc5-8058-ec64-93bc980a03a9,BERKSH-591a1c,2018-07-22T23:25:26Z,2018-07-22T23:42:12Z,wellness,Well child visit (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-e1c1-05787c5051d5,BERKSH-591a1c,2018-08-24T05:25:26Z,2018-08-24T05:40:26Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-e719-9e37f1a2b82c,BERKSH-591a1c,2019-04-12T09:25:26Z,2019-04-12T09:40:26Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-1c16-1923a49188f3,BERKSH-591a1c,2019-07-28T23:25:26Z,2019-07-28T23:40:26Z,wellness,Well child visit (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-57b1-b8f5313b7798,BERKSH-591a1c,2020-08-02T23:25:26Z,2020-08-02T23:40:26Z,wellness,Well child visit (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-9882-07f54998bc35,BERKSH-591a1c,2021-05-30T23:25:26Z,2021-05-30T23:40:26Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-ef56-6376e4397ab1,BERKSH-591a1c,2021-06-20T23:25:26Z,2021-06-20T23:40:26Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-e8bf-d0b76c9a54c0,BERKSH-591a1c,2021-08-08T23:25:26Z,2021-08-08T23:46:01Z,wellness,Well child visit (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-cb44-81e3e77b7eaa,BERKSH-591a1c,2021-08-22T23:25:26Z,2021-08-23T02:35:43Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-05e2-89d8eb3614da,BERKSH-591a1c,2022-08-14T23:25:26Z,2022-08-14T23:44:23Z,wellness,Well child visit (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-57ae-c3622afc213f,BERKSH-591a1c,2023-07-31T13:48:55Z,2023-07-31T14:03:55Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-ad8a-7f2a2c541cd2,BERKSH-591a1c,2023-08-20T23:25:26Z,2023-08-20T23:42:40Z,wellness,Well child visit (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-de3a-a521dc09a203,BERKSH-591a1c,2023-09-03T23:25:26Z,2023-09-04T05:39:07Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,2024-08-06T23:25:26Z,2024-08-06T23:40:26Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-6128-b15e21b71f12,BERKSH-591a1c,2024-08-09T23:25:26Z,2024-08-10T00:11:00Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-de55-e62f6c39d573,BERKSH-591a1c,2024-08-13T00:11:00Z,2024-08-13T01:09:03Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-1622-47214fb7b02f,BERKSH-591a1c,2024-08-16T01:09:03Z,2024-08-16T01:56:16Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-aa5b-388cb64b40ba,BERKSH-591a1c,2024-08-25T23:25:26Z,2024-08-26T00:09:21Z,wellness,General examination of patient (procedure),,FAIRVIEW HOSPITAL
+d21fc5fa-6dc5-8058-b339-809c2a3c4d98,BERKSH-591a1c,2024-09-01T23:25:26Z,2024-09-02T00:22:24Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-2e05-eb8d1865124d,BERKSH-591a1c,2024-09-05T00:22:24Z,2024-09-05T01:08:54Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-eba3-cc9f60d0658e,BERKSH-591a1c,2024-09-08T01:08:54Z,2024-09-08T01:59:14Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-c85d-89127d9ee09e,BERKSH-591a1c,2024-09-15T23:25:26Z,2024-09-16T02:21:49Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-2a98-f5c2edec78ac,BERKSH-591a1c,2024-09-22T23:25:26Z,2024-09-23T00:22:40Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-a4a9-10d4b5c3d238,BERKSH-591a1c,2024-09-26T00:22:40Z,2024-09-26T01:11:16Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-ebfd-12db78d3a11d,BERKSH-591a1c,2024-09-29T01:11:16Z,2024-09-29T02:05:57Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-9b52-cf2ce3b5d068,BERKSH-591a1c,2024-10-02T02:05:57Z,2024-10-02T02:53:35Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),BERKSHIRE MEDICAL CENTER INC
+d21fc5fa-6dc5-8058-d7b7-ce56295cecbe,BERKSH-591a1c,2025-08-31T23:25:26Z,2025-09-01T00:12:30Z,wellness,General examination of patient (procedure),,FAIRVIEW HOSPITAL
+d537941e-1fb7-9868-7897-4026c5a683c2,BERKSH-ee35ac,2008-09-14T04:59:04Z,2008-09-14T05:31:31Z,wellness,General examination of patient (procedure),,SUBURBAN INTERNAL MEDICINE  INC.
+d537941e-1fb7-9868-1239-45d05e635300,BERKSH-ee35ac,2009-09-20T04:59:04Z,2009-09-20T05:39:45Z,wellness,General examination of patient (procedure),,SUBURBAN INTERNAL MEDICINE  INC.
+d537941e-1fb7-9868-8717-7fea5ee200fb,BERKSH-ee35ac,2012-09-23T04:59:04Z,2012-09-23T05:31:48Z,wellness,General examination of patient (procedure),,SUBURBAN INTERNAL MEDICINE  INC.
+d537941e-1fb7-9868-edde-6f8b7f64e1db,BERKSH-ee35ac,2015-09-27T04:59:04Z,2015-09-27T05:43:57Z,wellness,General examination of patient (procedure),,SUBURBAN INTERNAL MEDICINE  INC.
+d537941e-1fb7-9868-f597-32912631973f,BERKSH-ee35ac,2016-12-11T04:59:04Z,2016-12-11T05:14:04Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-9fd4-fb24866038e0,BERKSH-ee35ac,2017-01-08T04:59:04Z,2017-01-08T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-53be-fb45f12f8c19,BERKSH-ee35ac,2017-02-05T04:59:04Z,2017-02-05T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-a771-08a1673db909,BERKSH-ee35ac,2017-03-05T04:59:04Z,2017-03-05T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-900f-915f7b88875d,BERKSH-ee35ac,2017-04-02T04:59:04Z,2017-04-02T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-5af1-d53968b43468,BERKSH-ee35ac,2017-04-30T04:59:04Z,2017-04-30T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-31f9-b41273e67a37,BERKSH-ee35ac,2017-05-28T04:59:04Z,2017-05-28T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-e2d5-31f4acce1019,BERKSH-ee35ac,2017-06-25T04:59:04Z,2017-06-25T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-d78e-a3f69cef356b,BERKSH-ee35ac,2017-07-09T04:59:04Z,2017-07-09T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-d0e4-c35f47c7f574,BERKSH-ee35ac,2017-07-16T04:59:04Z,2017-07-16T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-23ff-830e723fea1e,BERKSH-ee35ac,2017-07-23T04:59:04Z,2017-07-23T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-55cf-b2b024c82478,BERKSH-ee35ac,2017-07-30T04:59:04Z,2017-07-30T05:59:04Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),KIMBALL FARMS NURSING CARE CENTER
+d537941e-1fb7-9868-f0cc-8142b29743c2,BERKSH-ee35ac,2017-09-10T04:59:04Z,2017-09-10T05:14:04Z,ambulatory,Postnatal visit (regime/therapy),,BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-1651-bbb5f408602a,BERKSH-ee35ac,2017-12-17T04:59:04Z,2017-12-17T05:14:04Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-2f01-235276053855,BERKSH-ee35ac,2017-12-27T04:59:04Z,2017-12-27T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Blighted ovum (disorder),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-b1bb-d0b91d67649f,BERKSH-ee35ac,2018-09-30T04:59:04Z,2018-09-30T05:53:03Z,wellness,General examination of patient (procedure),,SUBURBAN INTERNAL MEDICINE  INC.
+d537941e-1fb7-9868-2809-cd185d510ae8,BERKSH-ee35ac,2019-04-14T04:59:04Z,2019-04-14T05:14:04Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-eccf-4b44b39c7ba7,BERKSH-ee35ac,2019-05-01T04:59:04Z,2019-05-01T05:14:04Z,ambulatory,Prenatal visit (regime/therapy),Complete miscarriage (disorder),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-2c9c-ab9ae44c377a,BERKSH-ee35ac,2019-08-25T04:59:04Z,2019-08-25T05:14:04Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-e7ff-2504bb7a622d,BERKSH-ee35ac,2019-08-25T04:59:04Z,2019-08-25T06:16:43Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-3fe5-6e1fa0203d80,BERKSH-ee35ac,2019-09-22T06:16:43Z,2019-09-22T06:31:43Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-e637-dd3147aec234,BERKSH-ee35ac,2019-10-20T06:16:43Z,2019-10-20T06:31:43Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-bcd9-fe0ee1923b5c,BERKSH-ee35ac,2019-11-17T06:16:43Z,2019-11-17T06:31:43Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-0ccb-f12607a2a688,BERKSH-ee35ac,2019-12-15T06:16:43Z,2019-12-15T06:31:43Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-6caa-a7f9441a419b,BERKSH-ee35ac,2020-01-12T06:16:43Z,2020-01-12T06:31:43Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-9d6e-7d5b6fc0f9d7,BERKSH-ee35ac,2020-02-09T06:16:43Z,2020-02-09T06:31:43Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-7d2e-84a08bc1332a,BERKSH-ee35ac,2020-03-08T06:16:43Z,2020-03-08T06:31:43Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-c8af-ef4b5fe9dbe7,BERKSH-ee35ac,2020-03-22T06:16:43Z,2020-03-22T06:31:43Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-ec31-20771f1f5293,BERKSH-ee35ac,2020-03-29T06:16:43Z,2020-03-29T07:16:43Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),KIMBALL FARMS NURSING CARE CENTER
+d537941e-1fb7-9868-c7a7-15e321849844,BERKSH-ee35ac,2020-05-10T06:16:43Z,2020-05-10T06:31:43Z,ambulatory,Postnatal visit (regime/therapy),,BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-c545-2a83ce132cf3,BERKSH-ee35ac,2021-05-19T04:59:04Z,2021-05-19T05:38:40Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-eb9a-00c1a3394519,BERKSH-ee35ac,2021-08-15T04:59:04Z,2021-08-15T05:14:04Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-67c7-df8368f7665e,BERKSH-ee35ac,2021-09-05T04:59:04Z,2021-09-05T05:14:04Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-3e1d-293fbc204d2d,BERKSH-ee35ac,2021-10-03T04:59:04Z,2021-10-03T05:58:44Z,wellness,General examination of patient (procedure),,SUBURBAN INTERNAL MEDICINE  INC.
+d537941e-1fb7-9868-951f-9627afb299d7,BERKSH-ee35ac,2021-10-17T04:59:04Z,2021-10-17T07:53:00Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-7da8-3bda69443e56,BERKSH-ee35ac,2023-05-02T15:59:04Z,2023-05-02T16:14:04Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-bea4-503714ca1e5d,BERKSH-ee35ac,2023-05-09T05:38:40Z,2023-05-09T05:53:40Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-3cde-7f2f3cc82cf4,BERKSH-ee35ac,2023-05-11T16:38:40Z,2023-05-11T17:33:30Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-6deb-ea0ea4b14b1f,BERKSH-ee35ac,2024-05-05T17:33:30Z,2024-05-05T17:48:30Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,2024-08-03T23:59:04Z,2024-08-04T00:14:04Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-ee44-da8bc88b4fd6,BERKSH-ee35ac,2024-08-11T04:59:04Z,2024-08-11T05:34:23Z,outpatient,Encounter for check up (procedure),,BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-2cc4-a4db85820d10,BERKSH-ee35ac,2024-08-25T04:59:04Z,2024-08-25T08:10:52Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-c4f7-2853153b754e,BERKSH-ee35ac,2024-10-06T04:59:04Z,2024-10-06T05:36:42Z,wellness,General examination of patient (procedure),,SUBURBAN INTERNAL MEDICINE  INC.
+d537941e-1fb7-9868-c272-ff07ce76b93e,BERKSH-ee35ac,2025-06-01T04:59:04Z,2025-06-01T06:01:04Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-ecc5-6b032a931f99,BERKSH-ee35ac,2026-03-11T08:59:04Z,2026-03-11T09:14:04Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),BERKSHIRE MEDICAL CENTER INC
+d537941e-1fb7-9868-5e91-75e0fd218603,BERKSH-ee35ac,2026-04-25T17:33:30Z,2026-04-25T18:27:12Z,outpatient,Consultation for treatment (procedure),Sterilization requested (situation),BERKSHIRE MEDICAL CENTER INC - 1
+d537941e-1fb7-9868-527b-353b7e18f586,BERKSH-ee35ac,2026-05-14T18:27:12Z,2026-05-15T18:27:12Z,inpatient,Admission to surgical department (procedure),Sterilization requested (situation),BERKSHIRE MEDICAL CENTER INC - 1

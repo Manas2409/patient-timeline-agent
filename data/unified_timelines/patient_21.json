@@ -1,0 +1,364 @@
+{
+  "cluster_id": "21",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "1987-10-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "inpatient",
+      "reason": "Appendicitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1989-10-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1989-10-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "1990-10-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1990-10-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "1991-10-19",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1992-10-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1992-11-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1993-10-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1993-11-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "1994-09-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "SUTTON HILL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1994-11-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1994-11-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1994-11-30"
+        }
+      ]
+    },
+    {
+      "date": "1994-11-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1994-11-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Concussion with no loss of consciousness (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1995-11-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1995-11-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "1996-11-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1996-11-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dental caries",
+          "canonical": "Primary dental caries",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1996-11-30"
+        }
+      ]
+    },
+    {
+      "date": "1997-04-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1997-05-02"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ary",
+          "canonical": "ary",
+          "match_method": "unmapped",
+          "outcome": "resolved 1997-05-02"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1997-05-02"
+        }
+      ]
+    },
+    {
+      "date": "1997-11-22",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1997-11-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "1997-12-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinus",
+          "canonical": "Viral sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1997-12-29"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus infection",
+          "canonical": "sinus infection",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1997-12-29T10:46:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1997-12-29T10:46:29Z"
+        }
+      ]
+    },
+    {
+      "date": "1998-10-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "SUTTON HILL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1998-10-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Concussion injury of brain",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Primary dental caries",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Viral sinusitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

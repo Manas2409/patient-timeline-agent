@@ -1,0 +1,278 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+9a3814bb-f5b0-05f3-3c53-f8c9735ec82c,SOUTHC-ac561e,2016-04-03,Patient reports symptoms consistent with tree nut.
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,2016-04-13,Patient presents today with allergic disposition. Medications prescribed today: cetirizine hydrochloride 5 MG Oral Tablet and NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Allergy history notable for Tree nut.
+9a3814bb-f5b0-05f3-8607-12bcd1ea3eba,SOUTHC-ac561e,2017-09-07,Patient presents today with pediatric asthma. Assessment: pediatric asthma. Medications prescribed today: 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution.
+9a3814bb-f5b0-05f3-6f85-20b8fe1a53e0,SOUTHC-ac561e,2018-03-06,Patient was evaluated for childhood asthma.
+9a3814bb-f5b0-05f3-e0dc-309e11331886,SOUTHC-ac561e,2018-06-17,Patient seen for a scheduled outpatient encounter. Plan: initiate 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution.
+9a3814bb-f5b0-05f3-230f-6985db10794d,SOUTHC-ac561e,2018-07-01,Ambulatory visit for general evaluation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+9a3814bb-f5b0-05f3-2250-ae200a0ef6f1,SOUTHC-ac561e,2018-07-08,Seen in clinic for acute bacterial sinusitis. Clinical impression: acute bacterial sinusitis. No new medications prescribed at this time.
+9a3814bb-f5b0-05f3-a43f-3241e9cb896f,SOUTHC-ac561e,2018-09-04,Follow-up visit regarding acute bacterial sinusitis. New findings on exam include chronic sinusitis.
+9a3814bb-f5b0-05f3-dc32-28cb99d5b416,SOUTHC-ac561e,2018-09-30,Patient presents today with acute bacterial sinusitis. No new medications prescribed at this time.
+9a3814bb-f5b0-05f3-4909-86e1cbc82d22,SOUTHC-ac561e,2018-10-27,Follow-up visit regarding perennial allergic rhinitis with seasonal variation. Diagnosed with perennial allergic rhinitis with seasonal variation at this visit. No new medications prescribed at this time.
+9a3814bb-f5b0-05f3-0942-95c84e537b88,SOUTHC-ac561e,2019-02-03,"Routine ambulatory visit, no acute complaints voiced at check-in."
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,2019-02-10,Patient was evaluated for streptococcal sore throat. New findings on exam include streptococcal sore throat. Medications prescribed today: Penicillin V Potassium 250 MG Oral Tablet.
+9a3814bb-f5b0-05f3-6f9f-4d5f03daf23a,SOUTHC-ac561e,2019-03-01,Presenting complaint: pediatric asthma.
+9a3814bb-f5b0-05f3-173a-1276dc11f969,SOUTHC-ac561e,2020-05-28,Patient was evaluated for tree nut.
+9a3814bb-f5b0-05f3-4c97-bdf8295b8a0b,SOUTHC-ac561e,2020-08-22,Presenting complaint: childhood asthma.
+9a3814bb-f5b0-05f3-9d5d-5b85d9fc6d0c,SOUTHC-ac561e,2021-07-11,Patient continues to be followed for primary dental caries.
+9a3814bb-f5b0-05f3-38a7-d04d770223c1,SOUTHC-ac561e,2022-02-13,Follow-up visit regarding childhood asthma.
+9a3814bb-f5b0-05f3-f853-69d65aca1542,SOUTHC-ac561e,2023-07-23,Clinical impression: primary dental caries. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+9a3814bb-f5b0-05f3-d5d2-0e67c98717f7,SOUTHC-ac561e,2023-08-07,Follow-up visit regarding childhood asthma.
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,2024-11-01,"Presenting complaint: a chest cold. New findings on exam include a chest cold. Patient given Acetaminophen 325 MG Oral Tablet, 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], and albuterol 0.83 MG/ML Inhalation Solution during this encounter."
+9a3814bb-f5b0-05f3-e4d0-1f4e3f48d49e,SOUTHC-ac561e,2024-11-17,Patient presents today with gum inflammation. Diagnosed with gingival disease and primary dental caries at this visit. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+9a3814bb-f5b0-05f3-8f6e-9a15b5a948c0,SOUTHC-ac561e,2025-08-05,Patient presents today with pediatric asthma.
+9a3814bb-f5b0-05f3-8a36-71495c57357a,SOUTHC-ac561e,2026-08-09,Patient reports symptoms consistent with gum inflammation.
+f30304ab-8e45-1cbd-3e8a-2add4a50516f,SOUTHC-9ae386,2017-03-17,Outpatient visit for general evaluation. Social history noted: Medication review due.
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,2017-03-24,Presenting complaint: streptococcal sore throat. Clinical impression: streptococcal sore throat. Medications prescribed today: Penicillin V Potassium 250 MG Oral Tablet.
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,2017-09-23,Patient was evaluated for a middle-ear infection. New findings on exam include otitis media. Plan: initiate Amoxicillin 500 MG Oral Tablet and Acetaminophen 160 MG Chewable Tablet.
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,2017-11-05,Patient was evaluated for streptococcal sore throat. Patient continues to be followed for streptococcal sore throat. Plan: initiate Penicillin V Potassium 250 MG Oral Tablet.
+f30304ab-8e45-1cbd-0d13-378caf6b943b,SOUTHC-9ae386,2018-01-19,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+f30304ab-8e45-1cbd-d4b6-ec39d16a0d0a,SOUTHC-9ae386,2018-11-24,Patient presents today with a sinus infection. Assessment: a sinus infection.
+f30304ab-8e45-1cbd-911a-7b54fd7a3640,SOUTHC-9ae386,2019-01-18,Ambulatory visit for general evaluation.
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,2020-03-02,Seen in clinic for otitis media. Assessment: a middle-ear infection. Medications prescribed today: Amoxicillin 500 MG Oral Tablet and Acetaminophen 160 MG Chewable Tablet.
+f30304ab-8e45-1cbd-b3df-26028bc9bb51,SOUTHC-9ae386,2023-02-10,Follow-up visit regarding gum inflammation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,2023-03-25,Patient reports symptoms consistent with viral sinusitis. Diagnosed with a sinus infection at this visit. Plan: initiate Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,2023-08-25,Patient was evaluated for streptococcal sore throat. Clinical impression: streptococcal sore throat. Medications prescribed today: Penicillin V Potassium 250 MG Oral Tablet.
+f30304ab-8e45-1cbd-7040-1a04104db872,SOUTHC-9ae386,2024-01-06,Patient presents today with streptococcal sore throat. Assessment: streptococcal sore throat. Patient given Penicillin V Potassium 250 MG Oral Tablet during this encounter.
+f30304ab-8e45-1cbd-c58a-7ed6222e947f,SOUTHC-9ae386,2025-02-21,Patient presents today with gum inflammation.
+e34a6a5e-1d77-508d-b2d5-c8bd57af7d5a,SOUTHC-5aa69b,2017-07-28,Wellness visit for general evaluation. Medication list unchanged.
+e34a6a5e-1d77-508d-c128-551e959572f0,SOUTHC-5aa69b,2018-08-03,Patient continues to be followed for gum inflammation. Care-coordination note: Medication review due. Medication list unchanged.
+e34a6a5e-1d77-508d-d5b0-c8501f3ec0e2,SOUTHC-5aa69b,2018-08-17,Patient presents today with gingivitis. New findings on exam include gingival disease. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+e34a6a5e-1d77-508d-d254-c976e950054d,SOUTHC-5aa69b,2019-08-09,"Routine wellness visit, no acute complaints voiced at check-in."
+e34a6a5e-1d77-508d-5ccb-6650ff7a6211,SOUTHC-5aa69b,2020-06-21,Outpatient visit for general evaluation. Started on 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System.
+e34a6a5e-1d77-508d-7a77-e15f104d697e,SOUTHC-5aa69b,2020-08-14,New findings on exam include severe anxiety with panic features. No new medications prescribed at this time.
+e34a6a5e-1d77-508d-77a5-a9466c0dc37b,SOUTHC-5aa69b,2021-04-09,Seen in clinic for normal pregnancy. Assessment: normal pregnancy. Medication list unchanged.
+e34a6a5e-1d77-508d-a025-6feca335d77c,SOUTHC-5aa69b,2021-04-24,Patient presents today with normal pregnancy. Medication list unchanged.
+e34a6a5e-1d77-508d-5db0-8397e971a90d,SOUTHC-5aa69b,2021-05-13,Seen in clinic for normal pregnancy. No new medications prescribed at this time.
+e34a6a5e-1d77-508d-ef63-a951fa0fba76,SOUTHC-5aa69b,2021-08-20,New findings on exam include gum inflammation. Social history noted: Medication review due.
+e34a6a5e-1d77-508d-7f32-92674319982c,SOUTHC-5aa69b,2021-08-27,Outpatient visit for general evaluation. Medication list unchanged.
+e34a6a5e-1d77-508d-9f39-137908c0c841,SOUTHC-5aa69b,2021-09-03,Seen in clinic for gum inflammation. Assessment: suspected disease caused by Severe acute respiratory coronavirus 2. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+e34a6a5e-1d77-508d-53b6-6a361c4bbd65,SOUTHC-5aa69b,2021-09-17,Outpatient visit for general evaluation. No new medications prescribed at this time.
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,2021-09-17,"Patient reports symptoms consistent with suspected disease caused by Severe acute respiratory coronavirus 2. Clinical impression: cough, sputum finding, dyspnea, wheezing, fever, loss of taste, and acute infective cystitis."
+e34a6a5e-1d77-508d-20c5-f49607a46f9a,SOUTHC-5aa69b,2021-09-22,Patient seen for a scheduled virtual encounter. Medications prescribed today: ciprofloxacin 250 MG Oral Tablet.
+e34a6a5e-1d77-508d-0c1c-ac0a39473576,SOUTHC-5aa69b,2022-08-26,"Clinical impression: gingivitis. Care-coordination note: Medication review due, Received higher education, Part-time employment, Social isolation, and Stress. No new medications prescribed at this time."
+e34a6a5e-1d77-508d-044d-372a89f08d28,SOUTHC-5aa69b,2022-09-09,Patient presents today with gingivitis. Clinical impression: gum disease.
+e34a6a5e-1d77-508d-8a2c-76b0b324d33a,SOUTHC-5aa69b,2023-06-06,"Routine outpatient visit, no acute complaints voiced at check-in. Started on {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]."
+e34a6a5e-1d77-508d-d81c-7a987e9a3fab,SOUTHC-5aa69b,2023-09-01,Patient seen for a scheduled wellness encounter. Social history noted: Full-time employment.
+e34a6a5e-1d77-508d-e4e8-00aacb1f2de9,SOUTHC-5aa69b,2023-09-15,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,2024-03-01,Presenting complaint: viral sinusitis. New findings on exam include a sinus infection. Started on Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+e34a6a5e-1d77-508d-9ae5-50132dd0d519,SOUTHC-5aa69b,2024-05-31,Outpatient visit for general evaluation. Medications prescribed today: 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing].
+e34a6a5e-1d77-508d-ba7b-1b257533ebca,SOUTHC-5aa69b,2025-05-26,Patient seen for a scheduled outpatient encounter. Medications prescribed today: {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique].
+e34a6a5e-1d77-508d-8ac4-58226ac25605,SOUTHC-5aa69b,2025-12-04,Patient reports symptoms consistent with a sinus infection. Patient continues to be followed for viral sinusitis.
+e34a6a5e-1d77-508d-ecf7-dd010ec08d2b,SOUTHC-5aa69b,2026-08-14,Patient presents today with normal pregnancy. Clinical impression: normal pregnancy.
+4af53267-820e-7687-43ce-99973ce0cb46,SOUTHC-748765,2016-03-14,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. No new medications prescribed at this time."
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,2016-11-05,Patient was evaluated for fracture of bone. Clinical impression: fracture of bone and fracture of clavicle. Started on Ibuprofen 100 MG Oral Tablet.
+4af53267-820e-7687-8328-b7a629f87dd1,SOUTHC-748765,2016-12-12,"Routine wellness visit, no acute complaints voiced at check-in."
+4af53267-820e-7687-efdd-05535f115b82,SOUTHC-748765,2017-02-20,Patient reports symptoms consistent with fracture of clavicle.
+4af53267-820e-7687-27ff-f7150cdb9a6e,SOUTHC-748765,2017-06-12,"Routine wellness visit, no acute complaints voiced at check-in. Medication list unchanged."
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,2017-08-22,Seen in clinic for otitis media. New findings on exam include a middle-ear infection. Patient given Amoxicillin 500 MG Oral Tablet and Acetaminophen 160 MG Chewable Tablet during this encounter.
+4af53267-820e-7687-70e0-485d32bcfa63,SOUTHC-748765,2017-12-11,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due. No new medications prescribed at this time.
+4af53267-820e-7687-aeff-58b01699b5d7,SOUTHC-748765,2018-04-14,Patient presents today with laceration - injury. Patient continues to be followed for laceration - injury and laceration of forearm. Patient given Ibuprofen 100 MG Oral Tablet during this encounter.
+4af53267-820e-7687-5576-f86fa3b47853,SOUTHC-748765,2018-06-11,Wellness visit for general evaluation. Social history noted: Medication review due.
+4af53267-820e-7687-1060-801077239e8c,SOUTHC-748765,2018-06-18,Patient seen for a scheduled ambulatory encounter.
+4af53267-820e-7687-0d4a-4cb55cc3f6b9,SOUTHC-748765,2018-09-18,Seen in clinic for a chest cold. Diagnosed with acute bronchitis at this visit. Started on Acetaminophen 325 MG Oral Tablet.
+4af53267-820e-7687-ff5b-371ce5bd2764,SOUTHC-748765,2018-12-10,Wellness visit for general evaluation.
+4af53267-820e-7687-e15f-036fa6695755,SOUTHC-748765,2019-12-16,Patient seen for a scheduled wellness encounter.
+4af53267-820e-7687-74e3-6db56d43ab3c,SOUTHC-748765,2019-12-23,Patient seen for a scheduled outpatient encounter.
+4af53267-820e-7687-b6e8-1f8e36f03db8,SOUTHC-748765,2019-12-30,Patient was evaluated for acute viral pharyngitis. Clinical impression: acute viral pharyngitis.
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,2020-03-30,Presenting complaint: a middle-ear infection. New findings on exam include otitis media. Medications prescribed today: Amoxicillin 500 MG Oral Tablet and Acetaminophen 160 MG Chewable Tablet.
+4af53267-820e-7687-8b04-81f74e0a75a1,SOUTHC-748765,2020-05-13,Patient was evaluated for acute viral pharyngitis. Assessment: acute viral pharyngitis. Medication list unchanged.
+4af53267-820e-7687-2f5d-9d4612f17306,SOUTHC-748765,2020-06-25,Patient reports symptoms consistent with acute viral pharyngitis. Assessment: acute viral pharyngitis. No new medications prescribed at this time.
+4af53267-820e-7687-d1fb-b0ec9fcce8a7,SOUTHC-748765,2020-12-21,Wellness visit for general evaluation. Social history noted: Medication review due.
+4af53267-820e-7687-ed4b-8b40a6f4315a,SOUTHC-748765,2021-12-27,Wellness visit for general evaluation. Medication list unchanged.
+4af53267-820e-7687-3056-c7d42e51d185,SOUTHC-748765,2023-01-02,Patient seen for a scheduled wellness encounter.
+4af53267-820e-7687-1e76-d80eef1d4e14,SOUTHC-748765,2024-01-08,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+4af53267-820e-7687-d35f-41940515cb96,SOUTHC-748765,2024-01-15,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+4af53267-820e-7687-2914-aced94af920e,SOUTHC-748765,2025-01-13,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+4af53267-820e-7687-a686-a5876353f831,SOUTHC-748765,2025-06-11,Seen in clinic for acute viral pharyngitis. Diagnosed with a sore throat at this visit. No new medications prescribed at this time.
+4af53267-820e-7687-45e5-c77aee25e072,SOUTHC-748765,2026-01-19,Assessment: gum inflammation.
+4af53267-820e-7687-b510-47d4dc6b8c9c,SOUTHC-748765,2026-01-26,Patient presents today with gum inflammation. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+8ece28c6-f931-b0e0-abe8-532197038d9b,SOUTHC-ede5b7,1960-04-30,Outpatient visit for general evaluation. Social history noted: Received higher education.
+8ece28c6-f931-b0e0-896d-e0b1f1b04096,SOUTHC-ede5b7,1988-04-23,Patient seen for a scheduled wellness encounter. Social history noted: Victim of intimate partner abuse.
+8ece28c6-f931-b0e0-7153-534549127919,SOUTHC-ede5b7,1997-10-10,Patient reports symptoms consistent with gout. New findings on exam include gout. No new medications prescribed at this time.
+8ece28c6-f931-b0e0-3ed7-6472c6a43e53,SOUTHC-ede5b7,1998-05-09,Patient continues to be followed for essential hypertension.
+8ece28c6-f931-b0e0-43b3-e2985a38eb14,SOUTHC-ede5b7,1998-05-16,Presenting complaint: chronic pain. Assessment: ongoing pain.
+8ece28c6-f931-b0e0-974b-be019fd9601e,SOUTHC-ede5b7,2002-06-01,Assessment: osteoporosis.
+8ece28c6-f931-b0e0-5981-2e0729bac2b8,SOUTHC-ede5b7,2015-08-15,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Not in labor force."
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,2016-08-20,"Assessment: coronary artery disease and severe anxiety with panic features. Started on Hydrochlorothiazide 25 MG Oral Tablet, Alendronic acid 10 MG Oral Tablet, Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, and Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray."
+8ece28c6-f931-b0e0-1150-c3970bfce3e4,SOUTHC-ede5b7,2016-09-10,Diagnosed with primary dental caries at this visit. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+8ece28c6-f931-b0e0-09ba-f35679165318,SOUTHC-ede5b7,2016-10-01,Outpatient visit for general evaluation. Care-coordination note: Medication review due and Stress. Patient given Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet during this encounter.
+8ece28c6-f931-b0e0-505a-d00a6c0ce72d,SOUTHC-ede5b7,2016-10-08,Presenting complaint: a sore throat. New findings on exam include acute viral pharyngitis.
+8ece28c6-f931-b0e0-7e64-8a67114567b3,SOUTHC-ede5b7,2017-08-26,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due, Full-time employment, and Reports of violence in the environment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet."
+8ece28c6-f931-b0e0-a2fc-625d9ab8471c,SOUTHC-ede5b7,2018-09-01,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Unemployed. Started on Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet."
+8ece28c6-f931-b0e0-d6a7-5d016fabc380,SOUTHC-ede5b7,2018-09-15,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+8ece28c6-f931-b0e0-ac7a-190e12763c8d,SOUTHC-ede5b7,2019-09-07,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Full-time employment, and Misuses drugs. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet."
+8ece28c6-f931-b0e0-6d18-ed3766978eca,SOUTHC-ede5b7,2020-05-03,Patient seen for a scheduled home encounter.
+8ece28c6-f931-b0e0-e96a-19fe6cda1bee,SOUTHC-ede5b7,2020-05-04,Home visit for general evaluation.
+8ece28c6-f931-b0e0-fe1b-0bbbfb738ec7,SOUTHC-ede5b7,2020-05-05,Home visit for general evaluation.
+8ece28c6-f931-b0e0-bad1-ac6de7fb3a3a,SOUTHC-ede5b7,2020-05-06,Patient seen for a scheduled home encounter. Medication list unchanged.
+8ece28c6-f931-b0e0-fb60-0e4ed84ff13e,SOUTHC-ede5b7,2020-05-07,"Routine home visit, no acute complaints voiced at check-in."
+8ece28c6-f931-b0e0-fd63-e9b9b29755d3,SOUTHC-ede5b7,2020-05-08,Home visit for general evaluation.
+8ece28c6-f931-b0e0-6747-4fd7a2ca60d0,SOUTHC-ede5b7,2020-05-09,"Routine home visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+8ece28c6-f931-b0e0-0968-ec6916622d5b,SOUTHC-ede5b7,2020-05-10,Home visit for general evaluation.
+8ece28c6-f931-b0e0-598d-a86f6246228c,SOUTHC-ede5b7,2020-05-11,Patient seen for a scheduled home encounter.
+8ece28c6-f931-b0e0-b5e4-87756f65f315,SOUTHC-ede5b7,2020-05-12,Home visit for general evaluation.
+8ece28c6-f931-b0e0-2008-a7c5af7e088a,SOUTHC-ede5b7,2020-05-13,"Routine home visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+8ece28c6-f931-b0e0-0674-b51533d3808c,SOUTHC-ede5b7,2020-05-14,Patient seen for a scheduled home encounter.
+8ece28c6-f931-b0e0-8d42-5f3c4ba7de47,SOUTHC-ede5b7,2020-05-15,Patient seen for a scheduled home encounter. Medication list unchanged.
+8ece28c6-f931-b0e0-0347-2683a7e3bd0a,SOUTHC-ede5b7,2020-05-16,"Routine home visit, no acute complaints voiced at check-in. Medication list unchanged."
+8ece28c6-f931-b0e0-4208-77d3b7317d20,SOUTHC-ede5b7,2020-05-17,"Routine home visit, no acute complaints voiced at check-in. Medication list unchanged."
+8ece28c6-f931-b0e0-e770-63a0685697b9,SOUTHC-ede5b7,2020-05-18,"Routine home visit, no acute complaints voiced at check-in."
+8ece28c6-f931-b0e0-28e4-23c31c7bc7bd,SOUTHC-ede5b7,2020-05-19,Home visit for general evaluation.
+8ece28c6-f931-b0e0-4d8a-2cb5bd9b9b5f,SOUTHC-ede5b7,2020-05-20,"Routine home visit, no acute complaints voiced at check-in. Medication list unchanged."
+8ece28c6-f931-b0e0-7cd6-cad25020bead,SOUTHC-ede5b7,2020-05-21,Home visit for general evaluation.
+8ece28c6-f931-b0e0-1702-e143bd2ca204,SOUTHC-ede5b7,2020-05-22,"Routine home visit, no acute complaints voiced at check-in."
+8ece28c6-f931-b0e0-d6d4-3a6403c5f698,SOUTHC-ede5b7,2020-05-23,Patient seen for a scheduled home encounter.
+8ece28c6-f931-b0e0-52b8-7a17050581ce,SOUTHC-ede5b7,2020-05-24,"Routine home visit, no acute complaints voiced at check-in. Medication list unchanged."
+8ece28c6-f931-b0e0-4c43-78d0630c3323,SOUTHC-ede5b7,2020-05-25,Patient seen for a scheduled home encounter.
+8ece28c6-f931-b0e0-f904-d55cc47f3a26,SOUTHC-ede5b7,2020-05-26,Home visit for general evaluation.
+8ece28c6-f931-b0e0-3753-bf054f51b5a6,SOUTHC-ede5b7,2020-05-27,Patient seen for a scheduled home encounter. No new medications prescribed at this time.
+8ece28c6-f931-b0e0-a150-5fb57adad794,SOUTHC-ede5b7,2020-05-28,"Routine home visit, no acute complaints voiced at check-in."
+8ece28c6-f931-b0e0-1657-76ea6a17c20c,SOUTHC-ede5b7,2020-09-12,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet.
+8ece28c6-f931-b0e0-731a-003892e56191,SOUTHC-ede5b7,2020-09-26,Patient seen for a scheduled ambulatory encounter.
+8ece28c6-f931-b0e0-14bc-6278c66b6253,SOUTHC-ede5b7,2021-03-13,Patient seen for a scheduled outpatient encounter. Medication list unchanged.
+8ece28c6-f931-b0e0-129b-d9fc3267ad8b,SOUTHC-ede5b7,2021-09-18,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet."
+8ece28c6-f931-b0e0-482a-b972066329ff,SOUTHC-ede5b7,2021-10-02,Ambulatory visit for general evaluation.
+8ece28c6-f931-b0e0-4da7-3be24086a224,SOUTHC-ede5b7,2022-09-24,Patient continues to be followed for gum inflammation. Social history noted: Medication review due and Stress. Started on Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet.
+8ece28c6-f931-b0e0-3431-7e367fa57e2c,SOUTHC-ede5b7,2022-10-08,Seen in clinic for gingivitis. No new medications prescribed at this time.
+8ece28c6-f931-b0e0-5870-cda02b8d71fe,SOUTHC-ede5b7,2022-10-18,Seen in clinic for acute viral pharyngitis. Clinical impression: acute viral pharyngitis. Medication list unchanged.
+8ece28c6-f931-b0e0-b284-105a73d139fa,SOUTHC-ede5b7,2022-10-29,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Social isolation. Patient given Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet during this encounter."
+8ece28c6-f931-b0e0-0665-4317289e5ba4,SOUTHC-ede5b7,2022-11-12,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+8ece28c6-f931-b0e0-e15e-f120e984198e,SOUTHC-ede5b7,2023-09-30,Wellness visit for general evaluation. Social history noted: Medication review due. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet.
+8ece28c6-f931-b0e0-1775-8f401a2c6f78,SOUTHC-ede5b7,2023-11-06,Follow-up visit regarding gout. Medications prescribed today: Naproxen 500 MG Oral Tablet and Allopurinol 100 MG Oral Tablet.
+8ece28c6-f931-b0e0-759b-fd032d795588,SOUTHC-ede5b7,2024-10-05,Wellness visit for general evaluation. Social history noted: Part-time employment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet.
+8ece28c6-f931-b0e0-3d4d-e37ad4b472f0,SOUTHC-ede5b7,2024-12-14,"Patient seen for a scheduled outpatient encounter. Social history noted: Medication review due, Full-time employment, and Stress. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet."
+8ece28c6-f931-b0e0-0eb0-5570f29cf3ea,SOUTHC-ede5b7,2024-12-21,Patient presents today with viral sinusitis. Assessment: viral sinusitis.
+8ece28c6-f931-b0e0-b43e-9b7f3b9b74eb,SOUTHC-ede5b7,2025-10-11,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due and Limited social contact. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet.
+8ece28c6-f931-b0e0-2fd7-cdf53c8d48c2,SOUTHC-ede5b7,2025-10-25,"Routine ambulatory visit, no acute complaints voiced at check-in. Started on sodium fluoride 0.0272 MG/MG Oral Gel."
+197ec76f-0730-2587-431f-931a6906c5f9,SOUTHC-ec63bd,2012-06-07,Wellness visit for general evaluation. Social history noted: Medication review due.
+197ec76f-0730-2587-99a4-0cd3962d2d88,SOUTHC-ec63bd,2017-07-06,"Routine wellness visit, no acute complaints voiced at check-in. Medication list unchanged."
+197ec76f-0730-2587-eb46-f3b320a0bcc3,SOUTHC-ec63bd,2018-07-12,"Routine wellness visit, no acute complaints voiced at check-in."
+197ec76f-0730-2587-e903-4e549149ec81,SOUTHC-ec63bd,2019-07-18,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+197ec76f-0730-2587-d933-020381652a2b,SOUTHC-ec63bd,2020-07-23,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+197ec76f-0730-2587-61db-ec1076983e0f,SOUTHC-ec63bd,2021-07-29,Wellness visit for general evaluation. Social history noted: Medication review due.
+197ec76f-0730-2587-3b15-0bac5d16c0d4,SOUTHC-ec63bd,2022-08-04,Clinical impression: panic attacks. No new medications prescribed at this time.
+197ec76f-0730-2587-673e-70c01b4cb343,SOUTHC-ec63bd,2023-08-10,Diagnosed with acute infective cystitis at this visit. Social history noted: Medication review due.
+197ec76f-0730-2587-f6b9-e67da9f5e252,SOUTHC-ec63bd,2024-08-15,Patient seen for a scheduled wellness encounter.
+197ec76f-0730-2587-9f22-96ceea1e58d8,SOUTHC-ec63bd,2025-08-21,"Patient seen for a scheduled wellness encounter. Social history noted: Medication review due, Housing unsatisfactory, Educated to high school level, Not in labor force, and Social isolation."
+adec1419-cf81-6640-ca48-e157e556a90b,SOUTHC-b970b5,1966-10-29,Follow-up visit regarding acute bacterial sinusitis. Patient continues to be followed for chronic sinusitis.
+adec1419-cf81-6640-5b13-5c5dc26d52fe,SOUTHC-b970b5,1967-08-20,Presenting complaint: appendicitis. Clinical impression: history of appendectomy.
+adec1419-cf81-6640-d862-f3590426c2e8,SOUTHC-b970b5,1981-04-11,Patient seen for a scheduled wellness encounter. Care-coordination note: Risk activity involvement. No new medications prescribed at this time.
+adec1419-cf81-6640-1083-90b47b7cdcb7,SOUTHC-b970b5,1982-04-17,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Received higher education."
+adec1419-cf81-6640-db7e-444b27362fc7,SOUTHC-b970b5,1998-05-09,Patient continues to be followed for significant weight gain.
+adec1419-cf81-6640-461a-aab35fa16657,SOUTHC-b970b5,2004-11-12,Presenting complaint: gout. Diagnosed with gout at this visit.
+adec1419-cf81-6640-7368-fed4d835c14e,SOUTHC-b970b5,2010-03-13,Wellness visit for general evaluation. Care-coordination note: Full-time employment.
+adec1419-cf81-6640-a305-482d20d5f967,SOUTHC-b970b5,2011-02-26,Patient reports symptoms consistent with loss of teeth. Diagnosed with loss of teeth at this visit.
+adec1419-cf81-6640-1bc6-4b20f0e126b1,SOUTHC-b970b5,2015-02-28,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+adec1419-cf81-6640-b04b-486b5dd7c217,SOUTHC-b970b5,2017-03-11,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Unemployed. Medication list unchanged."
+adec1419-cf81-6640-49d9-90c3415555f1,SOUTHC-b970b5,2017-03-25,Ambulatory visit for general evaluation. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,2017-08-22,Presenting complaint: sinusitis. New findings on exam include sinusitis. Plan: initiate Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+adec1419-cf81-6640-6cec-6eac8a6019c7,SOUTHC-b970b5,2018-03-17,Wellness visit for general evaluation. Social history noted: Medication review due and Part-time employment. Medication list unchanged.
+adec1419-cf81-6640-181f-ec1185f48934,SOUTHC-b970b5,2018-03-31,"Routine ambulatory visit, no acute complaints voiced at check-in."
+adec1419-cf81-6640-88b1-f9c1d971e11b,SOUTHC-b970b5,2018-12-21,Follow-up visit regarding acute viral pharyngitis. Diagnosed with acute viral pharyngitis at this visit.
+adec1419-cf81-6640-36f9-e605242febde,SOUTHC-b970b5,2019-03-01,Ambulatory visit for general evaluation. No new medications prescribed at this time.
+adec1419-cf81-6640-0c1c-475e466ce414,SOUTHC-b970b5,2019-03-23,Wellness visit for general evaluation. Care-coordination note: Unemployed and Stress.
+adec1419-cf81-6640-800a-48bd3fdabd8c,SOUTHC-b970b5,2019-03-26,Follow-up visit regarding loss of teeth. No new medications prescribed at this time.
+adec1419-cf81-6640-e511-9242926b8050,SOUTHC-b970b5,2019-04-16,Patient was evaluated for loss of teeth.
+adec1419-cf81-6640-655d-98ecd1601371,SOUTHC-b970b5,2020-02-08,Patient was evaluated for sleep disorder. Clinical impression: sleep disorder.
+adec1419-cf81-6640-cbed-68436847f9b0,SOUTHC-b970b5,2020-02-19,Patient reports symptoms consistent with sleep disorder.
+adec1419-cf81-6640-38e6-96474eb27726,SOUTHC-b970b5,2020-03-07,Seen in clinic for sleep disorder. New findings on exam include obstructive sleep apnea syndrome.
+adec1419-cf81-6640-0e04-1bd67f0589d2,SOUTHC-b970b5,2020-03-28,New findings on exam include acute infective cystitis. Social history noted: Full-time employment. No new medications prescribed at this time.
+adec1419-cf81-6640-f2b2-526546936cd5,SOUTHC-b970b5,2021-01-14,Seen in clinic for acute infective cystitis. Started on sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet.
+adec1419-cf81-6640-557f-c299ad621dc4,SOUTHC-b970b5,2021-04-03,Wellness visit for general evaluation. Social history noted: Part-time employment and Reports of violence in the environment.
+adec1419-cf81-6640-9ba7-97262a6890d1,SOUTHC-b970b5,2021-06-05,Outpatient visit for general evaluation.
+adec1419-cf81-6640-0248-be413cda5764,SOUTHC-b970b5,2022-04-09,Wellness visit for general evaluation. Medication list unchanged.
+adec1419-cf81-6640-6a36-9e7a6f5f75cc,SOUTHC-b970b5,2022-04-23,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+adec1419-cf81-6640-ca88-24dea7690ef7,SOUTHC-b970b5,2022-06-17,Follow-up visit regarding acute viral pharyngitis. Diagnosed with acute viral pharyngitis at this visit.
+adec1419-cf81-6640-119c-d6c95ecf57b9,SOUTHC-b970b5,2023-04-15,Diagnosed with gingivitis at this visit. Social history noted: Full-time employment and Stress.
+adec1419-cf81-6640-c933-50af50fca041,SOUTHC-b970b5,2023-04-29,Follow-up visit regarding gum inflammation.
+adec1419-cf81-6640-709f-fe2067c85415,SOUTHC-b970b5,2023-12-20,Presenting complaint: acute bronchitis. New findings on exam include a chest cold. Plan: initiate Acetaminophen 325 MG Oral Tablet.
+adec1419-cf81-6640-fa85-cc03ee636a06,SOUTHC-b970b5,2023-12-30,Outpatient visit for general evaluation. Social history noted: Part-time employment. Medication list unchanged.
+adec1419-cf81-6640-c270-8c6943927ccf,SOUTHC-b970b5,2024-02-29,"Routine ambulatory visit, no acute complaints voiced at check-in."
+adec1419-cf81-6640-0b5f-8b85da12d7e8,SOUTHC-b970b5,2024-04-20,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment, Social isolation, and Stress."
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,2024-11-18,Presenting complaint: laceration - injury. Clinical impression: laceration - injury and laceration of hand. Started on Ibuprofen 200 MG Oral Tablet.
+adec1419-cf81-6640-2bde-31ec176c6d9b,SOUTHC-b970b5,2025-04-26,Wellness visit for general evaluation. Care-coordination note: Medication review due. No new medications prescribed at this time.
+adec1419-cf81-6640-aedd-2b6b374c123b,SOUTHC-b970b5,2025-05-10,Patient seen for a scheduled ambulatory encounter.
+adec1419-cf81-6640-68af-3301b5fafada,SOUTHC-b970b5,2026-05-02,Clinical impression: gum inflammation. Care-coordination note: Medication review due and Reports of violence in the environment.
+adec1419-cf81-6640-81f9-a0c63d748dd1,SOUTHC-b970b5,2026-05-16,Presenting complaint: gum inflammation.
+30889246-5f7d-9305-6614-726a4fb16834,SOUTHC-a9fb35,1960-03-25,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,1960-04-01,Presenting complaint: seizure disorder. New findings on exam include seizure disorder and history of seizure. Medications prescribed today: clonazePAM 0.25 MG Oral Tablet.
+30889246-5f7d-9305-4a13-36b0de74f304,SOUTHC-a9fb35,1960-04-29,Wellness visit for general evaluation. Social history noted: Medication review due.
+30889246-5f7d-9305-1fc6-b14d9308937e,SOUTHC-a9fb35,1960-07-01,Wellness visit for general evaluation. No new medications prescribed at this time.
+30889246-5f7d-9305-890d-e32a05fcef38,SOUTHC-a9fb35,1960-09-02,Wellness visit for general evaluation. Social history noted: Medication review due. Medications prescribed today: carbamazepine 20 MG/ML Oral Suspension [Tegretol].
+30889246-5f7d-9305-cdc7-c5a7ce794dbf,SOUTHC-a9fb35,1960-12-02,Wellness visit for general evaluation. Plan: initiate carbamazepine 20 MG/ML Oral Suspension [Tegretol].
+30889246-5f7d-9305-88a0-699375c58b3c,SOUTHC-a9fb35,1961-03-03,Patient seen for a scheduled wellness encounter.
+30889246-5f7d-9305-57b9-e97cd5e221b2,SOUTHC-a9fb35,1961-06-02,Patient seen for a scheduled wellness encounter.
+30889246-5f7d-9305-7e77-76f2c3ab3ab0,SOUTHC-a9fb35,1961-07-28,"Routine hospice visit, no acute complaints voiced at check-in."
+30889246-5f7d-9305-46a9-78e82d3b58f3,SOUTHC-a9fb35,1961-08-25,Presenting complaint: sudden cardiac death.
+1dabc422-e007-d5ee-ffe2-fae7892313c7,SOUTHC-932357,2018-05-07,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+1dabc422-e007-d5ee-49f6-977d0c0b33a1,SOUTHC-932357,2018-06-11,"Routine wellness visit, no acute complaints voiced at check-in."
+1dabc422-e007-d5ee-997c-ede7bcd16575,SOUTHC-932357,2018-08-13,Patient seen for a scheduled wellness encounter. Medication list unchanged.
+1dabc422-e007-d5ee-eb50-50f3a1b9bbaf,SOUTHC-932357,2018-10-15,Wellness visit for general evaluation.
+1dabc422-e007-d5ee-c402-66134e4e73b2,SOUTHC-932357,2019-01-14,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+1dabc422-e007-d5ee-dffd-3797fc297e14,SOUTHC-932357,2019-04-15,"Routine wellness visit, no acute complaints voiced at check-in."
+1dabc422-e007-d5ee-695a-fc5d9eb7608d,SOUTHC-932357,2019-07-15,Wellness visit for general evaluation. Medication list unchanged.
+1dabc422-e007-d5ee-d200-75babeef2bb3,SOUTHC-932357,2019-10-14,Wellness visit for general evaluation.
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,2020-03-27,Follow-up visit regarding otitis media. New findings on exam include otitis media. Plan: initiate Amoxicillin 500 MG Oral Tablet and Acetaminophen 160 MG Chewable Tablet.
+1dabc422-e007-d5ee-4c8e-89010111c2b4,SOUTHC-932357,2020-04-13,Patient seen for a scheduled wellness encounter.
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,2020-08-26,Patient reports symptoms consistent with streptococcal sore throat. Patient continues to be followed for streptococcal sore throat. Started on Penicillin V Potassium 250 MG Oral Tablet.
+1dabc422-e007-d5ee-5692-08f636ba36ba,SOUTHC-932357,2020-10-12,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. No new medications prescribed at this time."
+1dabc422-e007-d5ee-ed1d-8621d22c8281,SOUTHC-932357,2021-04-12,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+1dabc422-e007-d5ee-d391-5e79e6a4a0e0,SOUTHC-932357,2021-04-19,New findings on exam include gingival disease.
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,2021-08-03,Patient reports symptoms consistent with otitis media. New findings on exam include a middle-ear infection. Plan: initiate Amoxicillin 500 MG Oral Tablet and Ibuprofen 100 MG Oral Tablet.
+1dabc422-e007-d5ee-582a-a91500bafd3a,SOUTHC-932357,2021-10-11,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. Medication list unchanged.
+1dabc422-e007-d5ee-230b-6924b1f4220f,SOUTHC-932357,2022-04-11,Wellness visit for general evaluation. Social history noted: Medication review due.
+1dabc422-e007-d5ee-e5c3-99c5cde95736,SOUTHC-932357,2022-04-18,New findings on exam include primary dental caries. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+1dabc422-e007-d5ee-6aa6-8b44a027df8b,SOUTHC-932357,2022-04-25,Follow-up visit regarding gunshot wound. New findings on exam include gunshot wound and bullet wound. Started on Ibuprofen 100 MG Oral Tablet.
+1dabc422-e007-d5ee-9e07-de5e66483682,SOUTHC-932357,2022-04-25,Patient seen for a scheduled snf encounter.
+1dabc422-e007-d5ee-4cc9-3f740040d606,SOUTHC-932357,2022-07-01,Patient reports symptoms consistent with bullet wound. Medication list unchanged.
+1dabc422-e007-d5ee-b08d-fd785cc1cee6,SOUTHC-932357,2023-04-17,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+1dabc422-e007-d5ee-30aa-1357d47ed457,SOUTHC-932357,2023-04-24,"Routine ambulatory visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+1dabc422-e007-d5ee-bb02-414ecad9934f,SOUTHC-932357,2023-11-27,Patient reports symptoms consistent with acute viral pharyngitis. Assessment: a sore throat.
+1dabc422-e007-d5ee-8047-410d3cdc599a,SOUTHC-932357,2024-04-22,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+1dabc422-e007-d5ee-e4e1-7d5732d523c7,SOUTHC-932357,2025-04-28,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+1dabc422-e007-d5ee-6ed0-a0f80627124d,SOUTHC-932357,2025-05-05,Patient seen for a scheduled ambulatory encounter. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+1dabc422-e007-d5ee-d3a4-159aad9323a6,SOUTHC-932357,2025-09-29,Follow-up visit regarding acute viral pharyngitis. Diagnosed with acute viral pharyngitis at this visit.
+1dabc422-e007-d5ee-f191-effcc10bb427,SOUTHC-932357,2026-05-04,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+1dabc422-e007-d5ee-9fe8-f0a90cc9a3f1,SOUTHC-932357,2026-06-10,Presenting complaint: injury of tendon of the rotator cuff of shoulder. Patient continues to be followed for injury of tendon of the rotator cuff of shoulder. No new medications prescribed at this time.
+1dabc422-e007-d5ee-747f-8f639a19ff30,SOUTHC-932357,2026-08-06,Seen in clinic for injury of tendon of the rotator cuff of shoulder.
+3732fde5-efc6-d57a-79bf-e3e04b39e22e,SOUTHC-3375af,1978-05-19,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Educated to high school level."
+3732fde5-efc6-d57a-0793-f144f041af74,SOUTHC-3375af,2007-11-12,Patient reports symptoms consistent with osteoarthritis of knee. Diagnosed with osteoarthritis of knee at this visit.
+3732fde5-efc6-d57a-220f-3a7f37fe4522,SOUTHC-3375af,2008-04-18,Clinical impression: high blood pressure. No new medications prescribed at this time.
+3732fde5-efc6-d57a-04a1-88c5c87cf692,SOUTHC-3375af,2012-05-11,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. No new medications prescribed at this time."
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,2016-06-03,"Diagnosed with hyperlipidemia at this visit. Care-coordination note: Full-time employment and Social isolation. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-0520-6184d092114d,SOUTHC-3375af,2016-06-24,Patient reports symptoms consistent with hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-2ad1-50b9e41abf46,SOUTHC-3375af,2017-06-09,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Unemployed. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-ddc3-4358f4d15145,SOUTHC-3375af,2017-06-23,Patient seen for a scheduled ambulatory encounter. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+3732fde5-efc6-d57a-e54f-bb5e158fe3d0,SOUTHC-3375af,2017-06-24,Patient presents today with hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+3732fde5-efc6-d57a-0c0f-5258ae49bf4e,SOUTHC-3375af,2018-06-15,"Wellness visit for general evaluation. Care-coordination note: Full-time employment and Stress. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-82f0-65485cba9875,SOUTHC-3375af,2018-06-24,Follow-up visit regarding hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-105c-58e6664f3efa,SOUTHC-3375af,2019-06-21,"Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-7773-b123991c509a,SOUTHC-3375af,2019-06-24,Follow-up visit regarding hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-60d9-7e3435cb75a4,SOUTHC-3375af,2020-03-25,New findings on exam include acute infective cystitis.
+3732fde5-efc6-d57a-495c-e18dfeb5ad8c,SOUTHC-3375af,2020-03-31,Patient presents today with acute infective cystitis.
+3732fde5-efc6-d57a-36a1-6c3ebef58fe0,SOUTHC-3375af,2020-04-01,Seen in clinic for acute infective cystitis. Started on ciprofloxacin 500 MG Oral Tablet.
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,2020-06-26,"Patient continues to be followed for gum inflammation. Social history noted: Medication review due and Limited social contact. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-aafc-3ee4323a41c3,SOUTHC-3375af,2020-07-03,Seen in clinic for hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-1386-f506588b63cb,SOUTHC-3375af,2020-07-10,Follow-up visit regarding gum inflammation. Clinical impression: gingival disease and suspected disease caused by Severe acute respiratory coronavirus 2.
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,2020-08-29,"Patient was evaluated for suspected disease caused by Severe acute respiratory coronavirus 2. Patient continues to be followed for cough, dyspnea, wheezing, fever, and disease caused by severe acute respiratory syndrome coronavirus 2."
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,2020-08-29,"Seen in clinic for disease caused by severe acute respiratory syndrome coronavirus 2. Patient continues to be followed for pneumonia, hypoxemia, respiratory distress, and acute deep venous thrombosis. Medications prescribed today: 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, Acetaminophen 500 MG Oral Tablet, 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler, and Acetaminophen 500 MG Oral Tablet."
+3732fde5-efc6-d57a-0be9-8d9d22713faf,SOUTHC-3375af,2021-01-22,"Routine outpatient visit, no acute complaints voiced at check-in."
+3732fde5-efc6-d57a-dc05-04a39c6e8387,SOUTHC-3375af,2021-02-19,Patient seen for a scheduled outpatient encounter.
+3732fde5-efc6-d57a-1c15-0f3aac2481f1,SOUTHC-3375af,2021-07-02,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Not in labor force, and Social isolation. Patient given Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet during this encounter."
+3732fde5-efc6-d57a-a710-2eb0a64c6eef,SOUTHC-3375af,2021-07-03,Patient presents today with hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+3732fde5-efc6-d57a-4290-bac0578594c4,SOUTHC-3375af,2022-07-08,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-656a-45cd54c64340,SOUTHC-3375af,2022-07-15,Patient presents today with hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-8cc4-c12fde87e9b0,SOUTHC-3375af,2023-07-14,"Patient seen for a scheduled wellness encounter. Care-coordination note: Not in labor force. Started on Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-fd13-1f02a1221868,SOUTHC-3375af,2023-07-15,Presenting complaint: hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-65e5-dceafa38ca2f,SOUTHC-3375af,2023-07-28,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+3732fde5-efc6-d57a-f3e3-ed3ea674f94e,SOUTHC-3375af,2024-07-19,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Part-time employment. Started on Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-ddea-4bd3c30a6eaf,SOUTHC-3375af,2024-07-26,Patient reports symptoms consistent with hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-847c-1f58b45e68f2,SOUTHC-3375af,2025-03-01,Seen in clinic for a sinus infection. Patient continues to be followed for a sinus infection. Medication list unchanged.
+3732fde5-efc6-d57a-e00b-aed566976d1b,SOUTHC-3375af,2025-03-25,"Routine ambulatory visit, no acute complaints voiced at check-in."
+3732fde5-efc6-d57a-fd09-bf267684e413,SOUTHC-3375af,2025-03-28,Snf visit for general evaluation.
+3732fde5-efc6-d57a-14d2-1a5bfba44ffe,SOUTHC-3375af,2025-07-25,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-ce46-cee24523c019,SOUTHC-3375af,2025-07-26,Patient reports symptoms consistent with hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,2026-07-31,"Clinical impression: gum inflammation. Social history noted: Medication review due. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3732fde5-efc6-d57a-0be1-1dfc33a723af,SOUTHC-3375af,2026-08-07,Presenting complaint: hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3732fde5-efc6-d57a-7ce6-486c5a0ccaf9,SOUTHC-3375af,2026-08-14,Patient was evaluated for gingivitis.

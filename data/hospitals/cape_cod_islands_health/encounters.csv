@@ -1,0 +1,141 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,ENCOUNTERCLASS,DESCRIPTION,REASONDESCRIPTION,SEEN_AT
+7af6b271-f16d-21e1-8e1c-236c2e6a930d,CAPE_C-145904,1979-01-02T22:51:41Z,1979-01-02T23:30:03Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-e6a8-a4b3adf967f8,CAPE_C-145904,1998-01-27T22:51:41Z,1998-01-27T23:37:51Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-fbf0-a1ae80800ac0,CAPE_C-145904,2000-11-14T22:51:41Z,2000-11-14T23:47:01Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-e187-547120fdd937,CAPE_C-145904,2000-11-23T02:00:37Z,2000-11-23T02:15:37Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-916f-92be9ea3b513,CAPE_C-145904,2001-11-20T22:51:41Z,2001-11-20T23:33:58Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-ad6b-df71202db81e,CAPE_C-145904,2005-05-31T22:51:41Z,2005-05-31T23:45:57Z,outpatient,Encounter for check up (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-3082-4d25791611cf,CAPE_C-145904,2007-08-29T00:38:33Z,2007-08-29T01:22:33Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-35b3-45395b3db0f0,CAPE_C-145904,2010-01-05T22:51:41Z,2010-01-05T23:34:14Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-ca1a-9877edfe3678,CAPE_C-145904,2012-01-17T22:51:41Z,2012-01-17T23:40:27Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-5267-d1e8b8efe1ca,CAPE_C-145904,2013-01-22T22:51:41Z,2013-01-22T23:33:29Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-5db7-9a6e8c3bf68a,CAPE_C-145904,2014-10-28T22:51:41Z,2014-10-28T23:27:51Z,outpatient,Encounter for check up (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-cfe5-013b5d15f297,CAPE_C-145904,2015-02-03T22:51:41Z,2015-02-03T23:31:13Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,2016-02-09T22:51:41Z,2016-02-09T23:42:17Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-7541-54e2a158fa89,CAPE_C-145904,2016-12-09T03:28:07Z,2016-12-09T04:16:32Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-d638-82cff51a9fd1,CAPE_C-145904,2017-02-14T22:51:41Z,2017-02-14T23:29:54Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-c987-c6878ea047bf,CAPE_C-145904,2017-02-28T22:51:41Z,2017-03-01T02:43:02Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-a7d2-2b2575c0b41a,CAPE_C-145904,2017-06-13T22:51:41Z,2017-06-13T23:41:50Z,outpatient,Encounter for check up (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-35a3-9e98675324a4,CAPE_C-145904,2017-06-20T22:51:41Z,2017-06-20T23:06:41Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-36bd-b22bb44d20fc,CAPE_C-145904,2017-06-27T22:51:41Z,2017-06-28T01:33:45Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-c8df-a90991bea1c1,CAPE_C-145904,2017-11-04T03:46:32Z,2017-11-04T04:34:31Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-c4f2-009f322f5452,CAPE_C-145904,2018-02-20T22:51:41Z,2018-02-20T23:35:18Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-859f-2d6621517acd,CAPE_C-145904,2018-09-30T04:04:31Z,2018-09-30T04:52:06Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-5034-ff30d8866eed,CAPE_C-145904,2018-11-09T12:51:41Z,2018-11-09T13:06:41Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-93c5-aec2d8d13e83,CAPE_C-145904,2018-11-20T22:51:41Z,2018-11-20T23:28:51Z,outpatient,Encounter for check up (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-47af-7515011510d7,CAPE_C-145904,2019-02-26T22:51:41Z,2019-02-26T23:25:00Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-f027-9e5fdaa3402e,CAPE_C-145904,2019-03-12T22:51:41Z,2019-03-13T02:16:54Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-018b-def5e5dac706,CAPE_C-145904,2019-09-25T04:22:06Z,2019-09-25T05:10:27Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-c80a-ca52f5c71f0f,CAPE_C-145904,2020-03-03T22:51:41Z,2020-03-03T23:27:09Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-447c-96aa9ef2411d,CAPE_C-145904,2020-03-17T22:51:41Z,2020-03-18T04:28:47Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-aa53-42afca5a1bc7,CAPE_C-145904,2020-09-19T04:40:27Z,2020-09-19T05:29:12Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-cc9a-aa7f337614ab,CAPE_C-145904,2020-11-09T00:03:34Z,2020-11-09T00:42:42Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,2021-03-09T22:51:41Z,2021-03-09T23:42:04Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-722a-c585aafdfea4,CAPE_C-145904,2021-04-13T22:51:41Z,2021-04-13T23:06:41Z,outpatient,Administration of vaccine to produce active immunity (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-e9db-fed45d4dba21,CAPE_C-145904,2021-05-04T22:51:41Z,2021-05-04T23:06:41Z,outpatient,Administration of vaccine to produce active immunity (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-3e7b-f7376fcb1e05,CAPE_C-145904,2021-09-14T04:59:12Z,2021-09-14T05:48:11Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-25d1-6a5f11a10317,CAPE_C-145904,2022-01-11T22:51:41Z,2022-01-11T23:51:41Z,emergency,Emergency room admission (procedure),,CAPE REGENCY REHABILITATION & HEALTH CARE CENTER
+7af6b271-f16d-21e1-0428-2e4035069ed3,CAPE_C-145904,2022-02-01T22:51:41Z,2022-02-01T23:06:41Z,outpatient,Encounter for check up (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-ceab-040f73258c99,CAPE_C-145904,2022-02-08T22:51:41Z,2022-02-09T06:14:50Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-a81b-5ac8443b449b,CAPE_C-145904,2022-02-15T22:51:41Z,2022-02-15T23:06:41Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-d9e6-5433deba0339,CAPE_C-145904,2022-03-01T22:51:41Z,2022-03-01T23:06:41Z,outpatient,Encounter for check up (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-aca4-0da2c89e39ab,CAPE_C-145904,2022-03-08T22:51:41Z,2022-03-09T04:41:51Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,2022-03-22T22:51:41Z,2022-03-22T23:34:02Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-538a-ed5b5da35af3,CAPE_C-145904,2022-04-05T22:51:41Z,2022-04-06T02:22:54Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-5cbf-92f5a01cf17e,CAPE_C-145904,2022-06-11T05:18:11Z,2022-06-11T06:06:31Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-2765-f562f6fdc015,CAPE_C-145904,2022-12-08T05:36:31Z,2022-12-08T06:23:16Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,2023-03-28T22:51:41Z,2023-03-28T23:48:20Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-a3fd-225504f884a1,CAPE_C-145904,2023-07-06T05:53:16Z,2023-07-06T06:40:24Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,2024-04-02T22:51:41Z,2024-04-02T23:30:57Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-04d4-169ca3011f23,CAPE_C-145904,2024-04-16T22:51:41Z,2024-04-17T01:37:19Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-6c70-9b946bce81e6,CAPE_C-145904,2024-05-31T06:10:24Z,2024-05-31T06:59:05Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-7d75-804b84127c7d,CAPE_C-145904,2024-12-27T06:29:05Z,2024-12-27T07:15:42Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-88a8-e60228cfb046,CAPE_C-145904,2025-04-08T22:51:41Z,2025-04-08T23:34:16Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-1bf8-ab6d17103be3,CAPE_C-145904,2025-10-23T06:45:42Z,2025-10-23T07:34:41Z,ambulatory,Ophthalmic examination and evaluation (procedure),,FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-ca59-79113f071264,CAPE_C-145904,2025-11-09T00:42:42Z,2025-11-09T01:09:41Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),FALMOUTH HOSPITAL ASSOCIATION INC
+7af6b271-f16d-21e1-4598-2eb81658674f,CAPE_C-145904,2025-11-11T22:51:41Z,2026-01-14T23:06:41Z,hospice,Admission to hospice (procedure),Alzheimer's disease (disorder),VISITING NURSE ASSOCIATION OF CAPE COD  INC.
+7af6b271-f16d-21e1-ef7e-4920d39bbcd3,CAPE_C-145904,2026-04-14T22:51:41Z,2026-04-14T23:50:02Z,wellness,General examination of patient (procedure),,HYANNIS FAMILY MEDICAL CARE PC
+7af6b271-f16d-21e1-e8ed-3d12c46dd113,CAPE_C-145904,2026-04-28T22:51:41Z,2026-04-29T02:20:03Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),FALMOUTH HOSPITAL ASSOCIATION INC
+3fa46c70-b194-f14c-5d3d-886fa9da6786,CAPE_C-7667e7,2013-04-27T02:58:30Z,2013-04-27T03:31:50Z,wellness,General examination of patient (procedure),,ISLAND HEALTH INC.
+3fa46c70-b194-f14c-530e-7be692f0668d,CAPE_C-7667e7,2014-05-03T02:58:30Z,2014-05-03T03:50:32Z,wellness,General examination of patient (procedure),,ISLAND HEALTH INC.
+3fa46c70-b194-f14c-a0e4-ec253b9de38f,CAPE_C-7667e7,2017-05-06T02:58:30Z,2017-05-06T03:40:16Z,wellness,General examination of patient (procedure),,ISLAND HEALTH INC.
+3fa46c70-b194-f14c-4a1c-e5cbaa6a4f9f,CAPE_C-7667e7,2019-01-04T03:27:09Z,2019-01-04T03:42:09Z,ambulatory,Encounter for problem (procedure),Injury of tendon of the rotator cuff of shoulder (disorder),MARTHA'S VINEYARD HOSPITAL INC
+3fa46c70-b194-f14c-936c-f5afb94eea60,CAPE_C-7667e7,2019-04-02T03:27:09Z,2019-04-02T03:42:09Z,ambulatory,Encounter for check up (procedure),Injury of tendon of the rotator cuff of shoulder (disorder),MARTHA'S VINEYARD HOSPITAL INC
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,2019-12-15T05:58:30Z,2019-12-15T06:13:30Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),MARTHA'S VINEYARD HOSPITAL INC
+3fa46c70-b194-f14c-4cb7-1832b9ba6b95,CAPE_C-7667e7,2020-05-09T02:58:30Z,2020-05-09T03:54:39Z,wellness,General examination of patient (procedure),,ISLAND HEALTH INC.
+3fa46c70-b194-f14c-6d05-922013520839,CAPE_C-7667e7,2020-05-23T02:58:30Z,2020-05-23T06:23:41Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARTHA'S VINEYARD HOSPITAL INC
+3fa46c70-b194-f14c-823e-5cc5de8b30f4,CAPE_C-7667e7,2021-08-21T02:58:30Z,2021-08-21T03:13:30Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,2022-02-28T03:27:09Z,2022-02-28T04:27:09Z,emergency,Emergency room admission (procedure),Sprain (morphologic abnormality),MARTHA'S VINEYARD HOSPITAL INC
+3fa46c70-b194-f14c-6a33-70724cadd219,CAPE_C-7667e7,2023-03-05T02:58:30Z,2023-03-05T03:13:30Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARTHA'S VINEYARD HOSPITAL INC
+3fa46c70-b194-f14c-a268-e3d19cc89b3d,CAPE_C-7667e7,2023-05-13T02:58:30Z,2023-05-13T03:46:38Z,wellness,General examination of patient (procedure),,ISLAND HEALTH INC.
+3fa46c70-b194-f14c-5a79-8ae4571a74a5,CAPE_C-7667e7,2023-05-27T02:58:30Z,2023-05-27T05:59:07Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARTHA'S VINEYARD HOSPITAL INC
+3fa46c70-b194-f14c-99e3-3cef1e852ccc,CAPE_C-7667e7,2026-05-16T02:58:30Z,2026-05-16T03:47:57Z,wellness,General examination of patient (procedure),,ISLAND HEALTH INC.
+3fa46c70-b194-f14c-54a5-f6c1b32fe1fc,CAPE_C-7667e7,2026-05-30T02:58:30Z,2026-05-30T08:41:59Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-b57d-84809b73c1b6,CAPE_C-5d1a1d,2004-03-03T17:19:39Z,2004-03-03T17:34:39Z,wellness,Well child visit (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-2830-d76d3e076813,CAPE_C-5d1a1d,2006-03-15T17:19:39Z,2006-03-15T17:43:36Z,wellness,Well child visit (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-9915-8740855cfc25,CAPE_C-5d1a1d,2007-03-21T17:19:39Z,2007-03-21T18:02:27Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-7ead-84b8f4ff44f0,CAPE_C-5d1a1d,2011-07-19T17:19:39Z,2011-07-19T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Blighted ovum (disorder),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-34c6-ec716a24a630,CAPE_C-5d1a1d,2014-01-31T17:19:39Z,2014-01-31T17:34:39Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-2fdc-b85d667cd378,CAPE_C-5d1a1d,2014-02-07T18:19:39Z,2014-02-07T19:12:57Z,ambulatory,Encounter for problem (procedure),Opioid abuse,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-5b68-55b013d01ae7,CAPE_C-5d1a1d,2016-03-16T17:19:39Z,2016-03-16T18:17:44Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-27fb-ea7689cb7b9c,CAPE_C-5d1a1d,2016-09-02T17:19:39Z,2016-09-02T17:34:39Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-2bfb-6e79f455c93a,CAPE_C-5d1a1d,2017-03-22T17:19:39Z,2017-03-22T18:04:00Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-95d6-5e532835d9d6,CAPE_C-5d1a1d,2017-08-28T17:19:39Z,2017-08-28T17:38:02Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-60fe-41b59f17db91,CAPE_C-5d1a1d,2017-12-06T17:19:39Z,2017-12-06T17:34:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-60ad-b7021dfa33d7,CAPE_C-5d1a1d,2018-03-07T17:19:39Z,2018-03-07T17:36:42Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-e326-080c32ed0747,CAPE_C-5d1a1d,2018-03-28T17:19:39Z,2018-03-28T18:07:00Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-5618-e41529670849,CAPE_C-5d1a1d,2018-06-06T17:19:39Z,2018-06-06T17:34:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-611c-9414924c04c7,CAPE_C-5d1a1d,2018-09-05T17:19:39Z,2018-09-05T17:34:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-588b-e896f18f535d,CAPE_C-5d1a1d,2018-10-15T12:19:39Z,2018-10-15T12:34:39Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-ebdd-3193510303e0,CAPE_C-5d1a1d,2018-12-05T17:19:39Z,2018-12-05T17:34:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-023d-69cac8e69870,CAPE_C-5d1a1d,2019-03-06T17:19:39Z,2019-03-06T17:34:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,2019-04-03T17:19:39Z,2019-04-03T17:57:55Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-450b-892c509fb6f7,CAPE_C-5d1a1d,2019-04-17T17:19:39Z,2019-04-17T20:34:41Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-9a54-23968645eccf,CAPE_C-5d1a1d,2019-06-05T17:19:39Z,2019-06-05T17:34:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-df15-f5d3509d7f59,CAPE_C-5d1a1d,2019-09-04T17:19:39Z,2019-09-04T17:36:56Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-2c57-2ceab7a9212b,CAPE_C-5d1a1d,2019-12-04T17:19:39Z,2019-12-04T17:39:36Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-8dc6-04ac77280eda,CAPE_C-5d1a1d,2020-03-04T17:19:39Z,2020-03-04T17:39:16Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-92d1-57e044e600e8,CAPE_C-5d1a1d,2020-04-08T17:19:39Z,2020-04-08T18:15:13Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-9fde-782e143b4e53,CAPE_C-5d1a1d,2020-04-22T17:19:39Z,2020-04-22T20:44:23Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-47a0-03dbbbc2979b,CAPE_C-5d1a1d,2020-06-03T17:19:39Z,2020-06-03T17:34:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-ab47-f6fb20b6f208,CAPE_C-5d1a1d,2020-09-02T17:19:39Z,2020-09-02T17:34:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-e3cd-b317db7fb003,CAPE_C-5d1a1d,2020-10-28T17:19:39Z,2020-10-28T17:34:39Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-688c-ea775144f4bb,CAPE_C-5d1a1d,2020-11-25T17:19:39Z,2020-11-25T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-5cad-8913f2fcf225,CAPE_C-5d1a1d,2020-12-23T17:19:39Z,2020-12-23T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-6ddc-9b6ad197ea89,CAPE_C-5d1a1d,2021-01-20T17:19:39Z,2021-01-20T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-b763-27fb3f13bc85,CAPE_C-5d1a1d,2021-02-17T17:19:39Z,2021-02-17T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-667c-d6c79bea6068,CAPE_C-5d1a1d,2021-03-17T17:19:39Z,2021-03-17T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-d870-61e35d32c493,CAPE_C-5d1a1d,2021-04-14T17:19:39Z,2021-04-14T18:08:51Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-6d8a-860359b233cf,CAPE_C-5d1a1d,2021-04-21T17:19:39Z,2021-04-21T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-9338-989aedbc38ca,CAPE_C-5d1a1d,2021-04-28T17:19:39Z,2021-04-28T23:24:25Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-44e8-3b749dffd3b5,CAPE_C-5d1a1d,2021-05-19T17:19:39Z,2021-05-19T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-ec46-41d3d77b2875,CAPE_C-5d1a1d,2021-06-02T17:19:39Z,2021-06-02T18:19:39Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-4c62-d7ea73184108,CAPE_C-5d1a1d,2021-07-14T17:19:39Z,2021-07-14T17:34:39Z,ambulatory,Postnatal visit (regime/therapy),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-57a4-22f08766978e,CAPE_C-5d1a1d,2021-10-13T17:19:39Z,2021-10-13T17:34:39Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-27de-ca9fad2ddac8,CAPE_C-5d1a1d,2021-11-10T17:19:39Z,2021-11-10T17:34:39Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-6e51-16696027185b,CAPE_C-5d1a1d,2022-04-20T17:19:39Z,2022-04-20T18:03:44Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-9f4c-20f49688400e,CAPE_C-5d1a1d,2022-08-02T17:38:02Z,2022-08-02T17:53:02Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-9ef3-fd65cec46bd3,CAPE_C-5d1a1d,2023-04-26T17:19:39Z,2023-04-26T18:14:28Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,2023-06-10T09:19:39Z,2023-06-10T09:34:39Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-2fec-b998ccfb8e70,CAPE_C-5d1a1d,2023-09-27T17:19:39Z,2023-09-27T17:34:39Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-8bf4-d415824e336e,CAPE_C-5d1a1d,2023-10-25T17:19:39Z,2023-10-25T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-980a-1bd4e7907ad2,CAPE_C-5d1a1d,2023-11-22T17:19:39Z,2023-11-22T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-f902-3d84091bdbc1,CAPE_C-5d1a1d,2023-11-29T17:19:39Z,2023-11-29T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Fetus with chromosomal abnormality (disorder),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-1053-a9918a9a4d1c,CAPE_C-5d1a1d,2024-05-01T17:19:39Z,2024-05-01T18:16:32Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-c7a5-8ca67e84156f,CAPE_C-5d1a1d,2024-07-31T17:19:39Z,2024-07-31T17:34:39Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-4824-4463e7e1996a,CAPE_C-5d1a1d,2024-08-28T17:19:39Z,2024-08-28T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-84bd-a0f8222e4753,CAPE_C-5d1a1d,2024-09-25T17:19:39Z,2024-09-25T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-5fe8-5d68a15bc63a,CAPE_C-5d1a1d,2024-10-23T17:19:39Z,2024-10-23T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-274a-4430c3625a1e,CAPE_C-5d1a1d,2024-11-20T17:19:39Z,2024-11-20T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-68d0-173b5d92db4c,CAPE_C-5d1a1d,2024-12-18T17:19:39Z,2024-12-18T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-7b1d-fad02e9110fa,CAPE_C-5d1a1d,2025-01-15T17:19:39Z,2025-01-15T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-7ee3-5e856a01f390,CAPE_C-5d1a1d,2025-02-12T17:19:39Z,2025-02-12T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-e16e-ad8ea9eaf742,CAPE_C-5d1a1d,2025-02-26T17:19:39Z,2025-02-26T17:34:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-95a6-b00a67bc5d4e,CAPE_C-5d1a1d,2025-03-05T17:19:39Z,2025-03-05T18:19:39Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-1457-6f7ebe716ef0,CAPE_C-5d1a1d,2025-04-16T17:19:39Z,2025-04-16T17:34:39Z,ambulatory,Postnatal visit (regime/therapy),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-db6f-8470dcc4091c,CAPE_C-5d1a1d,2025-05-07T17:19:39Z,2025-05-07T18:18:49Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,2025-05-21T17:19:39Z,2025-05-22T00:51:58Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-8f30-e0e86d923687,CAPE_C-5d1a1d,2026-04-18T17:19:39Z,2026-04-18T17:34:39Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-3bc6-dae8209d5d1a,CAPE_C-5d1a1d,2026-04-20T18:19:39Z,2026-04-20T18:59:39Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-e0a0-a2fbc2b6f213,CAPE_C-5d1a1d,2026-05-13T17:19:39Z,2026-05-13T17:51:57Z,wellness,General examination of patient (procedure),,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-3cd1-8dbcbcbf00d4,CAPE_C-5d1a1d,2026-05-27T17:19:39Z,2026-05-27T21:36:01Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARTHA'S VINEYARD HOSPITAL INC

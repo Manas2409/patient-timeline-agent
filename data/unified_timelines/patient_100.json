@@ -1,0 +1,497 @@
+{
+  "cluster_id": "100",
+  "hospitals": [
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1990-11-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": []
+    },
+    {
+      "date": "2000-11-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "prediabet",
+          "canonical": "prediabet",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "an",
+          "canonical": "an",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2000-11-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ferrous sulfate",
+          "canonical": "ferrous sulfate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2003-11-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealth",
+          "canonical": "Unhealth",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-09-26"
+        }
+      ]
+    },
+    {
+      "date": "2012-09-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight",
+          "canonical": "weight",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2012-10-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2014-09-22",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": []
+    },
+    {
+      "date": "2015-09-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-09-03T08:29:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-08-29T08:29:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full",
+          "canonical": "Full",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ethinyl Estradiol",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-08-24T08:29:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norelgestrom",
+          "canonical": "norelgestromin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-24T08:29:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2017-11-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2017-11-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-08-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-08-19T08:29:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealthy",
+          "canonical": "Unhealthy",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-09-18"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Etonogestrel",
+          "canonical": "Etonogestrel | etonogestrel",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-08-13T08:53:11Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-08-11T05:39:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-10-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-10-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2020-10-19"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-09-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-09-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-10-05T13:20:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-11-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-11-22",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-08-01T05:39:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-08-01T05:39:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-09-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-08-14",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-09-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-10-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-10-07T09:59:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CLASSIC HEALTHCARE MEDICAL GROUP LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-10-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-13T09:38:58Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

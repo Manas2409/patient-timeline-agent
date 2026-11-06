@@ -1,0 +1,181 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,DESCRIPTION,REASONDESCRIPTION
+87f7ad7b-85f9-d26d-4cad-f4f86bd71724,WEST_S-db5bad,2015-12-14T21:27:47Z,2016-12-11T19:34:13Z,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta],
+87f7ad7b-85f9-d26d-1d74-1aac2639cbc8,WEST_S-db5bad,2016-12-11T19:34:13Z,2017-12-06T20:00:38Z,Etonogestrel 68 MG Drug Implant,
+87f7ad7b-85f9-d26d-308d-3c022a1a32d5,WEST_S-db5bad,2017-12-06T20:00:38Z,2018-12-01T20:00:38Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+87f7ad7b-85f9-d26d-8fd2-ceda10957c9c,WEST_S-db5bad,2018-12-01T20:00:38Z,2019-11-26T20:00:38Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day],
+87f7ad7b-85f9-d26d-5f08-f4398ac29a86,WEST_S-db5bad,2022-05-28T02:00:07Z,2022-05-28T02:00:07Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,2023-05-19T23:31:00Z,2023-05-19T23:31:00Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,2023-05-19T23:31:00Z,2024-05-24T23:31:00Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-e0dd-4693ca635e6b,WEST_S-db5bad,2023-06-18T23:31:00Z,2024-05-24T23:31:00Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,2024-05-24T23:31:00Z,2025-05-30T23:31:00Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,2024-05-24T23:31:00Z,2025-05-30T23:31:00Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,2025-05-30T23:31:00Z,2026-06-05T23:31:00Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,2025-05-30T23:31:00Z,2026-06-05T23:31:00Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-8ed1-78321688f54b,WEST_S-db5bad,2025-06-14T02:05:30Z,2025-06-14T02:05:30Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+87f7ad7b-85f9-d26d-42fa-0b23756aa084,WEST_S-db5bad,2026-06-05T23:31:00Z,,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-42fa-0b23756aa084,WEST_S-db5bad,2026-06-05T23:31:00Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+87f7ad7b-85f9-d26d-cf1a-95b514289d63,WEST_S-db5bad,2026-06-20T02:14:39Z,2026-06-20T02:14:39Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+f5749532-3295-ad01-ff01-45763dd7c52b,WEST_S-2e8bad,2000-11-27T08:23:54Z,,ferrous sulfate 325 MG Oral Tablet,
+f5749532-3295-ad01-c53e-0cfd46599b2c,WEST_S-2e8bad,2015-09-09T08:29:31Z,2016-09-03T08:29:31Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day],
+f5749532-3295-ad01-0f8c-1aea90e943c6,WEST_S-2e8bad,2016-09-03T08:29:31Z,2017-08-29T08:29:31Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+f5749532-3295-ad01-f3bc-407311274bf6,WEST_S-2e8bad,2017-08-29T08:29:31Z,2018-08-24T08:29:31Z,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,
+f5749532-3295-ad01-0103-e324fc633aff,WEST_S-2e8bad,2018-08-24T08:29:31Z,2019-08-19T08:29:31Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+f5749532-3295-ad01-5d0e-c3905bcb60fe,WEST_S-2e8bad,2019-08-19T08:29:31Z,2020-08-13T08:53:11Z,Etonogestrel 68 MG Drug Implant,
+f5749532-3295-ad01-85bf-2ba1c9e089e2,WEST_S-2e8bad,2020-08-13T08:53:11Z,2021-08-11T05:39:40Z,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena],
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,2021-09-25T14:20:24Z,2021-10-05T13:20:24Z,Penicillin V Potassium 500 MG Oral Tablet,Streptococcal sore throat (disorder)
+f5749532-3295-ad01-61e6-c7911e74323d,WEST_S-2e8bad,2022-08-06T05:39:40Z,2023-08-01T05:39:40Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+f5749532-3295-ad01-f7b3-590b37932e3b,WEST_S-2e8bad,2024-10-07T09:59:38Z,2024-10-07T09:59:38Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+f5749532-3295-ad01-8601-92ba8138d033,WEST_S-2e8bad,2025-10-13T09:38:58Z,2025-10-13T09:38:58Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+37549f60-b5a3-69cd-1f2b-5b0e1daa6e75,WEST_S-41bc86,2005-06-05T22:20:00Z,,Hydrocortisone 10 MG/ML Topical Cream,Contact dermatitis (disorder)
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,2005-06-18T13:48:14Z,,Fexofenadine hydrochloride 60 MG Oral Tablet,
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,2005-06-18T13:48:14Z,,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,
+37549f60-b5a3-69cd-472b-bbfa6ccfe9f8,WEST_S-41bc86,2016-03-06T22:45:08Z,2017-03-01T22:56:41Z,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection,
+37549f60-b5a3-69cd-6f05-913e40a20748,WEST_S-41bc86,2016-12-20T01:28:01Z,2016-12-20T01:28:01Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+37549f60-b5a3-69cd-4ea5-4f85bef1e645,WEST_S-41bc86,2017-03-01T22:56:41Z,2018-02-24T23:08:45Z,1 ML medroxyprogesterone acetate 150 MG/ML Injection,
+37549f60-b5a3-69cd-8b07-510c222fe7c5,WEST_S-41bc86,2018-02-24T23:08:45Z,2019-02-19T23:08:45Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,2019-02-19T23:08:45Z,2020-02-14T23:08:45Z,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day],
+37549f60-b5a3-69cd-a580-8fb7eeb38c45,WEST_S-41bc86,2020-02-14T23:08:45Z,2021-02-08T23:26:53Z,1 ML medroxyprogesterone acetate 150 MG/ML Injection,
+37549f60-b5a3-69cd-ea6a-57bed1c3fe64,WEST_S-41bc86,2021-02-08T23:26:53Z,2022-02-07T17:36:43Z,levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena],
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,2022-02-07T17:36:43Z,2023-02-02T17:36:43Z,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day],
+37549f60-b5a3-69cd-914b-f940a59de94c,WEST_S-41bc86,2024-01-28T17:36:43Z,2025-01-22T17:36:43Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+37549f60-b5a3-69cd-cae0-419093807284,WEST_S-41bc86,2026-01-17T17:36:43Z,,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day],
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,2020-12-10T18:39:12Z,2020-12-10T18:39:12Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,2020-12-10T18:39:12Z,2021-12-16T18:39:12Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,2021-11-16T18:59:10Z,2021-12-13T18:59:10Z,Ibuprofen 200 MG Oral Tablet,
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,2021-12-16T18:39:12Z,2022-12-22T18:39:12Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,2021-12-16T18:39:12Z,2022-12-22T18:39:12Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,2021-12-16T18:39:12Z,2022-12-22T18:39:12Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,2022-12-22T18:39:12Z,2023-12-28T18:39:12Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,2022-12-22T18:39:12Z,2023-12-28T18:39:12Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,2022-12-22T18:39:12Z,2023-12-28T18:39:12Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2023-12-28T18:39:12Z,2024-09-12T18:39:12Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2023-12-28T18:39:12Z,2024-09-12T18:39:12Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2023-12-28T18:39:12Z,2024-09-12T18:39:12Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2024-01-04T18:39:12Z,,Clopidogrel 75 MG Oral Tablet,
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2024-01-04T18:39:12Z,,Simvastatin 20 MG Oral Tablet,
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2024-01-04T18:39:12Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2024-01-04T18:39:12Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,2025-01-02T18:39:12Z,2026-01-08T18:39:12Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,2025-01-02T18:39:12Z,2026-01-08T18:39:12Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,2025-01-02T18:39:12Z,2026-01-08T18:39:12Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,2026-01-08T18:39:12Z,,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,2026-01-08T18:39:12Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,2026-01-08T18:39:12Z,,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+f6745f8a-8107-443e-96a4-c3109911c436,WEST_S-64e1c9,1955-12-04T12:10:58Z,,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,
+f6745f8a-8107-443e-402e-d236ef71aa79,WEST_S-64e1c9,1990-10-23T13:31:19Z,,Vitamin B12 5 MG/ML Injectable Solution,
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,1999-12-31T12:10:58Z,2019-09-03T12:10:58Z,Naproxen sodium 220 MG Oral Tablet,Localized  primary osteoarthritis of the hand (disorder)
+f6745f8a-8107-443e-cbc1-9f942a0dee50,WEST_S-64e1c9,2014-08-05T12:10:58Z,2025-09-17T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-52bc-16a1d5b3f61e,WEST_S-64e1c9,2016-08-16T12:10:58Z,2017-08-16T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-4155-4c198f5b983f,WEST_S-64e1c9,2017-08-15T14:54:52Z,2017-08-15T14:54:52Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+f6745f8a-8107-443e-dcf2-5f70e2a2369e,WEST_S-64e1c9,2017-08-16T12:10:58Z,2018-08-16T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-c8f2-de5663c4d7ca,WEST_S-64e1c9,2018-08-16T12:10:58Z,2019-08-16T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-a26f-34eef06e073a,WEST_S-64e1c9,2019-08-16T12:10:58Z,2020-08-25T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-d096-9242a6171347,WEST_S-64e1c9,2019-08-20T12:10:58Z,2019-09-03T12:10:58Z,Amoxicillin 250 MG Oral Capsule,
+f6745f8a-8107-443e-97e8-bc81256b6e0b,WEST_S-64e1c9,2020-08-25T12:10:58Z,2021-08-25T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,2021-07-06T12:24:30Z,2021-07-17T12:24:30Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+f6745f8a-8107-443e-45e5-8e9615f97844,WEST_S-64e1c9,2021-08-25T12:10:58Z,2022-09-06T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,2022-01-23T15:10:58Z,2022-02-05T15:10:58Z,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,Acute bronchitis (disorder)
+f6745f8a-8107-443e-fe7a-32b9fd330626,WEST_S-64e1c9,2022-09-06T12:10:58Z,2023-09-06T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-4d0e-2bb8614839ae,WEST_S-64e1c9,2023-09-06T12:10:58Z,2024-09-17T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-a06a-e08bf3292dd8,WEST_S-64e1c9,2024-09-17T12:10:58Z,2025-09-17T12:10:58Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f6745f8a-8107-443e-1b33-f84b54b63091,WEST_S-64e1c9,2025-09-17T12:10:58Z,,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,2023-12-14T20:44:21Z,2023-12-21T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,2023-12-14T20:44:21Z,2023-12-21T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+f870c432-0887-125e-828d-fc27d192607b,WEST_S-40a7b4,1988-12-28T03:32:50Z,,Vitamin B12 5 MG/ML Injectable Solution,
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,2013-09-11T02:20:33Z,,Clopidogrel 75 MG Oral Tablet,
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,2013-09-11T02:20:33Z,,Simvastatin 20 MG Oral Tablet,
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,2013-09-11T02:20:33Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,2013-09-11T02:20:33Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,2019-07-17T03:20:33Z,2019-07-27T03:20:33Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+f870c432-0887-125e-dd9b-15c5b57a67b9,WEST_S-40a7b4,2019-09-04T07:40:20Z,2019-09-04T07:40:20Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+f870c432-0887-125e-d46b-f29d77d6065b,WEST_S-40a7b4,2020-09-16T02:20:33Z,2025-09-25T02:20:33Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,2021-09-08T02:20:33Z,2021-09-19T02:20:33Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+f870c432-0887-125e-25d9-4df1bdc8ff70,WEST_S-40a7b4,2021-09-16T02:20:33Z,2022-09-16T02:20:33Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f870c432-0887-125e-6431-dd81bdb5beb0,WEST_S-40a7b4,2022-09-16T02:20:33Z,2023-09-16T02:20:33Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f870c432-0887-125e-267a-7a2c01670a07,WEST_S-40a7b4,2023-09-16T02:20:33Z,2024-09-25T02:20:33Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f870c432-0887-125e-8c27-427465be86e4,WEST_S-40a7b4,2023-09-27T05:11:48Z,2023-09-27T05:11:48Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+f870c432-0887-125e-4f0a-c9d6f0fe487d,WEST_S-40a7b4,2024-09-25T02:20:33Z,2025-09-25T02:20:33Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+f870c432-0887-125e-d547-16d4ec3a8843,WEST_S-40a7b4,2025-09-25T02:20:33Z,,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+4be6b5fb-2a19-943a-9970-f8fcede2d4fb,WEST_S-c2c0e8,2017-03-21T23:46:16Z,2017-03-21T23:46:16Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+4be6b5fb-2a19-943a-335d-39af66b944fc,WEST_S-c2c0e8,2018-02-18T00:34:36Z,2018-03-06T00:34:36Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,2018-12-18T23:18:15Z,2018-12-27T14:18:15Z,Penicillin V Potassium 500 MG Oral Tablet,Streptococcal sore throat (disorder)
+4be6b5fb-2a19-943a-4018-d9cfcbb22f1d,WEST_S-c2c0e8,2019-03-27T00:08:36Z,2019-03-27T00:08:36Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,2023-01-27T01:44:54Z,2023-02-12T01:44:54Z,Naproxen sodium 220 MG Oral Tablet,
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,2026-06-02T21:35:18Z,2026-06-20T21:35:18Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+4be6b5fb-2a19-943a-2985-e7955de888d0,WEST_S-c2c0e8,2026-06-10T01:06:41Z,2026-06-10T01:06:41Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+4be6b5fb-2a19-943a-6c77-eae28c19c692,WEST_S-c2c0e8,2026-07-08T00:08:30Z,2026-07-08T00:08:30Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,2016-11-20T22:44:41Z,2017-11-26T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,2016-11-20T22:44:41Z,2017-11-26T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-b697-67f8d7e2c62f,WEST_S-5116f1,2017-11-26T22:44:41Z,2017-12-10T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-b697-67f8d7e2c62f,WEST_S-5116f1,2017-11-26T22:44:41Z,2017-12-10T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,2018-12-02T22:44:41Z,2019-12-08T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,2018-12-02T22:44:41Z,2019-12-08T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-fdeb-fc421f7e8adf,WEST_S-5116f1,2019-12-08T22:44:41Z,2020-12-13T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-fdeb-fc421f7e8adf,WEST_S-5116f1,2019-12-08T22:44:41Z,2020-12-13T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-e455-7698bb43f126,WEST_S-5116f1,2020-12-13T22:44:41Z,2021-12-19T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-e455-7698bb43f126,WEST_S-5116f1,2020-12-13T22:44:41Z,2021-12-19T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-ee7e-65b380f22273,WEST_S-5116f1,2021-12-19T22:44:41Z,2022-12-25T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-ee7e-65b380f22273,WEST_S-5116f1,2021-12-19T22:44:41Z,2022-12-25T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-b739-cc8e762f090a,WEST_S-5116f1,2022-12-25T22:44:41Z,2023-12-31T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-b739-cc8e762f090a,WEST_S-5116f1,2022-12-25T22:44:41Z,2023-12-31T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,2023-12-31T22:44:41Z,2024-09-15T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,2023-12-31T22:44:41Z,2024-09-15T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,2024-04-29T23:36:43Z,2024-05-22T23:36:43Z,Ibuprofen 200 MG Oral Tablet,
+d309f605-948b-962f-0322-36df06ef3f81,WEST_S-5116f1,2025-01-05T22:44:41Z,2026-01-11T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-0322-36df06ef3f81,WEST_S-5116f1,2025-01-05T22:44:41Z,2026-01-11T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,2026-01-11T22:44:41Z,,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,2026-01-11T22:44:41Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,2016-01-20T06:00:32Z,2017-01-25T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,2016-01-20T06:00:32Z,2017-01-25T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,2016-01-20T06:00:32Z,2017-01-25T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,2017-01-25T06:00:32Z,2018-01-31T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,2017-01-25T06:00:32Z,2018-01-31T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,2017-01-25T06:00:32Z,2018-01-31T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-59fb-e7314435ea01,WEST_S-956ee0,2017-02-08T09:08:58Z,2017-02-08T09:08:58Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,2018-01-31T06:00:32Z,2019-02-06T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,2018-01-31T06:00:32Z,2019-02-06T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,2018-01-31T06:00:32Z,2019-02-06T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,2019-02-06T06:00:32Z,2020-02-12T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,2019-02-06T06:00:32Z,2020-02-12T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,2019-02-06T06:00:32Z,2020-02-12T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-f0ea-ad10d1035d81,WEST_S-956ee0,2019-02-20T08:32:54Z,2019-02-20T08:32:54Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,2020-02-12T06:00:32Z,2021-02-17T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,2020-02-12T06:00:32Z,2021-02-17T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,2020-02-12T06:00:32Z,2021-02-17T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,2021-02-17T06:00:32Z,2022-02-23T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,2021-02-17T06:00:32Z,2022-02-23T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,2021-02-17T06:00:32Z,2022-02-23T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,2021-02-17T06:00:32Z,2022-02-23T06:00:32Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+2fb99851-6f31-04a6-1b48-49e45dc62843,WEST_S-956ee0,2021-03-03T08:55:17Z,2021-03-03T08:55:17Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,2022-02-23T06:00:32Z,2023-03-01T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,2022-02-23T06:00:32Z,2023-03-01T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,2022-02-23T06:00:32Z,2023-03-01T06:00:32Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,2022-02-23T06:00:32Z,2023-03-01T06:00:32Z,aspirin 81 MG Oral Capsule [Vazalore],
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,2022-02-23T06:00:32Z,2023-03-01T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,2023-03-01T06:00:32Z,2024-03-06T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,2023-03-01T06:00:32Z,2024-03-06T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,2023-03-01T06:00:32Z,2024-03-06T06:00:32Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,2023-03-01T06:00:32Z,2024-03-06T06:00:32Z,aspirin 81 MG Oral Capsule [Vazalore],
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,2023-03-01T06:00:32Z,2024-03-06T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,2024-03-06T06:00:32Z,2025-03-12T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,2024-03-06T06:00:32Z,2025-03-12T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,2024-03-06T06:00:32Z,2025-03-12T06:00:32Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,2024-03-06T06:00:32Z,2025-03-12T06:00:32Z,aspirin 81 MG Oral Capsule [Vazalore],
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,2024-03-06T06:00:32Z,2025-03-12T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,2025-03-12T06:00:32Z,2026-03-18T06:00:32Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,2025-03-12T06:00:32Z,2026-03-18T06:00:32Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,2025-03-12T06:00:32Z,2026-03-18T06:00:32Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,2025-03-12T06:00:32Z,2026-03-18T06:00:32Z,aspirin 81 MG Oral Capsule [Vazalore],
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,2025-03-12T06:00:32Z,2026-03-18T06:00:32Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,2026-01-23T08:18:40Z,2026-02-12T08:18:40Z,Acetaminophen 325 MG Oral Tablet,
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,2026-03-18T06:00:32Z,,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,2026-03-18T06:00:32Z,,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,2026-03-18T06:00:32Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,2026-03-18T06:00:32Z,,aspirin 81 MG Oral Capsule [Vazalore],
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,2026-03-18T06:00:32Z,,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,2016-12-18T16:32:43Z,2017-12-13T16:32:43Z,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day],
+72b1ca95-c4f0-269d-14c4-39aff402c875,WEST_S-ec1bd7,2017-04-24T18:32:27Z,2017-04-24T18:32:27Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+72b1ca95-c4f0-269d-fe6d-1f774f2b1432,WEST_S-ec1bd7,2019-11-29T05:05:16Z,2019-12-10T05:05:16Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+72b1ca95-c4f0-269d-d74b-799a945714bc,WEST_S-ec1bd7,2019-12-23T22:14:10Z,2019-12-23T22:14:10Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,2021-04-04T17:06:48Z,2021-04-05T23:06:48Z,nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule,Acute infective cystitis (disorder)
+72b1ca95-c4f0-269d-9eeb-53ccba3a6a19,WEST_S-ec1bd7,2023-05-08T18:27:23Z,2023-05-08T18:27:23Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)

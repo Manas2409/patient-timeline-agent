@@ -1,0 +1,265 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,ENCOUNTERCLASS,DESCRIPTION,REASONDESCRIPTION,SEEN_AT
+cc3eac4a-34a7-9a15-d602-66b0bd935203,PIONEE-2c833f,2016-03-28T04:35:36Z,2016-03-28T04:52:09Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),BAYSTATE MEDICAL CENTER
+cc3eac4a-34a7-9a15-25f1-0d3ead2180b6,PIONEE-2c833f,2016-10-25T09:35:36Z,2016-10-25T09:50:36Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BAYSTATE MEDICAL CENTER
+cc3eac4a-34a7-9a15-197d-c8faa82aee51,PIONEE-2c833f,2018-02-05T08:35:36Z,2018-02-05T12:53:48Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BAYSTATE MEDICAL CENTER
+cc3eac4a-34a7-9a15-88f3-730564694133,PIONEE-2c833f,2020-02-10T08:35:36Z,2020-02-10T11:53:59Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BAYSTATE MEDICAL CENTER
+cc3eac4a-34a7-9a15-f753-5f808d4cf215,PIONEE-2c833f,2021-10-18T08:35:36Z,2021-10-18T08:50:36Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BAYSTATE MEDICAL CENTER
+cc3eac4a-34a7-9a15-ca00-ed6e196c4120,PIONEE-2c833f,2021-11-08T08:35:36Z,2021-11-08T08:50:36Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BAYSTATE MEDICAL CENTER
+cc3eac4a-34a7-9a15-473f-34cd7ed0707a,PIONEE-2c833f,2022-02-14T08:35:36Z,2022-02-14T11:51:32Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BAYSTATE MEDICAL CENTER
+cc3eac4a-34a7-9a15-a77a-027dab52c156,PIONEE-2c833f,2025-11-29T13:35:36Z,2025-11-29T13:50:36Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BAYSTATE MEDICAL CENTER
+30ed72f3-240e-4973-e1a8-773cae1a59fb,PIONEE-004af5,2018-03-10T02:50:28Z,2018-03-10T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-df59-d1a3beb1541e,PIONEE-004af5,2018-04-14T02:50:28Z,2018-04-14T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-def7-19bae748e765,PIONEE-004af5,2018-05-11T20:50:28Z,2018-05-11T21:05:28Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),BAYSTATE NOBLE HOSPITAL CORPORATION
+30ed72f3-240e-4973-03df-2dcf57bb526e,PIONEE-004af5,2018-06-16T02:50:28Z,2018-06-16T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-8ffe-fd1a5def4e60,PIONEE-004af5,2018-08-18T02:50:28Z,2018-08-18T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-3f3e-14c81b3cfce6,PIONEE-004af5,2018-11-17T02:50:28Z,2018-11-17T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-5c44-0d7b49cf550f,PIONEE-004af5,2019-02-16T02:50:28Z,2019-02-16T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-0c7f-e4da5762dbb9,PIONEE-004af5,2019-05-18T02:50:28Z,2019-05-18T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-fecb-bfcbfe13ca34,PIONEE-004af5,2019-08-17T02:50:28Z,2019-08-17T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-e02f-76cef560c123,PIONEE-004af5,2019-11-30T02:50:28Z,2019-11-30T03:05:28Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),BAYSTATE NOBLE HOSPITAL CORPORATION
+30ed72f3-240e-4973-db9f-f470ff8fda8f,PIONEE-004af5,2020-02-15T02:50:28Z,2020-02-15T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-5b0c-5a30915755f3,PIONEE-004af5,2020-08-15T02:50:28Z,2020-08-15T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-a73f-bdf99d17b476,PIONEE-004af5,2020-08-22T02:50:28Z,2020-08-22T06:25:21Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BAYSTATE NOBLE HOSPITAL CORPORATION
+30ed72f3-240e-4973-f748-952ecabb3e60,PIONEE-004af5,2021-02-13T02:50:28Z,2021-02-13T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-d6da-8e13c85177cb,PIONEE-004af5,2021-06-30T16:50:28Z,2021-06-30T17:05:28Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BAYSTATE NOBLE HOSPITAL CORPORATION
+30ed72f3-240e-4973-483f-3a6fc0dfc38f,PIONEE-004af5,2021-08-14T02:50:28Z,2021-08-14T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-9149-44ec5077fd30,PIONEE-004af5,2021-11-04T02:50:28Z,2021-11-04T03:50:28Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),MEMORY SUPPORT OF HERITAGE HALL
+30ed72f3-240e-4973-c91c-c79f6401f7c8,PIONEE-004af5,2022-01-21T14:50:28Z,2022-01-21T15:05:28Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BAYSTATE NOBLE HOSPITAL CORPORATION
+30ed72f3-240e-4973-50d8-63e6e942c7b4,PIONEE-004af5,2022-02-12T02:50:28Z,2022-02-12T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-9a4a-2732b62ce2c3,PIONEE-004af5,2022-02-19T02:50:28Z,2022-02-19T06:42:04Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BAYSTATE NOBLE HOSPITAL CORPORATION
+30ed72f3-240e-4973-0feb-d9661e74785e,PIONEE-004af5,2023-02-18T02:50:28Z,2023-02-18T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-62bf-72d207a70794,PIONEE-004af5,2023-03-04T23:50:28Z,2023-03-05T00:05:28Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),BAYSTATE NOBLE HOSPITAL CORPORATION
+30ed72f3-240e-4973-f404-7c6157fd1dfa,PIONEE-004af5,2024-02-24T02:50:28Z,2024-02-24T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-824a-fdcaa8678099,PIONEE-004af5,2025-03-01T02:50:28Z,2025-03-01T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-5709-e46cb5d848fa,PIONEE-004af5,2026-03-07T02:50:28Z,2026-03-07T03:05:28Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+30ed72f3-240e-4973-6427-6b8fabf327cf,PIONEE-004af5,2026-03-14T02:50:28Z,2026-03-14T05:02:46Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BAYSTATE NOBLE HOSPITAL CORPORATION
+30ed72f3-240e-4973-5ff6-be057a919655,PIONEE-004af5,2026-08-03T20:50:28Z,2026-08-03T21:05:28Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),BAYSTATE NOBLE HOSPITAL CORPORATION
+a6d0791e-4c15-58e6-51de-179cfa5c5a26,PIONEE-13d3b6,2024-01-02T21:23:14Z,2024-01-02T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-f2a6-e9dc32bfbf00,PIONEE-13d3b6,2024-02-06T21:23:14Z,2024-02-06T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-696c-b0036ac9ab47,PIONEE-13d3b6,2024-04-09T21:23:14Z,2024-04-09T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-d7b2-0e8d5819803f,PIONEE-13d3b6,2024-06-11T21:23:14Z,2024-06-11T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-b9c3-0dbe2ebe74f2,PIONEE-13d3b6,2024-09-10T21:23:14Z,2024-09-10T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-f61f-97e163d45019,PIONEE-13d3b6,2024-12-10T21:23:14Z,2024-12-10T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-3e6b-8cfdb519c16a,PIONEE-13d3b6,2025-03-11T21:23:14Z,2025-03-11T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-7584-3e3225ef28af,PIONEE-13d3b6,2025-06-10T21:23:14Z,2025-06-10T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-e8c1-ca705a676c46,PIONEE-13d3b6,2025-09-30T21:23:14Z,2025-09-30T21:38:14Z,urgentcare,Urgent care clinic (environment),,HEALTH-MD URGENT CARE
+a6d0791e-4c15-58e6-8daa-7e005454026f,PIONEE-13d3b6,2025-10-07T21:23:14Z,2025-10-07T21:38:14Z,outpatient,Encounter for check up (procedure),,BAYSTATE NOBLE HOSPITAL CORPORATION
+a6d0791e-4c15-58e6-cd41-d7daa21fed63,PIONEE-13d3b6,2025-10-14T21:23:14Z,2025-10-14T21:38:14Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),BAYSTATE NOBLE HOSPITAL CORPORATION
+a6d0791e-4c15-58e6-033a-6d001559d4d9,PIONEE-13d3b6,2025-12-09T21:23:14Z,2025-12-09T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+a6d0791e-4c15-58e6-ef95-2d1009928364,PIONEE-13d3b6,2026-06-09T21:23:14Z,2026-06-09T21:38:14Z,wellness,Well child visit (procedure),,PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+765bd034-e8d7-f102-3525-2f4996ae6d1c,PIONEE-a5051b,2017-03-25T21:08:14Z,2017-03-25T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-1847-04955bfb5d94,PIONEE-a5051b,2017-04-29T21:08:14Z,2017-04-29T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-0d80-52daa362b210,PIONEE-a5051b,2017-07-01T21:08:14Z,2017-07-01T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-d9e3-1d4460c2c471,PIONEE-a5051b,2017-09-02T21:08:14Z,2017-09-02T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-5fa1-ab5942837e4f,PIONEE-a5051b,2017-12-02T21:08:14Z,2017-12-02T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-341f-aa68f654bcaa,PIONEE-a5051b,2018-03-03T21:08:14Z,2018-03-03T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-5c42-5519c3d7c2fe,PIONEE-a5051b,2018-06-02T21:08:14Z,2018-06-02T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-af13-5a0bd9ecef54,PIONEE-a5051b,2018-08-20T08:08:14Z,2018-08-20T08:23:14Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),MERCY MEDICAL CTR
+765bd034-e8d7-f102-c62b-bdd53c8be516,PIONEE-a5051b,2018-09-01T21:08:14Z,2018-09-01T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-8278-cdd200cc6922,PIONEE-a5051b,2018-11-17T19:08:14Z,2018-11-17T19:26:34Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),MERCY MEDICAL CTR
+765bd034-e8d7-f102-5474-07eff9829a35,PIONEE-a5051b,2018-12-21T19:08:14Z,2018-12-21T19:23:14Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MERCY MEDICAL CTR
+765bd034-e8d7-f102-2914-2d05e8e80e66,PIONEE-a5051b,2019-03-02T21:08:14Z,2019-03-02T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-4046-93d9ce8e5996,PIONEE-a5051b,2019-08-31T21:08:14Z,2019-08-31T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-d95b-5cf493154a09,PIONEE-a5051b,2019-11-10T21:08:14Z,2019-11-10T21:23:14Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),MERCY MEDICAL CTR
+765bd034-e8d7-f102-b746-42a13457db3d,PIONEE-a5051b,2020-02-22T21:08:14Z,2020-02-22T21:23:14Z,ambulatory,Encounter for symptom (procedure),Perennial allergic rhinitis with seasonal variation (disorder),MERCY MEDICAL CTR
+765bd034-e8d7-f102-1d73-f2fb2a8e36a2,PIONEE-a5051b,2020-02-29T21:08:14Z,2020-02-29T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-0bd6-75e434c71255,PIONEE-a5051b,2020-03-07T21:08:14Z,2020-03-07T21:44:14Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),MERCY MEDICAL CTR
+765bd034-e8d7-f102-1fd2-62aeed70388c,PIONEE-a5051b,2020-03-14T21:08:14Z,2020-03-15T00:50:15Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MERCY MEDICAL CTR
+765bd034-e8d7-f102-4569-45fbd329f086,PIONEE-a5051b,2020-08-29T21:08:14Z,2020-08-29T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-6ff9-1dd5fb5616ba,PIONEE-a5051b,2021-02-27T21:08:14Z,2021-02-27T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-c7b6-873256f2429a,PIONEE-a5051b,2022-03-05T21:08:14Z,2022-03-05T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-417e-663059b41876,PIONEE-a5051b,2023-03-11T21:08:14Z,2023-03-11T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-2db4-00cb44545cff,PIONEE-a5051b,2024-03-16T21:08:14Z,2024-03-16T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-2121-ff70bf387df9,PIONEE-a5051b,2024-03-23T21:08:14Z,2024-03-24T00:21:26Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MERCY MEDICAL CTR
+765bd034-e8d7-f102-8421-e89bd49f51a0,PIONEE-a5051b,2025-03-22T21:08:14Z,2025-03-22T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-e496-8236d9204e98,PIONEE-a5051b,2025-03-29T21:08:14Z,2025-03-30T00:00:45Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MERCY MEDICAL CTR
+765bd034-e8d7-f102-d5b9-ae216b65e488,PIONEE-a5051b,2026-03-28T21:08:14Z,2026-03-28T21:23:14Z,wellness,Well child visit (procedure),,HOLYOKE MEDICAL CENTER INC
+765bd034-e8d7-f102-0090-2e0f69227d8b,PIONEE-a5051b,2026-05-04T21:08:14Z,2026-05-04T22:08:14Z,emergency,Emergency room admission (procedure),Sprain (morphologic abnormality),MONT MARIE REHABILITATION & HEALTHCARE CENTER
+9c5b16dc-8a47-896c-ef3c-94e0375a7eec,PIONEE-629a68,1997-03-02T02:32:19Z,1997-03-02T02:50:15Z,wellness,Well child visit (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-4432-485c19254f9c,PIONEE-629a68,1998-03-08T02:32:19Z,1998-03-08T03:26:14Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-ff85-796b4674f318,PIONEE-629a68,2002-03-17T02:32:19Z,2002-03-17T03:24:28Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-1b9b-150cb5a9c514,PIONEE-629a68,2008-03-23T02:32:19Z,2008-03-23T03:19:53Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-8cf8-d8755b43d91f,PIONEE-629a68,2015-06-16T02:32:19Z,2015-06-16T02:47:19Z,ambulatory,Encounter for symptom (procedure),Asthma (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-f97f-371ec5f4c208,PIONEE-629a68,2015-06-28T02:32:19Z,2015-06-28T03:09:34Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-43b5-db76ad05616d,PIONEE-629a68,2016-07-03T02:32:19Z,2016-07-03T03:15:49Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-0ee1-632cf9cc62ed,PIONEE-629a68,2017-07-09T02:32:19Z,2017-07-09T03:28:15Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-b0fd-ed72ffa20bf1,PIONEE-629a68,2017-07-23T02:32:19Z,2017-07-23T05:22:17Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-c7de-5484cc4d31c6,PIONEE-629a68,2018-07-15T02:32:19Z,2018-07-15T03:18:36Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-300e-ce9bc7b6f36b,PIONEE-629a68,2019-05-26T02:32:19Z,2019-05-26T02:47:19Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-a468-df1ff07747ed,PIONEE-629a68,2019-07-21T02:32:19Z,2019-07-21T03:24:52Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-3576-e91a13af98ef,PIONEE-629a68,2019-11-22T02:32:19Z,2019-11-22T03:32:19Z,emergency,Emergency hospital admission for asthma (procedure),Asthma (disorder),BEACON HOSPICE  AN AMYEDISYS COMPANY
+9c5b16dc-8a47-896c-6d1b-1dbef24f4052,PIONEE-629a68,2019-11-24T01:32:19Z,2019-11-24T01:47:19Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-f61b-4d90271bbda5,PIONEE-629a68,2020-05-22T01:32:19Z,2020-05-22T01:47:19Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-8bd8-c0831329bcf2,PIONEE-629a68,2020-07-26T02:32:19Z,2020-07-26T03:15:06Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-f5f6-a0ba10aeee85,PIONEE-629a68,2021-04-04T02:32:19Z,2021-04-04T02:47:19Z,outpatient,Administration of vaccine to produce active immunity (procedure),,THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-3dc0-9b5d8467aed0,PIONEE-629a68,2021-04-25T02:32:19Z,2021-04-25T02:47:19Z,outpatient,Administration of vaccine to produce active immunity (procedure),,THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-1d37-459dc5a7dc82,PIONEE-629a68,2021-08-01T02:32:19Z,2021-08-01T03:28:18Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-0042-4f9e3d269008,PIONEE-629a68,2022-05-12T01:32:19Z,2022-05-12T02:32:19Z,emergency,Emergency hospital admission for asthma (procedure),Asthma (disorder),BEACON HOSPICE  AN AMYEDISYS COMPANY
+9c5b16dc-8a47-896c-aa0d-9d1b208838ef,PIONEE-629a68,2022-05-14T06:32:19Z,2022-05-14T06:47:19Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-b2bb-e48bcbd02e04,PIONEE-629a68,2022-08-07T02:32:19Z,2022-08-07T03:13:03Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-6d09-e32218e5abb0,PIONEE-629a68,2022-08-21T02:32:19Z,2022-08-21T04:58:15Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-1052-7f82181edb8e,PIONEE-629a68,2022-11-19T02:32:19Z,2022-11-19T05:10:54Z,emergency,Encounter for symptom (procedure),Acute infective cystitis (disorder),BEACON HOSPICE  AN AMYEDISYS COMPANY
+9c5b16dc-8a47-896c-2d2d-f3b909cdebbb,PIONEE-629a68,2022-11-20T22:10:54Z,2022-11-20T23:39:30Z,ambulatory,Encounter for symptom (procedure),Acute infective cystitis (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,2023-08-13T02:32:19Z,2023-08-13T03:10:27Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-e008-a4aac0ed42f8,PIONEE-629a68,2023-08-20T02:32:19Z,2023-08-20T03:52:42Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-8267-a3b9a2ffa7ae,PIONEE-629a68,2024-06-13T03:48:47Z,2024-06-13T04:48:47Z,emergency,Emergency room admission (procedure),Injury of neck (disorder),BEACON HOSPICE  AN AMYEDISYS COMPANY
+9c5b16dc-8a47-896c-7ac4-860e07d50aeb,PIONEE-629a68,2024-06-13T03:48:47Z,2024-07-20T04:03:47Z,snf,Hospital admission (procedure),Patient transfer to skilled nursing facility (procedure),CHICOPEE REHABILITATION AND NURSING CENTER LLC
+9c5b16dc-8a47-896c-975d-27600d2414be,PIONEE-629a68,2024-08-18T02:32:19Z,2024-08-18T03:25:05Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-ec00-a79ef8e58296,PIONEE-629a68,2024-10-30T06:32:19Z,2024-10-30T06:47:19Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-6157-c5b42d430a48,PIONEE-629a68,2025-04-28T06:32:19Z,2025-04-28T06:47:19Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-0eda-05ea714102a3,PIONEE-629a68,2025-08-24T02:32:19Z,2025-08-24T03:31:31Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+9c5b16dc-8a47-896c-1e2c-d9de94a89221,PIONEE-629a68,2026-04-23T06:32:19Z,2026-04-23T06:47:19Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),THE SHRINERS HOSPITAL FOR CHILDREN
+6d04a400-ad21-5951-fd6c-97f2f3f6b24b,PIONEE-dd32dc,2014-09-22T13:36:36Z,2014-09-22T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-4bb9-875736a9c20f,PIONEE-dd32dc,2016-10-03T13:36:36Z,2016-10-03T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-af21-ff993fe0895a,PIONEE-dd32dc,2017-02-16T10:36:36Z,2017-02-16T10:51:36Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-f752-c0a515e57157,PIONEE-dd32dc,2017-09-02T00:36:36Z,2017-09-02T01:00:31Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-7ad8-d4471f79bf2a,PIONEE-dd32dc,2017-09-11T13:36:36Z,2017-09-11T13:51:36Z,outpatient,Encounter for check up (procedure),,HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-f079-1f488aa0bb76,PIONEE-dd32dc,2017-10-09T13:36:36Z,2017-10-09T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-2cd1-ec54d6e7ce07,PIONEE-dd32dc,2018-10-15T13:36:36Z,2018-10-15T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-3c15-a7ac5a7ec069,PIONEE-dd32dc,2019-04-10T05:36:36Z,2019-04-10T05:51:36Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-34b2-2a6ea3fab830,PIONEE-dd32dc,2019-10-21T13:36:36Z,2019-10-21T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-e962-dbf00cc7a364,PIONEE-dd32dc,2019-10-28T13:36:36Z,2019-10-28T17:53:54Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-ca30-09a88ee19627,PIONEE-dd32dc,2020-10-26T13:36:36Z,2020-10-26T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-574d-5be71250da50,PIONEE-dd32dc,2021-11-01T13:36:36Z,2021-11-01T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-551f-501403f02021,PIONEE-dd32dc,2022-11-07T13:36:36Z,2022-11-07T13:57:52Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-40e0-7557046f2a0e,PIONEE-dd32dc,2023-11-13T13:36:36Z,2023-11-13T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-e9d2-4f70a8f5ee09,PIONEE-dd32dc,2023-11-27T13:36:36Z,2023-11-27T19:36:39Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-90c9-7aa69bb76167,PIONEE-dd32dc,2024-04-07T05:36:36Z,2024-04-07T05:51:36Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-0901-234877623f4c,PIONEE-dd32dc,2024-10-17T13:36:36Z,2024-10-17T13:51:36Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-6af4-8ae651b636da,PIONEE-dd32dc,2024-11-18T13:36:36Z,2024-11-18T13:52:44Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-6023-5408257a10d0,PIONEE-dd32dc,2024-12-02T13:36:36Z,2024-12-02T16:50:31Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-56e0-437ae61fd491,PIONEE-dd32dc,2025-09-12T10:36:36Z,2025-09-12T10:51:36Z,ambulatory,Encounter for symptom (procedure),Sinusitis (disorder),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-89e1-00cc26473faa,PIONEE-dd32dc,2025-10-12T13:36:36Z,2025-10-12T13:51:36Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-7ee6-62d8ed373beb,PIONEE-dd32dc,2025-11-24T13:36:36Z,2025-11-24T13:51:36Z,wellness,Well child visit (procedure),,HOLYOKE HEALTH CENTER INC
+6d04a400-ad21-5951-6306-856c92ce3542,PIONEE-dd32dc,2026-01-26T13:36:36Z,2026-01-26T13:51:36Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-70ba-77254774085d,PIONEE-dd32dc,2026-02-23T13:36:36Z,2026-02-23T13:51:36Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-46f1-f1dc384fbb73,PIONEE-dd32dc,2026-03-23T13:36:36Z,2026-03-23T13:51:36Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-4984-4788fa57d50f,PIONEE-dd32dc,2026-04-20T13:36:36Z,2026-04-20T13:51:36Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-106d-e646bfc4bab9,PIONEE-dd32dc,2026-05-18T13:36:36Z,2026-05-18T13:51:36Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-cc8f-77e9cc71d96d,PIONEE-dd32dc,2026-06-15T13:36:36Z,2026-06-15T13:51:36Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-0d8b-607caaae57dd,PIONEE-dd32dc,2026-07-13T13:36:36Z,2026-07-13T13:51:36Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),HOLYOKE MEDICAL CENTER INC
+6d04a400-ad21-5951-f692-ac3894a064dd,PIONEE-dd32dc,2026-07-19T13:36:36Z,2026-07-19T14:36:36Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),HOLYOKE VISITING NURSE ASSOC & HOSPICE LIFE CARE
+6d04a400-ad21-5951-436a-120042323aa6,PIONEE-dd32dc,2026-08-10T13:36:36Z,2026-08-10T13:51:36Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),HOLYOKE MEDICAL CENTER INC
+babc4b97-d859-0fe4-bbfc-a4df18b68fd6,PIONEE-fbc37b,2023-03-25T17:24:18Z,2023-03-25T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-6eff-4ee6e3189f68,PIONEE-fbc37b,2023-04-29T17:24:18Z,2023-04-29T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-ff76-c1c6f3f380ae,PIONEE-fbc37b,2023-07-01T17:24:18Z,2023-07-01T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-41ec-c0d7dbafc961,PIONEE-fbc37b,2023-09-02T17:24:18Z,2023-09-02T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-f14e-db81e375ce03,PIONEE-fbc37b,2023-12-02T17:24:18Z,2023-12-02T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-61f5-06596cdee7c7,PIONEE-fbc37b,2024-03-02T17:24:18Z,2024-03-02T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-cc50-d5a8f80bfb58,PIONEE-fbc37b,2024-03-09T17:24:18Z,2024-03-09T17:39:18Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+babc4b97-d859-0fe4-fe3a-4dc9d99dc544,PIONEE-fbc37b,2024-06-01T17:24:18Z,2024-06-01T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-8281-2f439f8d64f0,PIONEE-fbc37b,2024-08-31T17:24:18Z,2024-08-31T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-03bf-ddc3894e6449,PIONEE-fbc37b,2025-02-15T15:24:18Z,2025-02-15T15:39:18Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+babc4b97-d859-0fe4-916a-8b4757efe7a8,PIONEE-fbc37b,2025-03-01T17:24:18Z,2025-03-01T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-bcb5-e3e9616955a1,PIONEE-fbc37b,2025-07-06T21:24:18Z,2025-07-06T21:39:18Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+babc4b97-d859-0fe4-d27e-399e8e6870da,PIONEE-fbc37b,2025-08-30T17:24:18Z,2025-08-30T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+babc4b97-d859-0fe4-3974-1a0b7a72efff,PIONEE-fbc37b,2025-11-09T17:24:18Z,2025-11-09T17:39:18Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+babc4b97-d859-0fe4-9639-6eb0311c38e4,PIONEE-fbc37b,2026-02-28T17:24:18Z,2026-02-28T17:39:18Z,wellness,Well child visit (procedure),,GROVE HILL MEDICAL CENTER PC
+ee4b7339-ca58-b6af-25b4-c3d0e1131a2e,PIONEE-cb82ef,2026-05-27T03:20:17Z,2026-05-27T03:35:17Z,wellness,Well child visit (procedure),,HILLTOWN COMMUNITY HEALTH CENTERS INC
+ee4b7339-ca58-b6af-b531-32344964d5bf,PIONEE-cb82ef,2026-07-01T03:20:17Z,2026-07-01T03:35:17Z,wellness,Well child visit (procedure),,HILLTOWN COMMUNITY HEALTH CENTERS INC
+3935e8a9-9b9f-fd00-9255-8c54f868d817,PIONEE-a22169,1981-10-27T17:51:49Z,1981-10-27T18:19:12Z,wellness,Well child visit (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-bfbb-ebe3bc23efbc,PIONEE-a22169,1986-11-25T17:51:49Z,1986-11-25T18:34:19Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-af08-066ece111ae6,PIONEE-a22169,1989-07-24T04:51:49Z,1989-07-28T15:43:08Z,inpatient,Encounter for problem (procedure),Appendicitis (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-b41e-ead636c6f291,PIONEE-a22169,1993-12-07T17:51:49Z,1993-12-07T18:27:55Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-4467-5f3948d8bb98,PIONEE-a22169,1995-11-15T20:34:30Z,1995-11-15T20:49:30Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-4d5e-1c98bc1ff197,PIONEE-a22169,1998-06-21T17:51:49Z,1998-06-21T18:06:49Z,ambulatory,Prenatal visit (regime/therapy),Complete miscarriage (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-da8e-18385a395926,PIONEE-a22169,2003-11-15T19:56:26Z,2003-11-16T19:56:26Z,inpatient,Admission to surgical department (procedure),Sterilization requested (situation),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-fa63-b04827d22a9a,PIONEE-a22169,2008-09-30T17:51:49Z,2008-09-30T18:30:34Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-510c-a0a8a6dd88e4,PIONEE-a22169,2009-03-24T17:51:49Z,2009-03-24T18:06:49Z,ambulatory,Encounter for problem (procedure),Osteoarthritis of knee (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-679b-309c21d5dee6,PIONEE-a22169,2012-10-09T17:51:49Z,2012-10-09T18:46:41Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-7d38-1afd4b2c2f0c,PIONEE-a22169,2012-10-30T17:51:49Z,2012-10-30T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-589c-a52f5b761fb3,PIONEE-a22169,2014-10-14T17:51:49Z,2014-10-14T18:45:31Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-f058-15c868cb049c,PIONEE-a22169,2015-10-30T17:51:49Z,2015-10-30T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-d8d3-994db01ae588,PIONEE-a22169,2016-10-18T17:51:49Z,2016-10-18T18:45:48Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-2837-796fd528a3a6,PIONEE-a22169,2016-10-29T17:51:49Z,2016-10-29T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-7161-c51526fc28ba,PIONEE-a22169,2017-10-29T17:51:49Z,2017-10-29T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-0073-a6f989a74fda,PIONEE-a22169,2017-11-13T18:17:35Z,2017-11-13T19:17:35Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),LIFE CARE CENTER OF WILBRAHAM
+3935e8a9-9b9f-fd00-2f65-03c4677664d9,PIONEE-a22169,2017-11-21T17:51:49Z,2017-11-21T18:38:09Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-fd90-0ae2d0fc8d14,PIONEE-a22169,2017-12-24T18:53:10Z,2017-12-24T19:08:10Z,ambulatory,Encounter for check up (procedure),Fracture of ankle (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-3c31-c7c86cef34f2,PIONEE-a22169,2018-09-25T17:51:49Z,2018-09-25T18:29:48Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-531c-df0984d68b15,PIONEE-a22169,2018-10-02T17:51:49Z,2018-10-02T18:26:44Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-6f3d-57c8c8043d53,PIONEE-a22169,2018-10-29T17:51:49Z,2018-10-29T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-e504-c570996807d4,PIONEE-a22169,2019-10-01T17:51:49Z,2019-10-01T18:27:24Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-c602-1511937e431b,PIONEE-a22169,2019-10-29T17:51:49Z,2019-10-29T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-b7f4-9ee31aee329e,PIONEE-a22169,2020-10-06T17:51:49Z,2020-10-06T18:46:02Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-af55-ac996bbfe052,PIONEE-a22169,2020-10-28T17:51:49Z,2020-10-28T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-1e7a-5a722875630a,PIONEE-a22169,2021-03-23T17:51:49Z,2021-03-23T18:06:49Z,outpatient,Administration of vaccine to produce active immunity (procedure),,ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-a011-0fcae35527f9,PIONEE-a22169,2021-04-20T17:51:49Z,2021-04-20T18:06:49Z,outpatient,Administration of vaccine to produce active immunity (procedure),,ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-b318-0d90d352be50,PIONEE-a22169,2021-07-22T17:51:49Z,2021-07-24T07:00:55Z,ambulatory,Periodic reevaluation and management of healthy individual (procedure),Screening for malignant neoplasm of breast (procedure),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-d0ae-706f2919fbfc,PIONEE-a22169,2021-07-27T16:00:55Z,2021-07-27T16:56:19Z,ambulatory,Discussion about treatment (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-b20d-6a67d0f3d199,PIONEE-a22169,2021-08-02T11:56:19Z,2021-08-04T16:26:19Z,inpatient,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-62fc-7cef8b010fa7,PIONEE-a22169,2021-08-12T01:26:19Z,2021-08-12T01:49:37Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-1fbd-0a0a6f776c85,PIONEE-a22169,2021-08-13T06:34:37Z,2021-08-13T06:59:02Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-f505-cfcd53056e57,PIONEE-a22169,2021-08-14T12:44:02Z,2021-08-14T13:14:24Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-bf4d-c61fc5ca9191,PIONEE-a22169,2021-08-15T18:12:24Z,2021-08-15T18:34:06Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-79cf-b1cd178c7b3b,PIONEE-a22169,2021-08-17T05:17:06Z,2021-08-17T05:47:44Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-13c1-6af48e5445e9,PIONEE-a22169,2021-08-18T12:06:44Z,2021-08-18T12:38:46Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-ff9f-9d5de7eb2ae4,PIONEE-a22169,2021-08-19T13:36:46Z,2021-08-19T13:53:30Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-3ca1-40b5ca718095,PIONEE-a22169,2021-08-20T23:28:30Z,2021-08-21T00:06:38Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-0699-0cc44c4b48db,PIONEE-a22169,2021-08-22T09:47:38Z,2021-08-22T10:05:22Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-4d21-1dfcf247c0d5,PIONEE-a22169,2021-08-23T08:51:49Z,2021-08-23T09:06:49Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-0fce-d74ec18f7962,PIONEE-a22169,2021-08-23T22:03:22Z,2021-08-23T22:38:05Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-8837-383d9d4698f1,PIONEE-a22169,2021-08-25T10:09:05Z,2021-08-25T10:40:48Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-25b2-3b8cf5f931f4,PIONEE-a22169,2021-08-26T12:15:48Z,2021-08-26T12:50:36Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-631d-f5f90741d01c,PIONEE-a22169,2021-08-27T12:53:36Z,2021-08-27T13:16:09Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-0178-e3da9b1a45bb,PIONEE-a22169,2021-08-28T20:19:09Z,2021-08-28T20:47:45Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-d1b3-86708d72ca92,PIONEE-a22169,2021-08-30T03:44:45Z,2021-08-30T04:15:28Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-faf4-158af67e98f9,PIONEE-a22169,2021-08-31T05:01:28Z,2021-08-31T05:23:21Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-a022-02157e088859,PIONEE-a22169,2021-09-01T14:14:21Z,2021-09-01T14:33:53Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-0364-61662a56035f,PIONEE-a22169,2021-09-02T21:19:53Z,2021-09-02T21:44:51Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-6077-fd5c7981e6b6,PIONEE-a22169,2021-09-04T01:02:51Z,2021-09-04T01:23:26Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-a35a-194c83fffbc5,PIONEE-a22169,2021-09-05T08:11:26Z,2021-09-05T08:47:25Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-899a-67c4ddddbff5,PIONEE-a22169,2021-09-06T14:36:25Z,2021-09-06T15:09:26Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-ac8a-cd4c1ab611cb,PIONEE-a22169,2021-09-07T22:28:26Z,2021-09-07T22:58:38Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-59d4-939d13cbce4c,PIONEE-a22169,2021-09-09T05:33:38Z,2021-09-09T05:50:06Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-c9b4-7f1c331043d6,PIONEE-a22169,2021-09-10T10:27:06Z,2021-09-10T10:47:46Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-ba03-34a5042ec588,PIONEE-a22169,2021-09-11T18:10:46Z,2021-09-11T18:30:06Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-1264-19bf315a653b,PIONEE-a22169,2021-09-12T19:20:06Z,2021-09-12T19:41:50Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-71de-024a5ee21425,PIONEE-a22169,2021-09-13T23:00:50Z,2021-09-13T23:32:06Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-ff86-4596631140d5,PIONEE-a22169,2021-09-15T07:37:06Z,2021-09-15T08:16:06Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-42da-cf445be14e55,PIONEE-a22169,2021-09-16T10:09:06Z,2021-09-16T10:27:00Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-b1ba-e0fef5349643,PIONEE-a22169,2021-09-17T17:20:00Z,2021-09-17T17:55:15Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-2f93-d9e922aaa9da,PIONEE-a22169,2021-09-19T03:32:15Z,2021-09-19T04:06:31Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-0a61-2b40b2de69db,PIONEE-a22169,2021-09-20T06:23:31Z,2021-09-20T06:43:14Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-2c20-192aaf84232d,PIONEE-a22169,2021-09-21T10:28:14Z,2021-09-21T10:45:39Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-3bd8-25eab98bf978,PIONEE-a22169,2021-09-22T20:36:39Z,2021-09-22T20:56:40Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-189a-a18a667cb4b7,PIONEE-a22169,2021-09-26T18:56:40Z,2021-09-26T19:11:40Z,ambulatory,Encounter for problem (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-04d5-06c90af879b5,PIONEE-a22169,2021-10-12T17:51:49Z,2021-10-12T18:46:11Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-2f20-4410135456fe,PIONEE-a22169,2021-10-28T17:51:49Z,2021-10-28T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-0477-6cfcb1a888b6,PIONEE-a22169,2021-11-23T17:51:49Z,2021-11-23T18:54:50Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-7e93-3d07582fbc7a,PIONEE-a22169,2022-01-20T18:56:40Z,2022-01-20T19:40:55Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-85d9-e8c3301dffae,PIONEE-a22169,2022-05-25T19:40:55Z,2022-05-25T20:17:18Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-3259-79827d698512,PIONEE-a22169,2022-09-24T20:17:18Z,2022-09-24T20:59:18Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-c0f4-bb8b7529770c,PIONEE-a22169,2022-09-24T20:59:18Z,2022-09-24T21:22:49Z,ambulatory,Screening surveillance (regime/therapy),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-38f0-4af8f9fb1765,PIONEE-a22169,2022-09-24T21:22:49Z,2022-09-24T21:38:40Z,ambulatory,Follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-4dcd-9c9aacf6f669,PIONEE-a22169,2022-10-18T17:51:49Z,2022-10-18T18:23:10Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-b095-b2cea29553f0,PIONEE-a22169,2022-10-28T17:51:49Z,2022-10-28T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-df3d-87daf73113bc,PIONEE-a22169,2023-01-22T21:38:40Z,2023-01-22T22:11:43Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-4a28-b1f4ecab4e28,PIONEE-a22169,2023-05-14T22:11:43Z,2023-05-14T22:42:56Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-9334-31a3c20cf1ad,PIONEE-a22169,2023-08-31T22:42:56Z,2023-08-31T23:16:37Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-633a-65679d46b798,PIONEE-a22169,2023-08-31T23:16:37Z,2023-08-31T23:39:58Z,ambulatory,Screening surveillance (regime/therapy),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-d25b-0e215817c85d,PIONEE-a22169,2023-08-31T23:39:58Z,2023-08-31T23:56:00Z,ambulatory,Follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-9555-d2aea15a1512,PIONEE-a22169,2023-10-02T18:26:44Z,2023-10-02T19:00:14Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-c2f5-567c256783ec,PIONEE-a22169,2023-10-24T17:51:49Z,2023-10-24T18:41:16Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-0244-3fce3ae21480,PIONEE-a22169,2023-10-28T17:51:49Z,2023-10-28T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-bb2b-051bb92e0057,PIONEE-a22169,2023-12-12T23:56:00Z,2023-12-13T00:39:18Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-5120-5f223c8c886d,PIONEE-a22169,2024-03-28T00:39:18Z,2024-03-28T01:17:07Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-baa9-41ca3cc78385,PIONEE-a22169,2024-07-10T01:17:07Z,2024-07-10T01:58:32Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-09b2-6e1f294655dc,PIONEE-a22169,2024-07-10T01:58:32Z,2024-07-10T02:23:10Z,ambulatory,Screening surveillance (regime/therapy),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-6a3f-c2d9ad289ef9,PIONEE-a22169,2024-07-10T02:23:10Z,2024-07-10T02:38:10Z,ambulatory,Follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-b35c-00dc043bb08a,PIONEE-a22169,2024-10-29T17:51:49Z,2024-10-29T18:40:04Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-ded9-cfd4cb410daa,PIONEE-a22169,2024-11-05T17:51:49Z,2024-11-05T18:27:14Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-e52e-fbb94fd27c0e,PIONEE-a22169,2024-11-12T17:51:49Z,2024-11-12T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-e72e-d1584ba5dba4,PIONEE-a22169,2025-02-22T18:27:14Z,2025-02-22T19:11:38Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-89f8-7d497781b4aa,PIONEE-a22169,2025-06-21T19:11:38Z,2025-06-21T19:56:34Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-3b09-aec53007b767,PIONEE-a22169,2025-06-21T19:56:34Z,2025-06-21T20:18:04Z,ambulatory,Screening surveillance (regime/therapy),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-6f5a-addafe74b61f,PIONEE-a22169,2025-06-21T20:18:04Z,2025-06-21T20:42:27Z,ambulatory,Follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-4e3c-a3a7a2844fdc,PIONEE-a22169,2025-10-03T18:53:10Z,2025-10-03T19:53:10Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),LIFE CARE CENTER OF WILBRAHAM
+3935e8a9-9b9f-fd00-1a8a-166bb8f633df,PIONEE-a22169,2025-10-11T20:42:27Z,2025-10-11T21:20:39Z,ambulatory,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-6a25-dffcdd4d1757,PIONEE-a22169,2025-11-04T17:51:49Z,2025-11-04T18:48:20Z,wellness,General examination of patient (procedure),,RIVER'S EDGE PRIMARY CARE LLC
+3935e8a9-9b9f-fd00-e7e2-f55efcd70e26,PIONEE-a22169,2025-11-12T17:51:49Z,2025-11-12T18:06:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-f341-be90057d6841,PIONEE-a22169,2025-11-25T17:51:49Z,2025-11-25T18:56:30Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-4cd8-60ab19af8bc2,PIONEE-a22169,2026-01-29T21:20:39Z,2026-01-29T21:56:25Z,virtual,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-de3d-7e468b533423,PIONEE-a22169,2026-05-13T21:56:25Z,2026-05-13T22:28:23Z,virtual,Postoperative follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-9685-84fbb0a3e620,PIONEE-a22169,2026-05-13T22:28:23Z,2026-05-13T22:52:44Z,ambulatory,Screening surveillance (regime/therapy),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+3935e8a9-9b9f-fd00-1c04-6f89aa1a0644,PIONEE-a22169,2026-05-13T22:52:44Z,2026-05-13T23:21:50Z,ambulatory,Follow-up visit (procedure),Malignant neoplasm of breast (disorder),ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS

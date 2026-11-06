@@ -1,0 +1,702 @@
+{
+  "cluster_id": "105",
+  "hospitals": [
+    "Worcester Regional Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2010-01-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2015-10-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-09T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-09T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-10-09T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-09",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-02T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "hala",
+          "canonical": "hala",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-09-02T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-02T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-16",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-16T23:49:33Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-10-16T23:49:33Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-14",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-08-28",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-08",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-08",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-25",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Adolescent idiopathic scoliosis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sc",
+          "canonical": "sc",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sc",
+          "canonical": "sc",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-30",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-09-02",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-08T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-08T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-08",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-08T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-08T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-22T23:41:37Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-08",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "LE & CHANG FAMILY URGENT CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2020-03-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-15T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-15T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-15",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-13T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-13T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-09-13T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-23T00:16:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-29",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-07"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-13",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-19T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-19T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-23",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-24",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-13",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-19",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-26T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Suspension",
+          "canonical": "ML Inhalation Suspension | ML Injectable Suspension | ML Oral Suspension",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-12-26T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-26T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-03",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-10-04T00:38:23Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-20",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-12-26",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-25T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-25T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-02",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinus",
+          "canonical": "Viral sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinusitis",
+          "canonical": "Viral sinusitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2022-01-09"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-09",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-09T23:39:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-19",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-09-25",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-10-01T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-10-01T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-09",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gin",
+          "canonical": "gin",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-10"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-01",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-10-06T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-10-06T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-10-06T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-15",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-10-06",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "school level",
+          "canonical": "school level",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-12T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "In",
+          "canonical": "In",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-10-12T21:22:28Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-12T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-20",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-10-21T00:03:13Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-09-04T21:22:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-12",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RENAISSANCE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-26",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-12-14",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-03-15",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-14",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

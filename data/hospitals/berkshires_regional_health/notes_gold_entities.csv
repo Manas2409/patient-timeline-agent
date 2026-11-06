@@ -1,0 +1,82 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+d21fc5fa-6dc5-8058-0483-5028718ee63d,BERKSH-591a1c,DIAGNOSIS,gum inflammation
+d21fc5fa-6dc5-8058-e632-38d1e7468329,BERKSH-591a1c,DIAGNOSIS,gingivitis
+d21fc5fa-6dc5-8058-e632-38d1e7468329,BERKSH-591a1c,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,DIAGNOSIS,laceration - injury
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,DIAGNOSIS,laceration - injury
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,DIAGNOSIS,facial laceration
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+d21fc5fa-6dc5-8058-e1c1-05787c5051d5,BERKSH-591a1c,DIAGNOSIS,viral sinusitis
+d21fc5fa-6dc5-8058-e1c1-05787c5051d5,BERKSH-591a1c,DIAGNOSIS,viral sinusitis
+d21fc5fa-6dc5-8058-e719-9e37f1a2b82c,BERKSH-591a1c,DIAGNOSIS,a sore throat
+d21fc5fa-6dc5-8058-e719-9e37f1a2b82c,BERKSH-591a1c,DIAGNOSIS,acute viral pharyngitis
+d21fc5fa-6dc5-8058-57ae-c3622afc213f,BERKSH-591a1c,DIAGNOSIS,a chest cold
+d21fc5fa-6dc5-8058-57ae-c3622afc213f,BERKSH-591a1c,DIAGNOSIS,a chest cold
+d21fc5fa-6dc5-8058-57ae-c3622afc213f,BERKSH-591a1c,MEDICATION,Acetaminophen 325 MG Oral Tablet
+d21fc5fa-6dc5-8058-de3a-a521dc09a203,BERKSH-591a1c,DIAGNOSIS,gum disease
+d21fc5fa-6dc5-8058-de3a-a521dc09a203,BERKSH-591a1c,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,DIAGNOSIS,ongoing pain
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,DIAGNOSIS,ongoing pain
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,DIAGNOSIS,chronic low back pain
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+d21fc5fa-6dc5-8058-6128-b15e21b71f12,BERKSH-591a1c,DIAGNOSIS,chronic pain
+d21fc5fa-6dc5-8058-de55-e62f6c39d573,BERKSH-591a1c,DIAGNOSIS,chronic pain
+d21fc5fa-6dc5-8058-1622-47214fb7b02f,BERKSH-591a1c,DIAGNOSIS,ongoing pain
+d21fc5fa-6dc5-8058-aa5b-388cb64b40ba,BERKSH-591a1c,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+d21fc5fa-6dc5-8058-b339-809c2a3c4d98,BERKSH-591a1c,DIAGNOSIS,chronic pain
+d21fc5fa-6dc5-8058-2e05-eb8d1865124d,BERKSH-591a1c,DIAGNOSIS,chronic pain
+d21fc5fa-6dc5-8058-eba3-cc9f60d0658e,BERKSH-591a1c,DIAGNOSIS,chronic pain
+d21fc5fa-6dc5-8058-2a98-f5c2edec78ac,BERKSH-591a1c,DIAGNOSIS,ongoing pain
+d21fc5fa-6dc5-8058-a4a9-10d4b5c3d238,BERKSH-591a1c,DIAGNOSIS,ongoing pain
+d21fc5fa-6dc5-8058-ebfd-12db78d3a11d,BERKSH-591a1c,DIAGNOSIS,ongoing pain
+d21fc5fa-6dc5-8058-9b52-cf2ce3b5d068,BERKSH-591a1c,DIAGNOSIS,ongoing pain
+d21fc5fa-6dc5-8058-d7b7-ce56295cecbe,BERKSH-591a1c,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+d537941e-1fb7-9868-8717-7fea5ee200fb,BERKSH-ee35ac,DIAGNOSIS,significant weight gain
+d537941e-1fb7-9868-f597-32912631973f,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-f597-32912631973f,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-9fd4-fb24866038e0,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-53be-fb45f12f8c19,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-a771-08a1673db909,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-900f-915f7b88875d,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-5af1-d53968b43468,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-31f9-b41273e67a37,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-e2d5-31f4acce1019,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-d78e-a3f69cef356b,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-d0e4-c35f47c7f574,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-23ff-830e723fea1e,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-55cf-b2b024c82478,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-1651-bbb5f408602a,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-1651-bbb5f408602a,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-1651-bbb5f408602a,BERKSH-ee35ac,DIAGNOSIS,miscarriage in first trimester
+d537941e-1fb7-9868-1651-bbb5f408602a,BERKSH-ee35ac,DIAGNOSIS,blighted ovum
+d537941e-1fb7-9868-2f01-235276053855,BERKSH-ee35ac,DIAGNOSIS,blighted ovum
+d537941e-1fb7-9868-2f01-235276053855,BERKSH-ee35ac,DIAGNOSIS,past pregnancy history of miscarriage
+d537941e-1fb7-9868-2809-cd185d510ae8,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-2809-cd185d510ae8,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-2809-cd185d510ae8,BERKSH-ee35ac,DIAGNOSIS,miscarriage in first trimester
+d537941e-1fb7-9868-2809-cd185d510ae8,BERKSH-ee35ac,DIAGNOSIS,complete miscarriage
+d537941e-1fb7-9868-eccf-4b44b39c7ba7,BERKSH-ee35ac,DIAGNOSIS,complete miscarriage
+d537941e-1fb7-9868-2c9c-ab9ae44c377a,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-2c9c-ab9ae44c377a,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-2c9c-ab9ae44c377a,BERKSH-ee35ac,DIAGNOSIS,a low blood count
+d537941e-1fb7-9868-e7ff-2504bb7a622d,BERKSH-ee35ac,DIAGNOSIS,anemia
+d537941e-1fb7-9868-3fe5-6e1fa0203d80,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-e637-dd3147aec234,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-bcd9-fe0ee1923b5c,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-0ccb-f12607a2a688,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-6caa-a7f9441a419b,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-9d6e-7d5b6fc0f9d7,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-7d2e-84a08bc1332a,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-c8af-ef4b5fe9dbe7,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-ec31-20771f1f5293,BERKSH-ee35ac,DIAGNOSIS,normal pregnancy
+d537941e-1fb7-9868-c545-2a83ce132cf3,BERKSH-ee35ac,MEDICATION,Etonogestrel 68 MG Drug Implant
+d537941e-1fb7-9868-7da8-3bda69443e56,BERKSH-ee35ac,DIAGNOSIS,viral sinusitis
+d537941e-1fb7-9868-7da8-3bda69443e56,BERKSH-ee35ac,DIAGNOSIS,viral sinusitis
+d537941e-1fb7-9868-6deb-ea0ea4b14b1f,BERKSH-ee35ac,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,DIAGNOSIS,streptococcal sore throat
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,DIAGNOSIS,streptococcal sore throat
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,MEDICATION,Penicillin V Potassium 500 MG Oral Tablet
+d537941e-1fb7-9868-2cc4-a4db85820d10,BERKSH-ee35ac,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+d537941e-1fb7-9868-ecc5-6b032a931f99,BERKSH-ee35ac,DIAGNOSIS,a sore throat
+d537941e-1fb7-9868-ecc5-6b032a931f99,BERKSH-ee35ac,DIAGNOSIS,a sore throat
+d537941e-1fb7-9868-527b-353b7e18f586,BERKSH-ee35ac,DIAGNOSIS,history of tubal ligation

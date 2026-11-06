@@ -1,0 +1,305 @@
+{
+  "cluster_id": "61",
+  "hospitals": [
+    "Norfolk County Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2015-03-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-12-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-18T12:44:34Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-06-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-17T15:41:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-12-23",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-23T15:12:15Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-12-23T15:12:15Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-12-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-01-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-01-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-09T18:58:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-01-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-15T16:09:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "STOUGHTON PUBLIC HEALTH ASSOCIATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-02-16"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-02-16"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-02-16"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-14",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-21",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-02-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Concussion with no loss of consciousness (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-05-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-18",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-01-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-02-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-02-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

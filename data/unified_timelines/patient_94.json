@@ -1,0 +1,413 @@
+{
+  "cluster_id": "94",
+  "hospitals": [
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "2016-03-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2016-11-05",
+      "hospital": "Southcoast Health",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "CLIFTON REHABILITATION NURSING CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-20T09:12:20Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2017-02-20",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of clavicle (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2017-08-22",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-12-11"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-09-05T07:49:20Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-05T07:49:20Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2018-04-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "CLIFTON REHABILITATION NURSING CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-04-28T09:24:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2018-06-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2018-09-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-29"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-29T02:02:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-16",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-23",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2019-12-30",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-01-11"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-01-11"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-30",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "otitis",
+          "canonical": "Otitis media",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-21"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-04-13T07:49:20Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-13T07:49:20Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-05-21"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-05-21"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-07-03"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-07-03"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-21",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2021-12-27",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2023-01-02",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-08",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-15T10:35:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-01-15T10:35:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2025-06-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-06-24"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-19",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANLEY STREET TREATMENT AND RESOURCES  INC",
+      "entities": []
+    },
+    {
+      "date": "2026-01-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-26T10:46:15Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,387 @@
+{
+  "cluster_id": "93",
+  "hospitals": [
+    "South Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "2020-08-14",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2020-09-18",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2020-11-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Cefuroxime",
+          "canonical": "Cefuroxime",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-11-26T04:32:03Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-11-26T04:32:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-20",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2021-01-22",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-23",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Acute allergic reaction (disorder)",
+      "seen_at": "GUARDIAN HOME HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic reaction",
+          "canonical": "Acute allergic reaction",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "allergic reaction",
+          "canonical": "Acute allergic reaction",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "predniSONE",
+          "canonical": "predniSONE",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-05-10T08:01:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Shellfish (substance)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-22",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "cetirizine hydrochloride",
+          "canonical": "cetirizine hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "allergy to Shellfish",
+          "canonical": "allergy to Shellfish",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Shellfish",
+          "canonical": "Shellfish",
+          "match_method": "fuzzy",
+          "reaction": "Anaphylaxis (disorder)",
+          "severity": "SEVERE"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-23",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2021-10-22",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2022-01-21",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2022-07-22",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2022-12-13",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Azithromycin",
+          "canonical": "Azithromycin | HR",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-27T04:32:03Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-27T04:32:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-20",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2023-03-30",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Shellfish (substance)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2023-07-21",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-19",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2024-04-05",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-04-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-15"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-15"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-01",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinus",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus infection",
+          "canonical": "sinus infection",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-07-19",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2025-02-08",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-07-25"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Azithromycin",
+          "canonical": "Azithromycin | HR",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-02-22T04:32:03Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-22T04:32:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2025-08-24",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-07-31"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Cefuroxime",
+          "canonical": "Cefuroxime",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-07T04:32:03Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-07T04:32:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SIGNATURE HEALTHCARE MEDICAL GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2026-08-07",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BRIGHAM & WOMENS HOSPITAL INC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

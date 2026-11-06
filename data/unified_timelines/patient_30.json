@@ -1,0 +1,730 @@
+{
+  "cluster_id": "30",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1979-08-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": []
+    },
+    {
+      "date": "1990-04-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "inpatient",
+      "reason": "Appendicitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1991-06-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    },
+    {
+      "date": "1997-07-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2000-07-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Complete miscarriage (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    },
+    {
+      "date": "2000-08-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "prediabetes",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2004-09-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": []
+    },
+    {
+      "date": "2008-10-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "metabolic syndrome",
+          "canonical": "Metabolic syndrome X",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2014-11-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": []
+    },
+    {
+      "date": "2015-11-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": []
+    },
+    {
+      "date": "2016-01-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-11-20T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-11-20T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-11-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-11-26T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-11-26T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    },
+    {
+      "date": "2017-05-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-06-05"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-06-05"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-10T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-10T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-02T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-02T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-25T02:00:06Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-12-25T02:00:06Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-02",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2018-12-17"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-08T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-08T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-13T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-13T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    },
+    {
+      "date": "2020-12-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-19T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-19T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    },
+    {
+      "date": "2021-01-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    },
+    {
+      "date": "2021-12-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-25T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-25T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-31T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-31T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-31",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-09-15T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-09-15T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-15T03:34:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "GOOD SHEPHERD COMMUNITY CARE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-22T23:36:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ary",
+          "canonical": "ary",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-06-05"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-09-19"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-09-19"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-05T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-05T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-09-30T01:31:11Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-09-30T01:31:11Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-11T22:44:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-11T22:44:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-11",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PERSONAL PHYSICIANS HEALTHCARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    },
+    {
+      "date": "2026-07-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "FRANCISCAN HOSPITAL FOR CHILDREN INC",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Prediabetes",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Metabolic syndrome X",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

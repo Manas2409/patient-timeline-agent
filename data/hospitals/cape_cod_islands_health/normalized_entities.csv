@@ -1,0 +1,155 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,ENTITY_TEXT,CANONICAL,MATCH_METHOD,MATCH_SCORE
+7af6b271-f16d-21e1-e6a8-a4b3adf967f8,CAPE_C-145904,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+7af6b271-f16d-21e1-fbf0-a1ae80800ac0,CAPE_C-145904,DIAGNOSIS,metabolic syndrome,Metabolic syndrome X,fuzzy,1.0
+7af6b271-f16d-21e1-fbf0-a1ae80800ac0,CAPE_C-145904,DIAGNOSIS,type,type,unmapped,0.0
+7af6b271-f16d-21e1-e187-547120fdd937,CAPE_C-145904,MEDICATION,ferro,ferrous sulfate,fuzzy,1.0
+7af6b271-f16d-21e1-e187-547120fdd937,CAPE_C-145904,MEDICATION,sulfate,ferrous sulfate | morphine sulfate | protamine sulfate (USP),ambiguous,1.0
+7af6b271-f16d-21e1-916f-92be9ea3b513,CAPE_C-145904,SYMPTOM,hyperglycemia,Hyperglycemia,fuzzy,1.0
+7af6b271-f16d-21e1-916f-92be9ea3b513,CAPE_C-145904,DIAGNOSIS,hypertriglyceridemia,Hypertriglyceridemia,fuzzy,1.0
+7af6b271-f16d-21e1-ad6b-df71202db81e,CAPE_C-145904,DIAGNOSIS,neuropathy,Neuropathy due to type 2 diabetes mellitus,fuzzy,1.0
+7af6b271-f16d-21e1-ad6b-df71202db81e,CAPE_C-145904,DIAGNOSIS,type 2 diabetes mel,Microalbuminuria due to type 2 diabetes mellitus | Neuropathy due to type 2 diabetes mellitus | Proteinuria due to type 2 diabetes mellitus,ambiguous,1.0
+7af6b271-f16d-21e1-3082-4d25791611cf,CAPE_C-145904,DIAGNOSIS,diabetic retinopathy,Nonproliferative diabetic retinopathy due to type II diabetes mellitus,fuzzy,1.0
+7af6b271-f16d-21e1-3082-4d25791611cf,CAPE_C-145904,DIAGNOSIS,type II diabetes mel,Nonproliferative diabetic retinopathy due to type II diabetes mellitus,fuzzy,1.0
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,SYMPTOM,anxiety,Severe anxiety (panic),fuzzy,1.0
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,SYMPTOM,panic,Severe anxiety (panic),fuzzy,1.0
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,DIAGNOSIS,time,time,unmapped,0.0
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,DIAGNOSIS,Unhealthy alcohol drinking,Unhealthy alcohol drinking,unmapped,0.0
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-7541-54e2a158fa89,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-7541-54e2a158fa89,CAPE_C-145904,MEDICATION,Ophthalmic Solution,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-d638-82cff51a9fd1,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-d638-82cff51a9fd1,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-c987-c6878ea047bf,CAPE_C-145904,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+7af6b271-f16d-21e1-a7d2-2b2575c0b41a,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-a7d2-2b2575c0b41a,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-35a3-9e98675324a4,CAPE_C-145904,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+7af6b271-f16d-21e1-35a3-9e98675324a4,CAPE_C-145904,DIAGNOSIS,sinus infection,sinus infection,unmapped,0.0
+7af6b271-f16d-21e1-c8df-a90991bea1c1,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-c8df-a90991bea1c1,CAPE_C-145904,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-c4f2-009f322f5452,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-c4f2-009f322f5452,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-859f-2d6621517acd,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-859f-2d6621517acd,CAPE_C-145904,MEDICATION,Ophthalmic Solution,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-5034-ff30d8866eed,CAPE_C-145904,SYMPTOM,sore,sore,unmapped,0.0
+7af6b271-f16d-21e1-5034-ff30d8866eed,CAPE_C-145904,SYMPTOM,sore,sore,unmapped,0.0
+7af6b271-f16d-21e1-93c5-aec2d8d13e83,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-93c5-aec2d8d13e83,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-47af-7515011510d7,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-47af-7515011510d7,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-f027-9e5fdaa3402e,CAPE_C-145904,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+7af6b271-f16d-21e1-018b-def5e5dac706,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-018b-def5e5dac706,CAPE_C-145904,MEDICATION,Op,Op,unmapped,0.0
+7af6b271-f16d-21e1-018b-def5e5dac706,CAPE_C-145904,MEDICATION,mic,mic,unmapped,0.0
+7af6b271-f16d-21e1-c80a-ca52f5c71f0f,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-c80a-ca52f5c71f0f,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-447c-96aa9ef2411d,CAPE_C-145904,DIAGNOSIS,gival,Gingival disease,fuzzy,1.0
+7af6b271-f16d-21e1-aa53-42afca5a1bc7,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-aa53-42afca5a1bc7,CAPE_C-145904,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,DIAGNOSIS,Full-time,Full-time,unmapped,0.0
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-3e7b-f7376fcb1e05,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-3e7b-f7376fcb1e05,CAPE_C-145904,MEDICATION,Ophthalmic Solution,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-25d1-6a5f11a10317,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-25d1-6a5f11a10317,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-0428-2e4035069ed3,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-0428-2e4035069ed3,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-ceab-040f73258c99,CAPE_C-145904,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+7af6b271-f16d-21e1-a81b-5ac8443b449b,CAPE_C-145904,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+7af6b271-f16d-21e1-a81b-5ac8443b449b,CAPE_C-145904,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+7af6b271-f16d-21e1-d9e6-5433deba0339,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-d9e6-5433deba0339,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-538a-ed5b5da35af3,CAPE_C-145904,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+7af6b271-f16d-21e1-5cbf-92f5a01cf17e,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-5cbf-92f5a01cf17e,CAPE_C-145904,MEDICATION,Op,Op,unmapped,0.0
+7af6b271-f16d-21e1-5cbf-92f5a01cf17e,CAPE_C-145904,MEDICATION,halmic,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-2765-f562f6fdc015,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-2765-f562f6fdc015,CAPE_C-145904,MEDICATION,Op,Op,unmapped,0.0
+7af6b271-f16d-21e1-2765-f562f6fdc015,CAPE_C-145904,MEDICATION,mic,mic,unmapped,0.0
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,DIAGNOSIS,ischemic heart disease,Ischemic heart disease,exact_synonym,1.0
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,Clopidogrel,Clopidogrel | clopidogrel,ambiguous,1.0
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,metoprolol succinate,metoprolol succinate,fuzzy,1.0
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,Nitroglycerin,Nitroglycerin | nitroglycerin,ambiguous,1.0
+7af6b271-f16d-21e1-a3fd-225504f884a1,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-a3fd-225504f884a1,CAPE_C-145904,MEDICATION,Op,Op,unmapped,0.0
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-6c70-9b946bce81e6,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-6c70-9b946bce81e6,CAPE_C-145904,MEDICATION,Ophthalmic Solution,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-7d75-804b84127c7d,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-7d75-804b84127c7d,CAPE_C-145904,MEDICATION,Ophthalmic Solution,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-88a8-e60228cfb046,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-88a8-e60228cfb046,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-1bf8-ab6d17103be3,CAPE_C-145904,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+7af6b271-f16d-21e1-1bf8-ab6d17103be3,CAPE_C-145904,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+7af6b271-f16d-21e1-4598-2eb81658674f,CAPE_C-145904,DIAGNOSIS,alzheimer,Alzheimer's disease,fuzzy,1.0
+7af6b271-f16d-21e1-ef7e-4920d39bbcd3,CAPE_C-145904,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-ef7e-4920d39bbcd3,CAPE_C-145904,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3fa46c70-b194-f14c-4a1c-e5cbaa6a4f9f,CAPE_C-7667e7,SYMPTOM,injury of,Concussion injury of brain | Injury of knee | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+3fa46c70-b194-f14c-4a1c-e5cbaa6a4f9f,CAPE_C-7667e7,SYMPTOM,injury,Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+3fa46c70-b194-f14c-936c-f5afb94eea60,CAPE_C-7667e7,DIAGNOSIS,injury,Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,DIAGNOSIS,strept,Streptococcal sore throat,fuzzy,1.0
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,DIAGNOSIS,cca,cca,unmapped,0.0
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,SYMPTOM,sore,sore,unmapped,0.0
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,DIAGNOSIS,strept,Streptococcal sore throat,fuzzy,1.0
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,DIAGNOSIS,cca,cca,unmapped,0.0
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,SYMPTOM,sore,sore,unmapped,0.0
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+3fa46c70-b194-f14c-6d05-922013520839,CAPE_C-7667e7,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+8704c44c-8b97-e35a-b57d-84809b73c1b6,CAPE_C-5d1a1d,DIAGNOSIS,infection,Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection,ambiguous,1.0
+8704c44c-8b97-e35a-2830-d76d3e076813,CAPE_C-5d1a1d,SYMPTOM,Risk,Risk,unmapped,0.0
+8704c44c-8b97-e35a-2fdc-b85d667cd378,CAPE_C-5d1a1d,DIAGNOSIS,opioid,Opioid abuse,fuzzy,1.0
+8704c44c-8b97-e35a-2fdc-b85d667cd378,CAPE_C-5d1a1d,DIAGNOSIS,op,op,unmapped,0.0
+8704c44c-8b97-e35a-5b68-55b013d01ae7,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-5b68-55b013d01ae7,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-27fb-ea7689cb7b9c,CAPE_C-5d1a1d,MEDICATION,Ethinyl Estradiol,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+8704c44c-8b97-e35a-27fb-ea7689cb7b9c,CAPE_C-5d1a1d,MEDICATION,norelgestromin,norelgestromin,fuzzy,1.0
+8704c44c-8b97-e35a-2bfb-6e79f455c93a,CAPE_C-5d1a1d,DIAGNOSIS,Full,Full,unmapped,0.0
+8704c44c-8b97-e35a-2bfb-6e79f455c93a,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-2bfb-6e79f455c93a,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-95d6-5e532835d9d6,CAPE_C-5d1a1d,MEDICATION,medroxyprogesterone acetate,medroxyPROGESTERone acetate | medroxyprogesterone acetate,ambiguous,1.0
+8704c44c-8b97-e35a-e326-080c32ed0747,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-e326-080c32ed0747,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,SYMPTOM,weight gain,weight gain,unmapped,0.0
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-92d1-57e044e600e8,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-92d1-57e044e600e8,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-9fde-782e143b4e53,CAPE_C-5d1a1d,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+8704c44c-8b97-e35a-d870-61e35d32c493,CAPE_C-5d1a1d,DIAGNOSIS,Full-time employment,Full-time employment,unmapped,0.0
+8704c44c-8b97-e35a-d870-61e35d32c493,CAPE_C-5d1a1d,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+8704c44c-8b97-e35a-d870-61e35d32c493,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-d870-61e35d32c493,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-9338-989aedbc38ca,CAPE_C-5d1a1d,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+8704c44c-8b97-e35a-6e51-16696027185b,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-6e51-16696027185b,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-9f4c-20f49688400e,CAPE_C-5d1a1d,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+8704c44c-8b97-e35a-9ef3-fd65cec46bd3,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-9ef3-fd65cec46bd3,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,DIAGNOSIS,bro,bro,unmapped,0.0
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-980a-1bd4e7907ad2,CAPE_C-5d1a1d,SYMPTOM,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+8704c44c-8b97-e35a-1053-a9918a9a4d1c,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-1053-a9918a9a4d1c,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-db6f-8470dcc4091c,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-db6f-8470dcc4091c,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+8704c44c-8b97-e35a-8f30-e0e86d923687,CAPE_C-5d1a1d,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+8704c44c-8b97-e35a-8f30-e0e86d923687,CAPE_C-5d1a1d,MEDICATION,ine System,HR Intrauterine System,fuzzy,1.0
+8704c44c-8b97-e35a-e0a0-a2fbc2b6f213,CAPE_C-5d1a1d,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-e0a0-a2fbc2b6f213,CAPE_C-5d1a1d,MEDICATION,naloxone,naloxone,fuzzy,1.0

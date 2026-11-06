@@ -1,0 +1,982 @@
+{
+  "cluster_id": "74",
+  "hospitals": [
+    "North Central Mass Health",
+    "South Shore Health Alliance",
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "1960-04-30",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": []
+    },
+    {
+      "date": "1988-04-23",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate",
+          "canonical": "intimate",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1997-10-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gout",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": []
+    },
+    {
+      "date": "1998-05-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "1998-05-16",
+      "hospital": "Southcoast Health",
+      "encounter_class": "emergency",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "ROYAL OF FAIRHAVEN NURSING CENTER",
+      "entities": []
+    },
+    {
+      "date": "2002-06-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2015-02-10",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2015-02-10",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Acute ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "farction",
+          "canonical": "Acute ST segment elevation myocardial infarction | Acute non-ST segment elevation myocardial infarction | History of myocardial infarction | Myocardial infarction",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol tartrate",
+          "canonical": "metoprolol tartrate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "pravastatin sodium",
+          "canonical": "pravastatin sodium",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-08-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-08-20",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronary artery disease",
+          "canonical": "Ischemic heart disease",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "anxiety",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-01T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-01T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-08-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2016-08-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dental caries",
+          "canonical": "Primary dental caries",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-09-10"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-09-10T04:43:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-17",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2016-10-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-08-26T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-08-26T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-08",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-10-17"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-01T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-01T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-07T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-07T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-15T04:59:33Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-09-15T04:59:33Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-07",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-12T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-12T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-02",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTH SHORE PRIMARY AND URGENT CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-04",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-05",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-06",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-07",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-08",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-16",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-19",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-20",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-21",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-22",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-23",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-24",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-27",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "SOUTHCOAST VISITING NURSE ASSOCIATION  INC",
+      "entities": []
+    },
+    {
+      "date": "2020-09-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-18T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-18T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-24T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-24T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-02",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-09-24",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-29T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-29T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-08",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-10-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ph",
+          "canonical": "ph",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ng",
+          "canonical": "ng",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-30"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-30T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-30T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-12T04:11:46Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-11-12T04:11:46Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-09-30",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-10-05T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-10-05T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-06",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gout",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-12-03T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Allopurinol",
+          "canonical": "Allopurinol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-03T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-05",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part-time employment",
+          "canonical": "Part-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-12-14"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-14T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-14T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-11T01:49:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-11T01:49:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-21",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-10-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GIFFORD STREET WELLNESS CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "4499 ACUSHNET AVENUE OPERATING COMPANY  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-25T05:13:50Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Myocardial infarction",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Ischemic heart disease",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Severe anxiety (panic)",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Primary dental caries",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

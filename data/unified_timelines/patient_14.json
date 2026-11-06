@@ -1,0 +1,1137 @@
+{
+  "cluster_id": "14",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "North Central Mass Health"
+  ],
+  "timeline": [
+    {
+      "date": "1978-06-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinus",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1979-10-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "1981-11-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "1982-08-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "HARVARD STREET NEIGHBORHOOD HEALTH CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-05-07T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "oxyCODONE Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1990-05-07T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1982-09-11T11:24:26Z"
+        }
+      ]
+    },
+    {
+      "date": "1982-09-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture subluxation of wrist (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "1982-10-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Mestranol",
+          "canonical": "Mestranol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1983-09-26T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1983-09-26T10:41:04Z"
+        }
+      ]
+    },
+    {
+      "date": "1982-11-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Risk",
+          "canonical": "Risk",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "1982-11-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1982-11-27T12:54:58Z"
+        }
+      ]
+    },
+    {
+      "date": "1983-09-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "aryng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1983-10-09"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "1983-11-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "1983-12-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1983-12-03T13:39:06Z"
+        }
+      ]
+    },
+    {
+      "date": "1983-12-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pregnancy",
+          "canonical": "Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1984-07-14"
+        }
+      ]
+    },
+    {
+      "date": "1984-01-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1984-02-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1984-03-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1984-04-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1984-05-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1984-06-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1984-06-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1984-07-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HARVARD STREET NEIGHBORHOOD HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "1984-08-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1984-09-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "mestranol",
+          "canonical": "Mestranol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1985-09-15T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norethind",
+          "canonical": "norethindrone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1985-09-15T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Norinyl",
+          "canonical": "Norinyl",
+          "match_method": "unmapped",
+          "outcome": "resolved 1985-09-15T10:41:04Z"
+        }
+      ]
+    },
+    {
+      "date": "1984-11-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "1984-12-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1984-12-08T13:20:26Z"
+        }
+      ]
+    },
+    {
+      "date": "1985-11-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "higher education",
+          "canonical": "higher education",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 1986-12-06"
+        }
+      ]
+    },
+    {
+      "date": "1985-12-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1986-12-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "1988-01-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1988-02-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1988-02-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1988-10-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1988-10-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1988-11-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1988-12-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-01-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-02-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 1989-02-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1989-02-23T09:03:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1989-02-23T09:03:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1989-02-23T09:03:32Z"
+        }
+      ]
+    },
+    {
+      "date": "1989-02-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-02-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-03-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-03-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-04-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-04-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-05-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HARVARD STREET NEIGHBORHOOD HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "1989-06-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1989-07-14",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "1989-08-01",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "heart",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Chronic congestive heart failure | Ischemic heart disease",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cystitis",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1989-08-04"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1989-08-12T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "carvedilol",
+          "canonical": "carvedilol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1989-08-12T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "losartan potassium",
+          "canonical": "losartan potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1989-08-12T10:41:04Z"
+        }
+      ]
+    },
+    {
+      "date": "1989-08-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cysti",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 1989-08-04T02:05:50Z"
+        }
+      ]
+    },
+    {
+      "date": "1989-08-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Limited",
+          "canonical": "Limited",
+          "match_method": "unmapped",
+          "outcome": "resolved 1990-08-25"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "carvedilol",
+          "canonical": "carvedilol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-08-25T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-08-25T10:41:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "losartan potassium",
+          "canonical": "losartan potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-08-25T10:41:04Z"
+        }
+      ]
+    },
+    {
+      "date": "1989-08-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1989-08-26T13:32:06Z"
+        }
+      ]
+    },
+    {
+      "date": "1990-01-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-08-25T10:41:04Z"
+        }
+      ]
+    },
+    {
+      "date": "1990-06-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "yl est",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1990-07-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "1990-07-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1990-07-27T11:16:26Z"
+        }
+      ]
+    },
+    {
+      "date": "1990-08-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "carvedilol",
+          "canonical": "carvedilol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "losartan potassium",
+          "canonical": "losartan potassium",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1991-02-10",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "1991-05-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "hospice",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "CARING HOSPICE SERVICES OF MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "1991-06-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bacterial sinusitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

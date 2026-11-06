@@ -1,0 +1,19 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+NORFOL-961b76,Esperanza,,Auer,07-19-2015,False,F,,Taunton,Massachusetts,,
+NORFOL-e82565,Grisel,,Balistreri,06/15/1948,False,F,493 Schamberger Tunnel,Quincy,Massachusetts,02170,999-23-9791
+NORFOL-f201ef,G.,,Davis,"Jul 29, 1981",False,M,114 Parker Junction Suite 23,Hull,Massachusetts,02045,
+NORFOL-23389d,E.,,Waters,02-06-2015,False,F,1056 Skiles Skyway,Foxborough,Massachusetts,02035,999-13-4971
+NORFOL-d8deec,Theressa,,Carroll,1979-12-23,True,F,616 Satterfield Key,Weymouth,Massachusetts,02191,999-96-4488
+NORFOL-d010b2,Magali,,Abbott,07/02/2004,False,F,567 Braun Pathway Apt 24,Taunton,Massachusetts,02767,999-42-9786
+NORFOL-4b71fa,Angel,Elvin,Mraz,1964-06-23,False,M,127 Spencer Estate Unit 97,Boston,Massachusetts,02131,999-15-6624
+NORFOL-a75855,Reynalda,,Leuschke,"Jun 28, 2007",False,F,439 Adams Route,Norton Center,Massachusetts,00000,
+NORFOL-c0283b,Marci,,Murphy,01/05/2014,True,F,,Stoughton,Massachusetts,,999-54-9361
+NORFOL-8a483d,Audra,,Maggio,"Oct 3, 2019",False,F,,Stoughton,Massachusetts,,999-97-8850
+NORFOL-d01758,Barton,,Upton,12/28/2004,False,M,,Canton,Massachusetts,,999-96-8651
+NORFOL-9c5acc,Carmelo,,Kirlin,1981-01-08,False,M,,Canton,Massachusetts,,
+NORFOL-951ff0,Enrique,Octavio,Rojas,12/14/1984,False,M,591 Walsh Lock Apt 54,Mansfield,Massachusetts,00000,999-47-6862
+NORFOL-e876cb,Manuel,,Frami,01/08/1981,False,M,,Canton,Massachusetts,,999-56-3495
+NORFOL-e26be4,Brady,,Olson,01/13/1980,False,M,691 Morissette Frontage road,Easton,Massachusetts,00000,999-69-3762
+NORFOL-cd0813,Angelique,,Gerhold,2006-10-30,False,F,789 O'Conner Corner,Marshfield Hills,Massachusetts,02051,
+NORFOL-45e46b,Lou,Emanuel,Little,02-18-1990,False,M,1051 Schaden Port Apt 52,Norwood,Massachusetts,02062,
+NORFOL-92880a,M.,,Hettinger,09-21-1980,False,F,495 Stoltenberg Approach,Marshfield,Massachusetts,02050,999-78-5034

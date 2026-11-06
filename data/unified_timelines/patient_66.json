@@ -1,0 +1,358 @@
+{
+  "cluster_id": "66",
+  "hospitals": [
+    "Norfolk County Health Network",
+    "South Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "1998-03-08",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": []
+    },
+    {
+      "date": "2005-03-20",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": []
+    },
+    {
+      "date": "2011-03-27",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "borderline blood sugar",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "an",
+          "canonical": "an",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2014-03-30",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2017-04-02",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": []
+    },
+    {
+      "date": "2017-04-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-17"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-17T02:58:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-19",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": []
+    },
+    {
+      "date": "2020-02-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2022-01-23",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2023-09-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-27"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-28",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": []
+    },
+    {
+      "date": "2024-01-28",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "SOUTHEAST HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-06"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-06"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-04-06"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-02-12T00:55:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-06",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Concussion with no loss of consciousness (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infect",
+          "canonical": "Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ciprofloxacin",
+          "canonical": "ciprofloxacin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-14T08:42:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-01",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "TRINITY FAMILY MEDICINE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "high",
+          "canonical": "high",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "metabolic syndrome",
+          "canonical": "Metabolic syndrome X",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-01T22:21:23Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-01T22:21:23Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "SYMPTOM",
+      "canonical": "Prediabetes",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Norfolk County Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Norfolk County Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Concussion injury of brain",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Metabolic syndrome X",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

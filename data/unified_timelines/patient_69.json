@@ -1,0 +1,760 @@
+{
+  "cluster_id": "69",
+  "hospitals": [
+    "North Central Mass Health"
+  ],
+  "timeline": [
+    {
+      "date": "1983-09-15",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "1996-12-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "1997-12-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Educated",
+          "canonical": "Educated",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2000-01-11",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2013-03-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2013-08-20",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2015-04-07",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2015-04-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2016-04-12",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-18T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-11-02",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Asthma (disorder)",
+      "seen_at": "BEACON HOSPICE  AN AMEDISYS COMPANY",
+      "entities": []
+    },
+    {
+      "date": "2016-11-05",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2016-12-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "BEACON HOSPICE  AN AMEDISYS COMPANY",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-05T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "oxyCODONE Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-01-05T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-10T15:32:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-01-10",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of clavicle (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2017-04-18",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "employment",
+          "canonical": "employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-04-24"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT albuterol",
+          "canonical": "ACTUAT | albuterol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-04-24T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-04-24T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-05-04",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2017-06-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-07-04"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-31",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2018-04-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-04-30T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "020983",
+          "canonical": "020983",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-04-30T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT albuterol",
+          "canonical": "ACTUAT | albuterol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-04-30T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-04-30T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-05T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-05T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-05",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "lth",
+          "canonical": "lth",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-05-11"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-05-11T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "020983",
+          "canonical": "020983",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-05-11T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-05-11T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-05-11T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-19",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-19"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-19T19:25:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-05-19T19:25:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-04",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-11",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "prediabetes",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-20"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "NDA020983",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-05-17T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT albuterol",
+          "canonical": "ACTUAT | albuterol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-05-17T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vent",
+          "canonical": "Vent",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-05-17T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-17T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-17",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-05-23T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT albuterol",
+          "canonical": "ACTUAT | albuterol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-05-23T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-05-23T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-05",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2023-05-23",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-20"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vent",
+          "canonical": "Vent",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-20T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-20T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-06",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "an",
+          "canonical": "an",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ferrous sulfate",
+          "canonical": "ferrous sulfate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-10",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinusitis",
+          "canonical": "Viral sinusitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2023-07-03"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-20",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "NDA020983",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-05-28T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT albuterol",
+          "canonical": "ACTUAT | albuterol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-05-28T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-28T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2023-07-04",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-06-03T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vent",
+          "canonical": "Vent",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-06-03T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-06-03T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "metabolic syndrome X",
+          "canonical": "Metabolic syndrome X",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "type 2",
+          "canonical": "Diabetes mellitus type 2 | Microalbuminuria due to type 2 diabetes mellitus | Neuropathy due to type 2 diabetes mellitus | Proteinuria due to type 2 diabetes mellitus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Diabetes mellitus type 2 (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "type 2 diabetes mellit",
+          "canonical": "Microalbuminuria due to type 2 diabetes mellitus | Neuropathy due to type 2 diabetes mellitus | Proteinuria due to type 2 diabetes mellitus",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-06-24T14:06:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-06-24T14:06:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "Acute ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "LEOMINSTER COMUNITY HEALTH CENTER",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

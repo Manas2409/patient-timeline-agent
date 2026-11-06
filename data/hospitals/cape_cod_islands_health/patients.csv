@@ -1,0 +1,4 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+CAPE_C-145904,Benedict,,Gibson,1960-11-08,False,M,,Barnstable,Massachusetts,,999-70-6004
+CAPE_C-7667e7,Preston,,Little,03/04/1995,False,M,733 Spencer Track Apt 43,Edgartown,Massachusetts,00000,999-70-2408
+CAPE_C-5d1a1d,Rosanne,,Simonis,01/18/1989,False,F,117 Hartmann Wynd Unit 98,Oak Bluffs,Massachusetts,00000,

@@ -1,0 +1,421 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,ENTITY_TEXT,CANONICAL,MATCH_METHOD,MATCH_SCORE
+8b9df7af-24b3-66ee-7f91-c7e4c7fa1bfc,WEST_S-0d961f,DIAGNOSIS,higher education,higher education,unmapped,0.0
+8b9df7af-24b3-66ee-bf90-f3660887778c,WEST_S-0d961f,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+87f7ad7b-85f9-d26d-6ace-0a1185fb78d1,WEST_S-db5bad,DIAGNOSIS,Educated,Educated,unmapped,0.0
+87f7ad7b-85f9-d26d-6ace-0a1185fb78d1,WEST_S-db5bad,DIAGNOSIS,school,school,unmapped,0.0
+87f7ad7b-85f9-d26d-98dd-55637e225cfe,WEST_S-db5bad,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+87f7ad7b-85f9-d26d-528c-75a0a272f300,WEST_S-db5bad,SYMPTOM,impacted,Impacted molars,fuzzy,1.0
+87f7ad7b-85f9-d26d-528c-75a0a272f300,WEST_S-db5bad,SYMPTOM,impacted,Impacted molars,fuzzy,1.0
+87f7ad7b-85f9-d26d-4cad-f4f86bd71724,WEST_S-db5bad,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+87f7ad7b-85f9-d26d-4cad-f4f86bd71724,WEST_S-db5bad,MEDICATION,Intrauterine System,HR Intrauterine System,fuzzy,1.0
+87f7ad7b-85f9-d26d-1d74-1aac2639cbc8,WEST_S-db5bad,MEDICATION,Etonogestrel,Etonogestrel | etonogestrel,ambiguous,1.0
+87f7ad7b-85f9-d26d-8404-84e3b121240b,WEST_S-db5bad,DIAGNOSIS,app,app,unmapped,0.0
+87f7ad7b-85f9-d26d-8404-84e3b121240b,WEST_S-db5bad,DIAGNOSIS,ici,ici,unmapped,0.0
+87f7ad7b-85f9-d26d-8404-84e3b121240b,WEST_S-db5bad,MEDICATION,app,app,unmapped,0.0
+87f7ad7b-85f9-d26d-2bc9-54896a9dc2e4,WEST_S-db5bad,DIAGNOSIS,app,app,unmapped,0.0
+87f7ad7b-85f9-d26d-308d-3c022a1a32d5,WEST_S-db5bad,MEDICATION,nor,nor,unmapped,0.0
+87f7ad7b-85f9-d26d-8fd2-ceda10957c9c,WEST_S-db5bad,MEDICATION,nor,nor,unmapped,0.0
+87f7ad7b-85f9-d26d-5832-02f6b7a712d7,WEST_S-db5bad,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+87f7ad7b-85f9-d26d-5832-02f6b7a712d7,WEST_S-db5bad,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+87f7ad7b-85f9-d26d-e330-a68f417ab6e4,WEST_S-db5bad,DIAGNOSIS,coronavirus 2,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,SYMPTOM,d,d,unmapped,0.0
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,SYMPTOM,p,p,unmapped,0.0
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,acute respiratory syndrome coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2,fuzzy,1.0
+87f7ad7b-85f9-d26d-5f08-f4398ac29a86,WEST_S-db5bad,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,DIAGNOSIS,essential hypertension,Essential hypertension,exact_synonym,1.0
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+87f7ad7b-85f9-d26d-e0dd-4693ca635e6b,WEST_S-db5bad,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+87f7ad7b-85f9-d26d-8ed1-78321688f54b,WEST_S-db5bad,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+87f7ad7b-85f9-d26d-8ed1-78321688f54b,WEST_S-db5bad,MEDICATION,Gel,Gel,unmapped,0.0
+87f7ad7b-85f9-d26d-42fa-0b23756aa084,WEST_S-db5bad,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+87f7ad7b-85f9-d26d-42fa-0b23756aa084,WEST_S-db5bad,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+87f7ad7b-85f9-d26d-cf1a-95b514289d63,WEST_S-db5bad,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+87f7ad7b-85f9-d26d-cf1a-95b514289d63,WEST_S-db5bad,MEDICATION,Gel,Gel,unmapped,0.0
+f5749532-3295-ad01-e596-ecdf3cf1e767,WEST_S-2e8bad,MEDICATION,prediabet,prediabet,unmapped,0.0
+f5749532-3295-ad01-e596-ecdf3cf1e767,WEST_S-2e8bad,SYMPTOM,an,an,unmapped,0.0
+f5749532-3295-ad01-ff01-45763dd7c52b,WEST_S-2e8bad,MEDICATION,ferrous sulfate,ferrous sulfate,fuzzy,1.0
+f5749532-3295-ad01-64d4-ecb86b7d8653,WEST_S-2e8bad,DIAGNOSIS,Unhealth,Unhealth,unmapped,0.0
+f5749532-3295-ad01-f559-54b5bf1bdefd,WEST_S-2e8bad,SYMPTOM,weight,weight,unmapped,0.0
+f5749532-3295-ad01-b198-0b8422f92d43,WEST_S-2e8bad,SYMPTOM,loss of teeth,Loss of teeth,fuzzy,1.0
+f5749532-3295-ad01-b198-0b8422f92d43,WEST_S-2e8bad,SYMPTOM,loss,loss,unmapped,0.0
+f5749532-3295-ad01-b198-0b8422f92d43,WEST_S-2e8bad,SYMPTOM,teeth,Loss of teeth,fuzzy,1.0
+f5749532-3295-ad01-c53e-0cfd46599b2c,WEST_S-2e8bad,MEDICATION,nor,nor,unmapped,0.0
+f5749532-3295-ad01-0f8c-1aea90e943c6,WEST_S-2e8bad,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+f5749532-3295-ad01-0049-abe9f9382d17,WEST_S-2e8bad,DIAGNOSIS,Full,Full,unmapped,0.0
+f5749532-3295-ad01-f3bc-407311274bf6,WEST_S-2e8bad,MEDICATION,Ethinyl Estradiol,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+f5749532-3295-ad01-f3bc-407311274bf6,WEST_S-2e8bad,MEDICATION,norelgestrom,norelgestromin,fuzzy,1.0
+f5749532-3295-ad01-0103-e324fc633aff,WEST_S-2e8bad,MEDICATION,nor,nor,unmapped,0.0
+f5749532-3295-ad01-6506-a9bcd107ca02,WEST_S-2e8bad,DIAGNOSIS,Unhealthy,Unhealthy,unmapped,0.0
+f5749532-3295-ad01-5d0e-c3905bcb60fe,WEST_S-2e8bad,MEDICATION,Etonogestrel,Etonogestrel | etonogestrel,ambiguous,1.0
+f5749532-3295-ad01-85bf-2ba1c9e089e2,WEST_S-2e8bad,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+f5749532-3295-ad01-eb9d-d574a10d9f8e,WEST_S-2e8bad,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,SYMPTOM,sore,sore,unmapped,0.0
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,SYMPTOM,sore,sore,unmapped,0.0
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+f5749532-3295-ad01-4142-7c51d7bba5be,WEST_S-2e8bad,SYMPTOM,loss,loss,unmapped,0.0
+f5749532-3295-ad01-61e6-c7911e74323d,WEST_S-2e8bad,MEDICATION,nor,nor,unmapped,0.0
+f5749532-3295-ad01-61e6-c7911e74323d,WEST_S-2e8bad,MEDICATION,Jolivet,Jolivet,unmapped,0.0
+f5749532-3295-ad01-f7b3-590b37932e3b,WEST_S-2e8bad,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+f5749532-3295-ad01-f7b3-590b37932e3b,WEST_S-2e8bad,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+f5749532-3295-ad01-8601-92ba8138d033,WEST_S-2e8bad,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+37549f60-b5a3-69cd-134f-352b28dfcfa1,WEST_S-41bc86,DIAGNOSIS,partner,partner,unmapped,0.0
+37549f60-b5a3-69cd-1f2b-5b0e1daa6e75,WEST_S-41bc86,MEDICATION,Hydrocortisone,Hydrocortisone,fuzzy,1.0
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,MEDICATION,Fexofenadine hydrochloride,Fexofenadine hydrochloride,fuzzy,1.0
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,MEDICATION,Epinephrine,HR | norepinephrine,ambiguous,1.0
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,SYMPTOM,all,all,unmapped,0.0
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,SYMPTOM,Allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,ALLERGY,Allergic disposition,Allergic disposition,fuzzy,1.0
+37549f60-b5a3-69cd-1bd9-1134287ee64f,WEST_S-41bc86,SYMPTOM,violence,violence,unmapped,0.0
+37549f60-b5a3-69cd-472b-bbfa6ccfe9f8,WEST_S-41bc86,MEDICATION,medroxyPROGESTERone acetate,medroxyPROGESTERone acetate | medroxyprogesterone acetate,ambiguous,1.0
+37549f60-b5a3-69cd-f0d0-8b874531a764,WEST_S-41bc86,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+37549f60-b5a3-69cd-f0d0-8b874531a764,WEST_S-41bc86,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+37549f60-b5a3-69cd-6f05-913e40a20748,WEST_S-41bc86,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+37549f60-b5a3-69cd-6f05-913e40a20748,WEST_S-41bc86,MEDICATION,Gel,Gel,unmapped,0.0
+37549f60-b5a3-69cd-4ea5-4f85bef1e645,WEST_S-41bc86,MEDICATION,medroxyprogesterone acetate,medroxyPROGESTERone acetate | medroxyprogesterone acetate,ambiguous,1.0
+37549f60-b5a3-69cd-8b07-510c222fe7c5,WEST_S-41bc86,MEDICATION,nor,nor,unmapped,0.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,et,et,unmapped,0.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,yl est,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,iol,iol,unmapped,0.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,norgestimate,norgestimate,fuzzy,1.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,et,et,unmapped,0.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,norgesti,norgestimate,fuzzy,1.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,et,et,unmapped,0.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,nor,nor,unmapped,0.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,ti,ti,unmapped,0.0
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,ness,ness,unmapped,0.0
+37549f60-b5a3-69cd-a515-63877cb9e999,WEST_S-41bc86,SYMPTOM,sore throat,Sore throat | Streptococcal sore throat,ambiguous,1.0
+37549f60-b5a3-69cd-a580-8fb7eeb38c45,WEST_S-41bc86,MEDICATION,medroxyprogesterone acetate,medroxyPROGESTERone acetate | medroxyprogesterone acetate,ambiguous,1.0
+37549f60-b5a3-69cd-ea6a-57bed1c3fe64,WEST_S-41bc86,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,et,et,unmapped,0.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,yl est,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,iol,iol,unmapped,0.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,norgestimate,norgestimate,fuzzy,1.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,et,et,unmapped,0.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,est,est,unmapped,0.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,iol,iol,unmapped,0.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,norgestimate,norgestimate,fuzzy,1.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,et,et,unmapped,0.0
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,norgesti,norgestimate,fuzzy,1.0
+37549f60-b5a3-69cd-746c-025c76449e91,WEST_S-41bc86,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+37549f60-b5a3-69cd-af28-26d4f3ff0312,WEST_S-41bc86,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+37549f60-b5a3-69cd-914b-f940a59de94c,WEST_S-41bc86,MEDICATION,et,et,unmapped,0.0
+37549f60-b5a3-69cd-914b-f940a59de94c,WEST_S-41bc86,MEDICATION,et,et,unmapped,0.0
+37549f60-b5a3-69cd-914b-f940a59de94c,WEST_S-41bc86,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+37549f60-b5a3-69cd-ae79-c9a9fc0a286b,WEST_S-41bc86,SYMPTOM,weight gain,weight gain,unmapped,0.0
+37549f60-b5a3-69cd-ae79-c9a9fc0a286b,WEST_S-41bc86,DIAGNOSIS,Part-time employment,Part-time employment,unmapped,0.0
+37549f60-b5a3-69cd-ae79-c9a9fc0a286b,WEST_S-41bc86,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+37549f60-b5a3-69cd-5871-347b884fd7e4,WEST_S-41bc86,SYMPTOM,sore,sore,unmapped,0.0
+37549f60-b5a3-69cd-5871-347b884fd7e4,WEST_S-41bc86,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+3c0e60c4-176e-2c4c-1dcb-16fb8f38bd6a,WEST_S-3263d3,SYMPTOM,pain,pain,unmapped,0.0
+3c0e60c4-176e-2c4c-349f-d1d329fb6404,WEST_S-3263d3,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-6448-35f83f99d1b0,WEST_S-3263d3,DIAGNOSIS,Un,Un,unmapped,0.0
+3c0e60c4-176e-2c4c-6448-35f83f99d1b0,WEST_S-3263d3,DIAGNOSIS,lth,lth,unmapped,0.0
+3c0e60c4-176e-2c4c-2947-dc66031f66d2,WEST_S-3263d3,DIAGNOSIS,Part-time employment,Part-time employment,unmapped,0.0
+3c0e60c4-176e-2c4c-2947-dc66031f66d2,WEST_S-3263d3,DIAGNOSIS,Unhealthy alcohol,Unhealthy alcohol,unmapped,0.0
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,SYMPTOM,gingivitis,Gingivitis,exact_synonym,1.0
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,SYMPTOM,laceration,Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm,ambiguous,1.0
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,DIAGNOSIS,laceration,Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm,ambiguous,1.0
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,SYMPTOM,lace,lace,unmapped,0.0
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,SYMPTOM,anxiety,Severe anxiety (panic),fuzzy,1.0
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,SYMPTOM,panic,Severe anxiety (panic),fuzzy,1.0
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,DIAGNOSIS,coronary,Abnormal findings diagnostic imaging heart+coronary circulat | History of coronary artery bypass grafting,ambiguous,1.0
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,Clopidogrel,Clopidogrel | clopidogrel,ambiguous,1.0
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,metoprolol succinate,metoprolol succinate,fuzzy,1.0
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,Nitroglycerin,Nitroglycerin | nitroglycerin,ambiguous,1.0
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+f6745f8a-8107-443e-96a4-c3109911c436,WEST_S-64e1c9,SYMPTOM,allergic rhinitis,Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+f6745f8a-8107-443e-96a4-c3109911c436,WEST_S-64e1c9,MEDICATION,diphenhydrAMINE Hydrochloride,diphenhydrAMINE Hydrochloride,fuzzy,1.0
+f6745f8a-8107-443e-2249-0b4b49af0630,WEST_S-64e1c9,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+f6745f8a-8107-443e-2249-0b4b49af0630,WEST_S-64e1c9,MEDICATION,Sulfamethoxazole,sulfamethoxazole,fuzzy,1.0
+f6745f8a-8107-443e-2249-0b4b49af0630,WEST_S-64e1c9,MEDICATION,Trimeth,trimethoprim,fuzzy,1.0
+f6745f8a-8107-443e-2249-0b4b49af0630,WEST_S-64e1c9,ALLERGY,Sulfamethoxazole / Trimethoprim,Sulfamethoxazole / Trimethoprim,fuzzy,1.0
+f6745f8a-8107-443e-cfbb-51379f5f4a07,WEST_S-64e1c9,SYMPTOM,anemia,Anemia,exact_synonym,1.0
+f6745f8a-8107-443e-402e-d236ef71aa79,WEST_S-64e1c9,MEDICATION,Vitamin B12,Vitamin B,fuzzy,1.0
+f6745f8a-8107-443e-61ef-3c986a64b965,WEST_S-64e1c9,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,DIAGNOSIS,primary osteoarthritis,Localized  primary osteoarthritis of the hand,fuzzy,1.0
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,DIAGNOSIS,oste,oste,unmapped,0.0
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,DIAGNOSIS,ritis,Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee,ambiguous,1.0
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+f6745f8a-8107-443e-7a1d-858797793b5a,WEST_S-64e1c9,SYMPTOM,pain,pain,unmapped,0.0
+f6745f8a-8107-443e-7a1d-858797793b5a,WEST_S-64e1c9,SYMPTOM,pain,pain,unmapped,0.0
+f6745f8a-8107-443e-e78d-3fe6ad1ed010,WEST_S-64e1c9,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-cbc1-9f942a0dee50,WEST_S-64e1c9,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-cbc1-9f942a0dee50,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-52bc-16a1d5b3f61e,WEST_S-64e1c9,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-52bc-16a1d5b3f61e,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-4155-4c198f5b983f,WEST_S-64e1c9,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+f6745f8a-8107-443e-4155-4c198f5b983f,WEST_S-64e1c9,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+f6745f8a-8107-443e-4155-4c198f5b983f,WEST_S-64e1c9,MEDICATION,Gel,Gel,unmapped,0.0
+f6745f8a-8107-443e-dcf2-5f70e2a2369e,WEST_S-64e1c9,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-dcf2-5f70e2a2369e,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-c8f2-de5663c4d7ca,WEST_S-64e1c9,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-c8f2-de5663c4d7ca,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-a26f-34eef06e073a,WEST_S-64e1c9,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-a26f-34eef06e073a,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-d096-9242a6171347,WEST_S-64e1c9,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+f6745f8a-8107-443e-97e8-bc81256b6e0b,WEST_S-64e1c9,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-97e8-bc81256b6e0b,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,DIAGNOSIS,bro,bro,unmapped,0.0
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,DIAGNOSIS,bro,bro,unmapped,0.0
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+f6745f8a-8107-443e-45e5-8e9615f97844,WEST_S-64e1c9,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-45e5-8e9615f97844,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,DIAGNOSIS,bro,bro,unmapped,0.0
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,DIAGNOSIS,bro,bro,unmapped,0.0
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,MEDICATION,Dextromethorphan Hydrobromide,Dextromethorphan Hydrobromide,fuzzy,1.0
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,MEDICATION,doxylamine succinate,doxylamine succinate,fuzzy,1.0
+f6745f8a-8107-443e-fe7a-32b9fd330626,WEST_S-64e1c9,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-fe7a-32b9fd330626,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-4d0e-2bb8614839ae,WEST_S-64e1c9,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-4d0e-2bb8614839ae,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-a06a-e08bf3292dd8,WEST_S-64e1c9,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-a06a-e08bf3292dd8,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f6745f8a-8107-443e-1b33-f84b54b63091,WEST_S-64e1c9,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+f6745f8a-8107-443e-1b33-f84b54b63091,WEST_S-64e1c9,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,DIAGNOSIS,Full-time,Full-time,unmapped,0.0
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,MEDICATION,aspirin,aspirin,fuzzy,1.0
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+ad48e669-959c-b6f8-71a5-35835fc049c9,WEST_S-40cf7b,SYMPTOM,Risk,Risk,unmapped,0.0
+ad48e669-959c-b6f8-4ffc-e388b121d17f,WEST_S-40cf7b,DIAGNOSIS,higher education,higher education,unmapped,0.0
+f870c432-0887-125e-828d-fc27d192607b,WEST_S-40a7b4,SYMPTOM,an,an,unmapped,0.0
+f870c432-0887-125e-828d-fc27d192607b,WEST_S-40a7b4,MEDICATION,Vitamin B12,Vitamin B,fuzzy,1.0
+f870c432-0887-125e-828d-fc27d192607b,WEST_S-40a7b4,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+f870c432-0887-125e-46ec-a77f360112e2,WEST_S-40a7b4,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+f870c432-0887-125e-b7aa-5db8b8675b44,WEST_S-40a7b4,DIAGNOSIS,sleep,Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder,ambiguous,1.0
+f870c432-0887-125e-b7aa-5db8b8675b44,WEST_S-40a7b4,SYMPTOM,sleep,Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder,ambiguous,1.0
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,DIAGNOSIS,coronary artery,History of coronary artery bypass grafting,fuzzy,1.0
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,MEDICATION,Clopidogrel,Clopidogrel | clopidogrel,ambiguous,1.0
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,MEDICATION,metoprolol succinate,metoprolol succinate,fuzzy,1.0
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,MEDICATION,Nitroglycerin,Nitroglycerin | nitroglycerin,ambiguous,1.0
+f870c432-0887-125e-f7a4-31e2f362ace5,WEST_S-40a7b4,SYMPTOM,pain,pain,unmapped,0.0
+f870c432-0887-125e-9363-0898ef2c1f06,WEST_S-40a7b4,DIAGNOSIS,Part-time employment,Part-time employment,unmapped,0.0
+f870c432-0887-125e-fd20-3c261f3a8696,WEST_S-40a7b4,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+f870c432-0887-125e-fd20-3c261f3a8696,WEST_S-40a7b4,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,DIAGNOSIS,sinus infection,sinus infection,unmapped,0.0
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+f870c432-0887-125e-7693-426296e98252,WEST_S-40a7b4,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+f870c432-0887-125e-dd9b-15c5b57a67b9,WEST_S-40a7b4,DIAGNOSIS,gingival,Gingival disease,fuzzy,1.0
+f870c432-0887-125e-dd9b-15c5b57a67b9,WEST_S-40a7b4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+f870c432-0887-125e-79b7-e73ee42dee32,WEST_S-40a7b4,SYMPTOM,hyper,Essential hypertension | Hyperglycemia | Hyperlipidemia | Hypertriglyceridemia,ambiguous,1.0
+f870c432-0887-125e-d46b-f29d77d6065b,WEST_S-40a7b4,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f870c432-0887-125e-d46b-f29d77d6065b,WEST_S-40a7b4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f870c432-0887-125e-62fc-b3466dc0faa7,WEST_S-40a7b4,DIAGNOSIS,criminal record,criminal record,unmapped,0.0
+f870c432-0887-125e-62fc-b3466dc0faa7,WEST_S-40a7b4,DIAGNOSIS,Mis,Mis,unmapped,0.0
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,DIAGNOSIS,viral sinus,Viral sinusitis,fuzzy,1.0
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+f870c432-0887-125e-25d9-4df1bdc8ff70,WEST_S-40a7b4,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+f870c432-0887-125e-25d9-4df1bdc8ff70,WEST_S-40a7b4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f870c432-0887-125e-6431-dd81bdb5beb0,WEST_S-40a7b4,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f870c432-0887-125e-6431-dd81bdb5beb0,WEST_S-40a7b4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f870c432-0887-125e-f3f8-a2d5a0da0e58,WEST_S-40a7b4,SYMPTOM,sore,sore,unmapped,0.0
+f870c432-0887-125e-2b3e-86611b389026,WEST_S-40a7b4,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+f870c432-0887-125e-267a-7a2c01670a07,WEST_S-40a7b4,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f870c432-0887-125e-267a-7a2c01670a07,WEST_S-40a7b4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f870c432-0887-125e-8c27-427465be86e4,WEST_S-40a7b4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+f870c432-0887-125e-63f1-7bf0366caece,WEST_S-40a7b4,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+f870c432-0887-125e-63f1-7bf0366caece,WEST_S-40a7b4,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+f870c432-0887-125e-4f0a-c9d6f0fe487d,WEST_S-40a7b4,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f870c432-0887-125e-4f0a-c9d6f0fe487d,WEST_S-40a7b4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+f870c432-0887-125e-1ec8-5770663fb1c4,WEST_S-40a7b4,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+f870c432-0887-125e-1ec8-5770663fb1c4,WEST_S-40a7b4,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+f870c432-0887-125e-d547-16d4ec3a8843,WEST_S-40a7b4,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+f870c432-0887-125e-d547-16d4ec3a8843,WEST_S-40a7b4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+4be6b5fb-2a19-943a-f306-80ae58168c70,WEST_S-c2c0e8,SYMPTOM,anemia,Anemia,exact_synonym,1.0
+4be6b5fb-2a19-943a-4d00-62295456e582,WEST_S-c2c0e8,SYMPTOM,sin,sin,unmapped,0.0
+4be6b5fb-2a19-943a-4d00-62295456e582,WEST_S-c2c0e8,DIAGNOSIS,sin,sin,unmapped,0.0
+4be6b5fb-2a19-943a-9970-f8fcede2d4fb,WEST_S-c2c0e8,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+4be6b5fb-2a19-943a-9970-f8fcede2d4fb,WEST_S-c2c0e8,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+4be6b5fb-2a19-943a-9970-f8fcede2d4fb,WEST_S-c2c0e8,MEDICATION,Gel,Gel,unmapped,0.0
+4be6b5fb-2a19-943a-335d-39af66b944fc,WEST_S-c2c0e8,DIAGNOSIS,bronchitis,Acute bronchitis,fuzzy,1.0
+4be6b5fb-2a19-943a-335d-39af66b944fc,WEST_S-c2c0e8,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+4be6b5fb-2a19-943a-6dae-6603d173aec5,WEST_S-c2c0e8,SYMPTOM,infection,Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection,ambiguous,1.0
+4be6b5fb-2a19-943a-db1e-8b2334b3c388,WEST_S-c2c0e8,DIAGNOSIS,alveolitis,Alveolitis of jaw,fuzzy,1.0
+4be6b5fb-2a19-943a-db1e-8b2334b3c388,WEST_S-c2c0e8,DIAGNOSIS,alveolitis,Alveolitis of jaw,fuzzy,1.0
+4be6b5fb-2a19-943a-9144-2ab048490ae9,WEST_S-c2c0e8,SYMPTOM,loss of teeth,Loss of teeth,fuzzy,1.0
+4be6b5fb-2a19-943a-9144-2ab048490ae9,WEST_S-c2c0e8,SYMPTOM,loss of teeth,Loss of teeth,fuzzy,1.0
+4be6b5fb-2a19-943a-a87d-007f2a0c584d,WEST_S-c2c0e8,SYMPTOM,loss,loss,unmapped,0.0
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,SYMPTOM,strept,Streptococcal sore throat,fuzzy,1.0
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,DIAGNOSIS,cca,cca,unmapped,0.0
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,SYMPTOM,sore,sore,unmapped,0.0
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,SYMPTOM,strept,Streptococcal sore throat,fuzzy,1.0
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,SYMPTOM,cca,cca,unmapped,0.0
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,SYMPTOM,sore,sore,unmapped,0.0
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+4be6b5fb-2a19-943a-4018-d9cfcbb22f1d,WEST_S-c2c0e8,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+4be6b5fb-2a19-943a-4018-d9cfcbb22f1d,WEST_S-c2c0e8,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+4be6b5fb-2a19-943a-a993-8db423631e35,WEST_S-c2c0e8,SYMPTOM,sore,sore,unmapped,0.0
+4be6b5fb-2a19-943a-a993-8db423631e35,WEST_S-c2c0e8,SYMPTOM,sore,sore,unmapped,0.0
+4be6b5fb-2a19-943a-af08-99b19826d7e9,WEST_S-c2c0e8,SYMPTOM,sore,sore,unmapped,0.0
+4be6b5fb-2a19-943a-af08-99b19826d7e9,WEST_S-c2c0e8,SYMPTOM,sore,sore,unmapped,0.0
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,DIAGNOSIS,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+4be6b5fb-2a19-943a-48ed-3fce02959351,WEST_S-c2c0e8,SYMPTOM,panic attacks,Severe anxiety (panic),exact_synonym,1.0
+4be6b5fb-2a19-943a-48ed-3fce02959351,WEST_S-c2c0e8,SYMPTOM,inflammation,inflammation,unmapped,0.0
+4be6b5fb-2a19-943a-68d2-d114893fa8bf,WEST_S-c2c0e8,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+4be6b5fb-2a19-943a-68d2-d114893fa8bf,WEST_S-c2c0e8,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+4be6b5fb-2a19-943a-90c8-51833a1025cb,WEST_S-c2c0e8,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+4be6b5fb-2a19-943a-7c1d-06f4a1fdf354,WEST_S-c2c0e8,DIAGNOSIS,bacterial sinus,Acute bacterial sinusitis,fuzzy,1.0
+4be6b5fb-2a19-943a-5f5e-0880dfe43e74,WEST_S-c2c0e8,DIAGNOSIS,Full-time employment,Full-time employment,unmapped,0.0
+4be6b5fb-2a19-943a-5f5e-0880dfe43e74,WEST_S-c2c0e8,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+4be6b5fb-2a19-943a-7e3d-90de8e621ed5,WEST_S-c2c0e8,SYMPTOM,loss,loss,unmapped,0.0
+4be6b5fb-2a19-943a-7e3d-90de8e621ed5,WEST_S-c2c0e8,SYMPTOM,teeth,Loss of teeth,fuzzy,1.0
+4be6b5fb-2a19-943a-de80-dea2da14ace9,WEST_S-c2c0e8,SYMPTOM,loss,loss,unmapped,0.0
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,SYMPTOM,cold,cold,unmapped,0.0
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,DIAGNOSIS,bronch,Acute bronchitis,fuzzy,1.0
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+4be6b5fb-2a19-943a-2985-e7955de888d0,WEST_S-c2c0e8,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+4be6b5fb-2a19-943a-2985-e7955de888d0,WEST_S-c2c0e8,MEDICATION,Gel,Gel,unmapped,0.0
+4be6b5fb-2a19-943a-6c77-eae28c19c692,WEST_S-c2c0e8,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+d309f605-948b-962f-430b-695b4f1e59b4,WEST_S-5116f1,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+d309f605-948b-962f-22ab-02d08a386a33,WEST_S-5116f1,DIAGNOSIS,prediabetes,Prediabetes,exact_synonym,1.0
+d309f605-948b-962f-69d1-702a8fdd184d,WEST_S-5116f1,DIAGNOSIS,metabolic syndrome,Metabolic syndrome X,fuzzy,1.0
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-b697-67f8d7e2c62f,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-b697-67f8d7e2c62f,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-fdeb-fc421f7e8adf,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-fdeb-fc421f7e8adf,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-e455-7698bb43f126,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-e455-7698bb43f126,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-ee7e-65b380f22273,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-ee7e-65b380f22273,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-b739-cc8e762f090a,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-b739-cc8e762f090a,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,SYMPTOM,lace,lace,unmapped,0.0
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,SYMPTOM,lace,lace,unmapped,0.0
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+d309f605-948b-962f-0322-36df06ef3f81,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-0322-36df06ef3f81,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+2fb99851-6f31-04a6-4d82-e0de6deb91e4,WEST_S-956ee0,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+2fb99851-6f31-04a6-17ca-81e0949f3e51,WEST_S-956ee0,SYMPTOM,poly,poly,unmapped,0.0
+2fb99851-6f31-04a6-f1e5-b5e0300f5959,WEST_S-956ee0,SYMPTOM,polyp,Polyp of colon | Recurrent rectal polyp,ambiguous,1.0
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+2fb99851-6f31-04a6-59fb-e7314435ea01,WEST_S-956ee0,DIAGNOSIS,gi,gi,unmapped,0.0
+2fb99851-6f31-04a6-59fb-e7314435ea01,WEST_S-956ee0,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-f0ea-ad10d1035d81,WEST_S-956ee0,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+2fb99851-6f31-04a6-1b48-49e45dc62843,WEST_S-956ee0,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,DIAGNOSIS,metabolic syndrome,Metabolic syndrome X,fuzzy,1.0
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,aspirin,aspirin,fuzzy,1.0
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,Vazal,Vazal,unmapped,0.0
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,aspirin,aspirin,fuzzy,1.0
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,Vazal,Vazal,unmapped,0.0
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,aspirin,aspirin,fuzzy,1.0
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,Vazal,Vazal,unmapped,0.0
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,aspirin,aspirin,fuzzy,1.0
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,Vazal,Vazal,unmapped,0.0
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,SYMPTOM,lace,lace,unmapped,0.0
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,aspirin,aspirin,fuzzy,1.0
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,Vazal,Vazal,unmapped,0.0
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,albuterol,albuterol,fuzzy,1.0
+72b1ca95-c4f0-269d-055d-703d19d1bc36,WEST_S-ec1bd7,DIAGNOSIS,Housing,Housing,unmapped,0.0
+72b1ca95-c4f0-269d-055d-703d19d1bc36,WEST_S-ec1bd7,DIAGNOSIS,Received higher education,Received higher education,unmapped,0.0
+72b1ca95-c4f0-269d-eb15-84232ac8b2b5,WEST_S-ec1bd7,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,et,et,unmapped,0.0
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,est,est,unmapped,0.0
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,norgesti,norgestimate,fuzzy,1.0
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,et,et,unmapped,0.0
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,norgesti,norgestimate,fuzzy,1.0
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,et,et,unmapped,0.0
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,nor,nor,unmapped,0.0
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,ness,ness,unmapped,0.0
+72b1ca95-c4f0-269d-14c4-39aff402c875,WEST_S-ec1bd7,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+72b1ca95-c4f0-269d-fe6d-1f774f2b1432,WEST_S-ec1bd7,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+72b1ca95-c4f0-269d-d74b-799a945714bc,WEST_S-ec1bd7,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+72b1ca95-c4f0-269d-4a53-b002c5161deb,WEST_S-ec1bd7,DIAGNOSIS,cysti,Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,DIAGNOSIS,infect,Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis,ambiguous,1.0
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,DIAGNOSIS,sti,sti,unmapped,0.0
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,MEDICATION,nitrofurantoin,nitrofurantoin macrocrystals | nitrofurantoin monohydrate,ambiguous,1.0
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,MEDICATION,macrocrystals,nitrofurantoin macrocrystals,fuzzy,1.0
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,MEDICATION,nitrofurantoin,nitrofurantoin macrocrystals | nitrofurantoin monohydrate,ambiguous,1.0
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,MEDICATION,monohydra,nitrofurantoin monohydrate,fuzzy,1.0
+72b1ca95-c4f0-269d-bbab-751a89fe43ac,WEST_S-ec1bd7,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+72b1ca95-c4f0-269d-9eeb-53ccba3a6a19,WEST_S-ec1bd7,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+72b1ca95-c4f0-269d-9eeb-53ccba3a6a19,WEST_S-ec1bd7,MEDICATION,Gel,Gel,unmapped,0.0
+72b1ca95-c4f0-269d-b1d6-fab8f8e07b0e,WEST_S-ec1bd7,DIAGNOSIS,Full-time,Full-time,unmapped,0.0
+72b1ca95-c4f0-269d-b1d6-fab8f8e07b0e,WEST_S-ec1bd7,DIAGNOSIS,Unhealthy alcohol,Unhealthy alcohol,unmapped,0.0
+72b1ca95-c4f0-269d-5de3-b7369ab079f6,WEST_S-ec1bd7,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+72b1ca95-c4f0-269d-5de3-b7369ab079f6,WEST_S-ec1bd7,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+bca1691f-8839-1d66-ba0f-beb476038a1f,WEST_S-971cc7,DIAGNOSIS,alzheimer,Alzheimer's disease,fuzzy,1.0

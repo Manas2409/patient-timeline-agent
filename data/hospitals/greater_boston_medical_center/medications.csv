@@ -1,0 +1,1129 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,DESCRIPTION,REASONDESCRIPTION
+65cbad6a-eb9d-420e-a0a1-bdea0e245db8,GREATE-51bedd,2015-09-22T06:35:38Z,2016-09-27T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-a0a1-bdea0e245db8,GREATE-51bedd,2015-09-22T06:35:38Z,2016-09-27T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-32d1-80d7bf5c030d,GREATE-51bedd,2016-09-27T06:35:38Z,2017-10-03T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-32d1-80d7bf5c030d,GREATE-51bedd,2016-09-27T06:35:38Z,2017-10-03T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-d730-51652ff5a678,GREATE-51bedd,2017-10-03T06:35:38Z,2018-10-09T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-d730-51652ff5a678,GREATE-51bedd,2017-10-03T06:35:38Z,2018-10-09T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-17d0-e115ed697eef,GREATE-51bedd,2017-10-17T09:29:36Z,2017-10-17T09:29:36Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+65cbad6a-eb9d-420e-cb98-2a75b5b04b47,GREATE-51bedd,2018-10-09T06:35:38Z,2019-10-15T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-cb98-2a75b5b04b47,GREATE-51bedd,2018-10-09T06:35:38Z,2019-10-15T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-e583-f53289e71e90,GREATE-51bedd,2018-10-23T10:08:30Z,2018-10-23T10:08:30Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+65cbad6a-eb9d-420e-5d27-8dbe153b9ace,GREATE-51bedd,2019-10-15T06:35:38Z,2019-12-31T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-5d27-8dbe153b9ace,GREATE-51bedd,2019-10-15T06:35:38Z,2019-12-31T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-5d27-8dbe153b9ace,GREATE-51bedd,2019-10-22T06:35:38Z,,Clopidogrel 75 MG Oral Tablet,
+65cbad6a-eb9d-420e-5d27-8dbe153b9ace,GREATE-51bedd,2019-10-22T06:35:38Z,,Simvastatin 20 MG Oral Tablet,
+65cbad6a-eb9d-420e-5d27-8dbe153b9ace,GREATE-51bedd,2019-10-22T06:35:38Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+65cbad6a-eb9d-420e-5d27-8dbe153b9ace,GREATE-51bedd,2019-10-22T06:35:38Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+65cbad6a-eb9d-420e-297c-43f9a9096506,GREATE-51bedd,2019-12-23T08:56:22Z,2020-01-02T08:56:22Z,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,Acute bronchitis (disorder)
+65cbad6a-eb9d-420e-0c28-4eb837f969bc,GREATE-51bedd,2020-10-20T06:35:38Z,2021-10-26T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-0c28-4eb837f969bc,GREATE-51bedd,2020-10-20T06:35:38Z,2021-10-26T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-6765-d9156d8d9b6b,GREATE-51bedd,2021-10-26T06:35:38Z,2022-11-01T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-6765-d9156d8d9b6b,GREATE-51bedd,2021-10-26T06:35:38Z,2022-11-01T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-2f67-761e3d58aff8,GREATE-51bedd,2022-11-01T06:35:38Z,2023-11-07T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-2f67-761e3d58aff8,GREATE-51bedd,2022-11-01T06:35:38Z,2023-11-07T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-86bf-3aea121f5309,GREATE-51bedd,2023-11-07T06:35:38Z,2024-11-12T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-86bf-3aea121f5309,GREATE-51bedd,2023-11-07T06:35:38Z,2024-11-12T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-cc2d-d2bce5446461,GREATE-51bedd,2024-11-12T06:35:38Z,2025-11-18T06:35:38Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-cc2d-d2bce5446461,GREATE-51bedd,2024-11-12T06:35:38Z,2025-11-18T06:35:38Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-b29e-9f5a4097e8f8,GREATE-51bedd,2025-11-18T06:35:38Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+65cbad6a-eb9d-420e-b29e-9f5a4097e8f8,GREATE-51bedd,2025-11-18T06:35:38Z,,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+65cbad6a-eb9d-420e-b29e-9f5a4097e8f8,GREATE-51bedd,2025-11-18T06:35:38Z,,Galantamine 4 MG Oral Tablet,Alzheimer's disease (disorder)
+6a703775-432b-ba7d-77d9-2fb4dece664c,GREATE-248ede,2017-08-28T23:35:53Z,2017-09-08T03:35:53Z,Penicillin V Potassium 500 MG Oral Tablet,Streptococcal sore throat (disorder)
+6a703775-432b-ba7d-7e24-f438474ce178,GREATE-248ede,2023-03-10T19:43:26Z,2023-03-27T19:43:26Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+6a703775-432b-ba7d-7763-ceacc64f5878,GREATE-248ede,2023-04-10T21:24:37Z,2023-04-10T21:24:37Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+9389eec9-a5c3-a9e1-d79f-351a18c0b608,GREATE-d82559,2018-12-09T17:17:07Z,2018-12-10T17:27:07Z,ciprofloxacin 250 MG Oral Tablet,Acute infective cystitis (disorder)
+9389eec9-a5c3-a9e1-fb0c-3ac48e85daa9,GREATE-d82559,2019-07-14T08:11:56Z,2020-07-19T08:11:56Z,tramadol hydrochloride 50 MG Oral Tablet,
+9389eec9-a5c3-a9e1-fa68-f012be6e268f,GREATE-d82559,2020-07-19T08:11:56Z,2021-07-25T08:11:56Z,72 HR Fentanyl 0.025 MG/HR Transdermal System,
+9389eec9-a5c3-a9e1-fa68-f012be6e268f,GREATE-d82559,2020-07-19T08:11:56Z,2021-07-25T08:11:56Z,tramadol hydrochloride 50 MG Oral Tablet,
+9389eec9-a5c3-a9e1-b453-8729aa04507d,GREATE-d82559,2021-07-25T08:11:56Z,2022-07-31T08:11:56Z,72 HR Fentanyl 0.025 MG/HR Transdermal System,
+9389eec9-a5c3-a9e1-b453-8729aa04507d,GREATE-d82559,2021-07-25T08:11:56Z,2022-07-31T08:11:56Z,tramadol hydrochloride 50 MG Oral Tablet,
+9389eec9-a5c3-a9e1-2aca-35f58d503b6f,GREATE-d82559,2022-07-31T08:11:56Z,2022-12-25T08:11:56Z,72 HR Fentanyl 0.025 MG/HR Transdermal System,
+9389eec9-a5c3-a9e1-2aca-35f58d503b6f,GREATE-d82559,2022-07-31T08:11:56Z,2022-12-25T08:11:56Z,tramadol hydrochloride 50 MG Oral Tablet,
+9389eec9-a5c3-a9e1-f344-0ad5f0d8be30,GREATE-d82559,2023-08-06T08:11:56Z,2024-08-11T08:11:56Z,72 HR Fentanyl 0.025 MG/HR Transdermal System,
+9389eec9-a5c3-a9e1-f344-0ad5f0d8be30,GREATE-d82559,2023-08-06T08:11:56Z,2024-08-11T08:11:56Z,tramadol hydrochloride 50 MG Oral Tablet,
+9389eec9-a5c3-a9e1-ef5a-f89e9440a005,GREATE-d82559,2024-08-11T08:11:56Z,2025-08-17T08:11:56Z,72 HR Fentanyl 0.025 MG/HR Transdermal System,
+9389eec9-a5c3-a9e1-ef5a-f89e9440a005,GREATE-d82559,2024-08-11T08:11:56Z,2025-08-17T08:11:56Z,tramadol hydrochloride 50 MG Oral Tablet,
+9389eec9-a5c3-a9e1-258f-3f50bab548a1,GREATE-d82559,2025-08-17T08:11:56Z,,72 HR Fentanyl 0.025 MG/HR Transdermal System,
+9389eec9-a5c3-a9e1-258f-3f50bab548a1,GREATE-d82559,2025-08-17T08:11:56Z,,tramadol hydrochloride 50 MG Oral Tablet,
+4e71643c-f046-a74f-a208-3447dcb0634f,GREATE-86daed,2020-07-19T22:22:29Z,2020-07-30T06:22:29Z,Penicillin V Potassium 250 MG Oral Tablet,Acute viral pharyngitis (disorder)
+4e71643c-f046-a74f-590b-6c9edd44e9df,GREATE-86daed,2021-09-24T12:56:17Z,,Meperidine Hydrochloride 50 MG Oral Tablet,
+4e71643c-f046-a74f-590b-6c9edd44e9df,GREATE-86daed,2021-09-24T12:56:17Z,2021-11-11T12:56:17Z,Acetaminophen 325 MG Oral Tablet,
+4e71643c-f046-a74f-5ba0-3f194b34f319,GREATE-86daed,2026-01-30T15:03:26Z,2026-01-30T15:03:26Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+4e71643c-f046-a74f-5a90-837b3b239a05,GREATE-86daed,2026-06-18T13:45:39Z,2026-06-18T20:45:39Z,ciprofloxacin 250 MG Oral Tablet,Acute infective cystitis (disorder)
+09c573e2-a45d-aa5e-0a3d-ee451ccfc600,GREATE-bf30f8,2016-11-04T01:45:16Z,2017-02-18T01:45:16Z,Acetaminophen 160 MG Chewable Tablet,
+09c573e2-a45d-aa5e-bf99-95e0f8c44b3e,GREATE-bf30f8,2018-07-21T21:33:37Z,2018-08-02T21:33:37Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+09c573e2-a45d-aa5e-180e-fa010db7e60a,GREATE-bf30f8,2019-03-05T04:03:11Z,2019-03-05T04:03:11Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+09c573e2-a45d-aa5e-09b8-7a5ab06799f9,GREATE-bf30f8,2021-03-23T04:34:46Z,2021-03-23T04:34:46Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+09c573e2-a45d-aa5e-8954-5dbcda08aa3b,GREATE-bf30f8,2022-03-29T04:00:29Z,2022-03-29T04:00:29Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+09c573e2-a45d-aa5e-4605-823b2eac0ab1,GREATE-bf30f8,2022-09-08T06:16:14Z,2022-09-22T06:16:14Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+09c573e2-a45d-aa5e-8ce6-441f026a03e3,GREATE-bf30f8,2023-04-04T04:20:37Z,2023-04-04T04:20:37Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+8c5b83b2-737e-46cf-42cf-b1f98b4e6ead,GREATE-1e24b3,2019-12-16T18:14:56Z,2019-12-16T18:14:56Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+8c5b83b2-737e-46cf-3a37-aeeeee1437e8,GREATE-1e24b3,2021-12-20T18:25:06Z,2021-12-20T18:25:06Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+b50c66af-4d1c-7987-65fc-8eef19c20056,GREATE-79dbbe,2018-03-22T01:35:45Z,2018-03-22T01:35:45Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+b50c66af-4d1c-7987-6b0a-9ecd72fb90b1,GREATE-79dbbe,2020-04-02T01:09:02Z,2020-04-02T01:09:02Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+b50c66af-4d1c-7987-95b5-8a57dbdd447a,GREATE-79dbbe,2025-04-30T22:37:42Z,2025-04-30T22:37:42Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+cbd1dd48-89c3-3fdb-9632-4c35f07d0035,GREATE-dcb2bd,2013-06-04T20:29:55Z,,Vitamin B12 5 MG/ML Injectable Solution,
+cbd1dd48-89c3-3fdb-f531-a5b933c34715,GREATE-dcb2bd,2016-02-15T19:09:30Z,2017-02-09T19:09:30Z,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day],
+cbd1dd48-89c3-3fdb-2150-f61be81274e9,GREATE-dcb2bd,2017-02-09T19:09:30Z,2018-02-07T14:19:22Z,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta],
+cbd1dd48-89c3-3fdb-c183-0f43f2ef6c72,GREATE-dcb2bd,2017-09-27T00:13:10Z,2017-09-27T00:13:10Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+cbd1dd48-89c3-3fdb-39df-0a53520a2348,GREATE-dcb2bd,2019-03-18T19:09:30Z,2019-04-01T19:09:30Z,Amoxicillin 250 MG Oral Capsule,
+cbd1dd48-89c3-3fdb-39df-0a53520a2348,GREATE-dcb2bd,2019-03-18T19:09:30Z,2019-04-01T19:09:30Z,Acetaminophen 325 MG Oral Tablet,
+cbd1dd48-89c3-3fdb-8de1-66420123dadf,GREATE-dcb2bd,2021-11-12T23:17:50Z,2021-11-20T23:17:50Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+cbd1dd48-89c3-3fdb-04b3-cff1fea3e0ce,GREATE-dcb2bd,2021-11-23T19:09:30Z,2021-11-23T19:09:30Z,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-04b3-cff1fea3e0ce,GREATE-dcb2bd,2021-11-23T19:09:30Z,2021-11-23T19:09:30Z,albuterol 5 MG/ML Inhalation Solution,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-04b3-cff1fea3e0ce,GREATE-dcb2bd,2021-11-23T19:09:30Z,2021-11-30T19:09:30Z,albuterol 5 MG/ML Inhalation Solution,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-04b3-cff1fea3e0ce,GREATE-dcb2bd,2021-11-23T19:09:30Z,2021-11-30T19:09:30Z,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-543e-a59ffbf27a2e,GREATE-dcb2bd,2021-11-30T19:09:30Z,2022-12-06T19:09:30Z,albuterol 5 MG/ML Inhalation Solution,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-543e-a59ffbf27a2e,GREATE-dcb2bd,2021-11-30T19:09:30Z,2022-12-06T19:09:30Z,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-c423-1ed0a66e4851,GREATE-dcb2bd,2022-06-17T19:09:30Z,2023-06-12T19:09:30Z,{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day],
+cbd1dd48-89c3-3fdb-2b28-d3b8d99c9a9c,GREATE-dcb2bd,2022-12-06T19:09:30Z,2023-12-12T19:09:30Z,albuterol 5 MG/ML Inhalation Solution,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-2b28-d3b8d99c9a9c,GREATE-dcb2bd,2022-12-06T19:09:30Z,2023-12-12T19:09:30Z,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-7062-455c0372b165,GREATE-dcb2bd,2023-06-12T19:09:30Z,2024-06-06T19:09:30Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+cbd1dd48-89c3-3fdb-a272-fdaa6bb6fb5e,GREATE-dcb2bd,2023-12-12T19:09:30Z,2024-12-17T19:09:30Z,albuterol 5 MG/ML Inhalation Solution,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-a272-fdaa6bb6fb5e,GREATE-dcb2bd,2023-12-12T19:09:30Z,2024-12-17T19:09:30Z,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-0908-ce8ad9f849d2,GREATE-dcb2bd,2024-12-17T19:09:30Z,2025-12-23T19:09:30Z,albuterol 5 MG/ML Inhalation Solution,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-0908-ce8ad9f849d2,GREATE-dcb2bd,2024-12-17T19:09:30Z,2025-12-23T19:09:30Z,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-7d63-0ad0a5274a64,GREATE-dcb2bd,2025-12-23T19:09:30Z,,albuterol 5 MG/ML Inhalation Solution,Pulmonary emphysema (disorder)
+cbd1dd48-89c3-3fdb-7d63-0ad0a5274a64,GREATE-dcb2bd,2025-12-23T19:09:30Z,,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,Pulmonary emphysema (disorder)
+3a9c6df2-621a-6239-3cd5-e95476d7f1c4,GREATE-e8f6db,2023-10-23T14:07:09Z,2023-10-23T14:07:09Z,predniSONE 5 MG Oral Tablet,
+3a9c6df2-621a-6239-1778-331bfa6f27fa,GREATE-e8f6db,2023-11-03T07:23:33Z,,cetirizine hydrochloride 5 MG Oral Tablet,
+3a9c6df2-621a-6239-1778-331bfa6f27fa,GREATE-e8f6db,2023-11-03T07:23:33Z,,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,
+3a9c6df2-621a-6239-c167-a9d22aaa93a7,GREATE-e8f6db,2024-03-20T11:08:59Z,2024-04-10T11:08:59Z,Acetaminophen 160 MG Chewable Tablet,
+3a9c6df2-621a-6239-8326-04d1f556d1bc,GREATE-e8f6db,2024-04-10T10:55:09Z,2024-04-10T11:08:59Z,Amoxicillin 500 MG Oral Tablet,
+3a9c6df2-621a-6239-7c8e-f30fcdb8d109,GREATE-e8f6db,2026-04-08T14:13:50Z,2026-04-08T14:13:50Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+fb56f051-a2cd-ac10-5376-da5a323ad251,GREATE-4f96de,1982-08-01T11:24:26Z,1990-05-07T10:41:04Z,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,
+fb56f051-a2cd-ac10-5376-da5a323ad251,GREATE-4f96de,1982-08-01T11:24:26Z,1982-09-11T11:24:26Z,Ibuprofen 200 MG Oral Tablet,
+fb56f051-a2cd-ac10-681a-f0ff64888461,GREATE-4f96de,1982-10-01T10:41:04Z,1983-09-26T10:41:04Z,Mestranol / Norethynodrel,
+fb56f051-a2cd-ac10-5a62-d4c78503cf7e,GREATE-4f96de,1982-11-27T12:54:58Z,1982-11-27T12:54:58Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+fb56f051-a2cd-ac10-85a5-fd270c4e176e,GREATE-4f96de,1983-12-03T13:39:06Z,1983-12-03T13:39:06Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+fb56f051-a2cd-ac10-a65f-4600ef8ee910,GREATE-4f96de,1984-09-20T10:41:04Z,1985-09-15T10:41:04Z,{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day],
+fb56f051-a2cd-ac10-ead1-bfadd90ad8a7,GREATE-4f96de,1984-12-08T13:20:26Z,1984-12-08T13:20:26Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+fb56f051-a2cd-ac10-810e-b5af32935a86,GREATE-4f96de,1989-02-16T09:03:32Z,1989-02-23T09:03:32Z,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,Acute bronchitis (disorder)
+fb56f051-a2cd-ac10-8596-9e5e2c2c47ed,GREATE-4f96de,1989-08-03T12:05:50Z,1989-08-04T02:05:50Z,amoxicillin 500 MG / clavulanate 125 MG Oral Tablet,Acute infective cystitis (disorder)
+fb56f051-a2cd-ac10-875d-a6962187ae82,GREATE-4f96de,1989-08-12T10:41:04Z,1990-08-25T10:41:04Z,carvedilol 25 MG Oral Tablet,Chronic congestive heart failure (disorder)
+fb56f051-a2cd-ac10-875d-a6962187ae82,GREATE-4f96de,1989-08-12T10:41:04Z,1990-08-25T10:41:04Z,Furosemide 40 MG Oral Tablet,Chronic congestive heart failure (disorder)
+fb56f051-a2cd-ac10-875d-a6962187ae82,GREATE-4f96de,1989-08-12T10:41:04Z,1990-08-25T10:41:04Z,losartan potassium 50 MG Oral Tablet,Chronic congestive heart failure (disorder)
+fb56f051-a2cd-ac10-f734-857680bc7ede,GREATE-4f96de,1989-08-26T13:32:06Z,1989-08-26T13:32:06Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+fb56f051-a2cd-ac10-4bd6-4668285953c4,GREATE-4f96de,1990-06-19T10:41:04Z,,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day],
+fb56f051-a2cd-ac10-ea1a-f70d2201eae0,GREATE-4f96de,1990-08-25T10:41:04Z,,carvedilol 25 MG Oral Tablet,Chronic congestive heart failure (disorder)
+fb56f051-a2cd-ac10-ea1a-f70d2201eae0,GREATE-4f96de,1990-08-25T10:41:04Z,,Furosemide 40 MG Oral Tablet,Chronic congestive heart failure (disorder)
+fb56f051-a2cd-ac10-ea1a-f70d2201eae0,GREATE-4f96de,1990-08-25T10:41:04Z,,losartan potassium 50 MG Oral Tablet,Chronic congestive heart failure (disorder)
+fb56f051-a2cd-ac10-ea1a-f70d2201eae0,GREATE-4f96de,1990-08-25T10:41:04Z,,lisinopril 20 MG Oral Tablet,Chronic congestive heart failure (disorder)
+d21f2794-014b-c66b-51e8-ec41b54547f3,GREATE-861f00,2019-03-31T04:52:31Z,2019-03-31T04:52:31Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+d21f2794-014b-c66b-1bb1-0145fac2835c,GREATE-861f00,2020-04-05T05:27:12Z,2020-04-05T05:27:12Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+d21f2794-014b-c66b-d851-941f6114d2c0,GREATE-861f00,2022-04-17T05:02:05Z,2022-04-17T05:02:05Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+d21f2794-014b-c66b-8402-91872e4571b9,GREATE-861f00,2025-09-19T12:56:54Z,2025-10-06T12:56:54Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+d21f2794-014b-c66b-d8a7-8a73045c89ad,GREATE-861f00,2025-09-28T01:56:54Z,2026-04-26T01:56:54Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-03ad-cc95be6f8530,GREATE-4bd2f2,2016-03-26T10:41:04Z,2017-04-01T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-03ad-cc95be6f8530,GREATE-4bd2f2,2016-03-26T10:41:04Z,2017-04-01T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-63b8-69193eff3aed,GREATE-4bd2f2,2017-04-01T10:41:04Z,2018-04-07T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-63b8-69193eff3aed,GREATE-4bd2f2,2017-04-01T10:41:04Z,2018-04-07T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-9bf5-eeb0bbbbc8d8,GREATE-4bd2f2,2018-04-07T10:41:04Z,2018-09-29T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-9bf5-eeb0bbbbc8d8,GREATE-4bd2f2,2018-04-07T10:41:04Z,2018-09-29T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-052b-b9d8e6305935,GREATE-4bd2f2,2018-04-21T13:45:11Z,2018-04-21T13:45:11Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+3368f8e7-5e00-7794-000f-3fc51bd77168,GREATE-4bd2f2,2018-09-29T10:41:04Z,2019-04-13T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-000f-3fc51bd77168,GREATE-4bd2f2,2018-09-29T10:41:04Z,2019-04-13T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-2343-938677f10175,GREATE-4bd2f2,2018-10-13T12:59:16Z,2018-10-13T12:59:16Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+3368f8e7-5e00-7794-c8b0-f739e7ac2e5a,GREATE-4bd2f2,2019-04-13T10:41:04Z,2020-04-18T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-c8b0-f739e7ac2e5a,GREATE-4bd2f2,2019-04-13T10:41:04Z,2020-04-18T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-5a4f-6df5f28b71cf,GREATE-4bd2f2,2020-04-18T10:41:04Z,2021-04-24T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-5a4f-6df5f28b71cf,GREATE-4bd2f2,2020-04-18T10:41:04Z,2021-04-24T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-2dee-76b9ac38f317,GREATE-4bd2f2,2021-04-24T10:41:04Z,2022-04-30T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-2dee-76b9ac38f317,GREATE-4bd2f2,2021-04-24T10:41:04Z,2022-04-30T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-2bae-fa0c6f990929,GREATE-4bd2f2,2022-04-30T10:41:04Z,2023-05-06T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-2bae-fa0c6f990929,GREATE-4bd2f2,2022-04-30T10:41:04Z,2023-05-06T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-8906-a2f50681267e,GREATE-4bd2f2,2023-05-06T10:41:04Z,2024-05-11T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-8906-a2f50681267e,GREATE-4bd2f2,2023-05-06T10:41:04Z,2024-05-11T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-ce5a-290fb6bc6530,GREATE-4bd2f2,2024-05-11T10:41:04Z,2025-05-17T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-ce5a-290fb6bc6530,GREATE-4bd2f2,2024-05-11T10:41:04Z,2025-05-17T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-2c3e-43deefca396c,GREATE-4bd2f2,2025-05-17T10:41:04Z,2026-05-23T10:41:04Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-2c3e-43deefca396c,GREATE-4bd2f2,2025-05-17T10:41:04Z,2026-05-23T10:41:04Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3368f8e7-5e00-7794-8add-067822e8a71b,GREATE-4bd2f2,2026-05-23T10:41:04Z,,Acetaminophen 325 MG Oral Tablet [Tylenol],
+3368f8e7-5e00-7794-8add-067822e8a71b,GREATE-4bd2f2,2026-05-23T10:41:04Z,,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+355a4d50-2628-aa65-1ca2-7b29b7698d98,GREATE-87eb35,2002-04-04T20:04:51Z,,Naproxen sodium 220 MG Oral Tablet,Localized  primary osteoarthritis of the hand (disorder)
+355a4d50-2628-aa65-27ec-1c902f8701d7,GREATE-87eb35,2017-01-05T23:08:00Z,2017-01-05T23:08:00Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+355a4d50-2628-aa65-309f-b6bc1d0a88a3,GREATE-87eb35,2017-06-28T22:11:55Z,2017-06-28T22:11:55Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-da98-102b7260c9d5,GREATE-87eb35,2018-05-24T22:29:20Z,2018-05-24T22:29:20Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-4576-b081183edf6a,GREATE-87eb35,2019-04-19T22:47:53Z,2019-04-19T22:47:53Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-5670-d65f6355f190,GREATE-87eb35,2020-04-13T23:04:44Z,2020-04-13T23:04:44Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-2643-074e33aebc4b,GREATE-87eb35,2021-01-21T22:55:32Z,2021-01-21T22:55:32Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+355a4d50-2628-aa65-5967-8b1339aa29f9,GREATE-87eb35,2021-03-09T23:22:19Z,2021-03-09T23:22:19Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-39d5-6deb8c6075eb,GREATE-87eb35,2022-01-20T23:16:33Z,2022-01-20T23:16:33Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+355a4d50-2628-aa65-7d7f-0af0bd1baf44,GREATE-87eb35,2022-03-24T20:04:51Z,2022-03-31T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-90cf-cb5a16f0b64d,GREATE-87eb35,2022-04-21T20:04:51Z,2022-04-28T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-2268-731acf68bdcf,GREATE-87eb35,2022-05-19T20:04:51Z,2022-05-26T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-c78a-8f8efa3ab9a5,GREATE-87eb35,2022-06-09T20:04:51Z,2023-01-19T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-f4d1-2db1e7a9b80b,GREATE-87eb35,2022-06-16T20:15:00Z,2022-07-04T20:15:00Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+355a4d50-2628-aa65-2ac3-5f22c6624cd0,GREATE-87eb35,2022-06-23T22:42:52Z,2022-06-23T22:42:52Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+355a4d50-2628-aa65-02ea-989f32b33d76,GREATE-87eb35,2022-06-30T20:08:51Z,2022-06-30T20:08:51Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-e7c5-7f1c409118c5,GREATE-87eb35,2023-02-02T22:24:25Z,2023-02-02T22:24:25Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+355a4d50-2628-aa65-e944-58bafe391680,GREATE-87eb35,2023-05-25T20:04:51Z,2023-06-22T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-56b5-5f2ef47703a3,GREATE-87eb35,2023-05-26T20:27:49Z,2023-05-26T20:27:49Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-71e3-7b49de1d7b23,GREATE-87eb35,2023-06-22T20:04:51Z,2023-10-12T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-7d8d-672606beb0b6,GREATE-87eb35,2023-10-12T20:04:51Z,2024-01-11T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-4175-538c038d11ff,GREATE-87eb35,2024-01-11T20:04:51Z,2024-01-25T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-f6f4-0eff7b1ca84c,GREATE-87eb35,2024-02-01T20:08:51Z,2024-02-01T20:08:51Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-4fc2-9c989acf2dd7,GREATE-87eb35,2024-04-11T20:04:51Z,2024-12-05T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-1cf4-9e52b48fc497,GREATE-87eb35,2024-12-05T20:04:51Z,2024-12-12T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-166d-762c32788f6c,GREATE-87eb35,2025-01-23T20:04:51Z,2025-01-30T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-65ae-9016917fd0fb,GREATE-87eb35,2025-02-06T20:04:51Z,2025-02-13T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-ec39-11677da7c6e4,GREATE-87eb35,2025-02-27T20:04:51Z,2025-03-27T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-3a0b-de542d1c86fb,GREATE-87eb35,2025-03-13T20:08:51Z,2025-03-13T20:08:51Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-c053-2483a1c3597b,GREATE-87eb35,2025-04-17T22:51:43Z,2025-04-17T22:51:43Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+355a4d50-2628-aa65-d0c8-9c86df0d0501,GREATE-87eb35,2025-05-08T20:04:51Z,2025-07-10T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-a78a-79375788aa12,GREATE-87eb35,2025-07-10T20:04:51Z,2025-10-09T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-150e-1d6f741898cb,GREATE-87eb35,2026-02-06T20:26:52Z,2026-02-06T20:26:52Z,tropicamide 5 MG/ML Ophthalmic Solution,
+355a4d50-2628-aa65-8c82-dee442ceecd2,GREATE-87eb35,2026-02-19T22:41:56Z,2026-02-19T22:41:56Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+355a4d50-2628-aa65-8d20-bdd60cb4e06e,GREATE-87eb35,2026-06-11T20:04:51Z,2026-07-09T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+0b786670-17af-32e1-9413-fa827a09eb67,GREATE-ab9dcb,2013-05-14T23:29:08Z,2013-09-10T23:29:08Z,efavirenz 600 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-9413-fa827a09eb67,GREATE-ab9dcb,2013-05-14T23:29:08Z,2013-09-10T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-9413-fa827a09eb67,GREATE-ab9dcb,2013-05-14T23:29:08Z,2013-09-10T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-9413-fa827a09eb67,GREATE-ab9dcb,2013-05-14T23:29:08Z,2013-09-10T23:29:08Z,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-9fcc-352689de3f3a,GREATE-ab9dcb,2013-09-10T23:29:08Z,2014-01-07T23:29:08Z,efavirenz 600 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-9fcc-352689de3f3a,GREATE-ab9dcb,2013-09-10T23:29:08Z,2014-01-07T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-9fcc-352689de3f3a,GREATE-ab9dcb,2013-09-10T23:29:08Z,2014-01-07T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-9fcc-352689de3f3a,GREATE-ab9dcb,2013-09-10T23:29:08Z,2014-01-07T23:29:08Z,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-a161-d5b0138efb4f,GREATE-ab9dcb,2014-01-07T23:29:08Z,2014-09-30T23:29:08Z,efavirenz 600 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-a161-d5b0138efb4f,GREATE-ab9dcb,2014-01-07T23:29:08Z,2014-09-30T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-a161-d5b0138efb4f,GREATE-ab9dcb,2014-01-07T23:29:08Z,2014-09-30T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-a161-d5b0138efb4f,GREATE-ab9dcb,2014-01-07T23:29:08Z,2014-09-30T23:29:08Z,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-7533-1a8309c18d54,GREATE-ab9dcb,2014-09-30T23:29:08Z,2014-10-07T23:29:08Z,efavirenz 600 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-7533-1a8309c18d54,GREATE-ab9dcb,2014-09-30T23:29:08Z,2014-10-07T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-7533-1a8309c18d54,GREATE-ab9dcb,2014-09-30T23:29:08Z,2014-10-07T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-7533-1a8309c18d54,GREATE-ab9dcb,2014-09-30T23:29:08Z,2014-10-07T23:29:08Z,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-b132-1f27ce61d032,GREATE-ab9dcb,2014-10-07T23:29:08Z,2014-11-04T23:29:08Z,efavirenz 600 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-b132-1f27ce61d032,GREATE-ab9dcb,2014-10-07T23:29:08Z,2014-11-04T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-b132-1f27ce61d032,GREATE-ab9dcb,2014-10-07T23:29:08Z,2014-11-04T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-b132-1f27ce61d032,GREATE-ab9dcb,2014-10-07T23:29:08Z,2014-11-04T23:29:08Z,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-456d-1c265773d88d,GREATE-ab9dcb,2014-11-04T23:29:08Z,2015-01-06T23:29:08Z,efavirenz 600 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-456d-1c265773d88d,GREATE-ab9dcb,2014-11-04T23:29:08Z,2015-01-06T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-456d-1c265773d88d,GREATE-ab9dcb,2014-11-04T23:29:08Z,2015-01-06T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-456d-1c265773d88d,GREATE-ab9dcb,2014-11-04T23:29:08Z,2015-01-06T23:29:08Z,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-9d66-dbc74dc05706,GREATE-ab9dcb,2015-01-06T23:29:08Z,2015-01-13T23:29:08Z,efavirenz 600 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-9d66-dbc74dc05706,GREATE-ab9dcb,2015-01-06T23:29:08Z,2015-01-13T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-9d66-dbc74dc05706,GREATE-ab9dcb,2015-01-06T23:29:08Z,2015-01-13T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-9d66-dbc74dc05706,GREATE-ab9dcb,2015-01-06T23:29:08Z,2015-01-13T23:29:08Z,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-670d-a28cd1fde675,GREATE-ab9dcb,2015-01-13T23:29:08Z,2015-01-28T00:16:31Z,efavirenz 600 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-670d-a28cd1fde675,GREATE-ab9dcb,2015-01-13T23:29:08Z,2016-01-19T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-670d-a28cd1fde675,GREATE-ab9dcb,2015-01-13T23:29:08Z,2016-01-19T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-670d-a28cd1fde675,GREATE-ab9dcb,2015-01-13T23:29:08Z,2015-01-28T00:16:31Z,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-c41f-a10bd1916524,GREATE-ab9dcb,2015-01-21T02:04:32Z,2015-01-21T02:04:32Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+0b786670-17af-32e1-2f65-8b8e5ed5a0ce,GREATE-ab9dcb,2015-01-28T00:16:31Z,2016-01-19T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-789e-1446a262c9cd,GREATE-ab9dcb,2016-01-19T23:29:08Z,2017-01-24T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-789e-1446a262c9cd,GREATE-ab9dcb,2016-01-19T23:29:08Z,2017-01-24T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-789e-1446a262c9cd,GREATE-ab9dcb,2016-01-19T23:29:08Z,2017-01-24T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-0108-840e0f611f04,GREATE-ab9dcb,2017-01-24T23:29:08Z,2017-02-21T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-0108-840e0f611f04,GREATE-ab9dcb,2017-01-24T23:29:08Z,2017-02-21T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-0108-840e0f611f04,GREATE-ab9dcb,2017-01-24T23:29:08Z,2017-02-21T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-3d35-fc3d5b8848d2,GREATE-ab9dcb,2017-02-21T23:29:08Z,2017-03-28T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-3d35-fc3d5b8848d2,GREATE-ab9dcb,2017-02-21T23:29:08Z,2017-03-28T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-3d35-fc3d5b8848d2,GREATE-ab9dcb,2017-02-21T23:29:08Z,2017-03-28T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-ca1b-0ae3ef1bc6dd,GREATE-ab9dcb,2017-03-08T02:18:38Z,2017-03-08T02:18:38Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+0b786670-17af-32e1-0074-663d561f891f,GREATE-ab9dcb,2017-09-04T00:12:53Z,2017-09-22T00:12:53Z,Ibuprofen 200 MG Oral Tablet,
+0b786670-17af-32e1-750e-50f00d8dbd79,GREATE-ab9dcb,2018-01-30T23:29:08Z,2018-02-27T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-750e-50f00d8dbd79,GREATE-ab9dcb,2018-01-30T23:29:08Z,2018-02-27T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-750e-50f00d8dbd79,GREATE-ab9dcb,2018-01-30T23:29:08Z,2018-02-27T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-b22e-ff12d69ce5cb,GREATE-ab9dcb,2018-02-27T23:29:08Z,2018-03-20T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-b22e-ff12d69ce5cb,GREATE-ab9dcb,2018-02-27T23:29:08Z,2018-03-20T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-b22e-ff12d69ce5cb,GREATE-ab9dcb,2018-02-27T23:29:08Z,2018-03-20T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-b657-a2fe31e21a3f,GREATE-ab9dcb,2018-03-20T23:29:08Z,2019-02-05T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-b657-a2fe31e21a3f,GREATE-ab9dcb,2018-03-20T23:29:08Z,2019-02-05T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-b657-a2fe31e21a3f,GREATE-ab9dcb,2018-03-20T23:29:08Z,2019-02-05T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-c152-bdf03ce2f4f4,GREATE-ab9dcb,2019-02-05T23:29:08Z,2019-09-10T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-c152-bdf03ce2f4f4,GREATE-ab9dcb,2019-02-05T23:29:08Z,2019-09-10T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-c152-bdf03ce2f4f4,GREATE-ab9dcb,2019-02-05T23:29:08Z,2019-09-10T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-b218-96844030f267,GREATE-ab9dcb,2019-09-10T23:29:08Z,2019-11-05T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-b218-96844030f267,GREATE-ab9dcb,2019-09-10T23:29:08Z,2019-11-05T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-b218-96844030f267,GREATE-ab9dcb,2019-09-10T23:29:08Z,2019-11-05T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-0069-52a1fb4c3940,GREATE-ab9dcb,2019-11-12T23:29:08Z,2019-11-19T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-0069-52a1fb4c3940,GREATE-ab9dcb,2019-11-12T23:29:08Z,2019-11-19T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-0069-52a1fb4c3940,GREATE-ab9dcb,2019-11-12T23:29:08Z,2019-11-19T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-566a-4cf0c3fd0f69,GREATE-ab9dcb,2019-12-03T23:29:08Z,2019-12-10T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-566a-4cf0c3fd0f69,GREATE-ab9dcb,2019-12-03T23:29:08Z,2019-12-10T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-566a-4cf0c3fd0f69,GREATE-ab9dcb,2019-12-03T23:29:08Z,2019-12-10T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-80be-3703a7fff34d,GREATE-ab9dcb,2019-12-24T23:29:08Z,2020-02-11T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-80be-3703a7fff34d,GREATE-ab9dcb,2019-12-24T23:29:08Z,2020-02-11T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-80be-3703a7fff34d,GREATE-ab9dcb,2019-12-24T23:29:08Z,2020-02-11T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-6b93-a90f5a1fa31f,GREATE-ab9dcb,2019-12-31T23:45:33Z,2020-01-12T23:45:33Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+0b786670-17af-32e1-bd8e-281b05f9c95b,GREATE-ab9dcb,2020-01-08T02:40:30Z,2020-01-08T02:40:30Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+0b786670-17af-32e1-2ce4-909ecd327224,GREATE-ab9dcb,2020-02-11T23:29:08Z,2020-10-06T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-2ce4-909ecd327224,GREATE-ab9dcb,2020-02-11T23:29:08Z,2020-10-06T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-2ce4-909ecd327224,GREATE-ab9dcb,2020-02-11T23:29:08Z,2020-10-06T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-ed93-6c3ac2c1f927,GREATE-ab9dcb,2020-10-06T23:29:08Z,2021-02-16T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-ed93-6c3ac2c1f927,GREATE-ab9dcb,2020-10-06T23:29:08Z,2021-02-16T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-ed93-6c3ac2c1f927,GREATE-ab9dcb,2020-10-06T23:29:08Z,2021-02-16T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-a60b-d7c53abdbaff,GREATE-ab9dcb,2021-02-16T23:29:08Z,2022-02-22T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-a60b-d7c53abdbaff,GREATE-ab9dcb,2021-02-16T23:29:08Z,2022-02-22T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-a60b-d7c53abdbaff,GREATE-ab9dcb,2021-02-16T23:29:08Z,2022-02-22T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-557a-6fed403134e8,GREATE-ab9dcb,2022-02-22T23:29:08Z,2022-08-09T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-557a-6fed403134e8,GREATE-ab9dcb,2022-02-22T23:29:08Z,2022-08-09T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-557a-6fed403134e8,GREATE-ab9dcb,2022-02-22T23:29:08Z,2022-08-09T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-52a0-12a811c988ef,GREATE-ab9dcb,2022-08-23T23:29:08Z,2022-08-30T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-52a0-12a811c988ef,GREATE-ab9dcb,2022-08-23T23:29:08Z,2022-08-30T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-52a0-12a811c988ef,GREATE-ab9dcb,2022-08-23T23:29:08Z,2022-08-30T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-313c-8fc4916558a0,GREATE-ab9dcb,2022-09-06T23:29:08Z,2022-10-04T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-313c-8fc4916558a0,GREATE-ab9dcb,2022-09-06T23:29:08Z,2022-10-04T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-313c-8fc4916558a0,GREATE-ab9dcb,2022-09-06T23:29:08Z,2022-10-04T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-3416-458cc6ee6299,GREATE-ab9dcb,2022-09-14T03:26:16Z,2022-09-14T03:26:16Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+0b786670-17af-32e1-8df1-37879646d6ad,GREATE-ab9dcb,2022-10-11T23:29:08Z,2023-02-28T23:29:08Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-8df1-37879646d6ad,GREATE-ab9dcb,2022-10-11T23:29:08Z,2023-02-28T23:29:08Z,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-8df1-37879646d6ad,GREATE-ab9dcb,2022-10-11T23:29:08Z,2023-02-28T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-42a0-71cb03c8174b,GREATE-ab9dcb,2023-02-28T23:29:08Z,,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+0b786670-17af-32e1-42a0-71cb03c8174b,GREATE-ab9dcb,2023-02-28T23:29:08Z,,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,Acquired immune deficiency syndrome (disorder)
+0b786670-17af-32e1-42a0-71cb03c8174b,GREATE-ab9dcb,2023-02-28T23:29:08Z,,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-6e35-54ed9a11ccad,GREATE-36929c,2006-07-25T23:29:08Z,2014-09-02T23:29:08Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-6d57-c658101aea22,GREATE-36929c,2006-11-06T22:29:08Z,2006-11-22T22:29:08Z,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,Acute bronchitis (disorder)
+716c6d0a-2a5d-0aaa-06e4-ada94fb442ac,GREATE-36929c,2007-07-25T23:29:08Z,2008-07-24T23:29:08Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-cd52-8b7aed91af80,GREATE-36929c,2008-07-08T23:29:08Z,2008-07-08T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-cd52-8b7aed91af80,GREATE-36929c,2008-07-08T23:29:08Z,2009-07-14T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-9ee5-a399df3fe76c,GREATE-36929c,2008-07-23T01:58:37Z,2008-07-23T01:58:37Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+716c6d0a-2a5d-0aaa-6066-f9d6fc2c467f,GREATE-36929c,2008-07-24T23:29:08Z,2009-07-24T23:29:08Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-025a-a65dea2c5f5b,GREATE-36929c,2008-08-07T23:29:08Z,2009-07-14T23:29:08Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-e251-b0ef69c1b72e,GREATE-36929c,2009-07-14T23:29:08Z,2010-07-20T23:29:08Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-e251-b0ef69c1b72e,GREATE-36929c,2009-07-14T23:29:08Z,2010-07-20T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-cdd3-54861ce83926,GREATE-36929c,2009-07-24T23:29:08Z,2010-07-24T23:29:08Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-603e-9c66072bcce5,GREATE-36929c,2009-11-09T00:29:08Z,2009-12-01T23:29:08Z,Acetaminophen 325 MG Oral Tablet,
+716c6d0a-2a5d-0aaa-e4c3-e35331d5def0,GREATE-36929c,2010-07-20T23:29:08Z,2011-07-26T23:29:08Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-e4c3-e35331d5def0,GREATE-36929c,2010-07-20T23:29:08Z,2011-07-26T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-74cb-c7044c2d693b,GREATE-36929c,2010-07-24T23:29:08Z,2011-08-02T23:29:08Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-2ecd-04d69fef62bc,GREATE-36929c,2011-07-26T23:29:08Z,2012-07-31T23:29:08Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-2ecd-04d69fef62bc,GREATE-36929c,2011-07-26T23:29:08Z,2012-07-31T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-d8e7-ff63271fdb6d,GREATE-36929c,2011-08-02T23:29:08Z,2012-08-01T23:29:08Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-d99e-01073c0e9ac7,GREATE-36929c,2012-07-31T23:29:08Z,2013-07-23T23:29:08Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-d99e-01073c0e9ac7,GREATE-36929c,2012-07-31T23:29:08Z,2013-07-23T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-3061-f5b2bacf94b5,GREATE-36929c,2012-08-01T23:29:08Z,2013-08-20T23:29:08Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-318c-43f5272cd284,GREATE-36929c,2013-07-15T01:29:08Z,2013-08-04T01:29:08Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+716c6d0a-2a5d-0aaa-d4d4-c5854fbdd737,GREATE-36929c,2013-07-30T23:29:08Z,2013-08-06T23:29:08Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-d4d4-c5854fbdd737,GREATE-36929c,2013-07-30T23:29:08Z,2013-08-06T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-97ad-bb40b53bbdfb,GREATE-36929c,2013-08-06T23:29:08Z,2014-08-12T23:29:08Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-97ad-bb40b53bbdfb,GREATE-36929c,2013-08-06T23:29:08Z,2014-08-12T23:29:08Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-7c46-88a59a004935,GREATE-36929c,2013-08-20T23:29:08Z,2014-09-02T23:29:08Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-259c-f85352b65fec,GREATE-36929c,2014-08-12T23:29:08Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-259c-f85352b65fec,GREATE-36929c,2014-08-12T23:29:08Z,,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+716c6d0a-2a5d-0aaa-2187-516f63dc17a8,GREATE-36929c,2014-08-27T01:57:04Z,2014-08-27T01:57:04Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+716c6d0a-2a5d-0aaa-3864-136cad83982c,GREATE-36929c,2014-09-02T23:29:08Z,,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+716c6d0a-2a5d-0aaa-b305-d6399271a23d,GREATE-36929c,2015-02-03T23:29:08Z,2015-02-03T23:29:08Z,piperacillin 2000 MG / tazobactam 250 MG Injection,Sepsis (disorder)
+716c6d0a-2a5d-0aaa-b305-d6399271a23d,GREATE-36929c,2015-02-03T23:29:08Z,2015-02-03T23:29:08Z,150 ML vancomycin 5 MG/ML Injection,Sepsis (disorder)
+716c6d0a-2a5d-0aaa-b305-d6399271a23d,GREATE-36929c,2015-02-04T00:59:08Z,2015-02-04T00:59:08Z,4 ML norepinephrine 1 MG/ML Injection,Septic shock (disorder)
+fd0d7b3a-307d-07b8-03c4-b470efca14fe,GREATE-a96949,2014-07-09T00:33:10Z,,Vitamin B12 5 MG/ML Injectable Solution,
+fd0d7b3a-307d-07b8-60cc-55c9b737a3db,GREATE-a96949,2019-08-12T00:57:46Z,2019-09-03T00:57:46Z,Ibuprofen 200 MG Oral Tablet,
+fd0d7b3a-307d-07b8-ec05-e6d8fd3d21b5,GREATE-a96949,2020-07-03T23:29:08Z,2020-07-17T23:29:08Z,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,
+fd0d7b3a-307d-07b8-efb0-a643f7c65b8b,GREATE-a96949,2020-08-12T03:01:38Z,2020-08-12T03:01:38Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+fd0d7b3a-307d-07b8-0496-6c7a4a70d8a4,GREATE-a96949,2022-08-24T04:38:40Z,2022-08-24T04:38:40Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+fd0d7b3a-307d-07b8-591d-615656dd75ad,GREATE-a96949,2023-08-30T01:07:10Z,2023-08-30T01:07:10Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+fd0d7b3a-307d-07b8-585d-de67df8134b0,GREATE-a96949,2025-09-10T02:00:51Z,2025-09-10T02:00:51Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+6b687f11-0721-ccaf-2eb8-693c36e09cf4,GREATE-0304cf,1997-12-06T10:46:29Z,1997-12-29T10:46:29Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+8d91c36a-1f7e-3842-3933-cd15255296be,GREATE-40a009,2008-12-27T13:17:57Z,2008-12-27T13:17:57Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+e142981b-3577-4115-baec-dd0b13559ad2,GREATE-aeb5da,2020-10-24T13:34:23Z,2020-10-24T13:34:23Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+e142981b-3577-4115-a968-381fd5b87ac1,GREATE-aeb5da,2022-01-28T12:01:01Z,2022-02-12T12:01:01Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+e142981b-3577-4115-c6e5-0f0156ee1cb9,GREATE-aeb5da,2022-10-29T14:04:34Z,2022-10-29T14:04:34Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+0f3d04a2-f42e-1429-9f41-051e25478ca3,GREATE-e57722,2004-03-25T20:44:21Z,,Clopidogrel 75 MG Oral Tablet,
+0f3d04a2-f42e-1429-9f41-051e25478ca3,GREATE-e57722,2004-03-25T20:44:21Z,,Simvastatin 20 MG Oral Tablet,
+0f3d04a2-f42e-1429-9f41-051e25478ca3,GREATE-e57722,2004-03-25T20:44:21Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+0f3d04a2-f42e-1429-9f41-051e25478ca3,GREATE-e57722,2004-03-25T20:44:21Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+0f3d04a2-f42e-1429-656b-419c8ae88cb9,GREATE-e57722,2016-05-26T20:44:21Z,2017-06-01T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-292b-89f90a821e07,GREATE-e57722,2017-06-01T20:44:21Z,2018-06-07T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-65a6-dc98ef79856e,GREATE-e57722,2018-06-07T20:44:21Z,2019-06-13T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-cef7-35d69af420e9,GREATE-e57722,2018-06-22T02:19:57Z,2018-06-22T02:19:57Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+0f3d04a2-f42e-1429-77ca-b89f4eab38dd,GREATE-e57722,2019-06-13T20:44:21Z,2020-06-18T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-846e-5505bf97fc80,GREATE-e57722,2020-06-18T20:44:21Z,2021-06-24T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-711d-3443aa68deab,GREATE-e57722,2020-07-03T02:12:25Z,2020-07-03T02:12:25Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+0f3d04a2-f42e-1429-3b5c-8b446f56db21,GREATE-e57722,2021-02-04T22:01:03Z,2021-03-20T22:01:03Z,Naproxen sodium 220 MG Oral Tablet,
+0f3d04a2-f42e-1429-4052-0167a6847976,GREATE-e57722,2021-06-24T20:44:21Z,2022-06-30T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-4052-0167a6847976,GREATE-e57722,2021-06-24T20:44:21Z,2022-06-30T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+0f3d04a2-f42e-1429-4f39-635f8ba35671,GREATE-e57722,2022-06-30T20:44:21Z,2022-12-15T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-4f39-635f8ba35671,GREATE-e57722,2022-06-30T20:44:21Z,2022-12-15T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+0f3d04a2-f42e-1429-2d79-0e8ef18d427f,GREATE-e57722,2022-12-05T03:56:08Z,2022-12-18T03:56:08Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+0f3d04a2-f42e-1429-2586-5f6911a25a3c,GREATE-e57722,2022-12-15T20:44:21Z,2023-07-06T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-2586-5f6911a25a3c,GREATE-e57722,2022-12-15T20:44:21Z,2023-07-06T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+0f3d04a2-f42e-1429-9049-0ea4d5b51e4f,GREATE-e57722,2022-12-29T23:46:10Z,2022-12-29T23:46:10Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+0f3d04a2-f42e-1429-142e-306ebb2504f3,GREATE-e57722,2023-05-28T22:26:06Z,2023-06-22T20:44:21Z,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,
+0f3d04a2-f42e-1429-142e-306ebb2504f3,GREATE-e57722,2023-05-28T22:26:06Z,2023-08-08T22:26:06Z,Ibuprofen 200 MG Oral Tablet,
+0f3d04a2-f42e-1429-d104-a4b4e8b94a70,GREATE-e57722,2023-07-06T20:44:21Z,2023-12-14T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-d104-a4b4e8b94a70,GREATE-e57722,2023-07-06T20:44:21Z,2023-12-14T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+0f3d04a2-f42e-1429-79d3-3e5bcb433f4c,GREATE-e57722,2023-07-20T23:11:04Z,2023-07-20T23:11:04Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+0f3d04a2-f42e-1429-e160-99856433c604,GREATE-e57722,2023-12-06T00:58:55Z,2023-12-19T00:58:55Z,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,Acute bronchitis (disorder)
+0f3d04a2-f42e-1429-9b26-a0d6fd431831,GREATE-e57722,2023-12-21T20:44:21Z,2024-07-11T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-9b26-a0d6fd431831,GREATE-e57722,2023-12-21T20:44:21Z,2024-07-11T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+0f3d04a2-f42e-1429-3819-1de2ff3a0974,GREATE-e57722,2023-12-28T23:17:48Z,2023-12-28T23:17:48Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+0f3d04a2-f42e-1429-da0c-199c2bc14869,GREATE-e57722,2024-07-11T20:44:21Z,2025-07-17T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-da0c-199c2bc14869,GREATE-e57722,2024-07-11T20:44:21Z,2025-07-17T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+0f3d04a2-f42e-1429-332f-b5a1f3aebcf4,GREATE-e57722,2025-07-17T20:44:21Z,2026-01-15T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-332f-b5a1f3aebcf4,GREATE-e57722,2025-07-17T20:44:21Z,2026-01-15T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+0f3d04a2-f42e-1429-cacf-0e03da4af7e1,GREATE-e57722,2026-01-15T20:44:21Z,2026-07-23T20:44:21Z,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-cacf-0e03da4af7e1,GREATE-e57722,2026-01-15T20:44:21Z,2026-07-23T20:44:21Z,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+0f3d04a2-f42e-1429-7fec-6e66deeff8ed,GREATE-e57722,2026-01-22T21:01:29Z,2026-01-29T21:01:29Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+0f3d04a2-f42e-1429-5ffb-af76a1552133,GREATE-e57722,2026-01-29T23:56:25Z,2026-01-29T23:56:25Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+0f3d04a2-f42e-1429-bacc-1462084e2ddc,GREATE-e57722,2026-07-23T20:44:21Z,,aspirin 81 MG Oral Capsule [Vazalore],
+0f3d04a2-f42e-1429-bacc-1462084e2ddc,GREATE-e57722,2026-07-23T20:44:21Z,,Alendronic acid 10 MG Oral Tablet,Osteoporosis (disorder)
+ad48e669-959c-b6f8-f034-0aff904d5d16,GREATE-337828,2015-11-10T13:52:51Z,2016-11-04T13:52:51Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+ad48e669-959c-b6f8-a11b-078733297c50,GREATE-337828,2016-11-12T15:18:52Z,2016-11-14T03:18:52Z,nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule,Acute infective cystitis (disorder)
+ad48e669-959c-b6f8-8781-78e6c9e9dc50,GREATE-337828,2017-10-15T11:52:51Z,2017-10-23T11:52:51Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+ad48e669-959c-b6f8-982e-578417b94d37,GREATE-337828,2018-01-29T05:52:51Z,2018-02-06T05:52:51Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+ad48e669-959c-b6f8-b747-40b547e683fc,GREATE-337828,2021-10-09T13:52:51Z,2022-10-04T13:52:51Z,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day],
+ad48e669-959c-b6f8-b15c-23e1072f3789,GREATE-337828,2022-10-04T13:52:51Z,2023-09-29T13:52:51Z,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day],
+31f368d9-3fdc-a15f-2e16-16e039523a1d,GREATE-8800fa,2018-04-12T19:08:56Z,2018-04-12T19:08:56Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+31f368d9-3fdc-a15f-13be-5dfd8d035601,GREATE-8800fa,2020-11-15T08:57:50Z,2020-12-01T08:57:50Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+31f368d9-3fdc-a15f-8b7e-70562dcff6c2,GREATE-8800fa,2021-01-28T21:58:32Z,2021-01-28T21:58:32Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+31f368d9-3fdc-a15f-a859-6a8732d6f5dc,GREATE-8800fa,2023-02-23T18:28:55Z,2023-02-23T18:28:55Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+31f368d9-3fdc-a15f-150c-6b612f029e55,GREATE-8800fa,2023-07-13T15:44:09Z,2023-07-21T01:44:09Z,Penicillin V Potassium 500 MG Oral Tablet,Streptococcal sore throat (disorder)
+ba47a33b-ffb6-25b9-c45d-978e3b58321f,GREATE-93c4c4,2017-04-17T14:13:30Z,2017-04-17T14:13:30Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+ba47a33b-ffb6-25b9-5530-f7e8945626fa,GREATE-93c4c4,2018-04-23T14:24:38Z,2018-04-23T14:24:38Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+ba47a33b-ffb6-25b9-d6c3-f6c06f757824,GREATE-93c4c4,2019-04-29T12:01:26Z,2019-05-07T12:01:26Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+ba47a33b-ffb6-25b9-7b8a-1c8b72b30a33,GREATE-93c4c4,2021-06-21T14:14:11Z,2021-06-21T14:14:11Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+ba47a33b-ffb6-25b9-0df3-0bac310fffd5,GREATE-93c4c4,2022-05-02T18:35:03Z,2022-05-02T18:35:03Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+f6359fe4-4340-2820-ea17-e48e479c13e3,GREATE-3b5a13,2020-10-29T00:54:50Z,2021-10-24T00:54:50Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+f6359fe4-4340-2820-ffcd-d6bdf53b0139,GREATE-3b5a13,2021-10-24T00:54:50Z,2022-10-19T00:54:50Z,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day],
+f6359fe4-4340-2820-9dd4-936ea1abad91,GREATE-3b5a13,2024-12-04T00:54:50Z,2024-12-23T00:54:50Z,tramadol hydrochloride 50 MG Oral Tablet,
+f6359fe4-4340-2820-a650-adaf03554abc,GREATE-3b5a13,2025-01-06T03:38:39Z,2025-01-06T03:38:39Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+f6359fe4-4340-2820-bd46-0f399631940f,GREATE-3b5a13,2025-01-14T19:54:50Z,2025-12-29T00:54:50Z,72 HR Fentanyl 0.025 MG/HR Transdermal System,
+f6359fe4-4340-2820-36c8-199f6a7f263e,GREATE-3b5a13,2025-02-17T00:54:50Z,2026-02-12T00:54:50Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+f6359fe4-4340-2820-cc18-5e30d827de10,GREATE-3b5a13,2025-03-15T19:54:50Z,2025-12-29T00:54:50Z,12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule,
+f6359fe4-4340-2820-73bc-94183d14c6f9,GREATE-3b5a13,2026-01-12T03:47:50Z,2026-01-12T03:47:50Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+d309f605-948b-962f-c3f0-b822f83778ef,GREATE-3a1793,2016-01-31T22:44:41Z,2016-11-20T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-c3f0-b822f83778ef,GREATE-3a1793,2016-01-31T22:44:41Z,2016-11-20T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-5179-e61f81de96bb,GREATE-3a1793,2017-12-10T22:44:41Z,2018-12-02T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-5179-e61f81de96bb,GREATE-3a1793,2017-12-10T22:44:41Z,2018-12-02T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-15ec-f8be0002d2b0,GREATE-3a1793,2017-12-25T02:00:06Z,2017-12-25T02:00:06Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+d309f605-948b-962f-07d1-75d5c126723c,GREATE-3a1793,2024-01-15T03:34:43Z,2024-01-15T03:34:43Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+d309f605-948b-962f-ad66-08d072919154,GREATE-3a1793,2024-09-15T22:44:41Z,2025-01-05T22:44:41Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-ad66-08d072919154,GREATE-3a1793,2024-09-15T22:44:41Z,2025-01-05T22:44:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+d309f605-948b-962f-9557-b6b037bb8e8c,GREATE-3a1793,2024-09-30T01:31:11Z,2024-09-30T01:31:11Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+96de62ae-1b00-58d8-a648-7abdae336627,GREATE-88cada,2001-08-15T10:32:30Z,,Loratadine 5 MG Chewable Tablet,
+96de62ae-1b00-58d8-8fd6-6d160d9dcd1e,GREATE-88cada,2001-08-16T16:01:01Z,,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,
+96de62ae-1b00-58d8-bb3e-4952e7ab03a0,GREATE-88cada,2016-06-30T10:32:30Z,2017-06-25T10:32:30Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+96de62ae-1b00-58d8-7427-d9a87e775aae,GREATE-88cada,2016-10-05T13:30:07Z,2016-10-05T13:30:07Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+96de62ae-1b00-58d8-d8e9-13d96f91b588,GREATE-88cada,2017-06-25T10:32:30Z,2018-06-20T10:32:30Z,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day],
+96de62ae-1b00-58d8-acb1-dceb57768a22,GREATE-88cada,2018-06-20T10:32:30Z,2019-06-15T10:32:30Z,{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day],
+96de62ae-1b00-58d8-ab4e-a1be02e75e59,GREATE-88cada,2019-08-30T13:07:04Z,2019-09-19T13:07:04Z,Acetaminophen 325 MG Oral Tablet,
+96de62ae-1b00-58d8-43de-1d0bb08f0242,GREATE-88cada,2019-11-06T11:36:57Z,,ferrous sulfate 325 MG Oral Tablet,
+96de62ae-1b00-58d8-3559-dc426825b94a,GREATE-88cada,2024-07-16T13:32:58Z,2024-07-29T10:32:30Z,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,
+96de62ae-1b00-58d8-3559-dc426825b94a,GREATE-88cada,2024-07-16T13:32:58Z,2024-11-09T13:32:58Z,Acetaminophen 325 MG Oral Tablet,
+96de62ae-1b00-58d8-5e38-dfe7538b3416,GREATE-88cada,2025-05-02T11:49:24Z,2025-05-14T11:49:24Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+e7c068bb-6d29-27d3-2c1f-47120101c451,GREATE-49cebd,2015-10-06T00:33:56Z,2016-10-03T06:21:21Z,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena],
+e7c068bb-6d29-27d3-39bc-42cc6ba0cc2a,GREATE-49cebd,2016-02-24T00:33:56Z,2017-03-01T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-c7f8-f6d872840853,GREATE-49cebd,2016-08-07T15:33:56Z,2016-08-25T15:33:56Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+e7c068bb-6d29-27d3-1166-594175012e73,GREATE-49cebd,2016-10-03T06:21:21Z,2017-09-28T06:21:21Z,{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day],
+e7c068bb-6d29-27d3-8fb9-a62a41e9d0ac,GREATE-49cebd,2017-03-01T00:33:56Z,2018-03-07T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-e040-5dbd2ecc6d6f,GREATE-49cebd,2018-03-07T00:33:56Z,2019-03-13T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-a0cd-a8701715cdbf,GREATE-49cebd,2018-09-23T06:21:21Z,2019-09-18T06:21:21Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+e7c068bb-6d29-27d3-4e94-72e18f23c10f,GREATE-49cebd,2019-03-13T00:33:56Z,2020-03-18T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-58c8-a84034e72d1b,GREATE-49cebd,2020-03-18T00:33:56Z,2021-03-24T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-6e93-f067fa5a8a72,GREATE-49cebd,2020-04-01T03:38:15Z,2020-04-01T03:38:15Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+e7c068bb-6d29-27d3-3ba5-7c6572777ae0,GREATE-49cebd,2021-03-24T00:33:56Z,2022-03-30T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-8f8b-d81034517071,GREATE-49cebd,2022-03-30T00:33:56Z,2023-04-05T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-9ec4-e35b2664fc79,GREATE-49cebd,2023-04-05T00:33:56Z,2024-04-10T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-c888-6b02b3fc5a4d,GREATE-49cebd,2024-04-10T00:33:56Z,2025-04-16T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-bc0e-7e364a230489,GREATE-49cebd,2025-04-16T00:33:56Z,2026-04-22T00:33:56Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+e7c068bb-6d29-27d3-0903-c8e40bcf3904,GREATE-49cebd,2025-10-15T15:33:56Z,2025-10-30T15:33:56Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+e7c068bb-6d29-27d3-f148-975a090b9ce7,GREATE-49cebd,2026-04-22T00:33:56Z,,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-45c7-e87c64733302,GREATE-4607ed,1986-11-12T11:39:55Z,2025-07-30T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-e988-d87200387f36,GREATE-4607ed,2005-01-26T11:39:55Z,,Clopidogrel 75 MG Oral Tablet,
+bca1691f-8839-1d66-e988-d87200387f36,GREATE-4607ed,2005-01-26T11:39:55Z,,Simvastatin 20 MG Oral Tablet,
+bca1691f-8839-1d66-e988-d87200387f36,GREATE-4607ed,2005-01-26T11:39:55Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+bca1691f-8839-1d66-e988-d87200387f36,GREATE-4607ed,2005-01-26T11:39:55Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+bca1691f-8839-1d66-47db-babeaa77ec95,GREATE-4607ed,2016-03-23T11:39:55Z,2016-08-31T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-47db-babeaa77ec95,GREATE-4607ed,2016-03-23T11:39:55Z,2016-08-31T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-47db-babeaa77ec95,GREATE-4607ed,2016-03-23T11:39:55Z,2016-08-31T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-47db-babeaa77ec95,GREATE-4607ed,2016-03-23T11:39:55Z,2016-08-31T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-47db-babeaa77ec95,GREATE-4607ed,2016-03-23T11:39:55Z,2016-08-31T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-cc1d-e58f9b0ee7f8,GREATE-4607ed,2016-04-01T11:39:55Z,2017-05-03T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-4973-0b347762b23c,GREATE-4607ed,2016-08-31T11:39:55Z,2016-10-05T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4973-0b347762b23c,GREATE-4607ed,2016-08-31T11:39:55Z,2016-10-05T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4973-0b347762b23c,GREATE-4607ed,2016-08-31T11:39:55Z,2016-10-05T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4973-0b347762b23c,GREATE-4607ed,2016-08-31T11:39:55Z,2016-10-05T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4973-0b347762b23c,GREATE-4607ed,2016-08-31T11:39:55Z,2016-10-05T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-36c4-3e9f8bbd6471,GREATE-4607ed,2016-09-20T13:49:44Z,2016-09-20T13:49:44Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-8747-febad56d917c,GREATE-4607ed,2016-11-16T17:33:06Z,2016-11-16T17:33:06Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-38fb-920c0c6e4cca,GREATE-4607ed,2017-01-04T11:39:55Z,2017-02-15T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-38fb-920c0c6e4cca,GREATE-4607ed,2017-01-04T11:39:55Z,2017-02-15T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-38fb-920c0c6e4cca,GREATE-4607ed,2017-01-04T11:39:55Z,2017-02-15T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-38fb-920c0c6e4cca,GREATE-4607ed,2017-01-04T11:39:55Z,2017-02-15T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-38fb-920c0c6e4cca,GREATE-4607ed,2017-01-04T11:39:55Z,2017-02-15T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9df9-e8fd3edaede0,GREATE-4607ed,2017-02-15T11:39:55Z,2017-02-22T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9df9-e8fd3edaede0,GREATE-4607ed,2017-02-15T11:39:55Z,2017-02-22T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9df9-e8fd3edaede0,GREATE-4607ed,2017-02-15T11:39:55Z,2017-02-22T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-9df9-e8fd3edaede0,GREATE-4607ed,2017-02-15T11:39:55Z,2017-02-22T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9df9-e8fd3edaede0,GREATE-4607ed,2017-02-15T11:39:55Z,2017-02-22T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-d6e9-e37dc45c770b,GREATE-4607ed,2017-03-15T14:33:27Z,2017-03-15T14:33:27Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+bca1691f-8839-1d66-037e-663b6dfddc61,GREATE-4607ed,2017-03-22T11:39:55Z,2017-04-16T11:39:55Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+bca1691f-8839-1d66-f691-27d2916d884a,GREATE-4607ed,2017-03-29T11:39:55Z,2017-04-05T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f691-27d2916d884a,GREATE-4607ed,2017-03-29T11:39:55Z,2017-04-05T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f691-27d2916d884a,GREATE-4607ed,2017-03-29T11:39:55Z,2017-04-05T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-f691-27d2916d884a,GREATE-4607ed,2017-03-29T11:39:55Z,2017-04-05T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f691-27d2916d884a,GREATE-4607ed,2017-03-29T11:39:55Z,2017-04-05T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e1fe-900a2b7057bc,GREATE-4607ed,2017-04-19T11:39:55Z,2017-05-10T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e1fe-900a2b7057bc,GREATE-4607ed,2017-04-19T11:39:55Z,2017-05-10T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e1fe-900a2b7057bc,GREATE-4607ed,2017-04-19T11:39:55Z,2017-05-10T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-e1fe-900a2b7057bc,GREATE-4607ed,2017-04-19T11:39:55Z,2017-05-10T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e1fe-900a2b7057bc,GREATE-4607ed,2017-04-19T11:39:55Z,2017-05-10T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-5d5d-6e46aaf03cfd,GREATE-4607ed,2017-05-03T11:39:55Z,2018-05-16T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-829c-ade8d2a197b6,GREATE-4607ed,2017-05-10T11:39:55Z,2017-06-07T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-829c-ade8d2a197b6,GREATE-4607ed,2017-05-10T11:39:55Z,2017-06-07T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-829c-ade8d2a197b6,GREATE-4607ed,2017-05-10T11:39:55Z,2017-06-07T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-829c-ade8d2a197b6,GREATE-4607ed,2017-05-10T11:39:55Z,2017-06-07T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-829c-ade8d2a197b6,GREATE-4607ed,2017-05-10T11:39:55Z,2017-06-07T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-94f6-bd2c12f81be6,GREATE-4607ed,2017-06-07T11:39:55Z,2017-06-28T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-94f6-bd2c12f81be6,GREATE-4607ed,2017-06-07T11:39:55Z,2017-06-28T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-94f6-bd2c12f81be6,GREATE-4607ed,2017-06-07T11:39:55Z,2017-06-28T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-94f6-bd2c12f81be6,GREATE-4607ed,2017-06-07T11:39:55Z,2017-06-28T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-94f6-bd2c12f81be6,GREATE-4607ed,2017-06-07T11:39:55Z,2017-06-28T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9506-b879a1d9c46b,GREATE-4607ed,2017-06-28T11:39:55Z,2017-08-30T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9506-b879a1d9c46b,GREATE-4607ed,2017-06-28T11:39:55Z,2017-08-30T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9506-b879a1d9c46b,GREATE-4607ed,2017-06-28T11:39:55Z,2017-08-30T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-9506-b879a1d9c46b,GREATE-4607ed,2017-06-28T11:39:55Z,2017-08-30T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9506-b879a1d9c46b,GREATE-4607ed,2017-06-28T11:39:55Z,2017-08-30T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-bad8-7aae47cba822,GREATE-4607ed,2017-08-30T11:39:55Z,2017-09-27T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-bad8-7aae47cba822,GREATE-4607ed,2017-08-30T11:39:55Z,2017-09-27T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-bad8-7aae47cba822,GREATE-4607ed,2017-08-30T11:39:55Z,2017-09-27T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-bad8-7aae47cba822,GREATE-4607ed,2017-08-30T11:39:55Z,2017-09-27T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-bad8-7aae47cba822,GREATE-4607ed,2017-08-30T11:39:55Z,2017-09-27T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-44c1-201f55ff13fd,GREATE-4607ed,2017-09-15T14:08:23Z,2017-09-15T14:08:23Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-7df8-7e2722678b2e,GREATE-4607ed,2017-09-27T11:39:55Z,2017-10-25T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7df8-7e2722678b2e,GREATE-4607ed,2017-09-27T11:39:55Z,2017-10-25T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7df8-7e2722678b2e,GREATE-4607ed,2017-09-27T11:39:55Z,2017-10-25T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7df8-7e2722678b2e,GREATE-4607ed,2017-09-27T11:39:55Z,2017-10-25T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7df8-7e2722678b2e,GREATE-4607ed,2017-09-27T11:39:55Z,2017-10-25T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-0ba9-26b71d990599,GREATE-4607ed,2018-01-24T11:39:55Z,2018-02-28T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-0ba9-26b71d990599,GREATE-4607ed,2018-01-24T11:39:55Z,2018-02-28T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-0ba9-26b71d990599,GREATE-4607ed,2018-01-24T11:39:55Z,2018-02-28T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-0ba9-26b71d990599,GREATE-4607ed,2018-01-24T11:39:55Z,2018-02-28T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-0ba9-26b71d990599,GREATE-4607ed,2018-01-24T11:39:55Z,2018-02-28T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-44a0-322acd1f2377,GREATE-4607ed,2018-02-07T14:42:00Z,2018-02-07T14:42:00Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-c933-fadd20531121,GREATE-4607ed,2018-02-28T11:39:55Z,2018-03-28T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c933-fadd20531121,GREATE-4607ed,2018-02-28T11:39:55Z,2018-03-28T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c933-fadd20531121,GREATE-4607ed,2018-02-28T11:39:55Z,2018-03-28T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-c933-fadd20531121,GREATE-4607ed,2018-02-28T11:39:55Z,2018-03-28T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c933-fadd20531121,GREATE-4607ed,2018-02-28T11:39:55Z,2018-03-28T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f1a3-fb65aab9a11b,GREATE-4607ed,2018-03-28T11:39:55Z,2018-04-04T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f1a3-fb65aab9a11b,GREATE-4607ed,2018-03-28T11:39:55Z,2018-04-04T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f1a3-fb65aab9a11b,GREATE-4607ed,2018-03-28T11:39:55Z,2018-04-04T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-f1a3-fb65aab9a11b,GREATE-4607ed,2018-03-28T11:39:55Z,2018-04-04T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f1a3-fb65aab9a11b,GREATE-4607ed,2018-03-28T11:39:55Z,2018-04-04T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7079-2fe7b533b539,GREATE-4607ed,2018-04-04T11:39:55Z,2018-04-25T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7079-2fe7b533b539,GREATE-4607ed,2018-04-04T11:39:55Z,2018-04-25T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7079-2fe7b533b539,GREATE-4607ed,2018-04-04T11:39:55Z,2018-04-25T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7079-2fe7b533b539,GREATE-4607ed,2018-04-04T11:39:55Z,2018-04-25T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7079-2fe7b533b539,GREATE-4607ed,2018-04-04T11:39:55Z,2018-04-25T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7e84-e6880fdbc3a2,GREATE-4607ed,2018-05-02T11:39:55Z,2018-06-27T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7e84-e6880fdbc3a2,GREATE-4607ed,2018-05-02T11:39:55Z,2018-06-27T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7e84-e6880fdbc3a2,GREATE-4607ed,2018-05-02T11:39:55Z,2018-06-27T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7e84-e6880fdbc3a2,GREATE-4607ed,2018-05-02T11:39:55Z,2018-06-27T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7e84-e6880fdbc3a2,GREATE-4607ed,2018-05-02T11:39:55Z,2018-06-27T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-62d0-52cd94b46edb,GREATE-4607ed,2018-05-09T14:25:24Z,2018-05-09T14:25:24Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-f96e-2b72189bb0ac,GREATE-4607ed,2018-05-16T11:39:55Z,2019-05-29T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-72e6-f895f571aa73,GREATE-4607ed,2018-06-27T11:39:55Z,2018-07-25T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-72e6-f895f571aa73,GREATE-4607ed,2018-06-27T11:39:55Z,2018-07-25T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-72e6-f895f571aa73,GREATE-4607ed,2018-06-27T11:39:55Z,2018-07-25T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-72e6-f895f571aa73,GREATE-4607ed,2018-06-27T11:39:55Z,2018-07-25T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-72e6-f895f571aa73,GREATE-4607ed,2018-06-27T11:39:55Z,2018-07-25T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9031-9c3749f3d03f,GREATE-4607ed,2018-08-08T14:22:25Z,2018-08-08T14:22:25Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-812d-12aa3ceab865,GREATE-4607ed,2018-08-22T11:39:55Z,2018-10-24T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-812d-12aa3ceab865,GREATE-4607ed,2018-08-22T11:39:55Z,2018-10-24T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-812d-12aa3ceab865,GREATE-4607ed,2018-08-22T11:39:55Z,2018-10-24T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-812d-12aa3ceab865,GREATE-4607ed,2018-08-22T11:39:55Z,2018-10-24T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-812d-12aa3ceab865,GREATE-4607ed,2018-08-22T11:39:55Z,2018-10-24T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-dbdd-03263edaa1fd,GREATE-4607ed,2018-09-10T14:24:53Z,2018-09-10T14:24:53Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-2de0-b868a4da82fa,GREATE-4607ed,2018-10-24T11:39:55Z,2018-11-21T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-2de0-b868a4da82fa,GREATE-4607ed,2018-10-24T11:39:55Z,2018-11-21T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-2de0-b868a4da82fa,GREATE-4607ed,2018-10-24T11:39:55Z,2018-11-21T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-2de0-b868a4da82fa,GREATE-4607ed,2018-10-24T11:39:55Z,2018-11-21T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-2de0-b868a4da82fa,GREATE-4607ed,2018-10-24T11:39:55Z,2018-11-21T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4768-2d5a8aa275a7,GREATE-4607ed,2018-12-19T11:39:55Z,2019-02-20T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4768-2d5a8aa275a7,GREATE-4607ed,2018-12-19T11:39:55Z,2019-02-20T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4768-2d5a8aa275a7,GREATE-4607ed,2018-12-19T11:39:55Z,2019-02-20T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4768-2d5a8aa275a7,GREATE-4607ed,2018-12-19T11:39:55Z,2019-02-20T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4768-2d5a8aa275a7,GREATE-4607ed,2018-12-19T11:39:55Z,2019-02-20T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-0a35-73d2f4fefb68,GREATE-4607ed,2019-02-20T11:39:55Z,2019-03-20T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-0a35-73d2f4fefb68,GREATE-4607ed,2019-02-20T11:39:55Z,2019-03-20T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-0a35-73d2f4fefb68,GREATE-4607ed,2019-02-20T11:39:55Z,2019-03-20T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-0a35-73d2f4fefb68,GREATE-4607ed,2019-02-20T11:39:55Z,2019-03-20T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-0a35-73d2f4fefb68,GREATE-4607ed,2019-02-20T11:39:55Z,2019-03-20T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-aa36-42dd19ebca13,GREATE-4607ed,2019-03-06T18:03:24Z,2019-03-06T18:03:24Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+bca1691f-8839-1d66-09a9-372081f14030,GREATE-4607ed,2019-03-09T11:39:55Z,2019-03-23T11:39:55Z,Amoxicillin 250 MG Oral Capsule,
+bca1691f-8839-1d66-09a9-372081f14030,GREATE-4607ed,2019-03-09T11:39:55Z,2019-03-23T11:39:55Z,Naproxen sodium 220 MG Oral Tablet,
+bca1691f-8839-1d66-f496-2a1b7799b7c5,GREATE-4607ed,2019-03-20T11:39:55Z,2019-04-10T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f496-2a1b7799b7c5,GREATE-4607ed,2019-03-20T11:39:55Z,2019-04-10T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f496-2a1b7799b7c5,GREATE-4607ed,2019-03-20T11:39:55Z,2019-04-10T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-f496-2a1b7799b7c5,GREATE-4607ed,2019-03-20T11:39:55Z,2019-04-10T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f496-2a1b7799b7c5,GREATE-4607ed,2019-03-20T11:39:55Z,2019-04-10T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9565-c90d117de173,GREATE-4607ed,2019-04-10T11:39:55Z,2019-04-24T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9565-c90d117de173,GREATE-4607ed,2019-04-10T11:39:55Z,2019-04-24T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9565-c90d117de173,GREATE-4607ed,2019-04-10T11:39:55Z,2019-04-24T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-9565-c90d117de173,GREATE-4607ed,2019-04-10T11:39:55Z,2019-04-24T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9565-c90d117de173,GREATE-4607ed,2019-04-10T11:39:55Z,2019-04-24T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c087-7d0b3e73f30d,GREATE-4607ed,2019-05-01T11:39:55Z,2019-05-22T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c087-7d0b3e73f30d,GREATE-4607ed,2019-05-01T11:39:55Z,2019-05-22T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c087-7d0b3e73f30d,GREATE-4607ed,2019-05-01T11:39:55Z,2019-05-22T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-c087-7d0b3e73f30d,GREATE-4607ed,2019-05-01T11:39:55Z,2019-05-22T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c087-7d0b3e73f30d,GREATE-4607ed,2019-05-01T11:39:55Z,2019-05-22T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-2483-947c9364ca50,GREATE-4607ed,2019-05-22T11:39:55Z,2019-08-21T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-2483-947c9364ca50,GREATE-4607ed,2019-05-22T11:39:55Z,2019-08-21T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-2483-947c9364ca50,GREATE-4607ed,2019-05-22T11:39:55Z,2019-08-21T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-2483-947c9364ca50,GREATE-4607ed,2019-05-22T11:39:55Z,2019-08-21T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-2483-947c9364ca50,GREATE-4607ed,2019-05-22T11:39:55Z,2019-08-21T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7f22-ea8c9dc1db5d,GREATE-4607ed,2019-05-29T11:39:55Z,2020-05-28T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-c139-17b48c2fd8c5,GREATE-4607ed,2019-06-05T14:39:34Z,2019-06-05T14:39:34Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+bca1691f-8839-1d66-492b-ea4b4fad383f,GREATE-4607ed,2019-08-06T14:42:00Z,2019-08-06T14:42:00Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-ba62-7ed3c82920e5,GREATE-4607ed,2019-08-21T11:39:55Z,2019-09-18T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-ba62-7ed3c82920e5,GREATE-4607ed,2019-08-21T11:39:55Z,2019-09-18T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-ba62-7ed3c82920e5,GREATE-4607ed,2019-08-21T11:39:55Z,2019-09-18T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-ba62-7ed3c82920e5,GREATE-4607ed,2019-08-21T11:39:55Z,2019-09-18T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-ba62-7ed3c82920e5,GREATE-4607ed,2019-08-21T11:39:55Z,2019-09-18T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7b76-9286d2773b2b,GREATE-4607ed,2019-09-18T11:39:55Z,2019-11-20T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7b76-9286d2773b2b,GREATE-4607ed,2019-09-18T11:39:55Z,2019-11-20T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7b76-9286d2773b2b,GREATE-4607ed,2019-09-18T11:39:55Z,2019-11-20T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7b76-9286d2773b2b,GREATE-4607ed,2019-09-18T11:39:55Z,2019-11-20T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7b76-9286d2773b2b,GREATE-4607ed,2019-09-18T11:39:55Z,2019-11-20T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4ca6-df2ab5a45f04,GREATE-4607ed,2019-11-20T11:39:55Z,2019-12-18T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4ca6-df2ab5a45f04,GREATE-4607ed,2019-11-20T11:39:55Z,2019-12-18T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4ca6-df2ab5a45f04,GREATE-4607ed,2019-11-20T11:39:55Z,2019-12-18T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4ca6-df2ab5a45f04,GREATE-4607ed,2019-11-20T11:39:55Z,2019-12-18T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4ca6-df2ab5a45f04,GREATE-4607ed,2019-11-20T11:39:55Z,2019-12-18T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c230-d71581c52147,GREATE-4607ed,2019-12-18T11:39:55Z,2020-01-15T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c230-d71581c52147,GREATE-4607ed,2019-12-18T11:39:55Z,2020-01-15T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c230-d71581c52147,GREATE-4607ed,2019-12-18T11:39:55Z,2020-01-15T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-c230-d71581c52147,GREATE-4607ed,2019-12-18T11:39:55Z,2020-01-15T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c230-d71581c52147,GREATE-4607ed,2019-12-18T11:39:55Z,2020-01-15T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9b3e-21861e9c3c94,GREATE-4607ed,2020-01-15T11:39:55Z,2020-02-12T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9b3e-21861e9c3c94,GREATE-4607ed,2020-01-15T11:39:55Z,2020-02-12T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9b3e-21861e9c3c94,GREATE-4607ed,2020-01-15T11:39:55Z,2020-02-12T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-9b3e-21861e9c3c94,GREATE-4607ed,2020-01-15T11:39:55Z,2020-02-12T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9b3e-21861e9c3c94,GREATE-4607ed,2020-01-15T11:39:55Z,2020-02-12T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c701-29b284de2e4b,GREATE-4607ed,2020-02-12T11:39:55Z,2020-03-18T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c701-29b284de2e4b,GREATE-4607ed,2020-02-12T11:39:55Z,2020-03-18T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c701-29b284de2e4b,GREATE-4607ed,2020-02-12T11:39:55Z,2020-03-18T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-c701-29b284de2e4b,GREATE-4607ed,2020-02-12T11:39:55Z,2020-03-18T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c701-29b284de2e4b,GREATE-4607ed,2020-02-12T11:39:55Z,2020-03-18T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-5024-6996753b0111,GREATE-4607ed,2020-02-26T15:15:02Z,2020-02-26T15:15:02Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-55e7-7676bd991e74,GREATE-4607ed,2020-03-18T11:39:55Z,2020-04-15T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-55e7-7676bd991e74,GREATE-4607ed,2020-03-18T11:39:55Z,2020-04-15T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-55e7-7676bd991e74,GREATE-4607ed,2020-03-18T11:39:55Z,2020-04-15T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-55e7-7676bd991e74,GREATE-4607ed,2020-03-18T11:39:55Z,2020-04-15T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-55e7-7676bd991e74,GREATE-4607ed,2020-03-18T11:39:55Z,2020-04-15T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9bbb-6888e099e6d3,GREATE-4607ed,2020-04-01T14:12:55Z,2020-04-01T14:12:55Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+bca1691f-8839-1d66-133d-d87ddfb5271d,GREATE-4607ed,2020-04-15T11:39:55Z,2020-04-22T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-133d-d87ddfb5271d,GREATE-4607ed,2020-04-15T11:39:55Z,2020-04-22T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-133d-d87ddfb5271d,GREATE-4607ed,2020-04-15T11:39:55Z,2020-04-22T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-133d-d87ddfb5271d,GREATE-4607ed,2020-04-15T11:39:55Z,2020-04-22T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-133d-d87ddfb5271d,GREATE-4607ed,2020-04-15T11:39:55Z,2020-04-22T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-fab1-5567381bfd67,GREATE-4607ed,2020-04-22T11:39:55Z,2020-05-13T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-fab1-5567381bfd67,GREATE-4607ed,2020-04-22T11:39:55Z,2020-05-13T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-fab1-5567381bfd67,GREATE-4607ed,2020-04-22T11:39:55Z,2020-05-13T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-fab1-5567381bfd67,GREATE-4607ed,2020-04-22T11:39:55Z,2020-05-13T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-fab1-5567381bfd67,GREATE-4607ed,2020-04-22T11:39:55Z,2020-05-13T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-af1c-98b639a139ce,GREATE-4607ed,2020-05-13T11:39:55Z,2020-06-17T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-af1c-98b639a139ce,GREATE-4607ed,2020-05-13T11:39:55Z,2020-06-17T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-af1c-98b639a139ce,GREATE-4607ed,2020-05-13T11:39:55Z,2020-06-17T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-af1c-98b639a139ce,GREATE-4607ed,2020-05-13T11:39:55Z,2020-06-17T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-af1c-98b639a139ce,GREATE-4607ed,2020-05-13T11:39:55Z,2020-06-17T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-12d0-0797bc627a17,GREATE-4607ed,2020-05-28T11:39:55Z,2021-05-28T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-e43b-18109c66ecf6,GREATE-4607ed,2020-06-17T11:39:55Z,2020-07-15T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e43b-18109c66ecf6,GREATE-4607ed,2020-06-17T11:39:55Z,2020-07-15T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e43b-18109c66ecf6,GREATE-4607ed,2020-06-17T11:39:55Z,2020-07-15T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-e43b-18109c66ecf6,GREATE-4607ed,2020-06-17T11:39:55Z,2020-07-15T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e43b-18109c66ecf6,GREATE-4607ed,2020-06-17T11:39:55Z,2020-07-15T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4efc-29054f40a6ad,GREATE-4607ed,2020-07-15T11:39:55Z,2020-09-09T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4efc-29054f40a6ad,GREATE-4607ed,2020-07-15T11:39:55Z,2020-09-09T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4efc-29054f40a6ad,GREATE-4607ed,2020-07-15T11:39:55Z,2020-09-09T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4efc-29054f40a6ad,GREATE-4607ed,2020-07-15T11:39:55Z,2020-09-09T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4efc-29054f40a6ad,GREATE-4607ed,2020-07-15T11:39:55Z,2020-09-09T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-0c80-a06b6fe7e5dd,GREATE-4607ed,2020-07-31T15:00:17Z,2020-07-31T15:00:17Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-3f52-cb99804d074c,GREATE-4607ed,2020-09-23T11:39:55Z,2020-10-14T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-3f52-cb99804d074c,GREATE-4607ed,2020-09-23T11:39:55Z,2020-10-14T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-3f52-cb99804d074c,GREATE-4607ed,2020-09-23T11:39:55Z,2020-10-14T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-3f52-cb99804d074c,GREATE-4607ed,2020-09-23T11:39:55Z,2020-10-14T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-3f52-cb99804d074c,GREATE-4607ed,2020-09-23T11:39:55Z,2020-10-14T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9422-0adc478df70b,GREATE-4607ed,2020-10-14T11:39:55Z,2020-10-21T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9422-0adc478df70b,GREATE-4607ed,2020-10-14T11:39:55Z,2020-10-21T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9422-0adc478df70b,GREATE-4607ed,2020-10-14T11:39:55Z,2020-10-21T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-9422-0adc478df70b,GREATE-4607ed,2020-10-14T11:39:55Z,2020-10-21T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-9422-0adc478df70b,GREATE-4607ed,2020-10-14T11:39:55Z,2020-10-21T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c3ef-792605071b5e,GREATE-4607ed,2020-10-28T11:39:55Z,2021-01-13T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c3ef-792605071b5e,GREATE-4607ed,2020-10-28T11:39:55Z,2021-01-13T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c3ef-792605071b5e,GREATE-4607ed,2020-10-28T11:39:55Z,2021-01-13T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-c3ef-792605071b5e,GREATE-4607ed,2020-10-28T11:39:55Z,2021-01-13T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c3ef-792605071b5e,GREATE-4607ed,2020-10-28T11:39:55Z,2021-01-13T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7f90-2a6a88d65ae0,GREATE-4607ed,2021-02-10T11:39:55Z,2021-04-07T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7f90-2a6a88d65ae0,GREATE-4607ed,2021-02-10T11:39:55Z,2021-04-07T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7f90-2a6a88d65ae0,GREATE-4607ed,2021-02-10T11:39:55Z,2021-04-07T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7f90-2a6a88d65ae0,GREATE-4607ed,2021-02-10T11:39:55Z,2021-04-07T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7f90-2a6a88d65ae0,GREATE-4607ed,2021-02-10T11:39:55Z,2021-04-07T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e75f-c1573720a806,GREATE-4607ed,2021-04-21T11:39:55Z,2021-06-09T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e75f-c1573720a806,GREATE-4607ed,2021-04-21T11:39:55Z,2021-06-09T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e75f-c1573720a806,GREATE-4607ed,2021-04-21T11:39:55Z,2021-06-09T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-e75f-c1573720a806,GREATE-4607ed,2021-04-21T11:39:55Z,2021-06-09T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e75f-c1573720a806,GREATE-4607ed,2021-04-21T11:39:55Z,2021-06-09T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-696c-410cd6aa3534,GREATE-4607ed,2021-05-05T14:27:31Z,2021-05-05T14:27:31Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+bca1691f-8839-1d66-f8eb-e1b017f67e3f,GREATE-4607ed,2021-05-28T11:39:55Z,2022-05-28T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-6fc0-1f7fbf2b3186,GREATE-4607ed,2021-06-09T11:39:55Z,2021-07-07T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-6fc0-1f7fbf2b3186,GREATE-4607ed,2021-06-09T11:39:55Z,2021-07-07T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-6fc0-1f7fbf2b3186,GREATE-4607ed,2021-06-09T11:39:55Z,2021-07-07T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-6fc0-1f7fbf2b3186,GREATE-4607ed,2021-06-09T11:39:55Z,2021-07-07T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-6fc0-1f7fbf2b3186,GREATE-4607ed,2021-06-09T11:39:55Z,2021-07-07T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-47d4-896292c7b4eb,GREATE-4607ed,2021-06-26T15:17:22Z,2021-06-26T15:17:22Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-add4-d563b226e54b,GREATE-4607ed,2021-07-14T11:39:55Z,2021-09-08T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-add4-d563b226e54b,GREATE-4607ed,2021-07-14T11:39:55Z,2021-09-08T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-add4-d563b226e54b,GREATE-4607ed,2021-07-14T11:39:55Z,2021-09-08T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-add4-d563b226e54b,GREATE-4607ed,2021-07-14T11:39:55Z,2021-09-08T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-add4-d563b226e54b,GREATE-4607ed,2021-07-14T11:39:55Z,2021-09-08T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-ff2a-6d5fe62f01ba,GREATE-4607ed,2021-09-08T11:39:55Z,2021-10-06T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-ff2a-6d5fe62f01ba,GREATE-4607ed,2021-09-08T11:39:55Z,2021-10-06T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-ff2a-6d5fe62f01ba,GREATE-4607ed,2021-09-08T11:39:55Z,2021-10-06T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-ff2a-6d5fe62f01ba,GREATE-4607ed,2021-09-08T11:39:55Z,2021-10-06T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-ff2a-6d5fe62f01ba,GREATE-4607ed,2021-09-08T11:39:55Z,2021-10-06T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-235e-3077973cd942,GREATE-4607ed,2021-10-06T11:39:55Z,2021-12-08T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-235e-3077973cd942,GREATE-4607ed,2021-10-06T11:39:55Z,2021-12-08T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-235e-3077973cd942,GREATE-4607ed,2021-10-06T11:39:55Z,2021-12-08T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-235e-3077973cd942,GREATE-4607ed,2021-10-06T11:39:55Z,2021-12-08T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-235e-3077973cd942,GREATE-4607ed,2021-10-06T11:39:55Z,2021-12-08T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-42dc-1461331904f4,GREATE-4607ed,2022-04-06T11:39:55Z,2022-04-27T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-42dc-1461331904f4,GREATE-4607ed,2022-04-06T11:39:55Z,2022-04-27T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-42dc-1461331904f4,GREATE-4607ed,2022-04-06T11:39:55Z,2022-04-27T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-42dc-1461331904f4,GREATE-4607ed,2022-04-06T11:39:55Z,2022-04-27T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-42dc-1461331904f4,GREATE-4607ed,2022-04-06T11:39:55Z,2022-04-27T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-07db-c837b4ac51c9,GREATE-4607ed,2022-04-27T11:39:55Z,2022-07-06T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-07db-c837b4ac51c9,GREATE-4607ed,2022-04-27T11:39:55Z,2022-07-06T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-07db-c837b4ac51c9,GREATE-4607ed,2022-04-27T11:39:55Z,2022-07-06T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-07db-c837b4ac51c9,GREATE-4607ed,2022-04-27T11:39:55Z,2022-07-06T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-07db-c837b4ac51c9,GREATE-4607ed,2022-04-27T11:39:55Z,2022-07-06T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f919-d6cf0710081a,GREATE-4607ed,2022-05-11T15:04:44Z,2022-05-11T15:04:44Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-6e27-d91448a86999,GREATE-4607ed,2022-05-28T14:41:55Z,2022-05-28T14:41:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-2863-7057eba54540,GREATE-4607ed,2022-05-28T11:39:55Z,2023-06-14T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-3d96-ad36b8fe3c5b,GREATE-4607ed,2022-05-31T17:24:55Z,2022-05-31T17:24:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-df09-2f61ae6213a2,GREATE-4607ed,2022-06-03T21:18:55Z,2022-06-03T21:18:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-4af9-bc382e6b3f3a,GREATE-4607ed,2022-06-07T00:41:55Z,2022-06-07T00:41:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-f033-17afcd8c29fe,GREATE-4607ed,2022-06-10T03:41:55Z,2022-06-10T03:41:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d9dc-ec28e0597303,GREATE-4607ed,2022-06-13T06:38:55Z,2022-06-13T06:38:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-dc1f-3d4ab2ddd09e,GREATE-4607ed,2022-06-16T09:19:55Z,2022-06-16T09:19:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-796d-1a1ff1496f43,GREATE-4607ed,2022-06-19T11:42:55Z,2022-06-19T11:42:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d2b0-4f25bf848b1b,GREATE-4607ed,2022-06-21T15:33:45Z,2022-06-21T15:33:45Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-2e9f-3849b237e356,GREATE-4607ed,2022-06-22T14:41:55Z,2022-06-22T14:41:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-e9b9-6cad1156ce8e,GREATE-4607ed,2022-06-25T17:14:55Z,2022-06-25T17:14:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-894c-5a4afafa9eba,GREATE-4607ed,2022-06-28T20:28:55Z,2022-06-28T20:28:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-f5fa-bc0252b671aa,GREATE-4607ed,2022-07-06T11:39:55Z,2022-08-17T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f5fa-bc0252b671aa,GREATE-4607ed,2022-07-06T11:39:55Z,2022-08-17T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f5fa-bc0252b671aa,GREATE-4607ed,2022-07-06T11:39:55Z,2022-08-17T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-f5fa-bc0252b671aa,GREATE-4607ed,2022-07-06T11:39:55Z,2022-08-17T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f5fa-bc0252b671aa,GREATE-4607ed,2022-07-06T11:39:55Z,2022-08-17T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-bb55-56bf1d0c5260,GREATE-4607ed,2022-07-13T13:40:55Z,2022-07-13T13:40:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-57fd-a68f2793ac43,GREATE-4607ed,2022-07-16T16:38:55Z,2022-07-16T16:38:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-e9db-7432c952ba1a,GREATE-4607ed,2022-07-19T19:20:55Z,2022-07-19T19:20:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-0eb7-79da71ce665f,GREATE-4607ed,2022-07-27T14:03:34Z,2022-07-27T14:03:34Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-e8f6-c2ddac51b98b,GREATE-4607ed,2022-08-03T13:49:55Z,2022-08-03T13:49:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-28ff-4c87db011f86,GREATE-4607ed,2022-08-06T17:03:55Z,2022-08-06T17:03:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-674d-3dc8cf940f34,GREATE-4607ed,2022-08-09T19:11:55Z,2022-08-09T19:11:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-e6ee-293d125bd7da,GREATE-4607ed,2022-08-24T11:39:55Z,2022-08-31T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e6ee-293d125bd7da,GREATE-4607ed,2022-08-24T11:39:55Z,2022-08-31T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e6ee-293d125bd7da,GREATE-4607ed,2022-08-24T11:39:55Z,2022-08-31T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-e6ee-293d125bd7da,GREATE-4607ed,2022-08-24T11:39:55Z,2022-08-31T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e6ee-293d125bd7da,GREATE-4607ed,2022-08-24T11:39:55Z,2022-08-31T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-2c19-61101c366613,GREATE-4607ed,2022-09-07T11:39:55Z,2022-10-05T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-2c19-61101c366613,GREATE-4607ed,2022-09-07T11:39:55Z,2022-10-05T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-2c19-61101c366613,GREATE-4607ed,2022-09-07T11:39:55Z,2022-10-05T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-2c19-61101c366613,GREATE-4607ed,2022-09-07T11:39:55Z,2022-10-05T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-2c19-61101c366613,GREATE-4607ed,2022-09-07T11:39:55Z,2022-10-05T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9180-dba06db668a2,GREATE-4607ed,2022-09-21T14:23:55Z,2022-09-21T14:23:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-8563-cfb5792ba8ec,GREATE-4607ed,2022-09-24T16:46:55Z,2022-09-24T16:46:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-02b5-d3f01c496a1a,GREATE-4607ed,2022-09-27T19:56:55Z,2022-09-27T19:56:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-f24b-e22796e0f7d2,GREATE-4607ed,2022-10-12T11:39:55Z,2022-11-09T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f24b-e22796e0f7d2,GREATE-4607ed,2022-10-12T11:39:55Z,2022-11-09T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f24b-e22796e0f7d2,GREATE-4607ed,2022-10-12T11:39:55Z,2022-11-09T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-f24b-e22796e0f7d2,GREATE-4607ed,2022-10-12T11:39:55Z,2022-11-09T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f24b-e22796e0f7d2,GREATE-4607ed,2022-10-12T11:39:55Z,2022-11-09T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-cc4b-3d1aa0426cf6,GREATE-4607ed,2022-10-19T16:10:12Z,2022-10-19T16:10:12Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-234d-82d45d38100e,GREATE-4607ed,2022-10-26T13:41:55Z,2022-10-26T13:41:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-445b-15615747b780,GREATE-4607ed,2022-10-29T16:25:55Z,2022-10-29T16:25:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-668b-0bc7c0ad29c8,GREATE-4607ed,2022-11-01T19:14:55Z,2022-11-01T19:14:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-7776-b4711050ad43,GREATE-4607ed,2022-11-16T11:39:55Z,2022-12-07T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7776-b4711050ad43,GREATE-4607ed,2022-11-16T11:39:55Z,2022-12-07T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7776-b4711050ad43,GREATE-4607ed,2022-11-16T11:39:55Z,2022-12-07T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7776-b4711050ad43,GREATE-4607ed,2022-11-16T11:39:55Z,2022-12-07T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7776-b4711050ad43,GREATE-4607ed,2022-11-16T11:39:55Z,2022-12-07T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-cb88-e791295d047c,GREATE-4607ed,2022-11-23T14:09:55Z,2022-11-23T14:09:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-1580-5d2d48fe1570,GREATE-4607ed,2022-11-26T17:22:55Z,2022-11-26T17:22:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-e0f1-b3feb82107fd,GREATE-4607ed,2022-11-29T20:19:55Z,2022-11-29T20:19:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-b30c-d8be5e17b1e0,GREATE-4607ed,2022-12-21T15:10:55Z,2022-12-21T15:10:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-eaeb-42403e65c581,GREATE-4607ed,2022-12-24T17:32:55Z,2022-12-24T17:32:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-6e58-8100a3e01bd0,GREATE-4607ed,2022-12-27T21:10:55Z,2022-12-27T21:10:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-fc77-e2dd4f9f75a4,GREATE-4607ed,2023-01-18T13:55:55Z,2023-01-18T13:55:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-f1f4-27b7892bbc9b,GREATE-4607ed,2023-01-21T17:47:55Z,2023-01-21T17:47:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-f31b-f3e4a5cbd140,GREATE-4607ed,2023-01-24T21:04:55Z,2023-01-24T21:04:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-57f0-400eafc698ee,GREATE-4607ed,2023-02-08T14:14:55Z,2023-02-08T14:14:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-0ede-1983bac651ad,GREATE-4607ed,2023-02-11T17:16:55Z,2023-02-11T17:16:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-76a6-078ea6b7d398,GREATE-4607ed,2023-02-14T20:12:55Z,2023-02-14T20:12:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-3015-bdda761229fa,GREATE-4607ed,2023-02-22T17:49:26Z,2023-02-22T17:49:26Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-6326-fe6c28520e83,GREATE-4607ed,2023-03-08T14:03:55Z,2023-03-08T14:03:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-408e-b398ab2b128d,GREATE-4607ed,2023-03-11T16:54:55Z,2023-03-11T16:54:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-ab1d-7806205f2bff,GREATE-4607ed,2023-03-14T18:55:55Z,2023-03-14T18:55:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-052d-21350eaee2ab,GREATE-4607ed,2023-03-29T14:52:55Z,2023-03-29T14:52:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-4acb-10e1e0adf6f1,GREATE-4607ed,2023-04-01T18:21:55Z,2023-04-01T18:21:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-cc54-cb050549ef65,GREATE-4607ed,2023-04-04T20:41:55Z,2023-04-04T20:41:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d0ce-6248bee712b0,GREATE-4607ed,2023-04-07T22:57:55Z,2023-04-07T22:57:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-749c-e9383ce02c42,GREATE-4607ed,2023-04-11T01:21:55Z,2023-04-11T01:21:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-cc59-e967ad289da5,GREATE-4607ed,2023-04-14T04:37:55Z,2023-04-14T04:37:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-6f0e-5b5c43d6dd31,GREATE-4607ed,2023-04-17T08:07:55Z,2023-04-17T08:07:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-901c-1fc440f1fc19,GREATE-4607ed,2023-04-20T10:43:55Z,2023-04-20T10:43:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-4419-23ae69a31132,GREATE-4607ed,2023-04-23T13:55:55Z,2023-04-23T13:55:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-ea98-560866730b1e,GREATE-4607ed,2023-05-03T11:39:55Z,2023-05-10T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-ea98-560866730b1e,GREATE-4607ed,2023-05-03T11:39:55Z,2023-05-10T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-ea98-560866730b1e,GREATE-4607ed,2023-05-03T11:39:55Z,2023-05-10T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-ea98-560866730b1e,GREATE-4607ed,2023-05-03T11:39:55Z,2023-05-10T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-ea98-560866730b1e,GREATE-4607ed,2023-05-03T11:39:55Z,2023-05-10T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e719-054079cd47ce,GREATE-4607ed,2023-05-17T11:39:55Z,2023-06-21T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e719-054079cd47ce,GREATE-4607ed,2023-05-17T11:39:55Z,2023-06-21T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e719-054079cd47ce,GREATE-4607ed,2023-05-17T11:39:55Z,2023-06-21T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-e719-054079cd47ce,GREATE-4607ed,2023-05-17T11:39:55Z,2023-06-21T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e719-054079cd47ce,GREATE-4607ed,2023-05-17T11:39:55Z,2023-06-21T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4959-663bb33f0d88,GREATE-4607ed,2023-05-24T14:52:17Z,2023-05-24T14:52:17Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+bca1691f-8839-1d66-2c84-ce3ff8e6694d,GREATE-4607ed,2023-05-31T11:43:55Z,2023-05-31T11:43:55Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-ead3-28f6a676deca,GREATE-4607ed,2023-06-07T15:18:55Z,2023-06-07T15:18:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-ad3c-869627b98f19,GREATE-4607ed,2023-06-10T17:23:55Z,2023-06-10T17:23:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-740e-98bec50dc64f,GREATE-4607ed,2023-06-13T20:47:55Z,2023-06-13T20:47:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-c850-e73dfda7e48f,GREATE-4607ed,2023-06-14T11:39:55Z,2024-07-17T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-f199-37a1cd39486a,GREATE-4607ed,2023-07-05T11:39:55Z,2023-08-02T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f199-37a1cd39486a,GREATE-4607ed,2023-07-05T11:39:55Z,2023-08-02T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f199-37a1cd39486a,GREATE-4607ed,2023-07-05T11:39:55Z,2023-08-02T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-f199-37a1cd39486a,GREATE-4607ed,2023-07-05T11:39:55Z,2023-08-02T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f199-37a1cd39486a,GREATE-4607ed,2023-07-05T11:39:55Z,2023-08-02T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-6dff-3d4584f67d1b,GREATE-4607ed,2023-07-19T15:02:55Z,2023-07-19T15:02:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-e125-2cef50828d6e,GREATE-4607ed,2023-07-22T17:48:55Z,2023-07-22T17:48:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-6d89-030a979cf0bb,GREATE-4607ed,2023-07-25T21:34:55Z,2023-07-25T21:34:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-8513-eb759c80e46b,GREATE-4607ed,2023-08-09T11:39:55Z,2023-09-06T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-8513-eb759c80e46b,GREATE-4607ed,2023-08-09T11:39:55Z,2023-09-06T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-8513-eb759c80e46b,GREATE-4607ed,2023-08-09T11:39:55Z,2023-09-06T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-8513-eb759c80e46b,GREATE-4607ed,2023-08-09T11:39:55Z,2023-09-06T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-8513-eb759c80e46b,GREATE-4607ed,2023-08-09T11:39:55Z,2023-09-06T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-3586-e6c32a948c17,GREATE-4607ed,2023-08-23T15:12:55Z,2023-08-23T15:12:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-479b-e9b736a7c113,GREATE-4607ed,2023-08-26T17:15:55Z,2023-08-26T17:15:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d1c3-1008bb909d41,GREATE-4607ed,2023-08-29T19:32:55Z,2023-08-29T19:32:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-e383-47a7bc7fe0a8,GREATE-4607ed,2023-09-13T11:39:55Z,2023-10-11T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e383-47a7bc7fe0a8,GREATE-4607ed,2023-09-13T11:39:55Z,2023-10-11T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-e383-47a7bc7fe0a8,GREATE-4607ed,2023-09-13T11:39:55Z,2023-10-11T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-e383-47a7bc7fe0a8,GREATE-4607ed,2023-09-13T11:39:55Z,2023-10-11T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-e383-47a7bc7fe0a8,GREATE-4607ed,2023-09-13T11:39:55Z,2023-10-11T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-8c1b-ee2af1863e84,GREATE-4607ed,2023-09-20T15:16:31Z,2023-09-20T15:16:31Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+bca1691f-8839-1d66-2a17-72f21621bf48,GREATE-4607ed,2023-09-27T13:45:55Z,2023-09-27T13:45:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-b289-ad6f02cec222,GREATE-4607ed,2023-09-30T17:16:55Z,2023-09-30T17:16:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-7cef-30710049e2a0,GREATE-4607ed,2023-10-03T20:56:55Z,2023-10-03T20:56:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-b14e-9bf6fb2b777b,GREATE-4607ed,2023-10-18T11:39:55Z,2023-10-25T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-b14e-9bf6fb2b777b,GREATE-4607ed,2023-10-18T11:39:55Z,2023-10-25T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-b14e-9bf6fb2b777b,GREATE-4607ed,2023-10-18T11:39:55Z,2023-10-25T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-b14e-9bf6fb2b777b,GREATE-4607ed,2023-10-18T11:39:55Z,2023-10-25T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-b14e-9bf6fb2b777b,GREATE-4607ed,2023-10-18T11:39:55Z,2023-10-25T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-811c-39e455bfb854,GREATE-4607ed,2023-10-25T11:39:55Z,2023-11-29T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-811c-39e455bfb854,GREATE-4607ed,2023-10-25T11:39:55Z,2023-11-29T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-811c-39e455bfb854,GREATE-4607ed,2023-10-25T11:39:55Z,2023-11-29T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-811c-39e455bfb854,GREATE-4607ed,2023-10-25T11:39:55Z,2023-11-29T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-811c-39e455bfb854,GREATE-4607ed,2023-10-25T11:39:55Z,2023-11-29T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-8bd0-a78ecb4b80b7,GREATE-4607ed,2023-11-01T15:33:55Z,2023-11-01T15:33:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-b621-69b6778a40a5,GREATE-4607ed,2023-11-04T19:28:55Z,2023-11-04T19:28:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-9610-1b58ca5f3e16,GREATE-4607ed,2023-11-07T23:10:55Z,2023-11-07T23:10:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d011-d0ae49022362,GREATE-4607ed,2023-11-11T01:55:55Z,2023-11-11T01:55:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-ee9b-afe1fe50337c,GREATE-4607ed,2023-11-14T04:30:55Z,2023-11-14T04:30:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-1c7c-fdad12cdeb85,GREATE-4607ed,2023-11-17T07:53:55Z,2023-11-17T07:53:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-5fc1-2c1f0616d754,GREATE-4607ed,2023-11-20T10:46:55Z,2023-11-20T10:46:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-4713-94a93411829f,GREATE-4607ed,2023-12-06T11:39:55Z,2024-01-03T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4713-94a93411829f,GREATE-4607ed,2023-12-06T11:39:55Z,2024-01-03T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4713-94a93411829f,GREATE-4607ed,2023-12-06T11:39:55Z,2024-01-03T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4713-94a93411829f,GREATE-4607ed,2023-12-06T11:39:55Z,2024-01-03T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4713-94a93411829f,GREATE-4607ed,2023-12-06T11:39:55Z,2024-01-03T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-413b-391b0902fc53,GREATE-4607ed,2023-12-20T15:01:55Z,2023-12-20T15:01:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-1388-ea727fd39dd2,GREATE-4607ed,2023-12-23T17:55:55Z,2023-12-23T17:55:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d765-01393debbd1b,GREATE-4607ed,2023-12-26T20:05:55Z,2023-12-26T20:05:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-438a-9c9c68797044,GREATE-4607ed,2024-01-17T11:39:55Z,2024-01-24T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-438a-9c9c68797044,GREATE-4607ed,2024-01-17T11:39:55Z,2024-01-24T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-438a-9c9c68797044,GREATE-4607ed,2024-01-17T11:39:55Z,2024-01-24T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-438a-9c9c68797044,GREATE-4607ed,2024-01-17T11:39:55Z,2024-01-24T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-438a-9c9c68797044,GREATE-4607ed,2024-01-17T11:39:55Z,2024-01-24T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7a01-1283f289b78e,GREATE-4607ed,2024-01-31T11:39:55Z,2024-02-28T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7a01-1283f289b78e,GREATE-4607ed,2024-01-31T11:39:55Z,2024-02-28T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7a01-1283f289b78e,GREATE-4607ed,2024-01-31T11:39:55Z,2024-02-28T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7a01-1283f289b78e,GREATE-4607ed,2024-01-31T11:39:55Z,2024-02-28T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7a01-1283f289b78e,GREATE-4607ed,2024-01-31T11:39:55Z,2024-02-28T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-cfe8-8eb058dcd4b4,GREATE-4607ed,2024-02-07T14:07:55Z,2024-02-07T14:07:55Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-54eb-dd7b1ef7f190,GREATE-4607ed,2024-02-14T15:16:55Z,2024-02-14T15:16:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-b4e8-567c03dd4eef,GREATE-4607ed,2024-02-17T18:01:55Z,2024-02-17T18:01:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-3877-ea9110aef83a,GREATE-4607ed,2024-02-20T21:27:55Z,2024-02-20T21:27:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-b11d-1b4d83a66df3,GREATE-4607ed,2024-03-06T11:39:55Z,2024-04-03T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-b11d-1b4d83a66df3,GREATE-4607ed,2024-03-06T11:39:55Z,2024-04-03T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-b11d-1b4d83a66df3,GREATE-4607ed,2024-03-06T11:39:55Z,2024-04-03T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-b11d-1b4d83a66df3,GREATE-4607ed,2024-03-06T11:39:55Z,2024-04-03T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-b11d-1b4d83a66df3,GREATE-4607ed,2024-03-06T11:39:55Z,2024-04-03T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4d63-1accbd1faccb,GREATE-4607ed,2024-03-13T14:00:48Z,2024-03-13T14:00:48Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-ed5f-10f80d796512,GREATE-4607ed,2024-03-20T15:22:55Z,2024-03-20T15:22:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-5c76-dd45327cbd75,GREATE-4607ed,2024-03-23T17:29:55Z,2024-03-23T17:29:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-78cf-49ae232ad294,GREATE-4607ed,2024-03-26T21:10:55Z,2024-03-26T21:10:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-c148-024c38c83737,GREATE-4607ed,2024-04-17T11:39:55Z,2024-04-24T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c148-024c38c83737,GREATE-4607ed,2024-04-17T11:39:55Z,2024-04-24T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-c148-024c38c83737,GREATE-4607ed,2024-04-17T11:39:55Z,2024-04-24T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-c148-024c38c83737,GREATE-4607ed,2024-04-17T11:39:55Z,2024-04-24T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-c148-024c38c83737,GREATE-4607ed,2024-04-17T11:39:55Z,2024-04-24T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-aabb-2b30e36bbe3a,GREATE-4607ed,2024-05-01T11:39:55Z,2024-05-08T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-aabb-2b30e36bbe3a,GREATE-4607ed,2024-05-01T11:39:55Z,2024-05-08T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-aabb-2b30e36bbe3a,GREATE-4607ed,2024-05-01T11:39:55Z,2024-05-08T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-aabb-2b30e36bbe3a,GREATE-4607ed,2024-05-01T11:39:55Z,2024-05-08T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-aabb-2b30e36bbe3a,GREATE-4607ed,2024-05-01T11:39:55Z,2024-05-08T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4b35-7cdabfa2e0c0,GREATE-4607ed,2024-05-08T11:39:55Z,2024-06-12T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4b35-7cdabfa2e0c0,GREATE-4607ed,2024-05-08T11:39:55Z,2024-06-12T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4b35-7cdabfa2e0c0,GREATE-4607ed,2024-05-08T11:39:55Z,2024-06-12T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4b35-7cdabfa2e0c0,GREATE-4607ed,2024-05-08T11:39:55Z,2024-06-12T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4b35-7cdabfa2e0c0,GREATE-4607ed,2024-05-08T11:39:55Z,2024-06-12T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-6acd-b86033f54da1,GREATE-4607ed,2024-05-22T11:43:55Z,2024-05-22T11:43:55Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-4d98-f7e81896cf1d,GREATE-4607ed,2024-05-29T13:42:55Z,2024-05-29T13:42:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-94a6-b3970b767c04,GREATE-4607ed,2024-06-01T17:29:55Z,2024-06-01T17:29:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-de61-8c208065b05d,GREATE-4607ed,2024-06-04T21:21:55Z,2024-06-04T21:21:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-582e-f6b01301aca8,GREATE-4607ed,2024-07-03T11:39:55Z,2024-07-24T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-582e-f6b01301aca8,GREATE-4607ed,2024-07-03T11:39:55Z,2024-07-24T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-582e-f6b01301aca8,GREATE-4607ed,2024-07-03T11:39:55Z,2024-07-24T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-582e-f6b01301aca8,GREATE-4607ed,2024-07-03T11:39:55Z,2024-07-24T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-582e-f6b01301aca8,GREATE-4607ed,2024-07-03T11:39:55Z,2024-07-24T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-264c-db3a905268cc,GREATE-4607ed,2024-07-10T13:48:55Z,2024-07-10T13:48:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-f1d0-7269077265ad,GREATE-4607ed,2024-07-13T17:05:55Z,2024-07-13T17:05:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-cf7b-aaea89e0ade6,GREATE-4607ed,2024-07-16T19:33:55Z,2024-07-16T19:33:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d5a2-1ffab8c11a17,GREATE-4607ed,2024-07-17T11:39:55Z,2025-07-30T11:39:55Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-355d-066c67e7d12f,GREATE-4607ed,2024-08-07T11:39:55Z,2024-08-28T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-355d-066c67e7d12f,GREATE-4607ed,2024-08-07T11:39:55Z,2024-08-28T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-355d-066c67e7d12f,GREATE-4607ed,2024-08-07T11:39:55Z,2024-08-28T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-355d-066c67e7d12f,GREATE-4607ed,2024-08-07T11:39:55Z,2024-08-28T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-355d-066c67e7d12f,GREATE-4607ed,2024-08-07T11:39:55Z,2024-08-28T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-6f25-ed73cf3f05ad,GREATE-4607ed,2024-08-14T15:09:55Z,2024-08-14T15:09:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-c86c-a176c04f793a,GREATE-4607ed,2024-08-17T17:49:55Z,2024-08-17T17:49:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-8703-239adea529b5,GREATE-4607ed,2024-08-20T20:39:55Z,2024-08-20T20:39:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d829-87c62557bb55,GREATE-4607ed,2024-09-04T11:39:55Z,2024-10-02T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-d829-87c62557bb55,GREATE-4607ed,2024-09-04T11:39:55Z,2024-10-02T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-d829-87c62557bb55,GREATE-4607ed,2024-09-04T11:39:55Z,2024-10-02T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-d829-87c62557bb55,GREATE-4607ed,2024-09-04T11:39:55Z,2024-10-02T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-d829-87c62557bb55,GREATE-4607ed,2024-09-04T11:39:55Z,2024-10-02T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-896e-f593225fe101,GREATE-4607ed,2024-09-18T13:53:55Z,2024-09-18T13:53:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-54be-0430c3d489a7,GREATE-4607ed,2024-09-21T17:34:55Z,2024-09-21T17:34:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-0316-5ff66d9169d1,GREATE-4607ed,2024-09-24T20:26:55Z,2024-09-24T20:26:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-8172-0445f1204a6a,GREATE-4607ed,2024-10-09T11:39:55Z,2024-11-06T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-8172-0445f1204a6a,GREATE-4607ed,2024-10-09T11:39:55Z,2024-11-06T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-8172-0445f1204a6a,GREATE-4607ed,2024-10-09T11:39:55Z,2024-11-06T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-8172-0445f1204a6a,GREATE-4607ed,2024-10-09T11:39:55Z,2024-11-06T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-8172-0445f1204a6a,GREATE-4607ed,2024-10-09T11:39:55Z,2024-11-06T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-b5f5-c678cf1f003d,GREATE-4607ed,2024-10-23T15:37:55Z,2024-10-23T15:37:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-faab-3d710a105fcc,GREATE-4607ed,2024-10-26T17:55:55Z,2024-10-26T17:55:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-7502-23aabafe2e1d,GREATE-4607ed,2024-10-29T21:46:55Z,2024-10-29T21:46:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-4121-c359425a15bf,GREATE-4607ed,2024-11-27T11:39:55Z,2024-12-18T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4121-c359425a15bf,GREATE-4607ed,2024-11-27T11:39:55Z,2024-12-18T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4121-c359425a15bf,GREATE-4607ed,2024-11-27T11:39:55Z,2024-12-18T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4121-c359425a15bf,GREATE-4607ed,2024-11-27T11:39:55Z,2024-12-18T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4121-c359425a15bf,GREATE-4607ed,2024-11-27T11:39:55Z,2024-12-18T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-3d0d-97a3dd190af3,GREATE-4607ed,2024-12-04T14:47:55Z,2024-12-04T14:47:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-865f-9fa01d9e1cfe,GREATE-4607ed,2024-12-07T17:42:55Z,2024-12-07T17:42:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-c150-4b1d11d623a9,GREATE-4607ed,2024-12-10T20:10:55Z,2024-12-10T20:10:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-6d45-9c1b6bfc8958,GREATE-4607ed,2025-01-01T14:01:55Z,2025-01-01T14:01:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-60b9-8c38ff79da46,GREATE-4607ed,2025-01-04T17:28:55Z,2025-01-04T17:28:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-addf-21498744a32b,GREATE-4607ed,2025-01-07T19:48:55Z,2025-01-07T19:48:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-81e0-6146144d27c3,GREATE-4607ed,2025-01-10T22:11:55Z,2025-01-10T22:11:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-7a72-ff4b6f94a555,GREATE-4607ed,2025-01-14T00:43:55Z,2025-01-14T00:43:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-4322-005a14ee0769,GREATE-4607ed,2025-02-05T11:39:55Z,2025-03-05T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4322-005a14ee0769,GREATE-4607ed,2025-02-05T11:39:55Z,2025-03-05T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4322-005a14ee0769,GREATE-4607ed,2025-02-05T11:39:55Z,2025-03-05T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4322-005a14ee0769,GREATE-4607ed,2025-02-05T11:39:55Z,2025-03-05T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4322-005a14ee0769,GREATE-4607ed,2025-02-05T11:39:55Z,2025-03-05T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-82e8-5ef6878e0ecc,GREATE-4607ed,2025-02-19T13:42:55Z,2025-02-19T13:42:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-4556-876311b56371,GREATE-4607ed,2025-02-22T17:14:55Z,2025-02-22T17:14:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-bd61-08d5af5f9e26,GREATE-4607ed,2025-02-25T19:59:55Z,2025-02-25T19:59:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-bdf9-2bfaebe1be0d,GREATE-4607ed,2025-03-26T11:39:55Z,2025-04-23T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-bdf9-2bfaebe1be0d,GREATE-4607ed,2025-03-26T11:39:55Z,2025-04-23T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-bdf9-2bfaebe1be0d,GREATE-4607ed,2025-03-26T11:39:55Z,2025-04-23T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-bdf9-2bfaebe1be0d,GREATE-4607ed,2025-03-26T11:39:55Z,2025-04-23T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-bdf9-2bfaebe1be0d,GREATE-4607ed,2025-03-26T11:39:55Z,2025-04-23T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-a3f9-3441b80b1048,GREATE-4607ed,2025-04-09T14:07:55Z,2025-04-09T14:07:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-9e8e-00e872e54919,GREATE-4607ed,2025-04-12T17:33:55Z,2025-04-12T17:33:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-91d3-7b08c85919f6,GREATE-4607ed,2025-04-15T20:22:55Z,2025-04-15T20:22:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-ebfe-a662eafa6bbf,GREATE-4607ed,2025-04-30T11:39:55Z,2025-05-28T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-ebfe-a662eafa6bbf,GREATE-4607ed,2025-04-30T11:39:55Z,2025-05-28T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-ebfe-a662eafa6bbf,GREATE-4607ed,2025-04-30T11:39:55Z,2025-05-28T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-ebfe-a662eafa6bbf,GREATE-4607ed,2025-04-30T11:39:55Z,2025-05-28T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-ebfe-a662eafa6bbf,GREATE-4607ed,2025-04-30T11:39:55Z,2025-05-28T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-573a-0c9010d18ad9,GREATE-4607ed,2025-05-07T14:51:57Z,2025-05-07T14:51:57Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+bca1691f-8839-1d66-46d4-8b691e57ed2d,GREATE-4607ed,2025-05-14T15:36:55Z,2025-05-14T15:36:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-06b3-594fdc74fe80,GREATE-4607ed,2025-05-17T17:54:55Z,2025-05-17T17:54:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-c5d2-4b7ed8766fdc,GREATE-4607ed,2025-05-20T20:25:55Z,2025-05-20T20:25:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-45eb-d77bfa57ef6d,GREATE-4607ed,2025-05-28T11:39:55Z,2025-06-04T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-45eb-d77bfa57ef6d,GREATE-4607ed,2025-05-28T11:39:55Z,2025-06-04T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-45eb-d77bfa57ef6d,GREATE-4607ed,2025-05-28T11:39:55Z,2025-06-04T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-45eb-d77bfa57ef6d,GREATE-4607ed,2025-05-28T11:39:55Z,2025-06-04T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-45eb-d77bfa57ef6d,GREATE-4607ed,2025-05-28T11:39:55Z,2025-06-04T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-9b0c-52bc54ba98ec,GREATE-4607ed,2025-06-11T11:43:55Z,2025-06-11T11:43:55Z,tropicamide 5 MG/ML Ophthalmic Solution,
+bca1691f-8839-1d66-8314-656b37a27885,GREATE-4607ed,2025-06-18T14:51:55Z,2025-06-18T14:51:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-dc6d-9006e7d0ff0b,GREATE-4607ed,2025-06-21T17:51:55Z,2025-06-21T17:51:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-d438-78a1127ea08d,GREATE-4607ed,2025-06-24T21:37:55Z,2025-06-24T21:37:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-22fd-86cda0bb807c,GREATE-4607ed,2025-07-16T11:39:55Z,2025-08-06T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-22fd-86cda0bb807c,GREATE-4607ed,2025-07-16T11:39:55Z,2025-08-06T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-22fd-86cda0bb807c,GREATE-4607ed,2025-07-16T11:39:55Z,2025-08-06T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-22fd-86cda0bb807c,GREATE-4607ed,2025-07-16T11:39:55Z,2025-08-06T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-22fd-86cda0bb807c,GREATE-4607ed,2025-07-16T11:39:55Z,2025-08-06T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-bf2e-540d767cc224,GREATE-4607ed,2025-07-23T15:31:55Z,2025-07-23T15:31:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-c892-87b46a34e42c,GREATE-4607ed,2025-07-26T18:54:55Z,2025-07-26T18:54:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-cbea-ed0bca80bba3,GREATE-4607ed,2025-07-29T21:42:55Z,2025-07-29T21:42:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-36b7-dd02c843d266,GREATE-4607ed,2025-07-30T11:39:55Z,,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+bca1691f-8839-1d66-f7b1-e465a8b6f1fd,GREATE-4607ed,2025-08-06T11:39:55Z,2025-09-03T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f7b1-e465a8b6f1fd,GREATE-4607ed,2025-08-06T11:39:55Z,2025-09-03T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-f7b1-e465a8b6f1fd,GREATE-4607ed,2025-08-06T11:39:55Z,2025-09-03T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-f7b1-e465a8b6f1fd,GREATE-4607ed,2025-08-06T11:39:55Z,2025-09-03T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-f7b1-e465a8b6f1fd,GREATE-4607ed,2025-08-06T11:39:55Z,2025-09-03T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-ff20-d9858baadfcd,GREATE-4607ed,2025-08-20T14:44:55Z,2025-08-20T14:44:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-8a69-de4d303a9d77,GREATE-4607ed,2025-08-23T18:42:55Z,2025-08-23T18:42:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-5c19-5e0469facdb0,GREATE-4607ed,2025-08-26T22:17:55Z,2025-08-26T22:17:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-dbd1-d678f0ade177,GREATE-4607ed,2025-09-10T11:39:55Z,2025-09-17T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-dbd1-d678f0ade177,GREATE-4607ed,2025-09-10T11:39:55Z,2025-09-17T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-dbd1-d678f0ade177,GREATE-4607ed,2025-09-10T11:39:55Z,2025-09-17T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-dbd1-d678f0ade177,GREATE-4607ed,2025-09-10T11:39:55Z,2025-09-17T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-dbd1-d678f0ade177,GREATE-4607ed,2025-09-10T11:39:55Z,2025-09-17T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4187-024b16f1ebe2,GREATE-4607ed,2025-09-24T13:58:55Z,2025-09-24T13:58:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-4d61-41d78766ae7f,GREATE-4607ed,2025-09-27T17:31:55Z,2025-09-27T17:31:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-2fbb-aa47a33ae851,GREATE-4607ed,2025-09-30T21:01:55Z,2025-09-30T21:01:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-c2d1-fbcfde42d826,GREATE-4607ed,2025-10-15T15:32:55Z,2025-10-15T15:32:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-2f50-ab15b766e496,GREATE-4607ed,2025-10-18T19:31:55Z,2025-10-18T19:31:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-e6ff-ecc974fbc1b0,GREATE-4607ed,2025-10-21T22:10:55Z,2025-10-21T22:10:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-5a68-226d3bf5265b,GREATE-4607ed,2025-11-05T14:37:55Z,2025-11-05T14:37:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-f767-72273a7e6510,GREATE-4607ed,2025-11-08T18:26:55Z,2025-11-08T18:26:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-68d7-7e487055881c,GREATE-4607ed,2025-11-11T21:26:55Z,2025-11-11T21:26:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-09c2-ca7cd85d5041,GREATE-4607ed,2025-12-03T14:48:44Z,2025-12-03T14:48:44Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-0d2b-122c3eaa418e,GREATE-4607ed,2025-12-10T15:12:55Z,2025-12-10T15:12:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-9795-4c40fa307ec2,GREATE-4607ed,2025-12-13T17:48:55Z,2025-12-13T17:48:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-49a1-65524747e6ec,GREATE-4607ed,2025-12-16T21:13:55Z,2025-12-16T21:13:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-7116-91fac4732893,GREATE-4607ed,2025-12-31T15:31:55Z,2025-12-31T15:31:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-685f-7ae5fb594e9e,GREATE-4607ed,2026-01-03T18:29:55Z,2026-01-03T18:29:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-21b6-d0d43786eb27,GREATE-4607ed,2026-01-06T22:13:55Z,2026-01-06T22:13:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-270a-ec17076c2294,GREATE-4607ed,2026-01-28T14:37:54Z,2026-01-28T14:37:54Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+bca1691f-8839-1d66-9b28-ed0a8cf74e1a,GREATE-4607ed,2026-02-04T14:26:55Z,2026-02-04T14:26:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-7277-8f7c207bb3b1,GREATE-4607ed,2026-02-07T18:00:55Z,2026-02-07T18:00:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-0c0c-82bd0f3e2c12,GREATE-4607ed,2026-02-10T21:39:55Z,2026-02-10T21:39:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-7c90-edb596ef6240,GREATE-4607ed,2026-02-18T11:39:55Z,2026-04-01T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7c90-edb596ef6240,GREATE-4607ed,2026-02-18T11:39:55Z,2026-04-01T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7c90-edb596ef6240,GREATE-4607ed,2026-02-18T11:39:55Z,2026-04-01T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7c90-edb596ef6240,GREATE-4607ed,2026-02-18T11:39:55Z,2026-04-01T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7c90-edb596ef6240,GREATE-4607ed,2026-02-18T11:39:55Z,2026-04-01T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-b4d7-fabece4c3293,GREATE-4607ed,2026-02-25T15:03:55Z,2026-02-25T15:03:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-980d-0e66be171232,GREATE-4607ed,2026-02-28T18:12:55Z,2026-02-28T18:12:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-e683-c36c866d3eb2,GREATE-4607ed,2026-03-03T20:31:55Z,2026-03-03T20:31:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-03b4-e8aeb9686a3b,GREATE-4607ed,2026-03-18T14:57:55Z,2026-03-18T14:57:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-127e-2e8771ebab3d,GREATE-4607ed,2026-03-21T16:59:55Z,2026-03-21T16:59:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-2f42-e3c3e753b29a,GREATE-4607ed,2026-03-24T20:05:55Z,2026-03-24T20:05:55Z,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Anemia (disorder)
+bca1691f-8839-1d66-39cb-12cbfbde15d0,GREATE-4607ed,2026-04-08T11:39:55Z,2026-04-15T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-39cb-12cbfbde15d0,GREATE-4607ed,2026-04-08T11:39:55Z,2026-04-15T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-39cb-12cbfbde15d0,GREATE-4607ed,2026-04-08T11:39:55Z,2026-04-15T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-39cb-12cbfbde15d0,GREATE-4607ed,2026-04-08T11:39:55Z,2026-04-15T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-39cb-12cbfbde15d0,GREATE-4607ed,2026-04-08T11:39:55Z,2026-04-15T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-30c7-030bb6411d21,GREATE-4607ed,2026-04-15T11:39:55Z,2026-04-22T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-30c7-030bb6411d21,GREATE-4607ed,2026-04-15T11:39:55Z,2026-04-22T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-30c7-030bb6411d21,GREATE-4607ed,2026-04-15T11:39:55Z,2026-04-22T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-30c7-030bb6411d21,GREATE-4607ed,2026-04-15T11:39:55Z,2026-04-22T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-30c7-030bb6411d21,GREATE-4607ed,2026-04-15T11:39:55Z,2026-04-22T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-91e6-c54adcc60425,GREATE-4607ed,2026-04-22T11:39:55Z,2026-04-29T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-91e6-c54adcc60425,GREATE-4607ed,2026-04-22T11:39:55Z,2026-04-29T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-91e6-c54adcc60425,GREATE-4607ed,2026-04-22T11:39:55Z,2026-04-29T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-91e6-c54adcc60425,GREATE-4607ed,2026-04-22T11:39:55Z,2026-04-29T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-91e6-c54adcc60425,GREATE-4607ed,2026-04-22T11:39:55Z,2026-04-29T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-1d8c-984458f1e179,GREATE-4607ed,2026-04-29T11:39:55Z,2026-05-06T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-1d8c-984458f1e179,GREATE-4607ed,2026-04-29T11:39:55Z,2026-05-06T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-1d8c-984458f1e179,GREATE-4607ed,2026-04-29T11:39:55Z,2026-05-06T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-1d8c-984458f1e179,GREATE-4607ed,2026-04-29T11:39:55Z,2026-05-06T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-1d8c-984458f1e179,GREATE-4607ed,2026-04-29T11:39:55Z,2026-05-06T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-1d8c-984458f1e179,GREATE-4607ed,2026-05-04T11:39:55Z,2026-05-06T11:39:55Z,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-1d8c-984458f1e179,GREATE-4607ed,2026-05-04T11:39:55Z,2026-05-06T11:39:55Z,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-1d8c-984458f1e179,GREATE-4607ed,2026-05-04T11:39:55Z,2026-05-06T11:39:55Z,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-85e8-a0cda3c26c04,GREATE-4607ed,2026-05-06T11:39:55Z,2026-05-13T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-85e8-a0cda3c26c04,GREATE-4607ed,2026-05-06T11:39:55Z,2026-05-13T11:39:55Z,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-85e8-a0cda3c26c04,GREATE-4607ed,2026-05-06T11:39:55Z,2026-05-13T11:39:55Z,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-85e8-a0cda3c26c04,GREATE-4607ed,2026-05-06T11:39:55Z,2026-05-13T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-85e8-a0cda3c26c04,GREATE-4607ed,2026-05-06T11:39:55Z,2026-05-13T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-85e8-a0cda3c26c04,GREATE-4607ed,2026-05-06T11:39:55Z,2026-05-13T11:39:55Z,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-85e8-a0cda3c26c04,GREATE-4607ed,2026-05-06T11:39:55Z,2026-05-13T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-85e8-a0cda3c26c04,GREATE-4607ed,2026-05-06T11:39:55Z,2026-05-13T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-864d-f517c1b42896,GREATE-4607ed,2026-05-13T11:39:55Z,2026-05-20T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-864d-f517c1b42896,GREATE-4607ed,2026-05-13T11:39:55Z,2026-05-20T11:39:55Z,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-864d-f517c1b42896,GREATE-4607ed,2026-05-13T11:39:55Z,2026-05-20T11:39:55Z,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-864d-f517c1b42896,GREATE-4607ed,2026-05-13T11:39:55Z,2026-05-20T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-864d-f517c1b42896,GREATE-4607ed,2026-05-13T11:39:55Z,2026-05-20T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-864d-f517c1b42896,GREATE-4607ed,2026-05-13T11:39:55Z,2026-05-20T11:39:55Z,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-864d-f517c1b42896,GREATE-4607ed,2026-05-13T11:39:55Z,2026-05-20T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-864d-f517c1b42896,GREATE-4607ed,2026-05-13T11:39:55Z,2026-05-20T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-1a37-edb0cbd8acfc,GREATE-4607ed,2026-06-03T11:39:55Z,2026-06-10T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-1a37-edb0cbd8acfc,GREATE-4607ed,2026-06-03T11:39:55Z,2026-06-10T11:39:55Z,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-1a37-edb0cbd8acfc,GREATE-4607ed,2026-06-03T11:39:55Z,2026-06-10T11:39:55Z,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-1a37-edb0cbd8acfc,GREATE-4607ed,2026-06-03T11:39:55Z,2026-06-10T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-1a37-edb0cbd8acfc,GREATE-4607ed,2026-06-03T11:39:55Z,2026-06-10T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-1a37-edb0cbd8acfc,GREATE-4607ed,2026-06-03T11:39:55Z,2026-06-10T11:39:55Z,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-1a37-edb0cbd8acfc,GREATE-4607ed,2026-06-03T11:39:55Z,2026-06-10T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-1a37-edb0cbd8acfc,GREATE-4607ed,2026-06-03T11:39:55Z,2026-06-10T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-67b7-9aaa04bf71fc,GREATE-4607ed,2026-06-10T11:39:55Z,2026-06-17T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-67b7-9aaa04bf71fc,GREATE-4607ed,2026-06-10T11:39:55Z,2026-06-17T11:39:55Z,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-67b7-9aaa04bf71fc,GREATE-4607ed,2026-06-10T11:39:55Z,2026-06-17T11:39:55Z,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-67b7-9aaa04bf71fc,GREATE-4607ed,2026-06-10T11:39:55Z,2026-06-17T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-67b7-9aaa04bf71fc,GREATE-4607ed,2026-06-10T11:39:55Z,2026-06-17T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-67b7-9aaa04bf71fc,GREATE-4607ed,2026-06-10T11:39:55Z,2026-06-17T11:39:55Z,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-67b7-9aaa04bf71fc,GREATE-4607ed,2026-06-10T11:39:55Z,2026-06-17T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-67b7-9aaa04bf71fc,GREATE-4607ed,2026-06-10T11:39:55Z,2026-06-17T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-0fbb-1b96570c1034,GREATE-4607ed,2026-06-17T11:39:55Z,2026-06-24T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-0fbb-1b96570c1034,GREATE-4607ed,2026-06-17T11:39:55Z,2026-06-24T11:39:55Z,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-0fbb-1b96570c1034,GREATE-4607ed,2026-06-17T11:39:55Z,2026-06-24T11:39:55Z,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-0fbb-1b96570c1034,GREATE-4607ed,2026-06-17T11:39:55Z,2026-06-24T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-0fbb-1b96570c1034,GREATE-4607ed,2026-06-17T11:39:55Z,2026-06-24T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-0fbb-1b96570c1034,GREATE-4607ed,2026-06-17T11:39:55Z,2026-06-24T11:39:55Z,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-0fbb-1b96570c1034,GREATE-4607ed,2026-06-17T11:39:55Z,2026-06-24T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-0fbb-1b96570c1034,GREATE-4607ed,2026-06-17T11:39:55Z,2026-06-24T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7623-418d96b29271,GREATE-4607ed,2026-07-15T11:39:55Z,2026-07-22T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7623-418d96b29271,GREATE-4607ed,2026-07-15T11:39:55Z,2026-07-22T11:39:55Z,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-7623-418d96b29271,GREATE-4607ed,2026-07-15T11:39:55Z,2026-07-22T11:39:55Z,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-7623-418d96b29271,GREATE-4607ed,2026-07-15T11:39:55Z,2026-07-22T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-7623-418d96b29271,GREATE-4607ed,2026-07-15T11:39:55Z,2026-07-22T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-7623-418d96b29271,GREATE-4607ed,2026-07-15T11:39:55Z,2026-07-22T11:39:55Z,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-7623-418d96b29271,GREATE-4607ed,2026-07-15T11:39:55Z,2026-07-22T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-7623-418d96b29271,GREATE-4607ed,2026-07-15T11:39:55Z,2026-07-22T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4e6e-acda9e207ce7,GREATE-4607ed,2026-07-22T11:39:55Z,2026-07-29T11:39:55Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4e6e-acda9e207ce7,GREATE-4607ed,2026-07-22T11:39:55Z,2026-07-29T11:39:55Z,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-4e6e-acda9e207ce7,GREATE-4607ed,2026-07-22T11:39:55Z,2026-07-29T11:39:55Z,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-4e6e-acda9e207ce7,GREATE-4607ed,2026-07-22T11:39:55Z,2026-07-29T11:39:55Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-4e6e-acda9e207ce7,GREATE-4607ed,2026-07-22T11:39:55Z,2026-07-29T11:39:55Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-4e6e-acda9e207ce7,GREATE-4607ed,2026-07-22T11:39:55Z,2026-07-29T11:39:55Z,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-4e6e-acda9e207ce7,GREATE-4607ed,2026-07-22T11:39:55Z,2026-07-29T11:39:55Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-4e6e-acda9e207ce7,GREATE-4607ed,2026-07-22T11:39:55Z,2026-07-29T11:39:55Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-3a0d-25f9e3ffe29f,GREATE-4607ed,2026-08-12T11:39:55Z,,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-3a0d-25f9e3ffe29f,GREATE-4607ed,2026-08-12T11:39:55Z,,verapamil hydrochloride 80 MG Oral Tablet [Calan],Atrial fibrillation (disorder)
+bca1691f-8839-1d66-3a0d-25f9e3ffe29f,GREATE-4607ed,2026-08-12T11:39:55Z,,Digoxin 0.125 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-3a0d-25f9e3ffe29f,GREATE-4607ed,2026-08-12T11:39:55Z,,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+bca1691f-8839-1d66-3a0d-25f9e3ffe29f,GREATE-4607ed,2026-08-12T11:39:55Z,,Acetaminophen 325 MG Oral Tablet [Tylenol],
+bca1691f-8839-1d66-3a0d-25f9e3ffe29f,GREATE-4607ed,2026-08-12T11:39:55Z,,Warfarin Sodium 5 MG Oral Tablet,Atrial fibrillation (disorder)
+bca1691f-8839-1d66-3a0d-25f9e3ffe29f,GREATE-4607ed,2026-08-12T11:39:55Z,,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+bca1691f-8839-1d66-3a0d-25f9e3ffe29f,GREATE-4607ed,2026-08-12T11:39:55Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+ca443842-f546-d34c-f593-f43f46f0e5e1,GREATE-8b88b4,2015-02-21T11:02:37Z,,Vitamin B12 5 MG/ML Injectable Solution,
+ca443842-f546-d34c-2829-2ddca497185e,GREATE-8b88b4,2016-02-20T09:55:21Z,2017-02-25T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-2829-2ddca497185e,GREATE-8b88b4,2016-02-20T09:55:21Z,2017-02-25T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-86da-1288ca0c653b,GREATE-8b88b4,2016-09-11T10:11:39Z,2017-09-06T10:11:39Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+ca443842-f546-d34c-4661-6ae0c1eaed89,GREATE-8b88b4,2017-02-25T09:55:21Z,2018-03-03T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-4661-6ae0c1eaed89,GREATE-8b88b4,2017-02-25T09:55:21Z,2018-03-03T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-935e-84439a1e3aca,GREATE-8b88b4,2018-03-03T09:55:21Z,2019-03-09T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-935e-84439a1e3aca,GREATE-8b88b4,2018-03-03T09:55:21Z,2019-03-09T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-1c02-f639b59c82fb,GREATE-8b88b4,2018-09-01T10:11:39Z,2019-08-27T10:11:39Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+ca443842-f546-d34c-56ab-0614245c6ece,GREATE-8b88b4,2019-03-09T09:55:21Z,2020-03-14T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-56ab-0614245c6ece,GREATE-8b88b4,2019-03-09T09:55:21Z,2020-03-14T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-1cb1-2c8e21a8a6d5,GREATE-8b88b4,2019-08-27T10:11:39Z,2020-08-21T10:11:39Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+ca443842-f546-d34c-cd0d-efc1886d2b52,GREATE-8b88b4,2020-03-14T09:55:21Z,2021-03-20T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-cd0d-efc1886d2b52,GREATE-8b88b4,2020-03-14T09:55:21Z,2021-03-20T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-6b33-dda7fbc92032,GREATE-8b88b4,2020-08-21T10:11:39Z,2021-08-16T10:11:39Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+ca443842-f546-d34c-3b47-9aa1948dc91a,GREATE-8b88b4,2021-03-20T09:55:21Z,2022-03-26T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-3b47-9aa1948dc91a,GREATE-8b88b4,2021-03-20T09:55:21Z,2022-03-26T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-7ab9-aafbfdb303dc,GREATE-8b88b4,2021-08-16T10:11:39Z,2022-08-11T10:31:39Z,Etonogestrel 68 MG Drug Implant,
+ca443842-f546-d34c-e2b8-d0be116f778b,GREATE-8b88b4,2022-03-26T09:55:21Z,2023-04-01T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-e2b8-d0be116f778b,GREATE-8b88b4,2022-03-26T09:55:21Z,2023-04-01T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-d926-108f4fe6c380,GREATE-8b88b4,2022-04-09T12:48:06Z,2022-04-09T12:48:06Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+ca443842-f546-d34c-f3c4-fbada6a6c570,GREATE-8b88b4,2022-08-11T10:31:39Z,2023-02-04T10:26:44Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+ca443842-f546-d34c-4ca5-06582f5a83c6,GREATE-8b88b4,2022-12-03T09:55:21Z,2022-12-10T09:55:21Z,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet,
+ca443842-f546-d34c-1d9e-ad488a49c2cd,GREATE-8b88b4,2023-04-01T09:55:21Z,2024-04-06T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-1d9e-ad488a49c2cd,GREATE-8b88b4,2023-04-01T09:55:21Z,2024-04-06T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-bb1e-a07155e1b996,GREATE-8b88b4,2024-04-06T09:55:21Z,2025-04-12T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-bb1e-a07155e1b996,GREATE-8b88b4,2024-04-06T09:55:21Z,2025-04-12T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-da5d-31ed4b677dcf,GREATE-8b88b4,2025-03-01T09:55:21Z,2026-02-24T09:55:21Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+ca443842-f546-d34c-7998-191bb88e4a91,GREATE-8b88b4,2025-04-12T09:55:21Z,2026-04-18T09:55:21Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-7998-191bb88e4a91,GREATE-8b88b4,2025-04-12T09:55:21Z,2026-04-18T09:55:21Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+ca443842-f546-d34c-8c9f-ce74ca32bfb7,GREATE-8b88b4,2025-04-26T12:12:20Z,2025-04-26T12:12:20Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+ca443842-f546-d34c-1e60-c14ba2d3a65e,GREATE-8b88b4,2026-04-18T09:55:21Z,,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+ca443842-f546-d34c-1e60-c14ba2d3a65e,GREATE-8b88b4,2026-04-18T09:55:21Z,,Ibuprofen 400 MG Oral Tablet [Ibu],

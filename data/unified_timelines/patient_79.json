@@ -1,0 +1,957 @@
+{
+  "cluster_id": "79",
+  "hospitals": [
+    "North Central Mass Health",
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1967-01-11",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "1980-07-02",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "1981-07-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "2002-11-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2003-11-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "2004-11-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "2012-05-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "poly",
+          "canonical": "poly",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2013-07-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Polyp of colon (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "polyp",
+          "canonical": "Polyp of colon | Recurrent rectal polyp",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2014-01-31",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2016-01-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-25T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-01-25T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-25T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-04-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2017-01-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-01-31T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-01-31T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-01-31T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-01-31T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gi",
+          "canonical": "gi",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-08T09:08:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-10",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2018-01-31",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-12"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-06T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-02-06T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-06T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2019-02-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-12T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-02-12T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-12T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-20T08:32:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2019-12-14",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2020-02-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-02-17T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-02-17T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-02-17T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2020-05-07",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2020-12-12",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2020-12-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Asthma (disorder)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": []
+    },
+    {
+      "date": "2020-12-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2021-02-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-23T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-23T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-23T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-23T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-03T08:55:17Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2021-11-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2021-11-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2021-12-15",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2021-12-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2022-01-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "cefazolin",
+          "canonical": "cefazolin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T11:43:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "heparin sodium  porcine",
+          "canonical": "heparin sodium porcine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T11:43:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "protamine sulfate",
+          "canonical": "protamine sulfate (USP)",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T11:43:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "US",
+          "canonical": "US",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-01-25T11:43:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ondansetron",
+          "canonical": "NDA | Ondansetron",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-01-25T12:57:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Midazolam",
+          "canonical": "Midazolam",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T12:57:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Propofol",
+          "canonical": "Propofol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T12:57:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Rocuronium bromide",
+          "canonical": "Rocuronium bromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T12:57:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "desflurane",
+          "canonical": "desflurane",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T12:57:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "remifentanil",
+          "canonical": "remifentanil",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T12:57:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of aortic valve replacement (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "media",
+          "canonical": "Infectious mediastinitis | Otitis media",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-01-25"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of aortic valve replacement (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-23T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "metabolic syndrome",
+          "canonical": "Metabolic syndrome X",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-01T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-03-01T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-01T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-01T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-03-01T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-01T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-03-01T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2022-06-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2023-03-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-06T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-03-06T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-06T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-06T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-03-06T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-06T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2024-03-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2024-03-20"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-12T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-03-12T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-12T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-12T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-03-12T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-12T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2025-03-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-03-18T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-03-18T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-03-18T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-03-18T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-03-18T06:00:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-03-18T06:00:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-28",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2026-01-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-12T08:18:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Metabolic syndrome X",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

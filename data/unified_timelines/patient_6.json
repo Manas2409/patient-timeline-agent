@@ -1,0 +1,199 @@
+{
+  "cluster_id": "6",
+  "hospitals": [
+    "Greater Boston Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2001-07-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2013-03-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2013-11-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2014-03-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2017-03-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "strept",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ccal",
+          "canonical": "ccal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-09-08"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-08T03:35:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2023-03-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-03-27"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronch",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-27"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-27T19:43:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2023-04-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2023-04-10"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-10T21:24:37Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2026-04-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

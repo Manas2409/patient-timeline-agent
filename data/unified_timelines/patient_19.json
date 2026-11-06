@@ -1,0 +1,902 @@
+{
+  "cluster_id": "19",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "1968-01-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sin",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1974-07-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "1981-08-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "1982-08-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "1998-09-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2004-06-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2005-11-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2006-07-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2006-07-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2006-07-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-02T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2006-11-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2006-11-22T22:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2006-11-22T22:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2006-11-22T22:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2006-11-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2007-07-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2008-07-24T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2007-12-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2007-12-29"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2007-12-29"
+        }
+      ]
+    },
+    {
+      "date": "2008-07-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "essential hypertension",
+          "canonical": "Essential hypertension",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2014-08-13"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2008-07-08T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2008-07-08T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-07-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2008-07-23T01:58:37Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-07-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2009-07-24T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-08-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2009-07-14T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-10-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2008-12-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2009-07-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-07-20T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2010-07-20T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2009-07-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-07-24T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2009-11-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Sprain (morphologic abnormality)",
+      "seen_at": "BOSTON HOME  INC (THE)",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2009-12-08"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2009-12-01T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2009-11-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2010-01-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2010-01-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2010-07-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2011-07-26T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2011-07-26T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2010-07-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2011-08-02T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2011-07-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-07-31T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2012-07-31T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2011-08-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-08-01T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2011-08-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2012-07-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-07-23T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2013-07-23T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2012-08-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-08-20T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-07-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2013-08-04"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-08-04T01:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-07-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HALLMARK HEALTH URGENT CARE PHYSICIANS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-07-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2013-07-30T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-07-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-08-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2013-08-06T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-08-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate",
+          "canonical": "intimate",
+          "match_method": "unmapped",
+          "outcome": "resolved 2014-08-13"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-08-12T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-08-12T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-08-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2013-08-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-02T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-06-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "polyp",
+          "canonical": "Polyp of colon | Recurrent rectal polyp",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2014-08-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2014-08-27"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2014-08-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-08-27T01:57:04Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-09-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Sepsis (disorder)",
+      "seen_at": "BOSTON HOME  INC (THE)",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sep",
+          "canonical": "sep",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sep",
+          "canonical": "sep",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "acute",
+          "canonical": "Acute bacterial sinusitis | Acute deep venous thrombosis | Acute infective cystitis | Disease caused by severe acute respiratory syndrome coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "piperacillin",
+          "canonical": "piperacillin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-02-03T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tazobactam",
+          "canonical": "tazobactam",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-02-03T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-02-03T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norepinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-02-04T00:59:08Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bacterial sinusitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Essential hypertension",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

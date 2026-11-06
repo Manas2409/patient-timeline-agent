@@ -1,0 +1,149 @@
+{
+  "cluster_id": "86",
+  "hospitals": [
+    "Pioneer Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2024-01-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-02-06",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-04-09",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-06-11",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-10",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-12-10",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-11",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-06-10",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-09-30",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HEALTH-MD URGENT CARE",
+      "entities": []
+    },
+    {
+      "date": "2025-10-07",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2025-10-14",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-10-26"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-10-26"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-26T21:26:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-26T21:26:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-26T21:26:57Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-12-09",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-09",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

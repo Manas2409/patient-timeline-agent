@@ -1,0 +1,370 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,ENCOUNTERCLASS,DESCRIPTION,REASONDESCRIPTION,SEEN_AT
+8b9df7af-24b3-66ee-5a2b-56f7415801c1,WEST_S-0d961f,2016-03-20T03:41:03Z,2016-03-20T03:56:03Z,wellness,Well child visit (procedure),,BEDFORD-LEXINGTON INTERNAL MEDICINE  PC
+8b9df7af-24b3-66ee-d46c-520a00b76fa8,WEST_S-0d961f,2017-03-26T03:41:03Z,2017-03-26T03:56:03Z,wellness,Well child visit (procedure),,BEDFORD-LEXINGTON INTERNAL MEDICINE  PC
+8b9df7af-24b3-66ee-e180-382ed946a8f9,WEST_S-0d961f,2018-04-01T03:41:03Z,2018-04-01T04:21:05Z,wellness,Well child visit (procedure),,BEDFORD-LEXINGTON INTERNAL MEDICINE  PC
+8b9df7af-24b3-66ee-7f91-c7e4c7fa1bfc,WEST_S-0d961f,2019-04-07T03:41:03Z,2019-04-07T04:14:12Z,wellness,General examination of patient (procedure),,BEDFORD-LEXINGTON INTERNAL MEDICINE  PC
+8b9df7af-24b3-66ee-a2e0-1afc2a82be80,WEST_S-0d961f,2020-04-12T03:41:03Z,2020-04-12T04:35:35Z,wellness,General examination of patient (procedure),,BEDFORD-LEXINGTON INTERNAL MEDICINE  PC
+8b9df7af-24b3-66ee-7f9c-54810c4e1d9a,WEST_S-0d961f,2023-04-16T03:41:03Z,2023-04-16T04:32:29Z,wellness,General examination of patient (procedure),,BEDFORD-LEXINGTON INTERNAL MEDICINE  PC
+8b9df7af-24b3-66ee-bf90-f3660887778c,WEST_S-0d961f,2026-04-26T03:41:03Z,2026-04-26T04:25:59Z,wellness,General examination of patient (procedure),,BEDFORD-LEXINGTON INTERNAL MEDICINE  PC
+87f7ad7b-85f9-d26d-6ace-0a1185fb78d1,WEST_S-db5bad,1987-06-19T23:31:00Z,1987-06-20T00:02:18Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-2738-9080392bfe67,WEST_S-db5bad,1989-12-26T23:31:00Z,1989-12-26T23:46:00Z,ambulatory,Prenatal visit (regime/therapy),Complete miscarriage (disorder),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-98dd-55637e225cfe,WEST_S-db5bad,2011-05-06T23:31:00Z,2011-05-07T00:19:31Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-528c-75a0a272f300,WEST_S-db5bad,2011-06-14T23:31:00Z,2011-06-15T00:31:00Z,emergency,Emergency room admission (procedure),Impacted molars (disorder),GOOD SHEPHERD COMMUNITY CARE
+87f7ad7b-85f9-d26d-9676-37fa1dd512ce,WEST_S-db5bad,2013-05-10T23:31:00Z,2013-05-11T00:08:28Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-c42f-6f71be3e4b0b,WEST_S-db5bad,2015-05-15T23:31:00Z,2015-05-16T00:29:03Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-4cad-f4f86bd71724,WEST_S-db5bad,2015-12-14T21:27:47Z,2015-12-14T21:42:47Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MOUNT AUBURN HOSPITAL
+87f7ad7b-85f9-d26d-1d74-1aac2639cbc8,WEST_S-db5bad,2016-12-11T19:34:13Z,2016-12-11T20:00:38Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MOUNT AUBURN HOSPITAL
+87f7ad7b-85f9-d26d-6205-1b948e1b37be,WEST_S-db5bad,2017-02-24T23:31:00Z,2017-02-25T00:17:35Z,outpatient,Encounter for check up (procedure),,MOUNT AUBURN HOSPITAL
+87f7ad7b-85f9-d26d-8404-84e3b121240b,WEST_S-db5bad,2017-03-03T23:31:00Z,2017-03-04T00:31:00Z,emergency,Emergency room admission (procedure),Appendicitis (disorder),GOOD SHEPHERD COMMUNITY CARE
+87f7ad7b-85f9-d26d-2bc9-54896a9dc2e4,WEST_S-db5bad,2017-03-03T23:31:00Z,2017-03-05T15:17:58Z,inpatient,Encounter for problem (procedure),Appendicitis (disorder),CHILDREN'S HOSPITAL CORPORATION
+87f7ad7b-85f9-d26d-fc24-e40761f6971c,WEST_S-db5bad,2017-05-19T23:31:00Z,2017-05-20T00:11:13Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-308d-3c022a1a32d5,WEST_S-db5bad,2017-12-06T20:00:38Z,2017-12-06T20:15:38Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MOUNT AUBURN HOSPITAL
+87f7ad7b-85f9-d26d-8fd2-ceda10957c9c,WEST_S-db5bad,2018-12-01T20:00:38Z,2018-12-01T20:15:38Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MOUNT AUBURN HOSPITAL
+87f7ad7b-85f9-d26d-bb84-66575820aa54,WEST_S-db5bad,2019-04-26T23:31:00Z,2019-04-27T00:05:27Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-167e-9c4816bd35f9,WEST_S-db5bad,2019-05-03T23:31:00Z,2019-05-04T00:05:35Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-a5b9-d11c9b138579,WEST_S-db5bad,2019-12-06T23:31:00Z,2019-12-07T00:18:47Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MOUNT AUBURN HOSPITAL
+87f7ad7b-85f9-d26d-5832-02f6b7a712d7,WEST_S-db5bad,2020-05-01T23:31:00Z,2020-05-02T00:25:31Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-2a4e-d117289c562c,WEST_S-db5bad,2020-05-15T23:31:00Z,2020-05-16T05:39:54Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-e330-a68f417ab6e4,WEST_S-db5bad,2021-05-07T23:31:00Z,2021-05-08T00:07:05Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,2021-05-10T23:31:00Z,2021-05-11T00:49:58Z,ambulatory,Encounter for symptom (procedure),Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-934e-c7375bed15a3,WEST_S-db5bad,2022-05-13T23:31:00Z,2022-05-14T00:17:28Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-5f08-f4398ac29a86,WEST_S-db5bad,2022-05-27T23:31:00Z,2022-05-28T02:48:02Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,2023-05-19T23:31:00Z,2023-05-20T00:18:14Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-f261-433d205b50fa,WEST_S-db5bad,2023-06-02T23:31:00Z,2023-06-03T02:17:39Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-e0dd-4693ca635e6b,WEST_S-db5bad,2023-06-18T23:31:00Z,2023-06-18T23:46:00Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-b7c2-0d595a4f6917,WEST_S-db5bad,2023-08-17T23:31:00Z,2023-08-17T23:46:00Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-8751-b1e329116ba7,WEST_S-db5bad,2023-10-16T23:31:00Z,2023-10-16T23:46:00Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-ddd6-f6df356d7112,WEST_S-db5bad,2024-05-03T00:05:35Z,2024-05-03T00:32:22Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,2024-05-24T23:31:00Z,2024-05-25T00:15:16Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-8968-938d7d6962f9,WEST_S-db5bad,2024-06-07T23:31:00Z,2024-06-08T02:55:33Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,2025-05-30T23:31:00Z,2025-05-31T00:16:54Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-8ed1-78321688f54b,WEST_S-db5bad,2025-06-13T23:31:00Z,2025-06-14T02:44:03Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+87f7ad7b-85f9-d26d-42fa-0b23756aa084,WEST_S-db5bad,2026-06-05T23:31:00Z,2026-06-06T00:14:55Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+87f7ad7b-85f9-d26d-cf1a-95b514289d63,WEST_S-db5bad,2026-06-19T23:31:00Z,2026-06-20T02:56:29Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+f5749532-3295-ad01-d458-6563c570663c,WEST_S-2e8bad,1990-11-05T07:20:24Z,1990-11-05T08:09:10Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-e596-ecdf3cf1e767,WEST_S-2e8bad,2000-11-20T07:20:24Z,2000-11-20T08:03:53Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-ff01-45763dd7c52b,WEST_S-2e8bad,2000-11-27T07:20:24Z,2000-11-27T08:23:54Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-64d4-ecb86b7d8653,WEST_S-2e8bad,2003-11-24T07:20:24Z,2003-11-24T08:03:47Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-f559-54b5bf1bdefd,WEST_S-2e8bad,2012-09-17T07:20:24Z,2012-09-17T08:15:07Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-b198-0b8422f92d43,WEST_S-2e8bad,2012-10-08T07:20:24Z,2012-10-08T08:25:38Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-245e-b4c477ee898a,WEST_S-2e8bad,2014-09-22T07:20:24Z,2014-09-22T07:55:30Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-c53e-0cfd46599b2c,WEST_S-2e8bad,2015-09-09T08:29:31Z,2015-09-09T08:44:31Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-0f8c-1aea90e943c6,WEST_S-2e8bad,2016-09-03T08:29:31Z,2016-09-03T08:44:31Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-0049-abe9f9382d17,WEST_S-2e8bad,2016-09-26T07:20:24Z,2016-09-26T08:03:42Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-f3bc-407311274bf6,WEST_S-2e8bad,2017-08-29T08:29:31Z,2017-08-29T08:44:31Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-26b1-0b0a46d08586,WEST_S-2e8bad,2017-10-30T07:20:24Z,2017-10-30T08:11:41Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-7458-0a7edc951fd9,WEST_S-2e8bad,2017-11-20T07:20:24Z,2017-11-20T07:56:56Z,outpatient,Encounter for check up (procedure),,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-c495-dc0a50f64d58,WEST_S-2e8bad,2017-11-27T07:20:24Z,2017-11-27T07:35:24Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-0103-e324fc633aff,WEST_S-2e8bad,2018-08-24T08:29:31Z,2018-08-24T08:44:31Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-6506-a9bcd107ca02,WEST_S-2e8bad,2018-10-01T07:20:24Z,2018-10-01T07:53:25Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-5d0e-c3905bcb60fe,WEST_S-2e8bad,2019-08-19T08:29:31Z,2019-08-19T08:53:11Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-85bf-2ba1c9e089e2,WEST_S-2e8bad,2020-08-13T08:53:11Z,2020-08-13T09:08:11Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-9331-d44e8c930ae1,WEST_S-2e8bad,2020-08-16T04:53:11Z,2020-08-16T05:39:40Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-7a44-711db61d3a16,WEST_S-2e8bad,2020-10-05T07:20:24Z,2020-10-05T08:04:16Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-eb9d-d574a10d9f8e,WEST_S-2e8bad,2020-10-19T07:20:24Z,2020-10-19T13:11:18Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-e964-e9a8ef9d6c89,WEST_S-2e8bad,2021-08-16T07:20:24Z,2021-08-16T07:35:24Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-b661-5d3b99d5bb71,WEST_S-2e8bad,2021-09-06T07:20:24Z,2021-09-06T07:35:24Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,2021-09-25T14:20:24Z,2021-09-25T14:35:24Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-48aa-eb6c4531d139,WEST_S-2e8bad,2021-11-01T07:20:24Z,2021-11-01T08:23:47Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-493d-dffc15d5dae5,WEST_S-2e8bad,2021-11-08T07:20:24Z,2021-11-08T08:20:16Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-4142-7c51d7bba5be,WEST_S-2e8bad,2021-11-22T08:20:16Z,2021-11-22T08:53:59Z,ambulatory,Follow-up encounter (procedure),Loss of teeth (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-61e6-c7911e74323d,WEST_S-2e8bad,2022-08-06T05:39:40Z,2022-08-06T05:54:40Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-1f5f-89549394d085,WEST_S-2e8bad,2022-09-12T07:20:24Z,2022-09-12T08:12:57Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-8323-452805a161ec,WEST_S-2e8bad,2022-09-19T07:20:24Z,2022-09-19T07:47:37Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-a568-149b495f8778,WEST_S-2e8bad,2023-08-14T07:20:24Z,2023-08-14T07:49:59Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-6cbd-ec9547d6551c,WEST_S-2e8bad,2023-09-18T07:20:24Z,2023-09-18T08:07:46Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-b7a2-ddd897c9e7da,WEST_S-2e8bad,2024-09-23T07:20:24Z,2024-09-23T08:02:05Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-f7b3-590b37932e3b,WEST_S-2e8bad,2024-10-07T07:20:24Z,2024-10-07T10:37:55Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f5749532-3295-ad01-8285-7d02efa5284b,WEST_S-2e8bad,2025-09-29T07:20:24Z,2025-09-29T08:12:00Z,wellness,General examination of patient (procedure),,CLASSIC HEALTHCARE MEDICAL GROUP LLC
+f5749532-3295-ad01-8601-92ba8138d033,WEST_S-2e8bad,2025-10-13T07:20:24Z,2025-10-13T10:32:39Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+37549f60-b5a3-69cd-134f-352b28dfcfa1,WEST_S-41bc86,1999-07-19T22:20:00Z,1999-07-19T23:00:52Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-4e2f-95a457419b8d,WEST_S-41bc86,2000-07-24T22:20:00Z,2000-07-24T23:06:22Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-1f2b-5b0e1daa6e75,WEST_S-41bc86,2005-06-05T22:20:00Z,2005-06-05T22:35:00Z,ambulatory,Encounter for problem (procedure),Contact dermatitis (disorder),MOUNT AUBURN HOSPITAL
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,2005-06-18T13:20:00Z,2005-06-18T13:48:14Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),MOUNT AUBURN HOSPITAL
+37549f60-b5a3-69cd-3713-58026f28b858,WEST_S-41bc86,2006-08-07T22:20:00Z,2006-08-07T23:17:19Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-3f70-3e071a481b7f,WEST_S-41bc86,2012-08-13T22:20:00Z,2012-08-13T22:55:13Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-2d72-8965f27ddcc9,WEST_S-41bc86,2013-02-26T15:20:00Z,2013-02-26T15:35:00Z,ambulatory,Prenatal visit (regime/therapy),Tubal pregnancy (disorder),MOUNT AUBURN HOSPITAL
+37549f60-b5a3-69cd-1bd9-1134287ee64f,WEST_S-41bc86,2015-08-17T22:20:00Z,2015-08-17T22:55:15Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-472b-bbfa6ccfe9f8,WEST_S-41bc86,2016-03-06T22:45:08Z,2016-03-06T23:00:08Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-ad4a-2091412653c2,WEST_S-41bc86,2016-12-05T22:20:00Z,2016-12-05T23:06:40Z,outpatient,Encounter for check up (procedure),,CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-f0d0-8b874531a764,WEST_S-41bc86,2016-12-12T22:20:00Z,2016-12-12T22:35:00Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MOUNT AUBURN HOSPITAL
+37549f60-b5a3-69cd-6f05-913e40a20748,WEST_S-41bc86,2016-12-19T22:20:00Z,2016-12-20T02:08:08Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MOUNT AUBURN HOSPITAL
+37549f60-b5a3-69cd-4ea5-4f85bef1e645,WEST_S-41bc86,2017-03-01T22:56:41Z,2017-03-01T23:11:41Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-8b07-510c222fe7c5,WEST_S-41bc86,2018-02-24T23:08:45Z,2018-02-24T23:23:45Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-3665-0a9c986774be,WEST_S-41bc86,2018-03-26T22:20:00Z,2018-03-26T23:10:00Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-6c13-767fd9c9e5ad,WEST_S-41bc86,2018-08-20T22:20:00Z,2018-08-20T23:15:35Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,2019-02-19T23:08:45Z,2019-02-19T23:23:45Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-a515-63877cb9e999,WEST_S-41bc86,2019-04-22T06:20:00Z,2019-04-22T06:35:00Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),MOUNT AUBURN HOSPITAL
+37549f60-b5a3-69cd-a580-8fb7eeb38c45,WEST_S-41bc86,2020-02-14T23:08:45Z,2020-02-14T23:26:53Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-ea6a-57bed1c3fe64,WEST_S-41bc86,2021-02-08T23:26:53Z,2021-02-08T23:41:53Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-c9a7-584d358bfd15,WEST_S-41bc86,2021-02-12T16:26:53Z,2021-02-12T17:36:43Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-60b7-dfbf3fae57f3,WEST_S-41bc86,2021-05-31T22:20:00Z,2021-05-31T23:01:23Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,2022-02-07T17:36:43Z,2022-02-07T17:51:43Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-4d4e-7437d3cf41eb,WEST_S-41bc86,2022-03-28T22:20:00Z,2022-03-28T23:22:07Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-746c-025c76449e91,WEST_S-41bc86,2023-06-05T22:20:00Z,2023-06-05T23:12:14Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-af28-26d4f3ff0312,WEST_S-41bc86,2023-06-19T22:20:00Z,2023-06-20T01:27:39Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MOUNT AUBURN HOSPITAL
+37549f60-b5a3-69cd-914b-f940a59de94c,WEST_S-41bc86,2024-01-28T17:36:43Z,2024-01-28T17:51:43Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-ae79-c9a9fc0a286b,WEST_S-41bc86,2025-06-09T22:20:00Z,2025-06-09T23:17:20Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+37549f60-b5a3-69cd-5871-347b884fd7e4,WEST_S-41bc86,2025-10-05T13:20:00Z,2025-10-05T13:35:00Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),MOUNT AUBURN HOSPITAL
+37549f60-b5a3-69cd-cae0-419093807284,WEST_S-41bc86,2026-01-17T17:36:43Z,2026-01-17T17:51:43Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+37549f60-b5a3-69cd-3780-d92dcfc4ba38,WEST_S-41bc86,2026-03-30T22:20:00Z,2026-03-30T23:20:36Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),CHILDREN'S HOSPITAL CORPORATION
+3c0e60c4-176e-2c4c-056b-08216c7c29b6,WEST_S-3263d3,1973-11-08T18:39:12Z,1973-11-08T18:54:12Z,wellness,Well child visit (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-2894-d8ac1e090dd0,WEST_S-3263d3,1982-12-30T18:39:12Z,1982-12-30T19:25:19Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-0c8f-7f0a51c7d0c3,WEST_S-3263d3,1984-01-05T18:39:12Z,1984-01-05T19:33:15Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-1dcb-16fb8f38bd6a,WEST_S-3263d3,1997-08-25T18:39:12Z,1997-08-25T19:39:12Z,emergency,Emergency hospital admission (procedure),Chronic pain (finding),NEWTON WELLESLEY CENTER FOR ALZHEIMER'S CARE
+3c0e60c4-176e-2c4c-40c5-850ce1f89762,WEST_S-3263d3,2004-11-11T18:39:12Z,2004-11-11T19:32:59Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-349f-d1d329fb6404,WEST_S-3263d3,2008-11-20T18:39:12Z,2008-11-20T19:13:31Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-23e2-149988895a02,WEST_S-3263d3,2012-11-29T18:39:12Z,2012-11-29T19:20:52Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-6448-35f83f99d1b0,WEST_S-3263d3,2016-11-17T18:39:12Z,2016-11-17T19:32:17Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-bfbb-69aeee1d0547,WEST_S-3263d3,2017-11-23T18:39:12Z,2017-11-23T19:23:03Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-2947-dc66031f66d2,WEST_S-3263d3,2018-11-29T18:39:12Z,2018-11-29T19:29:04Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-b67d-c85805ad1c23,WEST_S-3263d3,2019-12-05T18:39:12Z,2019-12-05T19:12:25Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,2020-12-10T18:39:12Z,2020-12-10T19:29:03Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,2021-11-16T18:39:12Z,2021-11-16T19:39:12Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),NEWTON WELLESLEY CENTER FOR ALZHEIMER'S CARE
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,2021-12-16T18:39:12Z,2021-12-16T19:37:37Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,2022-12-22T18:39:12Z,2022-12-22T19:34:37Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2023-12-28T18:39:12Z,2023-12-28T19:24:09Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,2025-01-02T18:39:12Z,2025-01-02T19:10:15Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,2026-01-08T18:39:12Z,2026-01-08T19:29:26Z,wellness,General examination of patient (procedure),,WESTON PRIMARY CARE  PC
+f6745f8a-8107-443e-96a4-c3109911c436,WEST_S-64e1c9,1955-12-04T12:10:58Z,1955-12-04T12:25:58Z,ambulatory,Encounter for symptom (procedure),Perennial allergic rhinitis with seasonal variation (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-2249-0b4b49af0630,WEST_S-64e1c9,1955-12-11T16:10:58Z,1955-12-11T16:25:58Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-5b8e-44e3b9793542,WEST_S-64e1c9,1971-07-06T12:10:58Z,1971-07-06T12:51:15Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-b55f-4877d3e97b47,WEST_S-64e1c9,1990-07-31T12:10:58Z,1990-07-31T12:42:41Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-cfbb-51379f5f4a07,WEST_S-64e1c9,1990-10-02T12:10:58Z,1990-10-02T13:10:54Z,urgentcare,Urgent care clinic (environment),,PATRIOT URGENT CARE PROFESSIONALS PC
+f6745f8a-8107-443e-402e-d236ef71aa79,WEST_S-64e1c9,1990-10-23T12:10:58Z,1990-10-23T13:31:19Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-61ef-3c986a64b965,WEST_S-64e1c9,1995-05-23T12:10:58Z,1995-05-23T13:08:24Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,1999-12-31T12:10:58Z,1999-12-31T12:25:58Z,ambulatory,Encounter for problem (procedure),Localized  primary osteoarthritis of the hand (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-7a1d-858797793b5a,WEST_S-64e1c9,2014-02-06T12:10:58Z,2014-02-06T12:25:58Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-e78d-3fe6ad1ed010,WEST_S-64e1c9,2014-07-15T12:10:58Z,2014-07-15T13:04:51Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-cbc1-9f942a0dee50,WEST_S-64e1c9,2014-08-05T12:10:58Z,2014-08-05T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-8d85-de6a5a21b6bf,WEST_S-64e1c9,2016-07-26T12:10:58Z,2016-07-26T12:47:15Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-52bc-16a1d5b3f61e,WEST_S-64e1c9,2016-08-16T12:10:58Z,2016-08-16T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-d52c-4d62d23fce8e,WEST_S-64e1c9,2017-08-01T12:10:58Z,2017-08-01T13:10:08Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-4155-4c198f5b983f,WEST_S-64e1c9,2017-08-15T12:10:58Z,2017-08-15T15:40:07Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-dcf2-5f70e2a2369e,WEST_S-64e1c9,2017-08-16T12:10:58Z,2017-08-16T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-addf-accad549d9df,WEST_S-64e1c9,2018-05-19T13:37:14Z,2018-05-19T14:20:10Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-88cb-23505c5e6d38,WEST_S-64e1c9,2018-08-07T12:10:58Z,2018-08-07T13:07:06Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-c8f2-de5663c4d7ca,WEST_S-64e1c9,2018-08-16T12:10:58Z,2018-08-16T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-7681-ae7f4965585e,WEST_S-64e1c9,2019-08-13T12:10:58Z,2019-08-13T12:58:52Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-a26f-34eef06e073a,WEST_S-64e1c9,2019-08-16T12:10:58Z,2019-08-16T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-d096-9242a6171347,WEST_S-64e1c9,2019-08-20T12:10:58Z,2019-08-20T12:25:58Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-655e-fb9dca4b48ba,WEST_S-64e1c9,2020-08-18T12:10:58Z,2020-08-18T12:54:56Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-97e8-bc81256b6e0b,WEST_S-64e1c9,2020-08-25T12:10:58Z,2020-08-25T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-86e9-fa6c0f7bd099,WEST_S-64e1c9,2020-09-01T12:10:58Z,2020-09-01T15:13:38Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-bfc8-de6f5afa5132,WEST_S-64e1c9,2021-05-18T12:10:58Z,2021-05-18T12:25:58Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-0e96-745168bb2626,WEST_S-64e1c9,2021-06-15T12:10:58Z,2021-06-15T12:25:58Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-a24d-daf845d5b210,WEST_S-64e1c9,2021-06-29T12:10:58Z,2021-06-29T12:51:25Z,urgentcare,Urgent care clinic (environment),,PATRIOT URGENT CARE PROFESSIONALS PC
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,2021-07-06T12:10:58Z,2021-07-06T12:25:58Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-fc1d-8ead3df1f308,WEST_S-64e1c9,2021-07-13T12:10:58Z,2021-07-13T15:41:16Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-a475-020a8d299de5,WEST_S-64e1c9,2021-08-24T12:10:58Z,2021-08-24T12:48:28Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-45e5-8e9615f97844,WEST_S-64e1c9,2021-08-25T12:10:58Z,2021-08-25T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,2022-01-23T15:10:58Z,2022-01-23T15:25:58Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-fd4a-52273d70dade,WEST_S-64e1c9,2022-02-01T12:10:58Z,2022-02-01T13:00:49Z,outpatient,Encounter for check up (procedure),,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-4e0c-6bc5a3b27d46,WEST_S-64e1c9,2022-08-30T12:10:58Z,2022-08-30T13:07:27Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-fe7a-32b9fd330626,WEST_S-64e1c9,2022-09-06T12:10:58Z,2022-09-06T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-6189-d722408bf771,WEST_S-64e1c9,2023-05-19T14:20:10Z,2023-05-19T15:02:44Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-a0e9-70e3c110808b,WEST_S-64e1c9,2023-09-05T12:10:58Z,2023-09-05T12:55:18Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-4d0e-2bb8614839ae,WEST_S-64e1c9,2023-09-06T12:10:58Z,2023-09-06T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-8d3e-a20b6338451d,WEST_S-64e1c9,2024-01-23T12:10:58Z,2024-01-23T12:25:58Z,urgentcare,Patient encounter procedure (procedure),Transition from acute care to home-health care (finding),PATRIOT URGENT CARE PROFESSIONALS PC
+f6745f8a-8107-443e-71b2-4f3109f88f52,WEST_S-64e1c9,2024-01-23T18:38:58Z,2024-01-23T18:53:58Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),CENTRAL HOME HEALTH CARE  INC
+f6745f8a-8107-443e-dea6-cde6b6fe831c,WEST_S-64e1c9,2024-01-24T18:38:58Z,2024-01-24T18:53:58Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),CENTRAL HOME HEALTH CARE  INC
+f6745f8a-8107-443e-e04d-0b34172e87e0,WEST_S-64e1c9,2024-01-25T18:38:58Z,2024-01-25T18:53:58Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),CENTRAL HOME HEALTH CARE  INC
+f6745f8a-8107-443e-ba1a-4b9323210bcb,WEST_S-64e1c9,2024-01-26T18:38:58Z,2024-01-26T18:53:58Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),CENTRAL HOME HEALTH CARE  INC
+f6745f8a-8107-443e-fd54-0ffc94a78474,WEST_S-64e1c9,2024-01-27T18:38:58Z,2024-01-27T18:53:58Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),CENTRAL HOME HEALTH CARE  INC
+f6745f8a-8107-443e-0917-eb156ed458b7,WEST_S-64e1c9,2024-01-28T18:38:58Z,2024-01-28T18:53:58Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),CENTRAL HOME HEALTH CARE  INC
+f6745f8a-8107-443e-dab7-edfd666a042a,WEST_S-64e1c9,2024-07-04T21:10:58Z,2024-07-04T21:25:58Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-eb62-d5141b7335a3,WEST_S-64e1c9,2024-09-10T12:10:58Z,2024-09-10T13:01:59Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-a06a-e08bf3292dd8,WEST_S-64e1c9,2024-09-17T12:10:58Z,2024-09-17T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-ec75-7f98d40c4e75,WEST_S-64e1c9,2025-09-16T12:10:58Z,2025-09-16T12:55:06Z,wellness,General examination of patient (procedure),,VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-1b33-f84b54b63091,WEST_S-64e1c9,2025-09-17T12:10:58Z,2025-09-17T12:25:58Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+f6745f8a-8107-443e-1187-788f2ff640da,WEST_S-64e1c9,2025-09-30T12:10:58Z,2025-09-30T16:53:55Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+0f3d04a2-f42e-1429-360f-90a0c51eec30,WEST_S-a95d7a,2020-03-26T20:44:21Z,2020-03-26T20:59:21Z,urgentcare,Patient encounter procedure (procedure),Transition from acute care to home-health care (finding),PATRIOT URGENT CARE PROFESSIONALS PC
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,2023-12-14T20:44:21Z,2023-12-14T21:32:13Z,urgentcare,Urgent care clinic (environment),,PATRIOT URGENT CARE PROFESSIONALS PC
+ad48e669-959c-b6f8-71a5-35835fc049c9,WEST_S-40cf7b,2016-12-17T13:52:51Z,2016-12-17T14:18:40Z,wellness,Well child visit (procedure),,AMERICAN CHINESE MEDICAL CENTER PC
+ad48e669-959c-b6f8-1989-8ad97fff24ce,WEST_S-40cf7b,2017-12-23T13:52:51Z,2017-12-23T14:20:10Z,wellness,Well child visit (procedure),,AMERICAN CHINESE MEDICAL CENTER PC
+ad48e669-959c-b6f8-f8bc-02b113e0f67c,WEST_S-40cf7b,2018-12-29T13:52:51Z,2018-12-29T14:18:41Z,wellness,Well child visit (procedure),,AMERICAN CHINESE MEDICAL CENTER PC
+ad48e669-959c-b6f8-4ffc-e388b121d17f,WEST_S-40cf7b,2020-01-04T13:52:51Z,2020-01-04T14:28:26Z,wellness,General examination of patient (procedure),,AMERICAN CHINESE MEDICAL CENTER PC
+ad48e669-959c-b6f8-4f40-c66c8ee8f0a7,WEST_S-40cf7b,2021-01-09T13:52:51Z,2021-01-09T14:39:38Z,wellness,General examination of patient (procedure),,AMERICAN CHINESE MEDICAL CENTER PC
+ad48e669-959c-b6f8-172b-fee30eb0fcb9,WEST_S-40cf7b,2024-01-13T13:52:51Z,2024-01-13T14:44:32Z,wellness,General examination of patient (procedure),,AMERICAN CHINESE MEDICAL CENTER PC
+f870c432-0887-125e-9811-d7ebf19aaac2,WEST_S-40a7b4,1987-10-14T02:20:33Z,1987-10-14T03:08:40Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-a238-4b94934775c3,WEST_S-40a7b4,1988-10-19T02:20:33Z,1988-10-19T03:13:36Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-df49-3b5b9f441b70,WEST_S-40a7b4,1988-12-21T02:20:33Z,1988-12-21T03:03:18Z,urgentcare,Urgent care clinic (environment),,PATRIOT URGENT CARE PROFESSIONALS PC
+f870c432-0887-125e-828d-fc27d192607b,WEST_S-40a7b4,1988-12-28T02:20:33Z,1988-12-28T03:32:50Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-62a8-a758fa4cc4c9,WEST_S-40a7b4,2009-08-10T02:20:33Z,2009-08-10T03:15:48Z,ambulatory,Encounter for symptom (procedure),Sleep disorder (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-46ec-a77f360112e2,WEST_S-40a7b4,2009-08-26T02:20:33Z,2009-08-26T02:52:49Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-b7aa-5db8b8675b44,WEST_S-40a7b4,2009-09-09T04:02:16Z,2009-09-10T04:02:16Z,inpatient,Follow-up visit (procedure),Sleep disorder (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,2013-09-04T02:20:33Z,2013-09-04T03:06:17Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-f7a4-31e2f362ace5,WEST_S-40a7b4,2014-01-31T02:20:33Z,2014-01-31T02:35:33Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-3ef6-affe7bf61440,WEST_S-40a7b4,2015-09-09T02:20:33Z,2015-09-09T02:56:19Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-9363-0898ef2c1f06,WEST_S-40a7b4,2017-09-13T02:20:33Z,2017-09-13T02:57:49Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-fd20-3c261f3a8696,WEST_S-40a7b4,2019-05-07T09:20:33Z,2019-05-07T09:35:33Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,2019-07-17T03:20:33Z,2019-07-17T03:35:33Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-7693-426296e98252,WEST_S-40a7b4,2019-08-21T02:20:33Z,2019-08-21T02:55:29Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-dd9b-15c5b57a67b9,WEST_S-40a7b4,2019-09-04T02:20:33Z,2019-09-04T08:39:01Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-79b7-e73ee42dee32,WEST_S-40a7b4,2020-08-26T02:20:33Z,2020-08-26T03:15:11Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-d46b-f29d77d6065b,WEST_S-40a7b4,2020-09-16T02:20:33Z,2020-09-16T02:35:33Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-3734-e933f254283e,WEST_S-40a7b4,2021-03-17T02:20:33Z,2021-03-17T02:35:33Z,outpatient,Administration of vaccine to produce active immunity (procedure),,THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-ef26-4d9ddcd2f298,WEST_S-40a7b4,2021-04-07T02:20:33Z,2021-04-07T02:35:33Z,outpatient,Administration of vaccine to produce active immunity (procedure),,THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-62fc-b3466dc0faa7,WEST_S-40a7b4,2021-08-25T02:20:33Z,2021-08-25T03:09:49Z,outpatient,Encounter for check up (procedure),,THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-457d-b6d5d6dc52af,WEST_S-40a7b4,2021-09-01T02:20:33Z,2021-09-01T02:35:33Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,2021-09-08T02:20:33Z,2021-09-08T02:35:33Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-25d9-4df1bdc8ff70,WEST_S-40a7b4,2021-09-16T02:20:33Z,2021-09-16T02:35:33Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-f6d4-e11cebe52b1c,WEST_S-40a7b4,2022-09-07T02:20:33Z,2022-09-07T03:11:21Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-6431-dd81bdb5beb0,WEST_S-40a7b4,2022-09-16T02:20:33Z,2022-09-16T02:35:33Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-f3f8-a2d5a0da0e58,WEST_S-40a7b4,2023-01-31T21:20:33Z,2023-01-31T21:35:33Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-2b3e-86611b389026,WEST_S-40a7b4,2023-09-13T02:20:33Z,2023-09-13T03:00:20Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-267a-7a2c01670a07,WEST_S-40a7b4,2023-09-16T02:20:33Z,2023-09-16T02:35:33Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-8c27-427465be86e4,WEST_S-40a7b4,2023-09-27T02:20:33Z,2023-09-27T06:05:16Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-63f1-7bf0366caece,WEST_S-40a7b4,2024-09-18T02:20:33Z,2024-09-18T02:57:51Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-4f0a-c9d6f0fe487d,WEST_S-40a7b4,2024-09-25T02:20:33Z,2024-09-25T02:35:33Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-1ec8-5770663fb1c4,WEST_S-40a7b4,2024-10-02T02:20:33Z,2024-10-02T08:08:31Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-2acc-c9c0584b42bd,WEST_S-40a7b4,2025-09-24T02:20:33Z,2025-09-24T03:05:13Z,wellness,General examination of patient (procedure),,CHARLES RIVER COMMUNITY HEALTH  INC
+f870c432-0887-125e-d547-16d4ec3a8843,WEST_S-40a7b4,2025-09-25T02:20:33Z,2025-09-25T02:35:33Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-8223-d5ebf72a3ac2,WEST_S-40a7b4,2025-10-08T02:20:33Z,2025-10-08T04:55:17Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE GENERAL HOSPITAL CORPORATION
+4be6b5fb-2a19-943a-fd7b-f182ec71fdfb,WEST_S-c2c0e8,1989-04-11T21:18:15Z,1989-04-11T22:11:49Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-27ae-63c4bc9f0615,WEST_S-c2c0e8,1993-04-20T21:18:15Z,1993-04-20T21:51:49Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-f306-80ae58168c70,WEST_S-c2c0e8,1996-04-23T21:18:15Z,1996-04-23T22:08:05Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-edb8-23d7b4f7331b,WEST_S-c2c0e8,2002-04-30T21:18:15Z,2002-04-30T22:08:11Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-4d00-62295456e582,WEST_S-c2c0e8,2008-02-29T00:18:15Z,2008-02-29T00:33:15Z,ambulatory,Encounter for symptom (procedure),Sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-ba75-4c2b6a2f5347,WEST_S-c2c0e8,2008-05-06T21:18:15Z,2008-05-06T22:08:59Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-4278-e099e73b15d9,WEST_S-c2c0e8,2015-03-03T21:18:15Z,2015-03-03T22:16:39Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-8730-bee21a2213fa,WEST_S-c2c0e8,2017-03-07T21:18:15Z,2017-03-07T21:52:50Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-9970-f8fcede2d4fb,WEST_S-c2c0e8,2017-03-21T21:18:15Z,2017-03-22T00:34:18Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-335d-39af66b944fc,WEST_S-c2c0e8,2018-02-18T00:18:15Z,2018-02-18T00:34:36Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-102f-733b295d930c,WEST_S-c2c0e8,2018-02-27T21:18:15Z,2018-02-27T22:05:58Z,outpatient,Encounter for check up (procedure),,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-6dae-6603d173aec5,WEST_S-c2c0e8,2018-03-13T21:18:15Z,2018-03-14T02:34:42Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-db1e-8b2334b3c388,WEST_S-c2c0e8,2018-03-19T02:34:42Z,2018-03-19T04:49:37Z,ambulatory,Postoperative follow-up visit (procedure),Alveolitis of jaw (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-9144-2ab048490ae9,WEST_S-c2c0e8,2018-03-20T21:18:15Z,2018-03-20T22:44:26Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-088b-d34bb22bf353,WEST_S-c2c0e8,2018-04-03T22:44:26Z,2018-04-04T01:54:41Z,ambulatory,Follow-up encounter (procedure),Torus palatinus (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-a87d-007f2a0c584d,WEST_S-c2c0e8,2018-04-13T01:54:41Z,2018-04-13T02:37:41Z,ambulatory,Follow-up encounter (procedure),Loss of teeth (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,2018-12-18T23:18:15Z,2018-12-18T23:33:15Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-4f16-9cef724ab4b3,WEST_S-c2c0e8,2019-03-12T21:18:15Z,2019-03-12T22:09:53Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-4018-d9cfcbb22f1d,WEST_S-c2c0e8,2019-03-26T21:18:15Z,2019-03-27T00:54:33Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-2ace-532690c135e2,WEST_S-c2c0e8,2020-08-30T01:18:15Z,2020-08-30T01:33:15Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-a993-8db423631e35,WEST_S-c2c0e8,2020-11-20T20:18:15Z,2020-11-20T20:33:15Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-1ecf-b07c5b4bee3b,WEST_S-c2c0e8,2021-02-16T21:18:15Z,2021-02-16T21:49:19Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-80f1-fa46510fc0b2,WEST_S-c2c0e8,2021-02-23T21:18:15Z,2021-02-23T21:49:59Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-fdaf-9df845cf3d7f,WEST_S-c2c0e8,2022-02-22T21:18:15Z,2022-02-22T22:14:22Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-ce8b-d49f7da11e01,WEST_S-c2c0e8,2022-03-08T21:18:15Z,2022-03-08T23:59:50Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-af08-99b19826d7e9,WEST_S-c2c0e8,2022-04-26T07:18:15Z,2022-04-26T07:33:15Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,2023-01-27T01:44:54Z,2023-01-27T02:44:54Z,emergency,Emergency room admission (procedure),Sprain (morphologic abnormality),GOOD SHEPHERD COMMUNITY CARE
+4be6b5fb-2a19-943a-06e6-0fd51ae44f96,WEST_S-c2c0e8,2023-02-28T21:18:15Z,2023-02-28T21:59:55Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-48ed-3fce02959351,WEST_S-c2c0e8,2024-03-05T21:18:15Z,2024-03-05T22:10:10Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-a463-25969b45a17d,WEST_S-c2c0e8,2024-03-19T21:18:15Z,2024-03-20T00:52:29Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-e08c-d2875ef7d901,WEST_S-c2c0e8,2025-03-11T21:18:15Z,2025-03-11T21:52:31Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-68d2-d114893fa8bf,WEST_S-c2c0e8,2025-07-01T17:18:15Z,2025-07-01T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-a19b-c02467c2e500,WEST_S-c2c0e8,2025-08-09T17:18:15Z,2025-08-09T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-6e79-26fffd37b2b6,WEST_S-c2c0e8,2025-11-22T17:18:15Z,2025-11-22T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-9eba-fb3a2ab9ee39,WEST_S-c2c0e8,2025-12-06T17:18:15Z,2025-12-06T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-90c8-51833a1025cb,WEST_S-c2c0e8,2025-12-27T17:18:15Z,2025-12-27T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-bb54-08be03da49f1,WEST_S-c2c0e8,2026-02-23T21:49:59Z,2026-02-23T22:26:44Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-7c1d-06f4a1fdf354,WEST_S-c2c0e8,2026-03-07T17:18:15Z,2026-03-07T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-5f5e-0880dfe43e74,WEST_S-c2c0e8,2026-03-17T21:18:15Z,2026-03-17T22:08:10Z,wellness,General examination of patient (procedure),,ENHANCED MEDICAL CARE  LLC
+4be6b5fb-2a19-943a-cddd-98f533f3202f,WEST_S-c2c0e8,2026-03-21T17:18:15Z,2026-03-21T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-7e3d-90de8e621ed5,WEST_S-c2c0e8,2026-04-11T02:37:41Z,2026-04-11T03:57:13Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-de80-dea2da14ace9,WEST_S-c2c0e8,2026-04-25T03:57:13Z,2026-04-25T04:56:18Z,ambulatory,Follow-up encounter (procedure),Loss of teeth (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-92fb-593c52f01924,WEST_S-c2c0e8,2026-04-25T17:18:15Z,2026-04-25T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-34de-9713a87e2085,WEST_S-c2c0e8,2026-05-02T17:18:15Z,2026-05-02T17:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-e9c2-e4d66044907e,WEST_S-c2c0e8,2026-05-12T21:18:15Z,2026-05-12T21:51:41Z,urgentcare,Urgent care clinic (environment),,PATRIOT URGENT CARE PROFESSIONALS PC
+4be6b5fb-2a19-943a-84bd-d07216882458,WEST_S-c2c0e8,2026-05-19T21:18:15Z,2026-05-19T21:33:15Z,urgentcare,Urgent care clinic (environment),,PATRIOT URGENT CARE PROFESSIONALS PC
+4be6b5fb-2a19-943a-58be-d5d87d44ce34,WEST_S-c2c0e8,2026-05-26T21:18:15Z,2026-05-26T21:58:41Z,outpatient,Encounter for check up (procedure),,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,2026-06-02T21:18:15Z,2026-06-02T21:35:18Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-2985-e7955de888d0,WEST_S-c2c0e8,2026-06-09T21:18:15Z,2026-06-10T01:49:58Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-d599-cbc44812cad7,WEST_S-c2c0e8,2026-06-16T21:18:15Z,2026-06-16T21:33:15Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+4be6b5fb-2a19-943a-a6ba-f19d05e781bf,WEST_S-c2c0e8,2026-06-23T21:18:15Z,2026-06-23T22:17:30Z,urgentcare,Urgent care clinic (environment),,PATRIOT URGENT CARE PROFESSIONALS PC
+4be6b5fb-2a19-943a-6c77-eae28c19c692,WEST_S-c2c0e8,2026-07-07T21:18:15Z,2026-07-08T00:52:54Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.
+ba47a33b-ffb6-25b9-43b1-4589e4973f91,WEST_S-8b63da,2014-03-17T11:49:18Z,2014-03-17T12:04:18Z,wellness,Well child visit (procedure),,ONE CALL HEALTHCARE PLLC
+ba47a33b-ffb6-25b9-1605-a8bd001eed93,WEST_S-8b63da,2017-04-03T11:49:18Z,2017-04-03T12:04:18Z,wellness,Well child visit (procedure),,ONE CALL HEALTHCARE PLLC
+ba47a33b-ffb6-25b9-f3fa-ea6e809a0d93,WEST_S-8b63da,2018-04-09T11:49:18Z,2018-04-09T12:22:42Z,wellness,General examination of patient (procedure),,ONE CALL HEALTHCARE PLLC
+ba47a33b-ffb6-25b9-7f12-cfc1920d9694,WEST_S-8b63da,2019-04-15T11:49:18Z,2019-04-15T12:32:26Z,wellness,General examination of patient (procedure),,ONE CALL HEALTHCARE PLLC
+ba47a33b-ffb6-25b9-b0c8-1a15645fa443,WEST_S-8b63da,2022-04-18T11:49:18Z,2022-04-18T12:23:32Z,wellness,General examination of patient (procedure),,ONE CALL HEALTHCARE PLLC
+ba47a33b-ffb6-25b9-19c7-47eb12ea68f9,WEST_S-8b63da,2025-04-21T11:49:18Z,2025-04-21T12:28:27Z,wellness,General examination of patient (procedure),,ONE CALL HEALTHCARE PLLC
+d309f605-948b-962f-26e5-b691d755a749,WEST_S-5116f1,1979-08-26T22:44:41Z,1979-08-26T23:28:31Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-430b-695b4f1e59b4,WEST_S-5116f1,1997-07-20T22:44:41Z,1997-07-20T23:28:45Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-22ab-02d08a386a33,WEST_S-5116f1,2000-08-06T22:44:41Z,2000-08-06T23:15:43Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-a238-6cc733821be2,WEST_S-5116f1,2004-09-12T22:44:41Z,2004-09-12T23:38:00Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-69d1-702a8fdd184d,WEST_S-5116f1,2008-10-05T22:44:41Z,2008-10-05T23:28:26Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-7b26-abd4ab9442f3,WEST_S-5116f1,2014-11-09T22:44:41Z,2014-11-09T23:29:26Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-aef2-ab00c90a3c80,WEST_S-5116f1,2015-11-15T22:44:41Z,2015-11-15T23:26:35Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,2016-11-20T22:44:41Z,2016-11-20T23:27:11Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-b697-67f8d7e2c62f,WEST_S-5116f1,2017-11-26T22:44:41Z,2017-11-26T23:18:23Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,2018-12-02T22:44:41Z,2018-12-02T23:29:03Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-fdeb-fc421f7e8adf,WEST_S-5116f1,2019-12-08T22:44:41Z,2019-12-08T23:31:19Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-e455-7698bb43f126,WEST_S-5116f1,2020-12-13T22:44:41Z,2020-12-13T23:36:52Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-ee7e-65b380f22273,WEST_S-5116f1,2021-12-19T22:44:41Z,2021-12-19T23:32:22Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-b739-cc8e762f090a,WEST_S-5116f1,2022-12-25T22:44:41Z,2022-12-25T23:21:19Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,2023-12-31T22:44:41Z,2023-12-31T23:44:38Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,2024-04-29T23:10:06Z,2024-04-30T00:10:06Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),GOOD SHEPHERD COMMUNITY CARE
+d309f605-948b-962f-0322-36df06ef3f81,WEST_S-5116f1,2025-01-05T22:44:41Z,2025-01-05T23:20:39Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,2026-01-11T22:44:41Z,2026-01-11T23:20:25Z,wellness,General examination of patient (procedure),,PERSONAL PHYSICIANS HEALTHCARE PC
+2fb99851-6f31-04a6-4d28-9d8ae64514d4,WEST_S-956ee0,1967-01-11T06:00:32Z,1967-01-11T06:15:32Z,ambulatory,Encounter for symptom (procedure),Childhood asthma (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-0268-e9f77ee0222f,WEST_S-956ee0,1980-07-02T06:00:32Z,1980-07-02T06:48:40Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-195b-654ed0adf1a7,WEST_S-956ee0,1981-07-08T06:00:32Z,1981-07-08T06:59:15Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-4d82-e0de6deb91e4,WEST_S-956ee0,2002-11-06T06:00:32Z,2002-11-06T06:37:07Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-1db3-62dc1329694b,WEST_S-956ee0,2003-11-12T06:00:32Z,2003-11-12T06:38:50Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-84d3-cef01e27b250,WEST_S-956ee0,2004-11-17T06:00:32Z,2004-11-17T06:47:29Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-17ca-81e0949f3e51,WEST_S-956ee0,2012-05-09T06:00:32Z,2012-05-09T06:51:16Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-f1e5-b5e0300f5959,WEST_S-956ee0,2013-07-15T06:36:16Z,2013-07-15T07:16:49Z,ambulatory,Encounter for check up (procedure),Polyp of colon (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-8ffc-b70d7783d61e,WEST_S-956ee0,2014-01-31T06:00:32Z,2014-01-31T06:15:32Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,2016-01-20T06:00:32Z,2016-01-20T06:32:50Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,2017-01-25T06:00:32Z,2017-01-25T06:56:41Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-59fb-e7314435ea01,WEST_S-956ee0,2017-02-08T06:00:32Z,2017-02-08T09:49:27Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,2018-01-31T06:00:32Z,2018-01-31T06:54:48Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-3737-e69ff0b35080,WEST_S-956ee0,2018-12-30T11:00:32Z,2018-12-30T11:15:32Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,2019-02-06T06:00:32Z,2019-02-06T06:33:33Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-f0ea-ad10d1035d81,WEST_S-956ee0,2019-02-20T06:00:32Z,2019-02-20T09:13:27Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-6c34-51e2499c0960,WEST_S-956ee0,2019-12-14T07:00:32Z,2019-12-14T07:15:32Z,ambulatory,Encounter for symptom (procedure),Sinusitis (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,2020-02-12T06:00:32Z,2020-02-12T06:49:47Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-f87c-db91f57cb640,WEST_S-956ee0,2020-02-26T06:00:32Z,2020-02-26T08:40:33Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-a75d-f5733c6fcc13,WEST_S-956ee0,2020-12-19T11:00:32Z,2020-12-19T12:00:32Z,emergency,Emergency hospital admission for asthma (procedure),Asthma (disorder),KINDRED HOSPICE
+2fb99851-6f31-04a6-9350-eccafc81f222,WEST_S-956ee0,2020-12-20T17:00:32Z,2020-12-20T17:15:32Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,2021-02-17T06:00:32Z,2021-02-17T06:34:09Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-1b48-49e45dc62843,WEST_S-956ee0,2021-03-03T06:00:32Z,2021-03-03T09:37:16Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-f9c4-1b6d63d22c23,WEST_S-956ee0,2021-12-29T06:00:32Z,2021-12-29T08:34:37Z,ambulatory,Encounter for check up (procedure),Aortic valve stenosis (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,2022-02-23T06:00:32Z,2022-02-23T06:35:00Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-f664-b4e645110d9b,WEST_S-956ee0,2022-03-09T06:00:32Z,2022-03-09T09:10:59Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-72dc-6290eb88d561,WEST_S-956ee0,2022-06-13T17:00:32Z,2022-06-13T17:15:32Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,2023-03-01T06:00:32Z,2023-03-01T06:47:38Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-cbc8-701d027e3e39,WEST_S-956ee0,2023-12-05T17:00:32Z,2023-12-05T17:15:32Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,2024-03-06T06:00:32Z,2024-03-06T06:31:27Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-a164-4d4afd7fd165,WEST_S-956ee0,2024-03-20T06:00:32Z,2024-03-20T08:19:32Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,2025-03-12T06:00:32Z,2025-03-12T06:59:06Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+2fb99851-6f31-04a6-8b95-3d8709bf97f8,WEST_S-956ee0,2025-05-28T17:00:32Z,2025-05-28T17:15:32Z,ambulatory,Asthma follow-up (regime/therapy),Asthma (disorder),CHILDREN'S HOSPITAL CORPORATION
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,2026-01-23T07:51:56Z,2026-01-23T08:51:56Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),KINDRED HOSPICE
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,2026-03-18T06:00:32Z,2026-03-18T06:39:57Z,wellness,General examination of patient (procedure),,STANFORD HEALTH CARE
+72b1ca95-c4f0-269d-055d-703d19d1bc36,WEST_S-ec1bd7,2013-04-01T15:51:49Z,2013-04-01T16:28:50Z,wellness,General examination of patient (procedure),,WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+72b1ca95-c4f0-269d-2cbd-2a52cd4581cf,WEST_S-ec1bd7,2014-04-07T15:51:49Z,2014-04-07T16:32:51Z,wellness,General examination of patient (procedure),,WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+72b1ca95-c4f0-269d-9831-e98c6b102bf7,WEST_S-ec1bd7,2014-07-04T04:51:49Z,2014-07-04T05:06:49Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-194d-1716a49805cb,WEST_S-ec1bd7,2014-07-14T15:51:49Z,2014-07-14T16:42:49Z,outpatient,Encounter for check up (procedure),,THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-98a1-9b4237924389,WEST_S-ec1bd7,2016-02-29T15:51:49Z,2016-02-29T16:06:49Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-eb15-84232ac8b2b5,WEST_S-ec1bd7,2016-08-15T01:51:49Z,2016-08-15T02:06:49Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-2a21-fe5958dc07c9,WEST_S-ec1bd7,2016-09-12T17:01:33Z,2016-09-12T18:01:33Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),BROOKHAVEN AT LEXINGTON
+72b1ca95-c4f0-269d-01b9-54ed61876d6c,WEST_S-ec1bd7,2016-10-24T17:01:33Z,2016-10-24T17:16:33Z,ambulatory,Postnatal visit (regime/therapy),,THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,2016-12-18T16:32:43Z,2016-12-18T16:47:43Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-ba08-f20e5f51a30d,WEST_S-ec1bd7,2017-04-10T15:51:49Z,2017-04-10T16:24:32Z,wellness,General examination of patient (procedure),,WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+72b1ca95-c4f0-269d-14c4-39aff402c875,WEST_S-ec1bd7,2017-04-24T15:51:49Z,2017-04-24T19:24:04Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-0ae7-904cdd678803,WEST_S-ec1bd7,2019-07-15T15:51:49Z,2019-07-15T16:06:49Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-5576-a916ff1af9d3,WEST_S-ec1bd7,2019-08-12T15:51:49Z,2019-08-12T16:06:49Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-d256-1623cdf99214,WEST_S-ec1bd7,2019-09-09T15:51:49Z,2019-09-09T16:06:49Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-d925-292815595095,WEST_S-ec1bd7,2019-10-07T15:51:49Z,2019-10-07T16:06:49Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-aa96-4fc5d8c65a0e,WEST_S-ec1bd7,2019-11-04T15:51:49Z,2019-11-04T16:06:49Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-fe6d-1f774f2b1432,WEST_S-ec1bd7,2019-11-29T04:51:49Z,2019-11-29T05:06:49Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-4b65-07082c715606,WEST_S-ec1bd7,2019-12-02T15:51:49Z,2019-12-02T16:06:49Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-ad69-9d3ccea36c7b,WEST_S-ec1bd7,2019-12-09T15:51:49Z,2019-12-09T16:29:14Z,urgentcare,Urgent care clinic (environment),,PATRIOT URGENT CARE PROFESSIONALS PC
+72b1ca95-c4f0-269d-d74b-799a945714bc,WEST_S-ec1bd7,2019-12-23T15:51:49Z,2019-12-23T23:04:42Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-9cf0-b7c9f909a4e8,WEST_S-ec1bd7,2019-12-30T15:51:49Z,2019-12-30T16:06:49Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-64cf-c59711992dea,WEST_S-ec1bd7,2020-01-27T15:51:49Z,2020-01-27T16:06:49Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-2547-f42745728802,WEST_S-ec1bd7,2020-02-10T15:51:49Z,2020-02-10T16:06:49Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-57f2-259b6c5b6558,WEST_S-ec1bd7,2020-02-17T15:51:49Z,2020-02-17T16:51:49Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),BROOKHAVEN AT LEXINGTON
+72b1ca95-c4f0-269d-ea30-81be132d0b37,WEST_S-ec1bd7,2020-03-30T15:51:49Z,2020-03-30T16:06:49Z,ambulatory,Postnatal visit (regime/therapy),,THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-27a4-abe27df2de74,WEST_S-ec1bd7,2020-04-06T15:51:49Z,2020-04-06T16:41:52Z,outpatient,Consultation for treatment (procedure),Sterilization requested (situation),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-529d-9af15f72a57f,WEST_S-ec1bd7,2020-04-20T15:51:49Z,2020-04-20T16:24:33Z,wellness,General examination of patient (procedure),,WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+72b1ca95-c4f0-269d-6da4-ee52c093d983,WEST_S-ec1bd7,2020-04-27T15:51:49Z,2020-04-28T15:51:49Z,inpatient,Admission to surgical department (procedure),Sterilization requested (situation),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-e625-a878c493343f,WEST_S-ec1bd7,2021-02-15T15:51:49Z,2021-02-15T16:06:49Z,outpatient,Administration of vaccine to produce active immunity (procedure),,THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-4a53-b002c5161deb,WEST_S-ec1bd7,2021-03-15T15:51:49Z,2021-03-15T16:06:49Z,outpatient,Administration of vaccine to produce active immunity (procedure),,THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,2021-04-04T15:51:49Z,2021-04-04T17:06:48Z,ambulatory,Encounter for symptom (procedure),Acute infective cystitis (disorder),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-bbab-751a89fe43ac,WEST_S-ec1bd7,2023-04-24T15:51:49Z,2023-04-24T16:26:27Z,wellness,General examination of patient (procedure),,WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+72b1ca95-c4f0-269d-9eeb-53ccba3a6a19,WEST_S-ec1bd7,2023-05-08T15:51:49Z,2023-05-08T19:13:13Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE GENERAL HOSPITAL CORPORATION
+72b1ca95-c4f0-269d-b1d6-fab8f8e07b0e,WEST_S-ec1bd7,2026-04-27T15:51:49Z,2026-04-27T16:48:23Z,wellness,General examination of patient (procedure),,WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+72b1ca95-c4f0-269d-5de3-b7369ab079f6,WEST_S-ec1bd7,2026-05-04T15:51:49Z,2026-05-04T16:06:49Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),THE GENERAL HOSPITAL CORPORATION
+bca1691f-8839-1d66-ba0f-beb476038a1f,WEST_S-971cc7,2019-10-16T11:39:55Z,2019-10-26T11:54:55Z,hospice,Admission to hospice (procedure),Alzheimer's disease (disorder),MEDFORD VISITING NURSING ASSOCIATION

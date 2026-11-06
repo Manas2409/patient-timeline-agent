@@ -1,0 +1,851 @@
+{
+  "cluster_id": "54",
+  "hospitals": [
+    "MetroWest Health Partners",
+    "Worcester Regional Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "1990-04-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Seasonal allergic rhinitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhini",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Terfenadine",
+          "canonical": "Terfenadine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1990-04-16",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic disposition",
+          "canonical": "allergic disposition",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "NDA020800 0.3 ML Epinephrine",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Tree pollen",
+          "canonical": "Tree pollen",
+          "match_method": "fuzzy",
+          "reaction": "",
+          "severity": ""
+        }
+      ]
+    },
+    {
+      "date": "2001-07-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": []
+    },
+    {
+      "date": "2003-08-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "education",
+          "canonical": "education",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2008-10-18",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Complete miscarriage (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "mis",
+          "canonical": "mis",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2014-01-31",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2014-04-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CAREWELL URGENT CARE CENTERS OF MA  PC",
+      "entities": []
+    },
+    {
+      "date": "2015-09-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-09-07"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-09-07T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-09-07T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-03-16",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2016-08-31",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2016-09-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-13T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-09-13T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-28",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2016-10-12",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LYDIA TAFT HOUSE",
+      "entities": []
+    },
+    {
+      "date": "2016-11-23",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2017-09-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-19T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-09-19T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-27",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2018-09-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-25T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-09-25T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-03",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2018-11-30",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-29T13:02:59Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2019-09-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gi",
+          "canonical": "gi",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-10-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-04T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-04T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-09",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-30T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-09-30T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-11",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-12-05T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-12-05T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-05T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-12-05T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-05T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-05T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ness",
+          "canonical": "ness",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-12-05T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-11",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-28"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-28"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-18",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-18T06:27:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-10-06T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-10-06T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Etonogestrel",
+          "canonical": "Etonogestrel | etonogestrel",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-11-30T03:30:01Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-31",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2021-10-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-12T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-10-12T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-30",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-30T00:29:46Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2022-10-12",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-10-18T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-10-18T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-26",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-26T05:25:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-11-25T00:29:46Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-11-25T00:29:46Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-11-25T00:29:46Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "time",
+          "canonical": "time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-10-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-10-23T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-10-23T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-01",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2023-12-13",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2024-10-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-29T02:56:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-29T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-19",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-11-14T00:29:46Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-12"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-12"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-12T09:14:47Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-26T02:56:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "ALLERGY",
+      "canonical": "Tree pollen",
+      "reported_by": [
+        "Worcester Regional Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "Worcester Regional Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Worcester Regional Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

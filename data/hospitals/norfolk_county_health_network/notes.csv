@@ -1,0 +1,356 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+9a3814bb-f5b0-05f3-f5e5-86c32271300f,NORFOL-961b76,2018-06-10,"Routine urgentcare visit, no acute complaints voiced at check-in. Medications prescribed today: 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution."
+9a3814bb-f5b0-05f3-b856-6d47e4b2e36e,NORFOL-961b76,2018-09-16,Urgentcare visit for general evaluation. Care-coordination note: Medication review due. Patient given 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution during this encounter.
+9a3814bb-f5b0-05f3-4fb0-647d12ee1490,NORFOL-961b76,2018-09-23,Urgentcare visit for general evaluation. Social history noted: Medication review due. Plan: initiate 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution.
+9a3814bb-f5b0-05f3-fee0-b557bc5b1d34,NORFOL-961b76,2019-01-06,Patient seen for a scheduled urgentcare encounter. Care-coordination note: Medication review due. Started on 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution.
+9a3814bb-f5b0-05f3-9206-3042e7a75083,NORFOL-961b76,2019-01-13,Urgentcare visit for general evaluation. Social history noted: Medication review due. Plan: initiate 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution.
+9a3814bb-f5b0-05f3-652a-d61c0c19617d,NORFOL-961b76,2019-01-20,Urgentcare visit for general evaluation. Started on 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution.
+9a3814bb-f5b0-05f3-5b9e-1c747c9bef10,NORFOL-961b76,2019-01-27,"Routine urgentcare visit, no acute complaints voiced at check-in. Social history noted: Medication review due. Medications prescribed today: 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution."
+9a3814bb-f5b0-05f3-b6af-12cc25dd601d,NORFOL-961b76,2024-11-10,Assessment: gingivitis. Started on 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] and albuterol 0.83 MG/ML Inhalation Solution.
+65cbad6a-eb9d-420e-dfb3-7b7cc860ed4b,NORFOL-e82565,2019-12-31,Patient continues to be followed for gingivitis. Care-coordination note: Full-time employment and Stress. Started on lisinopril 10 MG Oral Tablet and Alendronic acid 10 MG Oral Tablet.
+65cbad6a-eb9d-420e-c6da-5cfe2ca83535,NORFOL-e82565,2023-06-20,Patient presents today with alzheimer's disease. No new medications prescribed at this time.
+b50c66af-4d1c-7987-0d77-d464d6dbbac9,NORFOL-f201ef,1999-09-22,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Received higher education and Social isolation."
+b50c66af-4d1c-7987-fd4a-134ce203ab4d,NORFOL-f201ef,2014-02-12,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Limited social contact."
+b50c66af-4d1c-7987-820c-d88748bd6785,NORFOL-f201ef,2015-02-18,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment and Stress.
+b50c66af-4d1c-7987-7a41-dd005c12766a,NORFOL-f201ef,2016-02-24,Wellness visit for general evaluation. Patient given Ibuprofen 400 MG Oral Tablet [Ibu] during this encounter.
+b50c66af-4d1c-7987-07c0-c6580076b163,NORFOL-f201ef,2017-03-01,Diagnosed with obesity (BMI 30+) at this visit. Plan: initiate Ibuprofen 400 MG Oral Tablet [Ibu].
+b50c66af-4d1c-7987-5156-29b236804948,NORFOL-f201ef,2018-03-07,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Stress. Patient given Ibuprofen 400 MG Oral Tablet [Ibu] during this encounter.
+b50c66af-4d1c-7987-e72f-7e20c7c80842,NORFOL-f201ef,2019-03-13,"Routine wellness visit, no acute complaints voiced at check-in. Patient given Ibuprofen 400 MG Oral Tablet [Ibu] during this encounter."
+b50c66af-4d1c-7987-abfe-49a98999aacc,NORFOL-f201ef,2020-03-18,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Unhealthy alcohol drinking behavior. Started on Ibuprofen 400 MG Oral Tablet [Ibu].
+b50c66af-4d1c-7987-46e9-3c2385992fa7,NORFOL-f201ef,2021-03-24,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. Patient given Ibuprofen 400 MG Oral Tablet [Ibu] during this encounter."
+b50c66af-4d1c-7987-61ab-93a8bf106b6e,NORFOL-f201ef,2022-03-30,"Patient seen for a scheduled wellness encounter. Social history noted: Medication review due, Social isolation, and Stress. Plan: initiate Ibuprofen 400 MG Oral Tablet [Ibu]."
+b50c66af-4d1c-7987-9ef6-441e49f32707,NORFOL-f201ef,2023-04-05,Assessment: gum inflammation. Social history noted: Medication review due. Started on Ibuprofen 400 MG Oral Tablet [Ibu].
+b50c66af-4d1c-7987-072f-c6995d0737b2,NORFOL-f201ef,2024-04-10,Assessment: gum inflammation. Care-coordination note: Social isolation. Plan: initiate Ibuprofen 400 MG Oral Tablet [Ibu].
+b50c66af-4d1c-7987-1599-2d9d27baa115,NORFOL-f201ef,2025-04-16,Clinical impression: gingivitis. Social history noted: Part-time employment and Stress. Started on Ibuprofen 400 MG Oral Tablet [Ibu].
+b50c66af-4d1c-7987-7763-29a83b5be88e,NORFOL-f201ef,2026-04-22,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment and Victim of intimate partner abuse. Plan: initiate Ibuprofen 400 MG Oral Tablet [Ibu].
+f30304ab-8e45-1cbd-e9f3-fca0678b9f51,NORFOL-23389d,2016-07-15,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. No new medications prescribed at this time."
+f30304ab-8e45-1cbd-1b3b-7e0ffbe13f36,NORFOL-23389d,2017-01-13,"Routine wellness visit, no acute complaints voiced at check-in."
+f30304ab-8e45-1cbd-e868-66199daf880e,NORFOL-23389d,2017-07-14,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+f30304ab-8e45-1cbd-8f30-96b0269c984d,NORFOL-23389d,2018-01-12,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+f30304ab-8e45-1cbd-7838-83a5c9c982f0,NORFOL-23389d,2018-07-13,Patient seen for a scheduled wellness encounter.
+f30304ab-8e45-1cbd-6272-76939edccec5,NORFOL-23389d,2019-01-11,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+f30304ab-8e45-1cbd-9001-cd80a94eee5d,NORFOL-23389d,2020-01-17,"Routine wellness visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+f30304ab-8e45-1cbd-6977-7845bbe92ab4,NORFOL-23389d,2021-01-22,Wellness visit for general evaluation. Medication list unchanged.
+f30304ab-8e45-1cbd-67b4-4248793fc303,NORFOL-23389d,2022-01-28,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+f30304ab-8e45-1cbd-713f-41ac56ce943e,NORFOL-23389d,2023-02-03,Patient continues to be followed for gingivitis. Care-coordination note: Medication review due.
+f30304ab-8e45-1cbd-1863-ec7ea31130d6,NORFOL-23389d,2024-02-09,Patient seen for a scheduled wellness encounter.
+f30304ab-8e45-1cbd-f85c-947cb02cd959,NORFOL-23389d,2025-02-14,Clinical impression: gingivitis. Medication list unchanged.
+f30304ab-8e45-1cbd-6679-174a9b2f1234,NORFOL-23389d,2026-02-20,"Routine wellness visit, no acute complaints voiced at check-in. Medication list unchanged."
+d21f2794-014b-c66b-3e23-ae48e51848ef,NORFOL-d8deec,1996-06-17,Presenting complaint: acute infective cystitis. Clinical impression: recurrent urinary tract infection.
+d21f2794-014b-c66b-1d42-519e351a0009,NORFOL-d8deec,1998-02-15,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Housing unsatisfactory and Received higher education."
+d21f2794-014b-c66b-25d8-fcce93c4ef01,NORFOL-d8deec,2014-02-16,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Not in labor force, Stress, and Refugee (person)."
+d21f2794-014b-c66b-1a15-711d7eaef6c5,NORFOL-d8deec,2016-02-28,Wellness visit for general evaluation. Care-coordination note: Medication review due. Started on Acetaminophen 325 MG Oral Tablet [Tylenol].
+d21f2794-014b-c66b-1730-cfcd88918006,NORFOL-d8deec,2017-03-05,New findings on exam include obesity (BMI 30+). Care-coordination note: Part-time employment. Medications prescribed today: Acetaminophen 325 MG Oral Tablet [Tylenol].
+d21f2794-014b-c66b-d08c-3ab0c869a697,NORFOL-d8deec,2018-03-11,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Full-time employment, and Stress. Plan: initiate Acetaminophen 325 MG Oral Tablet [Tylenol]."
+d21f2794-014b-c66b-4581-99a6aa895d95,NORFOL-d8deec,2019-03-17,Patient seen for a scheduled wellness encounter. Started on Acetaminophen 325 MG Oral Tablet [Tylenol].
+d21f2794-014b-c66b-9b3d-a41c1ca3e818,NORFOL-d8deec,2020-03-22,Patient continues to be followed for gum inflammation. Medications prescribed today: Acetaminophen 325 MG Oral Tablet [Tylenol].
+d21f2794-014b-c66b-3d95-26bedb43f5a3,NORFOL-d8deec,2021-03-28,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Limited social contact. Plan: initiate Acetaminophen 325 MG Oral Tablet [Tylenol]."
+d21f2794-014b-c66b-56a8-88f9e762c0b2,NORFOL-d8deec,2022-04-03,Patient continues to be followed for gingivitis. Medications prescribed today: Acetaminophen 325 MG Oral Tablet [Tylenol].
+d21f2794-014b-c66b-83a0-4840e08f984b,NORFOL-d8deec,2023-04-09,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Part-time employment. Patient given Acetaminophen 325 MG Oral Tablet [Tylenol] during this encounter.
+d21f2794-014b-c66b-69b3-29dd92edf4a2,NORFOL-d8deec,2024-04-14,"Wellness visit for general evaluation. Social history noted: Full-time employment, Limited social contact, and Reports of violence in the environment. Medications prescribed today: Acetaminophen 325 MG Oral Tablet [Tylenol]."
+d21f2794-014b-c66b-c9e2-d8da34d47c57,NORFOL-d8deec,2025-04-20,"Routine wellness visit, no acute complaints voiced at check-in. Started on Acetaminophen 325 MG Oral Tablet [Tylenol]."
+d21f2794-014b-c66b-9bd4-972030964c67,NORFOL-d8deec,2026-04-26,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due, Full-time employment, and Stress. Plan: initiate Acetaminophen 325 MG Oral Tablet [Tylenol]."
+e34a6a5e-1d77-508d-3f65-4ab7eb2902ab,NORFOL-d010b2,2012-10-26,"Routine urgentcare visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+0b786670-17af-32e1-dee6-43b80e034eb6,NORFOL-4b71fa,2017-03-28,"Routine urgentcare visit, no acute complaints voiced at check-in. Social history noted: Stress. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+0b786670-17af-32e1-5ae7-5c0807ba53ae,NORFOL-4b71fa,2019-11-05,"Routine urgentcare visit, no acute complaints voiced at check-in. Care-coordination note: Part-time employment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+0b786670-17af-32e1-04ef-abfe34d8307e,NORFOL-4b71fa,2019-11-19,"Clinical impression: gum inflammation. Social history noted: Full-time employment and Stress. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+0b786670-17af-32e1-fecb-8a818d0ac2e1,NORFOL-4b71fa,2019-11-26,"Urgentcare visit for general evaluation. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+0b786670-17af-32e1-9327-8bf1c1f8a45f,NORFOL-4b71fa,2019-12-10,"Urgentcare visit for general evaluation. Patient given Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet during this encounter."
+0b786670-17af-32e1-fe09-03b77b7e36dc,NORFOL-4b71fa,2019-12-17,"Routine urgentcare visit, no acute complaints voiced at check-in. Social history noted: Stress. Started on Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+0b786670-17af-32e1-5780-6f8edda5f9ec,NORFOL-4b71fa,2022-08-09,"Patient seen for a scheduled urgentcare encounter. Care-coordination note: Medication review due, Part-time employment, and Reports of violence in the environment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+0b786670-17af-32e1-72bd-bfa2b8b20581,NORFOL-4b71fa,2022-08-16,"Patient seen for a scheduled urgentcare encounter. Started on Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+0b786670-17af-32e1-fbd0-d55ec68717cc,NORFOL-4b71fa,2022-08-30,"Urgentcare visit for general evaluation. Patient given Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet during this encounter."
+0b786670-17af-32e1-8319-59c6da29051b,NORFOL-4b71fa,2022-10-04,"Routine urgentcare visit, no acute complaints voiced at check-in. Patient given Hydrochlorothiazide 25 MG Oral Tablet, cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet during this encounter."
+197ec76f-0730-2587-0723-f135a210228f,NORFOL-a75855,2021-06-24,Outpatient visit for general evaluation.
+197ec76f-0730-2587-aa85-041089b90257,NORFOL-a75855,2021-07-15,Patient seen for a scheduled outpatient encounter. No new medications prescribed at this time.
+197ec76f-0730-2587-4d98-4d24438ad448,NORFOL-a75855,2021-11-09,Patient was evaluated for fracture of ankle.
+197ec76f-0730-2587-08d9-3c5bf0e66e27,NORFOL-a75855,2022-06-22,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]."
+197ec76f-0730-2587-948f-de16c095b492,NORFOL-a75855,2022-10-14,Seen in clinic for a sinus infection. Patient continues to be followed for viral sinusitis.
+197ec76f-0730-2587-62a7-17ae1f234a55,NORFOL-a75855,2023-06-17,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] during this encounter."
+197ec76f-0730-2587-b4dd-647b565ae74b,NORFOL-a75855,2023-09-23,Patient was evaluated for acute infective cystitis. Plan: initiate ciprofloxacin 250 MG Oral Tablet.
+197ec76f-0730-2587-c104-a261e520014b,NORFOL-a75855,2024-08-29,New findings on exam include infection of tooth and gingival disease.
+197ec76f-0730-2587-df52-75b4c1ba2162,NORFOL-a75855,2026-06-01,"Routine outpatient visit, no acute complaints voiced at check-in. Medications prescribed today: 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System."
+c1453af6-5763-f853-5b41-bbc09afc7a72,NORFOL-c0283b,2015-03-15,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+c1453af6-5763-f853-a1f4-3cdfe4cfd8da,NORFOL-c0283b,2016-12-04,Presenting complaint: a middle-ear infection. Assessment: otitis media. Medications prescribed today: Acetaminophen 160 MG Chewable Tablet.
+c1453af6-5763-f853-5bee-4f2d31f99660,NORFOL-c0283b,2016-12-11,Patient seen for a scheduled wellness encounter. Medication list unchanged.
+c1453af6-5763-f853-37a3-372970fd9ed2,NORFOL-c0283b,2017-06-11,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+c1453af6-5763-f853-43aa-c06a564b1a91,NORFOL-c0283b,2017-12-10,Wellness visit for general evaluation.
+c1453af6-5763-f853-9d5d-c939f211685c,NORFOL-c0283b,2017-12-17,"Routine ambulatory visit, no acute complaints voiced at check-in. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel."
+c1453af6-5763-f853-2ed2-8d2bd1e91c56,NORFOL-c0283b,2018-12-16,"Routine wellness visit, no acute complaints voiced at check-in."
+c1453af6-5763-f853-8b62-2daca046764d,NORFOL-c0283b,2018-12-23,"Routine ambulatory visit, no acute complaints voiced at check-in. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter."
+c1453af6-5763-f853-0b03-fc05d7df86b3,NORFOL-c0283b,2019-12-22,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+c1453af6-5763-f853-834b-1885a58e9840,NORFOL-c0283b,2020-12-27,Wellness visit for general evaluation. Social history noted: Medication review due. No new medications prescribed at this time.
+c1453af6-5763-f853-f430-702892ec8ab5,NORFOL-c0283b,2022-01-02,New findings on exam include gingivitis. Care-coordination note: Medication review due.
+c1453af6-5763-f853-8dea-7e8707934ef9,NORFOL-c0283b,2022-01-09,Patient presents today with gingivitis. Patient continues to be followed for gingival disease. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+c1453af6-5763-f853-9cf2-dd41cb6544ff,NORFOL-c0283b,2023-01-08,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. Medication list unchanged.
+c1453af6-5763-f853-d050-dbc8994095fe,NORFOL-c0283b,2023-01-15,Patient seen for a scheduled ambulatory encounter. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+c1453af6-5763-f853-205a-d6af5d96fe97,NORFOL-c0283b,2023-12-07,Patient was evaluated for concussion injury of brain. New findings on exam include concussion injury of brain and concussion with no loss of consciousness.
+c1453af6-5763-f853-5798-1ce6e7ea4027,NORFOL-c0283b,2024-01-14,Assessment: gum inflammation.
+c1453af6-5763-f853-0dd7-ac5abe2e5806,NORFOL-c0283b,2024-01-21,Patient was evaluated for gum inflammation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+c1453af6-5763-f853-aaea-a2b891cb94f8,NORFOL-c0283b,2024-02-16,Seen in clinic for concussion with no loss of consciousness.
+c1453af6-5763-f853-2b4f-c8feb4d4f6ec,NORFOL-c0283b,2025-01-19,Patient seen for a scheduled wellness encounter.
+c1453af6-5763-f853-f0cd-242cdf0e2c42,NORFOL-c0283b,2025-05-07,Presenting complaint: a sore throat. Diagnosed with a sore throat at this visit.
+c1453af6-5763-f853-700f-cf7cb1d05e7b,NORFOL-c0283b,2026-01-18,Patient seen for a scheduled outpatient encounter.
+c1453af6-5763-f853-badc-0fa62b04d97b,NORFOL-c0283b,2026-01-25,New findings on exam include gum inflammation. Medication list unchanged.
+c1453af6-5763-f853-19e9-b76275275525,NORFOL-c0283b,2026-02-08,Patient seen for a scheduled outpatient encounter. No new medications prescribed at this time.
+c1453af6-5763-f853-103f-00bf51d2ff48,NORFOL-c0283b,2026-02-08,Patient was evaluated for gingivitis. Medication list unchanged.
+5780b82b-0419-ffe6-fc86-ba87a123b207,NORFOL-8a483d,2019-10-03,Wellness visit for general evaluation. Social history noted: Medication review due.
+5780b82b-0419-ffe6-4054-7953a17359bb,NORFOL-8a483d,2019-11-07,"Routine wellness visit, no acute complaints voiced at check-in. Medication list unchanged."
+5780b82b-0419-ffe6-f3e1-a4e5671a93ca,NORFOL-8a483d,2020-01-09,Patient seen for a scheduled wellness encounter. No new medications prescribed at this time.
+5780b82b-0419-ffe6-60da-5c21b8ba21ad,NORFOL-8a483d,2020-03-12,"Routine wellness visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+5780b82b-0419-ffe6-d79f-12b54ef1a8f6,NORFOL-8a483d,2020-06-11,Patient seen for a scheduled wellness encounter.
+5780b82b-0419-ffe6-355d-f43590e83af3,NORFOL-8a483d,2020-07-29,Patient reports symptoms consistent with otitis media. Patient continues to be followed for a middle-ear infection. Started on Amoxicillin 500 MG Oral Tablet and Ibuprofen 100 MG Oral Tablet.
+5780b82b-0419-ffe6-782f-270d6fcfae1a,NORFOL-8a483d,2020-09-10,Wellness visit for general evaluation.
+5780b82b-0419-ffe6-dc8d-8acddd783d50,NORFOL-8a483d,2020-12-10,Patient seen for a scheduled wellness encounter.
+5780b82b-0419-ffe6-3a29-727f8a1d52f7,NORFOL-8a483d,2020-12-17,Follow-up visit regarding a middle-ear infection. Patient continues to be followed for a middle-ear infection. Started on Amoxicillin 500 MG Oral Tablet and Acetaminophen 160 MG Chewable Tablet.
+5780b82b-0419-ffe6-01db-4a8df5705b6f,NORFOL-8a483d,2021-03-11,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+5780b82b-0419-ffe6-96d4-9669717af917,NORFOL-8a483d,2021-08-08,Follow-up visit regarding a middle-ear infection. Patient continues to be followed for a middle-ear infection. Medications prescribed today: Amoxicillin 500 MG Oral Tablet and Acetaminophen 160 MG Chewable Tablet.
+5780b82b-0419-ffe6-83d4-2914911dbbee,NORFOL-8a483d,2021-09-09,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. Medication list unchanged."
+5780b82b-0419-ffe6-6437-ec8fc8cdbe64,NORFOL-8a483d,2022-03-10,Wellness visit for general evaluation. Care-coordination note: Medication review due. No new medications prescribed at this time.
+5780b82b-0419-ffe6-0862-b5e7502008ca,NORFOL-8a483d,2022-09-08,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+5780b82b-0419-ffe6-da3e-7b489830b743,NORFOL-8a483d,2022-09-15,Patient seen for a scheduled ambulatory encounter. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+5780b82b-0419-ffe6-8b61-738f1f8dfa7b,NORFOL-8a483d,2023-03-09,Patient seen for a scheduled wellness encounter.
+5780b82b-0419-ffe6-bbf3-713bff1020f1,NORFOL-8a483d,2023-09-07,"Routine wellness visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+5780b82b-0419-ffe6-59d8-b36a3805ddd0,NORFOL-8a483d,2023-09-14,"Routine ambulatory visit, no acute complaints voiced at check-in. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel."
+5780b82b-0419-ffe6-a599-4ef30447294e,NORFOL-8a483d,2024-09-12,Patient seen for a scheduled wellness encounter. Medication list unchanged.
+5780b82b-0419-ffe6-df19-b6ba65839adc,NORFOL-8a483d,2025-02-11,Patient presents today with acute bacterial sinusitis. Diagnosed with acute bacterial sinusitis at this visit.
+5780b82b-0419-ffe6-66bc-3192bd55525a,NORFOL-8a483d,2025-03-19,Patient reports symptoms consistent with acute bacterial sinusitis. Assessment: chronic sinusitis.
+5780b82b-0419-ffe6-2453-18b02c9d5f3f,NORFOL-8a483d,2025-04-09,Patient was evaluated for acute bacterial sinusitis.
+5780b82b-0419-ffe6-6ad1-7e5d6b3425d2,NORFOL-8a483d,2025-04-17,Outpatient visit for general evaluation.
+5780b82b-0419-ffe6-ccee-7515ae1e4261,NORFOL-8a483d,2025-04-24,Clinical impression: gum disease and primary dental caries.
+5780b82b-0419-ffe6-8362-72a7d823d944,NORFOL-8a483d,2025-09-18,Wellness visit for general evaluation. Social history noted: Medication review due.
+887e4b4e-a3e1-b573-e5dd-fb76a003e994,NORFOL-d01758,2006-03-26,Follow-up visit regarding wheat. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-4c25-13bee5319da7,NORFOL-d01758,2006-04-09,Seen in clinic for allergic disposition. Medications prescribed today: Fexofenadine hydrochloride 30 MG Oral Tablet and NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Chart notes an existing Shellfish allergy.
+887e4b4e-a3e1-b573-c1b5-84e5a5c20ac0,NORFOL-d01758,2010-02-26,Seen in clinic for perennial allergic rhinitis with seasonal variation. New findings on exam include perennial allergic rhinitis with seasonal variation.
+887e4b4e-a3e1-b573-381a-3312e620787a,NORFOL-d01758,2015-03-17,Patient was evaluated for adolescent idiopathic scoliosis. Diagnosed with adolescent idiopathic scoliosis at this visit.
+887e4b4e-a3e1-b573-3c8d-f021759d94a4,NORFOL-d01758,2016-01-05,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+887e4b4e-a3e1-b573-0e43-b6625956c718,NORFOL-d01758,2017-01-10,Patient seen for a scheduled wellness encounter.
+887e4b4e-a3e1-b573-37f8-d9ddfc4ca8c2,NORFOL-d01758,2018-01-02,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-b546-2ae64ed1cad0,NORFOL-d01758,2018-01-16,Wellness visit for general evaluation.
+887e4b4e-a3e1-b573-8ba2-62f62b3abce2,NORFOL-d01758,2018-01-26,Presenting complaint: allergic disposition.
+887e4b4e-a3e1-b573-8ba8-74039dd9615d,NORFOL-d01758,2018-01-30,Assessment: primary dental caries. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+887e4b4e-a3e1-b573-eb96-0973acbec9f2,NORFOL-d01758,2018-02-22,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-6151-25c3cd77e431,NORFOL-d01758,2018-03-20,Presenting complaint: allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-cf02-aa614fde76f4,NORFOL-d01758,2018-04-16,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-9b18-0f809a7439b7,NORFOL-d01758,2018-05-09,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-b6ea-744a85e6abd0,NORFOL-d01758,2018-06-03,Patient presents today with allergic disposition.
+887e4b4e-a3e1-b573-0b16-d439d5640ff4,NORFOL-d01758,2018-06-28,Patient was evaluated for allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-6da1-147b61d6a47d,NORFOL-d01758,2018-07-19,Presenting complaint: allergic disposition.
+887e4b4e-a3e1-b573-b607-05ca522e01e4,NORFOL-d01758,2018-08-09,Presenting complaint: allergic disposition.
+887e4b4e-a3e1-b573-8055-e81ae2161de9,NORFOL-d01758,2018-09-03,Presenting complaint: allergic disposition. Medication list unchanged.
+887e4b4e-a3e1-b573-0740-fb2f753f597c,NORFOL-d01758,2018-09-30,Follow-up visit regarding allergic disposition.
+887e4b4e-a3e1-b573-70f1-942f58324393,NORFOL-d01758,2018-10-23,Follow-up visit regarding allergic disposition.
+887e4b4e-a3e1-b573-2a5b-f3e0ba8a5f88,NORFOL-d01758,2018-11-15,Presenting complaint: allergic disposition.
+887e4b4e-a3e1-b573-955a-9aa4d44092fd,NORFOL-d01758,2018-12-08,Follow-up visit regarding allergic disposition.
+887e4b4e-a3e1-b573-8035-ad28d60bfd5c,NORFOL-d01758,2019-01-02,Follow-up visit regarding allergic disposition.
+887e4b4e-a3e1-b573-eb11-7cb21aea9d94,NORFOL-d01758,2019-01-22,"Routine wellness visit, no acute complaints voiced at check-in."
+887e4b4e-a3e1-b573-6d18-2319646e70b9,NORFOL-d01758,2019-01-25,Patient presents today with allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-b8e9-d799fd8d055c,NORFOL-d01758,2019-02-05,New findings on exam include dental filling lost. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+887e4b4e-a3e1-b573-c934-04e9ca02e93b,NORFOL-d01758,2019-02-17,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-ffdb-2a40859c2c6c,NORFOL-d01758,2019-03-16,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-672c-dbdbdc6e7933,NORFOL-d01758,2019-04-12,Patient reports symptoms consistent with allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-8e50-32915a3f73bd,NORFOL-d01758,2019-05-03,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-114d-9a1e5d5abfc9,NORFOL-d01758,2019-05-30,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-b6de-3a8bdeda55ec,NORFOL-d01758,2019-06-25,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-522e-b5fc5c010023,NORFOL-d01758,2019-07-20,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-57ec-bd6aaf6c7c5e,NORFOL-d01758,2019-08-12,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-24a5-d3e55f191ffc,NORFOL-d01758,2019-09-08,Follow-up visit regarding allergic disposition.
+887e4b4e-a3e1-b573-ac65-e10d715ab5f1,NORFOL-d01758,2019-10-01,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-a0b6-e2c1786a31e2,NORFOL-d01758,2019-10-27,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-158e-201d65a66ecd,NORFOL-d01758,2019-11-23,Patient presents today with allergic disposition.
+887e4b4e-a3e1-b573-00b3-f068deb69966,NORFOL-d01758,2019-12-20,Patient presents today with allergic disposition.
+887e4b4e-a3e1-b573-a0f4-d4a30a68cf60,NORFOL-d01758,2020-01-10,Presenting complaint: allergic disposition.
+887e4b4e-a3e1-b573-3541-4fe167ec7354,NORFOL-d01758,2020-01-28,Assessment: gingivitis. Medication list unchanged.
+887e4b4e-a3e1-b573-05cd-736d3f42e2be,NORFOL-d01758,2020-02-04,Seen in clinic for allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-e1d3-4143fd2efdb7,NORFOL-d01758,2020-02-11,Patient reports symptoms consistent with gum inflammation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+887e4b4e-a3e1-b573-9f99-be15919e1598,NORFOL-d01758,2020-02-26,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-6c74-e7fffc0bba68,NORFOL-d01758,2020-03-23,Presenting complaint: allergic disposition.
+887e4b4e-a3e1-b573-8933-7b89727f1acf,NORFOL-d01758,2020-04-13,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-890f-8c2d08aa757d,NORFOL-d01758,2020-05-10,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-3c6f-e181bccf95a8,NORFOL-d01758,2020-06-05,Follow-up visit regarding allergic disposition. Medication list unchanged.
+887e4b4e-a3e1-b573-1142-af20aefaac74,NORFOL-d01758,2020-07-02,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-b42e-0f33d55e6859,NORFOL-d01758,2020-07-25,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-bd54-a0abacb2916c,NORFOL-d01758,2020-08-21,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-f07e-86c1f01173d8,NORFOL-d01758,2020-09-13,Patient presents today with allergic disposition.
+887e4b4e-a3e1-b573-2d00-3ebb6a4f91bd,NORFOL-d01758,2020-09-22,Seen in clinic for shellfish. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-4f6e-fc87d4db143a,NORFOL-d01758,2020-10-09,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-6cb1-f5332594d51d,NORFOL-d01758,2020-10-31,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-85b0-8d3008bc3279,NORFOL-d01758,2020-11-26,Patient presents today with allergic disposition.
+887e4b4e-a3e1-b573-dbfe-c056bdc4983e,NORFOL-d01758,2020-12-21,Patient presents today with allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-3bd9-f5bff692151a,NORFOL-d01758,2021-01-13,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-df9c-62d29ccaa239,NORFOL-d01758,2021-02-02,Patient seen for a scheduled wellness encounter.
+887e4b4e-a3e1-b573-3fe6-1a6e020aa885,NORFOL-d01758,2021-02-08,Patient reports symptoms consistent with allergic disposition. Medication list unchanged.
+887e4b4e-a3e1-b573-748c-cbd3ac0e521a,NORFOL-d01758,2021-02-16,Patient seen for a scheduled ambulatory encounter.
+887e4b4e-a3e1-b573-44be-ed48a7b18ecc,NORFOL-d01758,2021-03-06,Patient presents today with allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-fa7c-1a7a425a0d96,NORFOL-d01758,2021-03-28,Patient was evaluated for allergic disposition.
+887e4b4e-a3e1-b573-0595-60260b959860,NORFOL-d01758,2021-04-24,Follow-up visit regarding allergic disposition.
+887e4b4e-a3e1-b573-1873-4183451e52d2,NORFOL-d01758,2021-05-19,Follow-up visit regarding allergic disposition.
+887e4b4e-a3e1-b573-6b44-4a47b47bd56d,NORFOL-d01758,2021-06-09,Presenting complaint: allergic disposition.
+887e4b4e-a3e1-b573-97d6-864287813231,NORFOL-d01758,2021-07-01,Patient reports symptoms consistent with allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-d9b9-817342734b51,NORFOL-d01758,2021-07-20,Outpatient visit for general evaluation. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-98e0-5ba1d9029f06,NORFOL-d01758,2021-07-27,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-8379-82f44a89d4e1,NORFOL-d01758,2021-08-10,Patient seen for a scheduled outpatient encounter.
+887e4b4e-a3e1-b573-b083-edfddac18705,NORFOL-d01758,2021-08-21,Seen in clinic for allergic disposition. Medication list unchanged.
+887e4b4e-a3e1-b573-e9d7-6c17f0c96b45,NORFOL-d01758,2021-09-13,Patient reports symptoms consistent with allergic disposition.
+887e4b4e-a3e1-b573-02c0-4551fe33f49f,NORFOL-d01758,2021-10-04,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-ff0a-143c306de5a4,NORFOL-d01758,2021-10-27,Patient presents today with allergic disposition.
+887e4b4e-a3e1-b573-9c6f-3a1d28868c7c,NORFOL-d01758,2021-11-20,Seen in clinic for allergic disposition.
+887e4b4e-a3e1-b573-6727-f0a1c4ffe83b,NORFOL-d01758,2021-12-13,Patient presents today with allergic disposition. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-7baf-0e6a21288faf,NORFOL-d01758,2022-01-04,Presenting complaint: allergic disposition.
+887e4b4e-a3e1-b573-198d-1a17bb50bae9,NORFOL-d01758,2022-01-18,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+887e4b4e-a3e1-b573-19b0-3a2e1c1f36dd,NORFOL-d01758,2022-01-25,Presenting complaint: a sore throat. Assessment: a sore throat.
+887e4b4e-a3e1-b573-b725-d94617a922ba,NORFOL-d01758,2022-01-26,Patient presents today with allergic disposition.
+887e4b4e-a3e1-b573-8a23-07206d32d294,NORFOL-d01758,2022-02-08,Patient seen for a scheduled wellness encounter.
+887e4b4e-a3e1-b573-466d-02ddbba1d6ec,NORFOL-d01758,2023-02-14,"Diagnosed with gum inflammation at this visit. Social history noted: Medication review due, Educated to high school level, Full-time employment, and Limited social contact."
+887e4b4e-a3e1-b573-ceb7-ae35c6c066b4,NORFOL-d01758,2023-02-28,Patient presents today with gingivitis. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+887e4b4e-a3e1-b573-1ff8-b43a73358dc8,NORFOL-d01758,2024-02-20,Wellness visit for general evaluation. Social history noted: Medication review due and Stress. No new medications prescribed at this time.
+887e4b4e-a3e1-b573-f331-6c5dcd07788c,NORFOL-d01758,2025-08-19,Patient seen for a scheduled outpatient encounter. Social history noted: Medication review due and Part-time employment. Medication list unchanged.
+887e4b4e-a3e1-b573-2d17-31936102661a,NORFOL-d01758,2025-08-26,Patient was evaluated for acute bronchitis. Patient continues to be followed for a chest cold. Patient given Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution during this encounter.
+887e4b4e-a3e1-b573-ab40-3da9f3a1e51d,NORFOL-d01758,2026-02-03,Follow-up visit regarding sprain (morphologic abnormality). Diagnosed with sprain (morphologic abnormality) and sprain of ankle at this visit. Started on Acetaminophen 325 MG Oral Tablet.
+031ce8e2-1443-01b4-f85f-43869f746de5,NORFOL-9c5acc,1995-04-12,Presenting complaint: chronic intractable migraine without aura. Patient continues to be followed for chronic intractable migraine without aura.
+031ce8e2-1443-01b4-779d-a2b10a00b838,NORFOL-9c5acc,1995-06-25,Patient was evaluated for impacted molars. New findings on exam include impacted molars.
+031ce8e2-1443-01b4-7035-a4b6c39476ac,NORFOL-9c5acc,1996-12-08,Seen in clinic for dependent drug abuse. Clinical impression: dependent drug abuse.
+031ce8e2-1443-01b4-af89-09c414718f1c,NORFOL-9c5acc,1999-03-04,Wellness visit for general evaluation. Social history noted: Only received primary school education.
+031ce8e2-1443-01b4-078b-8014a8ee8471,NORFOL-9c5acc,2000-10-16,Patient was evaluated for overdose.
+031ce8e2-1443-01b4-8907-7c0d38430cb2,NORFOL-9c5acc,2003-03-13,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment and Stress."
+031ce8e2-1443-01b4-3785-97b1e5c28fcf,NORFOL-9c5acc,2006-03-16,Wellness visit for general evaluation. Social history noted: Medication review due.
+031ce8e2-1443-01b4-812b-a052d2a1e706,NORFOL-9c5acc,2009-03-19,Wellness visit for general evaluation.
+031ce8e2-1443-01b4-97b7-081db810f8a6,NORFOL-9c5acc,2009-04-02,"Routine ambulatory visit, no acute complaints voiced at check-in. Social history noted: Homeless."
+031ce8e2-1443-01b4-1069-fa62b19913c4,NORFOL-9c5acc,2009-08-25,Presenting complaint: overdose. New findings on exam include overdose.
+031ce8e2-1443-01b4-7e98-40c2a6b2e6b1,NORFOL-9c5acc,2009-09-02,Seen in clinic for dependent drug abuse. No new medications prescribed at this time.
+031ce8e2-1443-01b4-1b70-abc27dfc42fa,NORFOL-9c5acc,2009-10-02,Patient was evaluated for dependent drug abuse.
+031ce8e2-1443-01b4-7227-6dbf5f68348d,NORFOL-9c5acc,2009-11-01,Follow-up visit regarding dependent drug abuse.
+031ce8e2-1443-01b4-0d3d-a1ba7e573074,NORFOL-9c5acc,2009-12-01,Patient presents today with dependent drug abuse. Medication list unchanged.
+031ce8e2-1443-01b4-deb4-7810a02b93bb,NORFOL-9c5acc,2009-12-31,Seen in clinic for dependent drug abuse.
+031ce8e2-1443-01b4-f754-0783f7b4d3f4,NORFOL-9c5acc,2010-01-30,Follow-up visit regarding dependent drug abuse.
+031ce8e2-1443-01b4-5564-1728added2ac,NORFOL-9c5acc,2010-03-01,Follow-up visit regarding dependent drug abuse.
+031ce8e2-1443-01b4-97d5-057c73346b7e,NORFOL-9c5acc,2010-03-17,"Routine ambulatory visit, no acute complaints voiced at check-in."
+031ce8e2-1443-01b4-8d9d-939d3122fa0e,NORFOL-9c5acc,2010-03-31,Presenting complaint: dependent drug abuse.
+031ce8e2-1443-01b4-39c2-593a32abdd20,NORFOL-9c5acc,2010-04-30,Patient was evaluated for dependent drug abuse.
+031ce8e2-1443-01b4-ac33-840a4c028465,NORFOL-9c5acc,2010-05-16,Ambulatory visit for general evaluation.
+031ce8e2-1443-01b4-81c1-2aec20f002cd,NORFOL-9c5acc,2010-05-30,Follow-up visit regarding dependent drug abuse. No new medications prescribed at this time.
+031ce8e2-1443-01b4-1cbf-9876847f2c1c,NORFOL-9c5acc,2010-07-15,"Routine ambulatory visit, no acute complaints voiced at check-in."
+031ce8e2-1443-01b4-7c73-6d73bb00d8ab,NORFOL-9c5acc,2010-08-14,"Routine ambulatory visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+031ce8e2-1443-01b4-c36b-4d356303c85d,NORFOL-9c5acc,2010-08-25,Patient reports symptoms consistent with dependent drug abuse. No new medications prescribed at this time.
+031ce8e2-1443-01b4-d670-ab96b9579bc6,NORFOL-9c5acc,2010-09-13,Patient seen for a scheduled ambulatory encounter. No new medications prescribed at this time.
+031ce8e2-1443-01b4-c1ad-7e698d246493,NORFOL-9c5acc,2010-11-12,Patient seen for a scheduled ambulatory encounter. Medication list unchanged.
+031ce8e2-1443-01b4-a51a-b9d831c42353,NORFOL-9c5acc,2010-12-12,"Routine ambulatory visit, no acute complaints voiced at check-in. Medication list unchanged."
+031ce8e2-1443-01b4-f19d-a7f8f02aa9d5,NORFOL-9c5acc,2011-07-12,Presenting complaint: dependent drug abuse. Medication list unchanged.
+031ce8e2-1443-01b4-9cc1-42cf0a524d7c,NORFOL-9c5acc,2011-11-10,Patient presents today with dependent drug abuse.
+031ce8e2-1443-01b4-c9c6-342212f4c76c,NORFOL-9c5acc,2012-01-07,Seen in clinic for dependent drug abuse.
+031ce8e2-1443-01b4-0d8a-c88c75696624,NORFOL-9c5acc,2012-02-06,Follow-up visit regarding dependent drug abuse.
+031ce8e2-1443-01b4-8d24-110821e84d57,NORFOL-9c5acc,2012-03-22,Clinical impression: essential hypertension. Social history noted: Medication review due and Stress. Started on lisinopril 10 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+031ce8e2-1443-01b4-4125-9425c8efab14,NORFOL-9c5acc,2012-04-21,Patient reports symptoms consistent with essential hypertension. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet.
+031ce8e2-1443-01b4-c5ec-65dec50d49d5,NORFOL-9c5acc,2012-06-20,Patient was evaluated for essential hypertension. Medication list unchanged.
+031ce8e2-1443-01b4-4274-772a03d422e0,NORFOL-9c5acc,2012-07-07,Seen in clinic for acute viral pharyngitis. Diagnosed with a sore throat at this visit.
+031ce8e2-1443-01b4-ce72-c5b9d3b1b29c,NORFOL-9c5acc,2012-07-25,Seen in clinic for dependent drug abuse. No new medications prescribed at this time.
+031ce8e2-1443-01b4-c9df-40fcc8678db1,NORFOL-9c5acc,2012-08-19,Patient was evaluated for high blood pressure.
+031ce8e2-1443-01b4-bc97-22a92fa15554,NORFOL-9c5acc,2012-10-22,Patient reports symptoms consistent with dependent drug abuse. No new medications prescribed at this time.
+031ce8e2-1443-01b4-5dd4-519cf0038e74,NORFOL-9c5acc,2012-11-21,Patient was evaluated for dependent drug abuse. Medication list unchanged.
+031ce8e2-1443-01b4-4cdf-fd21d805b682,NORFOL-9c5acc,2012-12-21,Patient reports symptoms consistent with dependent drug abuse.
+031ce8e2-1443-01b4-ccf4-5b3d301b2363,NORFOL-9c5acc,2013-03-28,Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+031ce8e2-1443-01b4-d3c8-8df84811e1a3,NORFOL-9c5acc,2013-04-11,Diagnosed with dental filling lost at this visit. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+031ce8e2-1443-01b4-397a-909e34d396da,NORFOL-9c5acc,2013-07-07,Follow-up visit regarding overdose. Patient continues to be followed for overdose. Medication list unchanged.
+031ce8e2-1443-01b4-3781-2dfe0466e1b7,NORFOL-9c5acc,2013-07-28,Patient was evaluated for overdose. Patient continues to be followed for overdose. No new medications prescribed at this time.
+031ce8e2-1443-01b4-92dd-c201cdcd03a4,NORFOL-9c5acc,2013-08-26,Patient reports symptoms consistent with dependent drug abuse. Medication list unchanged.
+031ce8e2-1443-01b4-40b7-91aadb474091,NORFOL-9c5acc,2013-11-27,Patient presents today with dependent drug abuse.
+031ce8e2-1443-01b4-e4e2-ca4a7d84a762,NORFOL-9c5acc,2013-12-27,Presenting complaint: dependent drug abuse. Medication list unchanged.
+031ce8e2-1443-01b4-fde8-65d36a627e7c,NORFOL-9c5acc,2014-01-26,Seen in clinic for dependent drug abuse.
+031ce8e2-1443-01b4-9c81-9c0977186bc0,NORFOL-9c5acc,2014-02-01,"Presenting complaint: ongoing pain. Diagnosed with ongoing pain, chronic low back pain, and chronic neck pain at this visit. Medications prescribed today: Ibuprofen 400 MG Oral Tablet [Ibu]."
+031ce8e2-1443-01b4-d152-75593a6a89c3,NORFOL-9c5acc,2014-02-04,Follow-up visit regarding ongoing pain.
+031ce8e2-1443-01b4-b4c7-d1dbaa5225cd,NORFOL-9c5acc,2014-02-07,Seen in clinic for ongoing pain. Medication list unchanged.
+031ce8e2-1443-01b4-136f-28069ea25288,NORFOL-9c5acc,2014-02-10,Seen in clinic for ongoing pain. Medication list unchanged.
+031ce8e2-1443-01b4-938c-0d8679802e3f,NORFOL-9c5acc,2014-02-13,Patient was evaluated for ongoing pain.
+031ce8e2-1443-01b4-3445-bc323d772091,NORFOL-9c5acc,2014-02-16,Seen in clinic for ongoing pain. Medication list unchanged.
+031ce8e2-1443-01b4-c1c9-4a8914de97e8,NORFOL-9c5acc,2014-02-19,Patient reports symptoms consistent with ongoing pain.
+031ce8e2-1443-01b4-cd9e-94eea5ab92d2,NORFOL-9c5acc,2014-02-22,Patient reports symptoms consistent with chronic pain. Medication list unchanged.
+031ce8e2-1443-01b4-f36a-b5620dcc38c9,NORFOL-9c5acc,2014-02-25,Follow-up visit regarding chronic pain.
+031ce8e2-1443-01b4-7cce-ef199e39a749,NORFOL-9c5acc,2014-04-03,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due and Full-time employment. Patient given Hydrochlorothiazide 25 MG Oral Tablet, Ibuprofen 400 MG Oral Tablet [Ibu], and lisinopril 10 MG Oral Tablet during this encounter."
+031ce8e2-1443-01b4-492e-37a1490759cb,NORFOL-9c5acc,2014-04-10,Patient presents today with ongoing pain. Medications prescribed today: Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet.
+031ce8e2-1443-01b4-c593-09728b0f0b20,NORFOL-9c5acc,2014-07-29,Patient was evaluated for dependent drug abuse.
+031ce8e2-1443-01b4-9258-1aa5a65e7489,NORFOL-9c5acc,2014-08-28,Patient was evaluated for dependent drug abuse. No new medications prescribed at this time.
+031ce8e2-1443-01b4-48a8-b5c30f3eb40e,NORFOL-9c5acc,2014-09-27,Patient reports symptoms consistent with dependent drug abuse.
+031ce8e2-1443-01b4-a973-dfd0203c8972,NORFOL-9c5acc,2014-10-27,Patient reports symptoms consistent with dependent drug abuse.
+031ce8e2-1443-01b4-02cf-8c1a75d4b45c,NORFOL-9c5acc,2014-11-26,Patient reports symptoms consistent with dependent drug abuse.
+031ce8e2-1443-01b4-be50-cdc25b8370d6,NORFOL-9c5acc,2015-04-09,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Part-time employment and Social isolation. Started on Hydrochlorothiazide 25 MG Oral Tablet, Ibuprofen 400 MG Oral Tablet [Ibu], and lisinopril 10 MG Oral Tablet."
+031ce8e2-1443-01b4-025c-2429982dd061,NORFOL-9c5acc,2016-04-01,Follow-up visit regarding dependent drug abuse.
+031ce8e2-1443-01b4-7c83-b81d8ced29c7,NORFOL-9c5acc,2016-04-14,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Full-time employment. Started on Hydrochlorothiazide 25 MG Oral Tablet, Ibuprofen 400 MG Oral Tablet [Ibu], and lisinopril 10 MG Oral Tablet."
+031ce8e2-1443-01b4-47cf-e14bb910b53d,NORFOL-9c5acc,2016-04-28,Patient seen for a scheduled ambulatory encounter. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+031ce8e2-1443-01b4-396a-35da3d03aa8d,NORFOL-9c5acc,2016-05-01,Patient reports symptoms consistent with dependent drug abuse. Medication list unchanged.
+031ce8e2-1443-01b4-34c7-6d2b9eb5ec3f,NORFOL-9c5acc,2016-05-31,Patient was evaluated for dependent drug abuse. Medication list unchanged.
+031ce8e2-1443-01b4-6447-7d54edbd2672,NORFOL-9c5acc,2017-03-16,Patient presents today with dependent drug abuse.
+031ce8e2-1443-01b4-e8af-ed46e251f495,NORFOL-9c5acc,2017-04-20,"Routine wellness visit, no acute complaints voiced at check-in. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, Ibuprofen 400 MG Oral Tablet [Ibu], and lisinopril 10 MG Oral Tablet."
+031ce8e2-1443-01b4-4048-edf43c0a7478,NORFOL-9c5acc,2017-04-27,Seen in clinic for dependent drug abuse.
+031ce8e2-1443-01b4-0b49-7ecc87f12f59,NORFOL-9c5acc,2017-05-27,Patient presents today with dependent drug abuse.
+031ce8e2-1443-01b4-0b8e-0067861f43b3,NORFOL-9c5acc,2018-02-12,Patient was evaluated for dependent drug abuse. No new medications prescribed at this time.
+031ce8e2-1443-01b4-a023-b6cdfdc2a8f2,NORFOL-9c5acc,2018-03-14,Presenting complaint: dependent drug abuse.
+031ce8e2-1443-01b4-1a3b-d96c0d4fe480,NORFOL-9c5acc,2018-04-13,Follow-up visit regarding dependent drug abuse.
+031ce8e2-1443-01b4-780a-945fd908b466,NORFOL-9c5acc,2018-04-26,"Wellness visit for general evaluation. Care-coordination note: Stress. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet, Ibuprofen 400 MG Oral Tablet [Ibu], and lisinopril 10 MG Oral Tablet."
+031ce8e2-1443-01b4-f22f-f692da9cbe0b,NORFOL-9c5acc,2018-05-03,"Patient seen for a scheduled outpatient encounter. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet, Ibuprofen 400 MG Oral Tablet [Ibu], and lisinopril 10 MG Oral Tablet."
+031ce8e2-1443-01b4-a434-df8d312cea22,NORFOL-9c5acc,2018-05-10,Patient was evaluated for viral sinusitis. Assessment: a sinus infection. Medication list unchanged.
+031ce8e2-1443-01b4-40d5-34fd89da922b,NORFOL-9c5acc,2018-09-23,Patient presents today with overdose. Patient continues to be followed for overdose.
+031ce8e2-1443-01b4-cfba-cb13fd522858,NORFOL-9c5acc,2018-10-04,Seen in clinic for overdose.
+97e39468-6488-ca8f-c108-c6c05cc112ed,NORFOL-951ff0,1986-05-11,Patient was evaluated for shellfish. Medication list unchanged.
+97e39468-6488-ca8f-7b33-d33c04781ee2,NORFOL-951ff0,1986-05-25,Patient reports symptoms consistent with allergic disposition. Medications prescribed today: Terfenadine 60 MG Oral Tablet. Chart notes an existing Shellfish allergy.
+97e39468-6488-ca8f-2cd9-4796092ea77a,NORFOL-951ff0,2003-02-07,"Wellness visit for general evaluation. Social history noted: Only received primary school education, Full-time employment, and Lack of access to transportation."
+97e39468-6488-ca8f-cb39-a739bd2bee4b,NORFOL-951ff0,2004-02-13,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Stress."
+97e39468-6488-ca8f-4347-65852533d9f1,NORFOL-951ff0,2007-02-16,Patient seen for a scheduled wellness encounter. Care-coordination note: Transport problem. No new medications prescribed at this time.
+97e39468-6488-ca8f-c018-ad9311db479b,NORFOL-951ff0,2016-02-26,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+97e39468-6488-ca8f-6ddc-cfa0af9f3cb2,NORFOL-951ff0,2019-03-01,New findings on exam include gingivitis.
+97e39468-6488-ca8f-ac66-a8874c531ae4,NORFOL-951ff0,2019-03-15,Presenting complaint: gum inflammation. Assessment: primary dental caries.
+97e39468-6488-ca8f-4ba8-e7495be60118,NORFOL-951ff0,2019-12-12,Patient was evaluated for a sinus infection. Clinical impression: viral sinusitis. Plan: initiate Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+97e39468-6488-ca8f-ae98-3d7e0ef77f62,NORFOL-951ff0,2021-02-26,Patient seen for a scheduled outpatient encounter.
+97e39468-6488-ca8f-a087-36def050a642,NORFOL-951ff0,2021-03-06,Follow-up visit regarding sinusitis. Clinical impression: sinusitis.
+97e39468-6488-ca8f-a5e2-104997df071b,NORFOL-951ff0,2021-03-19,Patient seen for a scheduled outpatient encounter.
+97e39468-6488-ca8f-7fde-19a2fad5c844,NORFOL-951ff0,2022-03-04,Patient continues to be followed for acute infective cystitis. Care-coordination note: Medication review due. Medication list unchanged.
+97e39468-6488-ca8f-b9ae-0dc4835d9e0e,NORFOL-951ff0,2024-06-08,Presenting complaint: acute infective cystitis. Started on sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet.
+97e39468-6488-ca8f-201e-d3afc7f2b50d,NORFOL-951ff0,2024-12-20,Patient seen for a scheduled wellness encounter.
+97e39468-6488-ca8f-e033-dcc9ab28fdac,NORFOL-951ff0,2025-01-03,"Routine ambulatory visit, no acute complaints voiced at check-in. Medication list unchanged."
+97e39468-6488-ca8f-95f6-cdb27974993f,NORFOL-951ff0,2025-10-15,Follow-up visit regarding osteoarthritis of knee. Patient continues to be followed for osteoarthritis of knee. Medications prescribed today: Naproxen sodium 220 MG Oral Tablet.
+31f368d9-3fdc-a15f-f6a9-0606e12a1440,NORFOL-e876cb,1981-11-15,Patient reports symptoms consistent with shellfish.
+31f368d9-3fdc-a15f-3b69-efb1c562bd7d,NORFOL-e876cb,1981-12-02,Patient reports symptoms consistent with allergic disposition. Medications prescribed today: Astemizole 10 MG Oral Tablet. Allergy history notable for Shellfish.
+31f368d9-3fdc-a15f-5cac-5b3314aa0ca9,NORFOL-e876cb,1981-12-04,Patient reports symptoms consistent with sinusitis. New findings on exam include chronic sinusitis. Medication list unchanged.
+31f368d9-3fdc-a15f-ec3d-3b6d52a00907,NORFOL-e876cb,1995-02-11,Patient was evaluated for chronic intractable migraine without aura. New findings on exam include chronic intractable migraine without aura.
+31f368d9-3fdc-a15f-e51d-5198dfee06c9,NORFOL-e876cb,1995-03-20,Seen in clinic for impacted molars. Clinical impression: impacted molars. No new medications prescribed at this time.
+31f368d9-3fdc-a15f-369b-ce0768a202fa,NORFOL-e876cb,1995-07-12,Presenting complaint: chronic pain. Diagnosed with chronic pain at this visit. Medication list unchanged.
+31f368d9-3fdc-a15f-e2a3-f17cb3ad7381,NORFOL-e876cb,2000-03-30,Patient reports symptoms consistent with loss of teeth. Assessment: loss of teeth.
+31f368d9-3fdc-a15f-52f3-ff9dafd6e631,NORFOL-e876cb,2003-12-29,Presenting complaint: overdose. Medication list unchanged.
+31f368d9-3fdc-a15f-5ff9-f190d17b5fc6,NORFOL-e876cb,2017-04-24,Patient reports symptoms consistent with traumatic dislocation of temporomandibular joint. New findings on exam include traumatic dislocation of temporomandibular joint. Plan: initiate Ibuprofen 200 MG Oral Tablet.
+31f368d9-3fdc-a15f-0eb7-7de4bcf57ace,NORFOL-e876cb,2020-11-26,"Urgentcare visit for general evaluation. Care-coordination note: Medication review due, Full-time employment, Limited social contact, and Stress. No new medications prescribed at this time."
+31f368d9-3fdc-a15f-bd08-3364cba08c6b,NORFOL-e876cb,2021-08-24,Patient was evaluated for overdose. Clinical impression: overdose.
+31f368d9-3fdc-a15f-440a-98c9a5a4121d,NORFOL-e876cb,2022-04-12,Presenting complaint: fracture of bone. Patient continues to be followed for fracture of bone and fracture subluxation of wrist. Patient given Naproxen sodium 220 MG Oral Tablet during this encounter.
+31f368d9-3fdc-a15f-983c-364acd5b9e4d,NORFOL-e876cb,2024-12-24,Patient was evaluated for overdose. New findings on exam include overdose. No new medications prescribed at this time.
+35f80d0e-eaad-ef68-a696-d68e420fca4c,NORFOL-e26be4,2017-04-16,Patient presents today with gum inflammation. New findings on exam include gingival disease. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+35f80d0e-eaad-ef68-693f-23ad8256f0a1,NORFOL-e26be4,2020-02-02,Follow-up visit regarding gingivitis.
+35f80d0e-eaad-ef68-31af-4a513c586746,NORFOL-e26be4,2023-09-20,Seen in clinic for a sore throat. Assessment: acute viral pharyngitis. Medication list unchanged.
+35f80d0e-eaad-ef68-088a-488e466abff0,NORFOL-e26be4,2024-02-11,Ambulatory visit for general evaluation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+35f80d0e-eaad-ef68-5102-acbf462409bc,NORFOL-e26be4,2024-04-06,Presenting complaint: concussion with no loss of consciousness. New findings on exam include acute infective cystitis.
+35f80d0e-eaad-ef68-2228-401c5da8a442,NORFOL-e26be4,2024-04-12,Seen in clinic for acute infective cystitis. Medications prescribed today: ciprofloxacin 500 MG Oral Tablet.
+35f80d0e-eaad-ef68-fb03-ec4fb9f55ffe,NORFOL-e26be4,2026-06-15,Follow-up visit regarding a sore throat. New findings on exam include a sore throat.
+f6359fe4-4340-2820-7308-9148b78f5446,NORFOL-cd0813,2016-11-07,Assessment: gingivitis. Social history noted: Medication review due. Medication list unchanged.
+f6359fe4-4340-2820-483a-b00504255d0d,NORFOL-cd0813,2017-11-13,Patient seen for a scheduled wellness encounter.
+f6359fe4-4340-2820-0332-06e985d0febc,NORFOL-cd0813,2017-12-24,Patient presents today with fracture of bone. Diagnosed with fracture of bone and fracture of ankle at this visit. Started on Ibuprofen 100 MG Oral Tablet.
+f6359fe4-4340-2820-d610-b19a302de696,NORFOL-cd0813,2018-11-19,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+f6359fe4-4340-2820-9598-c428ef56b1fc,NORFOL-cd0813,2019-11-25,"Routine wellness visit, no acute complaints voiced at check-in."
+f6359fe4-4340-2820-1df4-d4c62e30a5e6,NORFOL-cd0813,2020-11-30,Wellness visit for general evaluation.
+f6359fe4-4340-2820-60ee-2451778574a2,NORFOL-cd0813,2021-12-06,Patient seen for a scheduled wellness encounter.
+f6359fe4-4340-2820-f635-f33071bc4a11,NORFOL-cd0813,2022-12-12,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Risk activity involvement."
+f6359fe4-4340-2820-130d-fcf71f6026f0,NORFOL-cd0813,2023-05-17,Presenting complaint: fracture of bone. Clinical impression: fracture of bone and fracture of forearm. Started on Acetaminophen 325 MG Oral Tablet.
+f6359fe4-4340-2820-4a88-232a015ed022,NORFOL-cd0813,2023-12-18,Wellness visit for general evaluation.
+f6359fe4-4340-2820-2f2c-34b14f98e226,NORFOL-cd0813,2024-12-23,Patient seen for a scheduled wellness encounter. Care-coordination note: Received higher education and Unemployed. Medications prescribed today: tramadol hydrochloride 50 MG Oral Tablet.
+f6359fe4-4340-2820-2470-5338d34995a3,NORFOL-cd0813,2024-12-30,Presenting complaint: normal pregnancy.
+f6359fe4-4340-2820-fed6-c36b23d56f1b,NORFOL-cd0813,2025-01-14,Patient reports symptoms consistent with acute infective cystitis. Started on nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule.
+f6359fe4-4340-2820-237d-34e2e7358471,NORFOL-cd0813,2025-12-29,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Full-time employment, and Stress. Plan: initiate 72 HR Fentanyl 0.025 MG/HR Transdermal System, tramadol hydrochloride 50 MG Oral Tablet, and 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule."
+f67eaca3-2366-7ee2-0c19-e7100ba0010c,NORFOL-45e46b,2004-09-19,Patient was evaluated for chronic intractable migraine without aura. Patient continues to be followed for chronic intractable migraine without aura.
+f67eaca3-2366-7ee2-46ba-e2d6b629b0cd,NORFOL-45e46b,2008-04-13,Patient seen for a scheduled wellness encounter. Care-coordination note: Educated to high school level and Full-time employment.
+f67eaca3-2366-7ee2-cc5c-cff15dec09b3,NORFOL-45e46b,2012-04-22,New findings on exam include borderline blood sugar. No new medications prescribed at this time.
+f67eaca3-2366-7ee2-a734-84fcd0caec04,NORFOL-45e46b,2014-02-04,"Patient was evaluated for chronic pain. New findings on exam include chronic pain, chronic low back pain, and chronic neck pain. Medication list unchanged."
+f67eaca3-2366-7ee2-3799-4acf1a1de18e,NORFOL-45e46b,2015-04-26,Diagnosed with a low blood count at this visit.
+f67eaca3-2366-7ee2-fc60-fbf043b952bd,NORFOL-45e46b,2018-04-29,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Part-time employment."
+f67eaca3-2366-7ee2-a3ab-903a0ec33dd8,NORFOL-45e46b,2018-05-13,Ambulatory visit for general evaluation.
+f67eaca3-2366-7ee2-5953-8a766ff348ad,NORFOL-45e46b,2021-05-02,Wellness visit for general evaluation. Care-coordination note: Full-time employment and Stress.
+f67eaca3-2366-7ee2-b442-d111ca4856ce,NORFOL-45e46b,2024-05-05,Patient continues to be followed for gingivitis. Care-coordination note: Not in labor force.
+f67eaca3-2366-7ee2-2413-da64226ebcb7,NORFOL-45e46b,2024-05-19,Follow-up visit regarding gum inflammation. No new medications prescribed at this time.
+f67eaca3-2366-7ee2-d47e-0bb88333ecb7,NORFOL-45e46b,2025-02-10,Presenting complaint: a sore throat. Diagnosed with acute viral pharyngitis at this visit.
+f67eaca3-2366-7ee2-1a60-2279df6a6a3e,NORFOL-45e46b,2025-05-26,Follow-up visit regarding acute viral pharyngitis. Clinical impression: a sore throat.
+c823813e-2588-4814-85cf-39c61bc99db3,NORFOL-92880a,2022-05-08,Seen in clinic for normal pregnancy.

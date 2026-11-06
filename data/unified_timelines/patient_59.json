@@ -1,0 +1,471 @@
+{
+  "cluster_id": "59",
+  "hospitals": [
+    "Norfolk County Health Network",
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "2012-10-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LAKESIDE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2018-08-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LAKESIDE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2018-08-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-17"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-17"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-17T22:06:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LAKESIDE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2020-06-21",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ethinyl Estradiol",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-06-16T15:58:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norelgestromin",
+          "canonical": "norelgestromin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-16T15:58:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LAKESIDE FAMILY PRACTICE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anxiety",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-04-24",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-05-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-08-20",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LAKESIDE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2021-08-27",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-09-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-09-17"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-03T18:41:06Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-09-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-09-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "d",
+          "canonical": "d",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "p",
+          "canonical": "p",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2021-09-22",
+      "hospital": "Southcoast Health",
+      "encounter_class": "virtual",
+      "reason": "",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ciprofloxacin",
+          "canonical": "ciprofloxacin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-24T15:46:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LAKESIDE FAMILY PRACTICE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-09"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-09"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-06",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-05-31T15:58:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-31T15:58:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-09-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LAKESIDE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2023-09-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-15T18:48:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-09-15T18:48:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-03-08"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "us",
+          "canonical": "us",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-03-08"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-03-08T04:58:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-03-08T04:58:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-31",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ethinyl estradiol",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-05-26T15:58:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "etonogestrel",
+          "canonical": "Etonogestrel | etonogestrel",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-05-26T15:58:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-05-21T15:58:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-05-21T15:58:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-05-21T15:58:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-05-21T15:58:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-21T15:58:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-12-04",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-08-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Severe anxiety (panic)",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

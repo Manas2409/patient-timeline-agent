@@ -1,0 +1,5 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+WEST_S-41bc86,2005-06-18,Allergic disposition (finding),,
+WEST_S-64e1c9,1955-12-11,Allergic disposition (finding),,
+WEST_S-64e1c9,1955-12-11,Mold (organism),,
+WEST_S-64e1c9,1955-12-11,Sulfamethoxazole / Trimethoprim,Wheal (finding),MODERATE

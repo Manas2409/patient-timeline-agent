@@ -1,0 +1,654 @@
+{
+  "cluster_id": "106",
+  "hospitals": [
+    "Worcester Regional Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2002-06-16",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RUTLAND FAMILY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2008-07-20",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RUTLAND FAMILY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2009-07-26",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RUTLAND FAMILY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2012-07-29",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RUTLAND FAMILY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-08-02",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RUTLAND FAMILY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2016-02-21",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-04-01",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-09-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-09-18",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-09-25",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-10-02",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "STERLING VILLAGE",
+      "entities": []
+    },
+    {
+      "date": "2016-11-13",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-05-14",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-06-11",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-09",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-08-06",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-09-03",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-01",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-29",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-11-26",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-10",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "STERLING VILLAGE",
+      "entities": []
+    },
+    {
+      "date": "2018-01-21",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-28",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-27T20:10:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-01",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-08-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RUTLAND FAMILY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2019-04-21",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-06-09",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-06-21",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-06-29",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-19",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-07",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-25",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-11-08",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-11-08",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-12-06",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-01-03",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-01-31",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-28",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-28",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-25",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-23",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-06",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-13",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "STERLING VILLAGE",
+      "entities": []
+    },
+    {
+      "date": "2021-07-25",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-08-08",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RUTLAND FAMILY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "uses",
+          "canonical": "uses",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2021-09-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-26",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-10-01",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-10-17",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-10-26",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-04-14",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-05-12",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-06-09",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-07-07",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-11",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RUTLAND FAMILY HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2024-09-01",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-29",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-10-27",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-11-10",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-11-17",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-11-24",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "STERLING VILLAGE",
+      "entities": []
+    },
+    {
+      "date": "2025-01-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-01-12",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-01-07T02:18:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-18",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "STERLING VILLAGE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-18T02:18:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "HYDROcodone Bitartrate",
+          "canonical": "HYDROcodone Bitartrate | Hydrocodone Bitartrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-03-18T02:18:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-08T04:08:17Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-08",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of forearm (disorder)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "T MASSACHUSETTS  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

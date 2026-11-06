@@ -1,0 +1,370 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+8b9df7af-24b3-66ee-5a2b-56f7415801c1,WEST_S-0d961f,2016-03-20,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+8b9df7af-24b3-66ee-d46c-520a00b76fa8,WEST_S-0d961f,2017-03-26,"Routine wellness visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+8b9df7af-24b3-66ee-e180-382ed946a8f9,WEST_S-0d961f,2018-04-01,"Routine wellness visit, no acute complaints voiced at check-in."
+8b9df7af-24b3-66ee-7f91-c7e4c7fa1bfc,WEST_S-0d961f,2019-04-07,Wellness visit for general evaluation. Social history noted: Received higher education and Full-time employment.
+8b9df7af-24b3-66ee-a2e0-1afc2a82be80,WEST_S-0d961f,2020-04-12,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Reports of violence in the environment, and Victim of intimate partner abuse."
+8b9df7af-24b3-66ee-7f9c-54810c4e1d9a,WEST_S-0d961f,2023-04-16,Wellness visit for general evaluation. Social history noted: Limited social contact and Stress.
+8b9df7af-24b3-66ee-bf90-f3660887778c,WEST_S-0d961f,2026-04-26,Clinical impression: gingivitis. Social history noted: Medication review due.
+87f7ad7b-85f9-d26d-6ace-0a1185fb78d1,WEST_S-db5bad,1987-06-19,Patient seen for a scheduled wellness encounter. Social history noted: Educated to high school level. No new medications prescribed at this time.
+87f7ad7b-85f9-d26d-2738-9080392bfe67,WEST_S-db5bad,1989-12-26,Follow-up visit regarding complete miscarriage. New findings on exam include past pregnancy history of miscarriage.
+87f7ad7b-85f9-d26d-98dd-55637e225cfe,WEST_S-db5bad,2011-05-06,Assessment: obesity (BMI 30+). Care-coordination note: Has a criminal record. Medication list unchanged.
+87f7ad7b-85f9-d26d-528c-75a0a272f300,WEST_S-db5bad,2011-06-14,Patient reports symptoms consistent with impacted molars. Patient continues to be followed for impacted molars.
+87f7ad7b-85f9-d26d-9676-37fa1dd512ce,WEST_S-db5bad,2013-05-10,Patient seen for a scheduled wellness encounter. Social history noted: Stress.
+87f7ad7b-85f9-d26d-c42f-6f71be3e4b0b,WEST_S-db5bad,2015-05-15,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Full-time employment.
+87f7ad7b-85f9-d26d-4cad-f4f86bd71724,WEST_S-db5bad,2015-12-14,Outpatient visit for general evaluation. Medications prescribed today: levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta].
+87f7ad7b-85f9-d26d-1d74-1aac2639cbc8,WEST_S-db5bad,2016-12-11,"Routine outpatient visit, no acute complaints voiced at check-in. Medications prescribed today: Etonogestrel 68 MG Drug Implant."
+87f7ad7b-85f9-d26d-6205-1b948e1b37be,WEST_S-db5bad,2017-02-24,Outpatient visit for general evaluation.
+87f7ad7b-85f9-d26d-8404-84e3b121240b,WEST_S-db5bad,2017-03-03,Patient presents today with appendicitis. Patient continues to be followed for appendicitis. Medication list unchanged.
+87f7ad7b-85f9-d26d-2bc9-54896a9dc2e4,WEST_S-db5bad,2017-03-03,Patient reports symptoms consistent with appendicitis. Patient continues to be followed for history of appendectomy.
+87f7ad7b-85f9-d26d-fc24-e40761f6971c,WEST_S-db5bad,2017-05-19,Wellness visit for general evaluation. Care-coordination note: Medication review due and Unemployed.
+87f7ad7b-85f9-d26d-308d-3c022a1a32d5,WEST_S-db5bad,2017-12-06,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] during this encounter."
+87f7ad7b-85f9-d26d-8fd2-ceda10957c9c,WEST_S-db5bad,2018-12-01,Outpatient visit for general evaluation. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] during this encounter.
+87f7ad7b-85f9-d26d-bb84-66575820aa54,WEST_S-db5bad,2019-04-26,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Full-time employment."
+87f7ad7b-85f9-d26d-167e-9c4816bd35f9,WEST_S-db5bad,2019-05-03,Patient seen for a scheduled ambulatory encounter.
+87f7ad7b-85f9-d26d-a5b9-d11c9b138579,WEST_S-db5bad,2019-12-06,Patient seen for a scheduled outpatient encounter. No new medications prescribed at this time.
+87f7ad7b-85f9-d26d-5832-02f6b7a712d7,WEST_S-db5bad,2020-05-01,Diagnosed with gingivitis at this visit. Social history noted: Victim of intimate partner abuse.
+87f7ad7b-85f9-d26d-2a4e-d117289c562c,WEST_S-db5bad,2020-05-15,Patient was evaluated for gingivitis. Patient continues to be followed for gingival disease.
+87f7ad7b-85f9-d26d-e330-a68f417ab6e4,WEST_S-db5bad,2021-05-07,Diagnosed with suspected disease caused by Severe acute respiratory coronavirus 2 at this visit. Social history noted: Not in labor force.
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,2021-05-10,"Seen in clinic for suspected disease caused by Severe acute respiratory coronavirus 2. New findings on exam include cough, sore throat, fatigue, dyspnea, wheezing, fever, and disease caused by severe acute respiratory syndrome coronavirus 2."
+87f7ad7b-85f9-d26d-934e-c7375bed15a3,WEST_S-db5bad,2022-05-13,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Full-time employment."
+87f7ad7b-85f9-d26d-5f08-f4398ac29a86,WEST_S-db5bad,2022-05-27,Ambulatory visit for general evaluation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,2023-05-19,Diagnosed with essential hypertension at this visit. Care-coordination note: Medication review due and Limited social contact. Started on lisinopril 10 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+87f7ad7b-85f9-d26d-f261-433d205b50fa,WEST_S-db5bad,2023-06-02,"Routine ambulatory visit, no acute complaints voiced at check-in. Medication list unchanged."
+87f7ad7b-85f9-d26d-e0dd-4693ca635e6b,WEST_S-db5bad,2023-06-18,Patient reports symptoms consistent with essential hypertension. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet.
+87f7ad7b-85f9-d26d-b7c2-0d595a4f6917,WEST_S-db5bad,2023-08-17,Patient reports symptoms consistent with high blood pressure.
+87f7ad7b-85f9-d26d-8751-b1e329116ba7,WEST_S-db5bad,2023-10-16,Patient presents today with essential hypertension.
+87f7ad7b-85f9-d26d-ddd6-f6df356d7112,WEST_S-db5bad,2024-05-03,Patient seen for a scheduled ambulatory encounter. Medication list unchanged.
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,2024-05-24,"Diagnosed with gingivitis at this visit. Care-coordination note: Medication review due, Not in labor force, and Stress. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter."
+87f7ad7b-85f9-d26d-8968-938d7d6962f9,WEST_S-db5bad,2024-06-07,Patient was evaluated for gingivitis. New findings on exam include loose dental filling.
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,2025-05-30,New findings on exam include gingivitis. Social history noted: Medication review due and Full-time employment. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+87f7ad7b-85f9-d26d-8ed1-78321688f54b,WEST_S-db5bad,2025-06-13,Presenting complaint: gum inflammation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+87f7ad7b-85f9-d26d-42fa-0b23756aa084,WEST_S-db5bad,2026-06-05,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Stress. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet."
+87f7ad7b-85f9-d26d-cf1a-95b514289d63,WEST_S-db5bad,2026-06-19,Patient seen for a scheduled ambulatory encounter. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+f5749532-3295-ad01-d458-6563c570663c,WEST_S-2e8bad,1990-11-05,Patient seen for a scheduled wellness encounter. Care-coordination note: Received higher education. No new medications prescribed at this time.
+f5749532-3295-ad01-e596-ecdf3cf1e767,WEST_S-2e8bad,2000-11-20,New findings on exam include prediabetes and anemia. No new medications prescribed at this time.
+f5749532-3295-ad01-ff01-45763dd7c52b,WEST_S-2e8bad,2000-11-27,Patient reports symptoms consistent with a low blood count. Medications prescribed today: ferrous sulfate 325 MG Oral Tablet.
+f5749532-3295-ad01-64d4-ecb86b7d8653,WEST_S-2e8bad,2003-11-24,Wellness visit for general evaluation. Social history noted: Unhealthy alcohol drinking behavior.
+f5749532-3295-ad01-f559-54b5bf1bdefd,WEST_S-2e8bad,2012-09-17,Clinical impression: significant weight gain. Medication list unchanged.
+f5749532-3295-ad01-b198-0b8422f92d43,WEST_S-2e8bad,2012-10-08,Patient presents today with loss of teeth. Assessment: loss of teeth. No new medications prescribed at this time.
+f5749532-3295-ad01-245e-b4c477ee898a,WEST_S-2e8bad,2014-09-22,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Not in labor force, and Limited social contact."
+f5749532-3295-ad01-c53e-0cfd46599b2c,WEST_S-2e8bad,2015-09-09,Patient seen for a scheduled outpatient encounter. Medications prescribed today: {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day].
+f5749532-3295-ad01-0f8c-1aea90e943c6,WEST_S-2e8bad,2016-09-03,Outpatient visit for general evaluation. Medications prescribed today: {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day].
+f5749532-3295-ad01-0049-abe9f9382d17,WEST_S-2e8bad,2016-09-26,"Patient seen for a scheduled wellness encounter. Social history noted: Full-time employment, Social isolation, and Stress. No new medications prescribed at this time."
+f5749532-3295-ad01-f3bc-407311274bf6,WEST_S-2e8bad,2017-08-29,Patient seen for a scheduled outpatient encounter. Plan: initiate 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System.
+f5749532-3295-ad01-26b1-0b0a46d08586,WEST_S-2e8bad,2017-10-30,"Routine outpatient visit, no acute complaints voiced at check-in."
+f5749532-3295-ad01-7458-0a7edc951fd9,WEST_S-2e8bad,2017-11-20,Patient seen for a scheduled outpatient encounter. Care-coordination note: Part-time employment.
+f5749532-3295-ad01-c495-dc0a50f64d58,WEST_S-2e8bad,2017-11-27,Presenting complaint: a sinus infection. Clinical impression: viral sinusitis.
+f5749532-3295-ad01-0103-e324fc633aff,WEST_S-2e8bad,2018-08-24,Outpatient visit for general evaluation. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] during this encounter.
+f5749532-3295-ad01-6506-a9bcd107ca02,WEST_S-2e8bad,2018-10-01,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Victim of intimate partner abuse, and Unhealthy alcohol drinking behavior."
+f5749532-3295-ad01-5d0e-c3905bcb60fe,WEST_S-2e8bad,2019-08-19,Outpatient visit for general evaluation. Plan: initiate Etonogestrel 68 MG Drug Implant.
+f5749532-3295-ad01-85bf-2ba1c9e089e2,WEST_S-2e8bad,2020-08-13,"Routine outpatient visit, no acute complaints voiced at check-in. Started on levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]."
+f5749532-3295-ad01-9331-d44e8c930ae1,WEST_S-2e8bad,2020-08-16,Outpatient visit for general evaluation.
+f5749532-3295-ad01-7a44-711db61d3a16,WEST_S-2e8bad,2020-10-05,Clinical impression: gum inflammation. Social history noted: Medication review due and Full-time employment. Medication list unchanged.
+f5749532-3295-ad01-eb9d-d574a10d9f8e,WEST_S-2e8bad,2020-10-19,Seen in clinic for gum inflammation. Diagnosed with gingival disease and primary dental caries at this visit.
+f5749532-3295-ad01-e964-e9a8ef9d6c89,WEST_S-2e8bad,2021-08-16,Patient seen for a scheduled outpatient encounter.
+f5749532-3295-ad01-b661-5d3b99d5bb71,WEST_S-2e8bad,2021-09-06,"Routine outpatient visit, no acute complaints voiced at check-in."
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,2021-09-25,Patient presents today with streptococcal sore throat. Clinical impression: streptococcal sore throat. Patient given Penicillin V Potassium 500 MG Oral Tablet during this encounter.
+f5749532-3295-ad01-48aa-eb6c4531d139,WEST_S-2e8bad,2021-11-01,Outpatient visit for general evaluation.
+f5749532-3295-ad01-493d-dffc15d5dae5,WEST_S-2e8bad,2021-11-08,Follow-up visit regarding loss of teeth. No new medications prescribed at this time.
+f5749532-3295-ad01-4142-7c51d7bba5be,WEST_S-2e8bad,2021-11-22,Presenting complaint: loss of teeth.
+f5749532-3295-ad01-61e6-c7911e74323d,WEST_S-2e8bad,2022-08-06,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] during this encounter."
+f5749532-3295-ad01-1f5f-89549394d085,WEST_S-2e8bad,2022-09-12,"Routine wellness visit, no acute complaints voiced at check-in."
+f5749532-3295-ad01-8323-452805a161ec,WEST_S-2e8bad,2022-09-19,Ambulatory visit for general evaluation.
+f5749532-3295-ad01-a568-149b495f8778,WEST_S-2e8bad,2023-08-14,Patient seen for a scheduled outpatient encounter.
+f5749532-3295-ad01-6cbd-ec9547d6551c,WEST_S-2e8bad,2023-09-18,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Stress."
+f5749532-3295-ad01-b7a2-ddd897c9e7da,WEST_S-2e8bad,2024-09-23,Clinical impression: gum inflammation. Social history noted: Medication review due and Part-time employment.
+f5749532-3295-ad01-f7b3-590b37932e3b,WEST_S-2e8bad,2024-10-07,Presenting complaint: gingivitis. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+f5749532-3295-ad01-8285-7d02efa5284b,WEST_S-2e8bad,2025-09-29,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due and Full-time employment. Medication list unchanged.
+f5749532-3295-ad01-8601-92ba8138d033,WEST_S-2e8bad,2025-10-13,"Routine ambulatory visit, no acute complaints voiced at check-in. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel."
+37549f60-b5a3-69cd-134f-352b28dfcfa1,WEST_S-41bc86,1999-07-19,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Received higher education, Transport problem, and Victim of intimate partner abuse. No new medications prescribed at this time."
+37549f60-b5a3-69cd-4e2f-95a457419b8d,WEST_S-41bc86,2000-07-24,Wellness visit for general evaluation. Care-coordination note: Lack of access to transportation.
+37549f60-b5a3-69cd-1f2b-5b0e1daa6e75,WEST_S-41bc86,2005-06-05,Follow-up visit regarding contact dermatitis. Plan: initiate Hydrocortisone 10 MG/ML Topical Cream.
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,2005-06-18,Seen in clinic for allergic disposition. Plan: initiate Fexofenadine hydrochloride 60 MG Oral Tablet and NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Patient reports a known allergy to Allergic disposition.
+37549f60-b5a3-69cd-3713-58026f28b858,WEST_S-41bc86,2006-08-07,Wellness visit for general evaluation. Social history noted: Full-time employment.
+37549f60-b5a3-69cd-3f70-3e071a481b7f,WEST_S-41bc86,2012-08-13,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+37549f60-b5a3-69cd-2d72-8965f27ddcc9,WEST_S-41bc86,2013-02-26,Seen in clinic for tubal pregnancy. New findings on exam include past pregnancy history of miscarriage.
+37549f60-b5a3-69cd-1bd9-1134287ee64f,WEST_S-41bc86,2015-08-17,Clinical impression: prediabetes and a low blood count. Care-coordination note: Limited social contact and Reports of violence in the environment.
+37549f60-b5a3-69cd-472b-bbfa6ccfe9f8,WEST_S-41bc86,2016-03-06,"Routine outpatient visit, no acute complaints voiced at check-in. Started on 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection."
+37549f60-b5a3-69cd-ad4a-2091412653c2,WEST_S-41bc86,2016-12-05,Patient continues to be followed for gum inflammation. Social history noted: Unemployed and Social isolation.
+37549f60-b5a3-69cd-f0d0-8b874531a764,WEST_S-41bc86,2016-12-12,Presenting complaint: viral sinusitis. New findings on exam include viral sinusitis. No new medications prescribed at this time.
+37549f60-b5a3-69cd-6f05-913e40a20748,WEST_S-41bc86,2016-12-19,Follow-up visit regarding gum inflammation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+37549f60-b5a3-69cd-4ea5-4f85bef1e645,WEST_S-41bc86,2017-03-01,"Routine outpatient visit, no acute complaints voiced at check-in. Medications prescribed today: 1 ML medroxyprogesterone acetate 150 MG/ML Injection."
+37549f60-b5a3-69cd-8b07-510c222fe7c5,WEST_S-41bc86,2018-02-24,Outpatient visit for general evaluation. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] during this encounter.
+37549f60-b5a3-69cd-3665-0a9c986774be,WEST_S-41bc86,2018-03-26,"Routine outpatient visit, no acute complaints voiced at check-in. Medication list unchanged."
+37549f60-b5a3-69cd-6c13-767fd9c9e5ad,WEST_S-41bc86,2018-08-20,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due, Full-time employment, and Stress."
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,2019-02-19,Outpatient visit for general evaluation. Started on {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day].
+37549f60-b5a3-69cd-a515-63877cb9e999,WEST_S-41bc86,2019-04-22,Patient was evaluated for acute viral pharyngitis. Diagnosed with a sore throat at this visit. Medication list unchanged.
+37549f60-b5a3-69cd-a580-8fb7eeb38c45,WEST_S-41bc86,2020-02-14,"Routine outpatient visit, no acute complaints voiced at check-in. Medications prescribed today: 1 ML medroxyprogesterone acetate 150 MG/ML Injection."
+37549f60-b5a3-69cd-ea6a-57bed1c3fe64,WEST_S-41bc86,2021-02-08,Patient seen for a scheduled outpatient encounter. Started on levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena].
+37549f60-b5a3-69cd-c9a7-584d358bfd15,WEST_S-41bc86,2021-02-12,Patient seen for a scheduled outpatient encounter. No new medications prescribed at this time.
+37549f60-b5a3-69cd-60b7-dfbf3fae57f3,WEST_S-41bc86,2021-05-31,Wellness visit for general evaluation.
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,2022-02-07,Patient seen for a scheduled outpatient encounter. Medications prescribed today: {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day].
+37549f60-b5a3-69cd-4d4e-7437d3cf41eb,WEST_S-41bc86,2022-03-28,Outpatient visit for general evaluation.
+37549f60-b5a3-69cd-746c-025c76449e91,WEST_S-41bc86,2023-06-05,Clinical impression: gingivitis. Social history noted: Medication review due. No new medications prescribed at this time.
+37549f60-b5a3-69cd-af28-26d4f3ff0312,WEST_S-41bc86,2023-06-19,Patient reports symptoms consistent with gingivitis. Medication list unchanged.
+37549f60-b5a3-69cd-914b-f940a59de94c,WEST_S-41bc86,2024-01-28,Outpatient visit for general evaluation. Plan: initiate {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique].
+37549f60-b5a3-69cd-ae79-c9a9fc0a286b,WEST_S-41bc86,2025-06-09,Diagnosed with significant weight gain at this visit. Social history noted: Part-time employment and Victim of intimate partner abuse.
+37549f60-b5a3-69cd-5871-347b884fd7e4,WEST_S-41bc86,2025-10-05,Patient reports symptoms consistent with a sore throat. Clinical impression: acute viral pharyngitis.
+37549f60-b5a3-69cd-cae0-419093807284,WEST_S-41bc86,2026-01-17,Patient seen for a scheduled outpatient encounter. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] during this encounter.
+37549f60-b5a3-69cd-3780-d92dcfc4ba38,WEST_S-41bc86,2026-03-30,"Routine outpatient visit, no acute complaints voiced at check-in."
+3c0e60c4-176e-2c4c-056b-08216c7c29b6,WEST_S-3263d3,1973-11-08,Patient seen for a scheduled wellness encounter.
+3c0e60c4-176e-2c4c-2894-d8ac1e090dd0,WEST_S-3263d3,1982-12-30,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Educated to high school level."
+3c0e60c4-176e-2c4c-0c8f-7f0a51c7d0c3,WEST_S-3263d3,1984-01-05,Wellness visit for general evaluation. Care-coordination note: Social isolation.
+3c0e60c4-176e-2c4c-1dcb-16fb8f38bd6a,WEST_S-3263d3,1997-08-25,Patient reports symptoms consistent with ongoing pain. Clinical impression: chronic pain.
+3c0e60c4-176e-2c4c-40c5-850ce1f89762,WEST_S-3263d3,2004-11-11,Patient seen for a scheduled wellness encounter. Care-coordination note: Limited social contact.
+3c0e60c4-176e-2c4c-349f-d1d329fb6404,WEST_S-3263d3,2008-11-20,Patient continues to be followed for hyperlipidemia and significant weight gain. No new medications prescribed at this time.
+3c0e60c4-176e-2c4c-23e2-149988895a02,WEST_S-3263d3,2012-11-29,Wellness visit for general evaluation. Care-coordination note: Full-time employment.
+3c0e60c4-176e-2c4c-6448-35f83f99d1b0,WEST_S-3263d3,2016-11-17,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Unhealthy alcohol drinking behavior. No new medications prescribed at this time.
+3c0e60c4-176e-2c4c-bfbb-69aeee1d0547,WEST_S-3263d3,2017-11-23,Wellness visit for general evaluation. Care-coordination note: Stress. Medication list unchanged.
+3c0e60c4-176e-2c4c-2947-dc66031f66d2,WEST_S-3263d3,2018-11-29,Patient seen for a scheduled wellness encounter. Social history noted: Part-time employment and Unhealthy alcohol drinking behavior.
+3c0e60c4-176e-2c4c-b67d-c85805ad1c23,WEST_S-3263d3,2019-12-05,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,2020-12-10,Clinical impression: high blood pressure and gingivitis. Care-coordination note: Reports of violence in the environment. Plan: initiate lisinopril 10 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,2021-11-16,Presenting complaint: laceration - injury. Diagnosed with laceration - injury and laceration of forearm at this visit. Patient given Ibuprofen 200 MG Oral Tablet during this encounter.
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,2021-12-16,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due, Full-time employment, and Limited social contact. Started on Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,2022-12-22,"Assessment: severe anxiety with panic features. Care-coordination note: Stress. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,2023-12-28,"New findings on exam include coronary artery disease. Social history noted: Medication review due. Started on Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, amLODIPine 2.5 MG Oral Tablet, Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, and Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray."
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,2025-01-02,"Wellness visit for general evaluation. Care-coordination note: Not in labor force. Started on Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,2026-01-08,"Wellness visit for general evaluation. Social history noted: Medication review due, Full-time employment, Limited social contact, and Stress. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet."
+f6745f8a-8107-443e-96a4-c3109911c436,WEST_S-64e1c9,1955-12-04,Presenting complaint: perennial allergic rhinitis with seasonal variation. Plan: initiate diphenhydrAMINE Hydrochloride 25 MG Oral Tablet.
+f6745f8a-8107-443e-2249-0b4b49af0630,WEST_S-64e1c9,1955-12-11,Presenting complaint: allergic disposition. Medication list unchanged. Allergy history notable for Sulfamethoxazole / Trimethoprim.
+f6745f8a-8107-443e-5b8e-44e3b9793542,WEST_S-64e1c9,1971-07-06,Wellness visit for general evaluation. Care-coordination note: Received higher education.
+f6745f8a-8107-443e-b55f-4877d3e97b47,WEST_S-64e1c9,1990-07-31,New findings on exam include borderline blood sugar.
+f6745f8a-8107-443e-cfbb-51379f5f4a07,WEST_S-64e1c9,1990-10-02,Diagnosed with anemia at this visit. Medication list unchanged.
+f6745f8a-8107-443e-402e-d236ef71aa79,WEST_S-64e1c9,1990-10-23,Patient was evaluated for a low blood count. Started on Vitamin B12 5 MG/ML Injectable Solution.
+f6745f8a-8107-443e-61ef-3c986a64b965,WEST_S-64e1c9,1995-05-23,Patient continues to be followed for obesity (BMI 30+).
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,1999-12-31,Follow-up visit regarding localized  primary osteoarthritis of the hand. Assessment: localized  primary osteoarthritis of the hand. Plan: initiate Naproxen sodium 220 MG Oral Tablet.
+f6745f8a-8107-443e-7a1d-858797793b5a,WEST_S-64e1c9,2014-02-06,Follow-up visit regarding ongoing pain. Clinical impression: chronic pain and chronic low back pain. Medication list unchanged.
+f6745f8a-8107-443e-e78d-3fe6ad1ed010,WEST_S-64e1c9,2014-07-15,New findings on exam include hyperlipidemia. No new medications prescribed at this time.
+f6745f8a-8107-443e-cbc1-9f942a0dee50,WEST_S-64e1c9,2014-08-05,Patient reports symptoms consistent with hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+f6745f8a-8107-443e-8d85-de6a5a21b6bf,WEST_S-64e1c9,2016-07-26,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment and Stress."
+f6745f8a-8107-443e-52bc-16a1d5b3f61e,WEST_S-64e1c9,2016-08-16,Follow-up visit regarding hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+f6745f8a-8107-443e-d52c-4d62d23fce8e,WEST_S-64e1c9,2017-08-01,Patient continues to be followed for gum inflammation. Care-coordination note: Medication review due and Part-time employment.
+f6745f8a-8107-443e-4155-4c198f5b983f,WEST_S-64e1c9,2017-08-15,Patient reports symptoms consistent with gingivitis. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+f6745f8a-8107-443e-dcf2-5f70e2a2369e,WEST_S-64e1c9,2017-08-16,Follow-up visit regarding hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+f6745f8a-8107-443e-addf-accad549d9df,WEST_S-64e1c9,2018-05-19,"Routine ambulatory visit, no acute complaints voiced at check-in."
+f6745f8a-8107-443e-88cb-23505c5e6d38,WEST_S-64e1c9,2018-08-07,"Wellness visit for general evaluation. Social history noted: Full-time employment, Social isolation, and Stress."
+f6745f8a-8107-443e-c8f2-de5663c4d7ca,WEST_S-64e1c9,2018-08-16,Patient reports symptoms consistent with hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+f6745f8a-8107-443e-7681-ae7f4965585e,WEST_S-64e1c9,2019-08-13,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Limited social contact. Medication list unchanged."
+f6745f8a-8107-443e-a26f-34eef06e073a,WEST_S-64e1c9,2019-08-16,Patient reports symptoms consistent with hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+f6745f8a-8107-443e-d096-9242a6171347,WEST_S-64e1c9,2019-08-20,Follow-up visit regarding a middle-ear infection. Patient continues to be followed for a middle-ear infection. Plan: initiate Amoxicillin 250 MG Oral Capsule.
+f6745f8a-8107-443e-655e-fb9dca4b48ba,WEST_S-64e1c9,2020-08-18,Wellness visit for general evaluation. Social history noted: Medication review due.
+f6745f8a-8107-443e-97e8-bc81256b6e0b,WEST_S-64e1c9,2020-08-25,Patient reports symptoms consistent with hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+f6745f8a-8107-443e-86e9-fa6c0f7bd099,WEST_S-64e1c9,2020-09-01,Patient seen for a scheduled ambulatory encounter.
+f6745f8a-8107-443e-bfc8-de6f5afa5132,WEST_S-64e1c9,2021-05-18,"Routine outpatient visit, no acute complaints voiced at check-in."
+f6745f8a-8107-443e-0e96-745168bb2626,WEST_S-64e1c9,2021-06-15,"Routine outpatient visit, no acute complaints voiced at check-in."
+f6745f8a-8107-443e-a24d-daf845d5b210,WEST_S-64e1c9,2021-06-29,Urgentcare visit for general evaluation.
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,2021-07-06,Patient reports symptoms consistent with acute bronchitis. New findings on exam include acute bronchitis. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+f6745f8a-8107-443e-fc1d-8ead3df1f308,WEST_S-64e1c9,2021-07-13,Assessment: fractured dental filling.
+f6745f8a-8107-443e-a475-020a8d299de5,WEST_S-64e1c9,2021-08-24,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Not in labor force and Stress."
+f6745f8a-8107-443e-45e5-8e9615f97844,WEST_S-64e1c9,2021-08-25,Patient reports symptoms consistent with hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,2022-01-23,Presenting complaint: acute bronchitis. Assessment: acute bronchitis. Plan: initiate Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution.
+f6745f8a-8107-443e-fd4a-52273d70dade,WEST_S-64e1c9,2022-02-01,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Full-time employment. Medication list unchanged."
+f6745f8a-8107-443e-4e0c-6bc5a3b27d46,WEST_S-64e1c9,2022-08-30,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due and Unemployed."
+f6745f8a-8107-443e-fe7a-32b9fd330626,WEST_S-64e1c9,2022-09-06,Follow-up visit regarding hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+f6745f8a-8107-443e-6189-d722408bf771,WEST_S-64e1c9,2023-05-19,"Routine ambulatory visit, no acute complaints voiced at check-in."
+f6745f8a-8107-443e-a0e9-70e3c110808b,WEST_S-64e1c9,2023-09-05,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Full-time employment, and Victim of intimate partner abuse."
+f6745f8a-8107-443e-4d0e-2bb8614839ae,WEST_S-64e1c9,2023-09-06,Presenting complaint: hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+f6745f8a-8107-443e-8d3e-a20b6338451d,WEST_S-64e1c9,2024-01-23,Patient seen for a scheduled urgentcare encounter.
+f6745f8a-8107-443e-71b2-4f3109f88f52,WEST_S-64e1c9,2024-01-23,Home visit for general evaluation. Medication list unchanged.
+f6745f8a-8107-443e-dea6-cde6b6fe831c,WEST_S-64e1c9,2024-01-24,Patient seen for a scheduled home encounter.
+f6745f8a-8107-443e-e04d-0b34172e87e0,WEST_S-64e1c9,2024-01-25,Home visit for general evaluation.
+f6745f8a-8107-443e-ba1a-4b9323210bcb,WEST_S-64e1c9,2024-01-26,"Routine home visit, no acute complaints voiced at check-in."
+f6745f8a-8107-443e-fd54-0ffc94a78474,WEST_S-64e1c9,2024-01-27,Patient seen for a scheduled home encounter.
+f6745f8a-8107-443e-0917-eb156ed458b7,WEST_S-64e1c9,2024-01-28,Patient seen for a scheduled home encounter.
+f6745f8a-8107-443e-dab7-edfd666a042a,WEST_S-64e1c9,2024-07-04,Presenting complaint: a sinus infection. Assessment: a sinus infection.
+f6745f8a-8107-443e-eb62-d5141b7335a3,WEST_S-64e1c9,2024-09-10,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due and Limited social contact. Medication list unchanged."
+f6745f8a-8107-443e-a06a-e08bf3292dd8,WEST_S-64e1c9,2024-09-17,Patient presents today with hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+f6745f8a-8107-443e-ec75-7f98d40c4e75,WEST_S-64e1c9,2025-09-16,Assessment: gingivitis. Care-coordination note: Stress.
+f6745f8a-8107-443e-1b33-f84b54b63091,WEST_S-64e1c9,2025-09-17,Seen in clinic for hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+f6745f8a-8107-443e-1187-788f2ff640da,WEST_S-64e1c9,2025-09-30,Patient was evaluated for gingivitis. New findings on exam include gum disease.
+0f3d04a2-f42e-1429-360f-90a0c51eec30,WEST_S-a95d7a,2020-03-26,Patient seen for a scheduled urgentcare encounter. Medication list unchanged.
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,2023-12-14,"Patient seen for a scheduled urgentcare encounter. Social history noted: Full-time employment, Stress, and Victim of intimate partner abuse. Plan: initiate aspirin 81 MG Oral Capsule [Vazalore] and Alendronic acid 10 MG Oral Tablet."
+ad48e669-959c-b6f8-71a5-35835fc049c9,WEST_S-40cf7b,2016-12-17,New findings on exam include gingivitis. Social history noted: Medication review due and Risk activity involvement.
+ad48e669-959c-b6f8-1989-8ad97fff24ce,WEST_S-40cf7b,2017-12-23,"Routine wellness visit, no acute complaints voiced at check-in."
+ad48e669-959c-b6f8-f8bc-02b113e0f67c,WEST_S-40cf7b,2018-12-29,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+ad48e669-959c-b6f8-4ffc-e388b121d17f,WEST_S-40cf7b,2020-01-04,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Received higher education and Full-time employment."
+ad48e669-959c-b6f8-4f40-c66c8ee8f0a7,WEST_S-40cf7b,2021-01-09,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+ad48e669-959c-b6f8-172b-fee30eb0fcb9,WEST_S-40cf7b,2024-01-13,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment and Stress.
+f870c432-0887-125e-9811-d7ebf19aaac2,WEST_S-40a7b4,1987-10-14,Wellness visit for general evaluation. Care-coordination note: Housing unsatisfactory and Only received primary school education.
+f870c432-0887-125e-a238-4b94934775c3,WEST_S-40a7b4,1988-10-19,Patient continues to be followed for prediabetes. No new medications prescribed at this time.
+f870c432-0887-125e-df49-3b5b9f441b70,WEST_S-40a7b4,1988-12-21,Patient continues to be followed for a low blood count.
+f870c432-0887-125e-828d-fc27d192607b,WEST_S-40a7b4,1988-12-28,Patient reports symptoms consistent with anemia. Patient given Vitamin B12 5 MG/ML Injectable Solution during this encounter.
+f870c432-0887-125e-62a8-a758fa4cc4c9,WEST_S-40a7b4,2009-08-10,Seen in clinic for sleep disorder. Patient continues to be followed for sleep disorder. Medication list unchanged.
+f870c432-0887-125e-46ec-a77f360112e2,WEST_S-40a7b4,2009-08-26,Diagnosed with obesity (BMI 30+) at this visit. Social history noted: Medication review due.
+f870c432-0887-125e-b7aa-5db8b8675b44,WEST_S-40a7b4,2009-09-09,Patient reports symptoms consistent with sleep disorder. New findings on exam include sleep apnea. Medication list unchanged.
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,2013-09-04,"Assessment: coronary artery disease. Started on Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, and Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray."
+f870c432-0887-125e-f7a4-31e2f362ace5,WEST_S-40a7b4,2014-01-31,Patient was evaluated for ongoing pain. Assessment: ongoing pain and chronic low back pain.
+f870c432-0887-125e-3ef6-affe7bf61440,WEST_S-40a7b4,2015-09-09,Patient seen for a scheduled wellness encounter. Care-coordination note: Not in labor force and Stress.
+f870c432-0887-125e-9363-0898ef2c1f06,WEST_S-40a7b4,2017-09-13,Patient seen for a scheduled wellness encounter. Social history noted: Part-time employment. No new medications prescribed at this time.
+f870c432-0887-125e-fd20-3c261f3a8696,WEST_S-40a7b4,2019-05-07,Patient was evaluated for acute viral pharyngitis. Assessment: acute viral pharyngitis. No new medications prescribed at this time.
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,2019-07-17,Patient reports symptoms consistent with a sinus infection. Diagnosed with a sinus infection at this visit. Medications prescribed today: Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+f870c432-0887-125e-7693-426296e98252,WEST_S-40a7b4,2019-08-21,Wellness visit for general evaluation. Care-coordination note: Full-time employment and Victim of intimate partner abuse.
+f870c432-0887-125e-dd9b-15c5b57a67b9,WEST_S-40a7b4,2019-09-04,Clinical impression: gingival disease. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+f870c432-0887-125e-79b7-e73ee42dee32,WEST_S-40a7b4,2020-08-26,Patient continues to be followed for hyperlipidemia. Social history noted: Medication review due.
+f870c432-0887-125e-d46b-f29d77d6065b,WEST_S-40a7b4,2020-09-16,Presenting complaint: hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+f870c432-0887-125e-3734-e933f254283e,WEST_S-40a7b4,2021-03-17,"Routine outpatient visit, no acute complaints voiced at check-in."
+f870c432-0887-125e-ef26-4d9ddcd2f298,WEST_S-40a7b4,2021-04-07,Outpatient visit for general evaluation.
+f870c432-0887-125e-62fc-b3466dc0faa7,WEST_S-40a7b4,2021-08-25,Patient seen for a scheduled outpatient encounter. Care-coordination note: Has a criminal record and Misuses drugs.
+f870c432-0887-125e-457d-b6d5d6dc52af,WEST_S-40a7b4,2021-09-01,Patient seen for a scheduled wellness encounter. Medication list unchanged.
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,2021-09-08,Patient presents today with a sinus infection. Clinical impression: viral sinusitis. Started on Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+f870c432-0887-125e-25d9-4df1bdc8ff70,WEST_S-40a7b4,2021-09-16,Follow-up visit regarding hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+f870c432-0887-125e-f6d4-e11cebe52b1c,WEST_S-40a7b4,2022-09-07,Wellness visit for general evaluation. Social history noted: Stress. Medication list unchanged.
+f870c432-0887-125e-6431-dd81bdb5beb0,WEST_S-40a7b4,2022-09-16,Patient presents today with hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+f870c432-0887-125e-f3f8-a2d5a0da0e58,WEST_S-40a7b4,2023-01-31,Patient presents today with a sore throat. Patient continues to be followed for acute viral pharyngitis.
+f870c432-0887-125e-2b3e-86611b389026,WEST_S-40a7b4,2023-09-13,Diagnosed with gum inflammation at this visit.
+f870c432-0887-125e-267a-7a2c01670a07,WEST_S-40a7b4,2023-09-16,Patient presents today with hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+f870c432-0887-125e-8c27-427465be86e4,WEST_S-40a7b4,2023-09-27,Patient presents today with gum inflammation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+f870c432-0887-125e-63f1-7bf0366caece,WEST_S-40a7b4,2024-09-18,Diagnosed with gum inflammation at this visit. Social history noted: Victim of intimate partner abuse. No new medications prescribed at this time.
+f870c432-0887-125e-4f0a-c9d6f0fe487d,WEST_S-40a7b4,2024-09-25,Patient reports symptoms consistent with hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+f870c432-0887-125e-1ec8-5770663fb1c4,WEST_S-40a7b4,2024-10-02,Patient presents today with gingivitis. Diagnosed with gingival disease at this visit.
+f870c432-0887-125e-2acc-c9c0584b42bd,WEST_S-40a7b4,2025-09-24,Assessment: gingivitis. Care-coordination note: Stress.
+f870c432-0887-125e-d547-16d4ec3a8843,WEST_S-40a7b4,2025-09-25,Presenting complaint: hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+f870c432-0887-125e-8223-d5ebf72a3ac2,WEST_S-40a7b4,2025-10-08,Presenting complaint: gum inflammation.
+4be6b5fb-2a19-943a-fd7b-f182ec71fdfb,WEST_S-c2c0e8,1989-04-11,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Received higher education. Medication list unchanged."
+4be6b5fb-2a19-943a-27ae-63c4bc9f0615,WEST_S-c2c0e8,1993-04-20,Clinical impression: borderline blood sugar.
+4be6b5fb-2a19-943a-f306-80ae58168c70,WEST_S-c2c0e8,1996-04-23,Diagnosed with anemia at this visit.
+4be6b5fb-2a19-943a-edb8-23d7b4f7331b,WEST_S-c2c0e8,2002-04-30,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due. No new medications prescribed at this time.
+4be6b5fb-2a19-943a-4d00-62295456e582,WEST_S-c2c0e8,2008-02-29,Patient presents today with sinusitis. Assessment: chronic sinusitis. Medication list unchanged.
+4be6b5fb-2a19-943a-ba75-4c2b6a2f5347,WEST_S-c2c0e8,2008-05-06,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment."
+4be6b5fb-2a19-943a-4278-e099e73b15d9,WEST_S-c2c0e8,2015-03-03,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Stress."
+4be6b5fb-2a19-943a-8730-bee21a2213fa,WEST_S-c2c0e8,2017-03-07,Clinical impression: gum inflammation.
+4be6b5fb-2a19-943a-9970-f8fcede2d4fb,WEST_S-c2c0e8,2017-03-21,Follow-up visit regarding gingivitis. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+4be6b5fb-2a19-943a-335d-39af66b944fc,WEST_S-c2c0e8,2018-02-18,Patient reports symptoms consistent with a chest cold. Diagnosed with acute bronchitis at this visit. Plan: initiate Acetaminophen 325 MG Oral Tablet.
+4be6b5fb-2a19-943a-102f-733b295d930c,WEST_S-c2c0e8,2018-02-27,New findings on exam include gingivitis. Social history noted: Limited social contact.
+4be6b5fb-2a19-943a-6dae-6603d173aec5,WEST_S-c2c0e8,2018-03-13,Seen in clinic for gum inflammation. New findings on exam include infection of tooth.
+4be6b5fb-2a19-943a-db1e-8b2334b3c388,WEST_S-c2c0e8,2018-03-19,Patient was evaluated for alveolitis of jaw. Patient continues to be followed for alveolitis of jaw. Medication list unchanged.
+4be6b5fb-2a19-943a-9144-2ab048490ae9,WEST_S-c2c0e8,2018-03-20,Patient was evaluated for loss of teeth. Assessment: loss of teeth and torus palatinus.
+4be6b5fb-2a19-943a-088b-d34bb22bf353,WEST_S-c2c0e8,2018-04-03,Patient presents today with torus palatinus.
+4be6b5fb-2a19-943a-a87d-007f2a0c584d,WEST_S-c2c0e8,2018-04-13,Presenting complaint: loss of teeth.
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,2018-12-18,Presenting complaint: streptococcal sore throat. Clinical impression: streptococcal sore throat. Medications prescribed today: Penicillin V Potassium 500 MG Oral Tablet.
+4be6b5fb-2a19-943a-4f16-9cef724ab4b3,WEST_S-c2c0e8,2019-03-12,Assessment: gingivitis. Care-coordination note: Medication review due and Part-time employment.
+4be6b5fb-2a19-943a-4018-d9cfcbb22f1d,WEST_S-c2c0e8,2019-03-26,Seen in clinic for gingivitis. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+4be6b5fb-2a19-943a-2ace-532690c135e2,WEST_S-c2c0e8,2020-08-30,Seen in clinic for a sinus infection. Clinical impression: a sinus infection.
+4be6b5fb-2a19-943a-a993-8db423631e35,WEST_S-c2c0e8,2020-11-20,Seen in clinic for a sore throat. New findings on exam include a sore throat.
+4be6b5fb-2a19-943a-1ecf-b07c5b4bee3b,WEST_S-c2c0e8,2021-02-16,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment."
+4be6b5fb-2a19-943a-80f1-fa46510fc0b2,WEST_S-c2c0e8,2021-02-23,Ambulatory visit for general evaluation.
+4be6b5fb-2a19-943a-fdaf-9df845cf3d7f,WEST_S-c2c0e8,2022-02-22,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Limited social contact, and Stress. No new medications prescribed at this time."
+4be6b5fb-2a19-943a-ce8b-d49f7da11e01,WEST_S-c2c0e8,2022-03-08,Patient seen for a scheduled ambulatory encounter.
+4be6b5fb-2a19-943a-af08-99b19826d7e9,WEST_S-c2c0e8,2022-04-26,Seen in clinic for a sore throat. Clinical impression: a sore throat.
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,2023-01-27,Patient was evaluated for sprain (morphologic abnormality). Diagnosed with sprain (morphologic abnormality) and sprain of ankle at this visit. Patient given Naproxen sodium 220 MG Oral Tablet during this encounter.
+4be6b5fb-2a19-943a-06e6-0fd51ae44f96,WEST_S-c2c0e8,2023-02-28,"Routine wellness visit, no acute complaints voiced at check-in. Medication list unchanged."
+4be6b5fb-2a19-943a-48ed-3fce02959351,WEST_S-c2c0e8,2024-03-05,Diagnosed with panic attacks and gum inflammation at this visit. Care-coordination note: Medication review due.
+4be6b5fb-2a19-943a-a463-25969b45a17d,WEST_S-c2c0e8,2024-03-19,Patient presents today with gingivitis.
+4be6b5fb-2a19-943a-e08c-d2875ef7d901,WEST_S-c2c0e8,2025-03-11,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Not in labor force, and Stress. Medication list unchanged."
+4be6b5fb-2a19-943a-68d2-d114893fa8bf,WEST_S-c2c0e8,2025-07-01,Seen in clinic for acute bacterial sinusitis. Assessment: acute bacterial sinusitis.
+4be6b5fb-2a19-943a-a19b-c02467c2e500,WEST_S-c2c0e8,2025-08-09,Follow-up visit regarding acute bacterial sinusitis.
+4be6b5fb-2a19-943a-6e79-26fffd37b2b6,WEST_S-c2c0e8,2025-11-22,Presenting complaint: acute bacterial sinusitis.
+4be6b5fb-2a19-943a-9eba-fb3a2ab9ee39,WEST_S-c2c0e8,2025-12-06,Patient was evaluated for acute bacterial sinusitis.
+4be6b5fb-2a19-943a-90c8-51833a1025cb,WEST_S-c2c0e8,2025-12-27,Patient reports symptoms consistent with acute bacterial sinusitis.
+4be6b5fb-2a19-943a-bb54-08be03da49f1,WEST_S-c2c0e8,2026-02-23,Patient seen for a scheduled ambulatory encounter.
+4be6b5fb-2a19-943a-7c1d-06f4a1fdf354,WEST_S-c2c0e8,2026-03-07,Presenting complaint: acute bacterial sinusitis. Medication list unchanged.
+4be6b5fb-2a19-943a-5f5e-0880dfe43e74,WEST_S-c2c0e8,2026-03-17,Wellness visit for general evaluation. Social history noted: Full-time employment and Victim of intimate partner abuse.
+4be6b5fb-2a19-943a-cddd-98f533f3202f,WEST_S-c2c0e8,2026-03-21,Presenting complaint: acute bacterial sinusitis.
+4be6b5fb-2a19-943a-7e3d-90de8e621ed5,WEST_S-c2c0e8,2026-04-11,Seen in clinic for loss of teeth. No new medications prescribed at this time.
+4be6b5fb-2a19-943a-de80-dea2da14ace9,WEST_S-c2c0e8,2026-04-25,Patient was evaluated for loss of teeth.
+4be6b5fb-2a19-943a-92fb-593c52f01924,WEST_S-c2c0e8,2026-04-25,Patient was evaluated for acute bacterial sinusitis.
+4be6b5fb-2a19-943a-34de-9713a87e2085,WEST_S-c2c0e8,2026-05-02,Presenting complaint: acute bacterial sinusitis.
+4be6b5fb-2a19-943a-e9c2-e4d66044907e,WEST_S-c2c0e8,2026-05-12,Urgentcare visit for general evaluation. Medication list unchanged.
+4be6b5fb-2a19-943a-84bd-d07216882458,WEST_S-c2c0e8,2026-05-19,Patient seen for a scheduled urgentcare encounter. Social history noted: Medication review due. No new medications prescribed at this time.
+4be6b5fb-2a19-943a-58be-d5d87d44ce34,WEST_S-c2c0e8,2026-05-26,Patient seen for a scheduled outpatient encounter.
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,2026-06-02,Presenting complaint: a chest cold. Clinical impression: acute bronchitis. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+4be6b5fb-2a19-943a-2985-e7955de888d0,WEST_S-c2c0e8,2026-06-09,Assessment: primary dental caries. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+4be6b5fb-2a19-943a-d599-cbc44812cad7,WEST_S-c2c0e8,2026-06-16,Follow-up visit regarding acute bacterial sinusitis.
+4be6b5fb-2a19-943a-a6ba-f19d05e781bf,WEST_S-c2c0e8,2026-06-23,New findings on exam include gum inflammation. Social history noted: Limited social contact.
+4be6b5fb-2a19-943a-6c77-eae28c19c692,WEST_S-c2c0e8,2026-07-07,Patient presents today with gum inflammation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+ba47a33b-ffb6-25b9-43b1-4589e4973f91,WEST_S-8b63da,2014-03-17,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+ba47a33b-ffb6-25b9-1605-a8bd001eed93,WEST_S-8b63da,2017-04-03,"Routine wellness visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+ba47a33b-ffb6-25b9-f3fa-ea6e809a0d93,WEST_S-8b63da,2018-04-09,"Assessment: gingivitis. Social history noted: Medication review due, Received higher education, Full-time employment, and Stress."
+ba47a33b-ffb6-25b9-7f12-cfc1920d9694,WEST_S-8b63da,2019-04-15,Wellness visit for general evaluation. Social history noted: Medication review due and Unemployed. No new medications prescribed at this time.
+ba47a33b-ffb6-25b9-b0c8-1a15645fa443,WEST_S-8b63da,2022-04-18,Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment and Stress.
+ba47a33b-ffb6-25b9-19c7-47eb12ea68f9,WEST_S-8b63da,2025-04-21,New findings on exam include gum inflammation. Care-coordination note: Full-time employment. Medication list unchanged.
+d309f605-948b-962f-26e5-b691d755a749,WEST_S-5116f1,1979-08-26,Patient seen for a scheduled wellness encounter. Social history noted: Received higher education. No new medications prescribed at this time.
+d309f605-948b-962f-430b-695b4f1e59b4,WEST_S-5116f1,1997-07-20,New findings on exam include obesity (BMI 30+). No new medications prescribed at this time.
+d309f605-948b-962f-22ab-02d08a386a33,WEST_S-5116f1,2000-08-06,Diagnosed with prediabetes at this visit.
+d309f605-948b-962f-a238-6cc733821be2,WEST_S-5116f1,2004-09-12,Clinical impression: a low blood count.
+d309f605-948b-962f-69d1-702a8fdd184d,WEST_S-5116f1,2008-10-05,New findings on exam include metabolic syndrome X.
+d309f605-948b-962f-7b26-abd4ab9442f3,WEST_S-5116f1,2014-11-09,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Limited social contact. Medication list unchanged."
+d309f605-948b-962f-aef2-ab00c90a3c80,WEST_S-5116f1,2015-11-15,Wellness visit for general evaluation. Social history noted: Medication review due and Stress.
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,2016-11-20,Diagnosed with gum inflammation at this visit. Care-coordination note: Full-time employment. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+d309f605-948b-962f-b697-67f8d7e2c62f,WEST_S-5116f1,2017-11-26,Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,2018-12-02,Diagnosed with gingivitis at this visit. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+d309f605-948b-962f-fdeb-fc421f7e8adf,WEST_S-5116f1,2019-12-08,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Part-time employment, Social isolation, Stress, and Reports of violence in the environment. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet."
+d309f605-948b-962f-e455-7698bb43f126,WEST_S-5116f1,2020-12-13,Patient seen for a scheduled wellness encounter. Care-coordination note: Unemployed. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+d309f605-948b-962f-ee7e-65b380f22273,WEST_S-5116f1,2021-12-19,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment and Stress. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet."
+d309f605-948b-962f-b739-cc8e762f090a,WEST_S-5116f1,2022-12-25,Patient seen for a scheduled wellness encounter. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,2023-12-31,Assessment: gum inflammation. Care-coordination note: Part-time employment and Limited social contact. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,2024-04-29,Patient was evaluated for laceration - injury. Patient continues to be followed for laceration - injury and laceration of thigh. Medications prescribed today: Ibuprofen 200 MG Oral Tablet.
+d309f605-948b-962f-0322-36df06ef3f81,WEST_S-5116f1,2025-01-05,Wellness visit for general evaluation. Care-coordination note: Medication review due. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,2026-01-11,Diagnosed with gum inflammation at this visit. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+2fb99851-6f31-04a6-4d28-9d8ae64514d4,WEST_S-956ee0,1967-01-11,Seen in clinic for childhood asthma.
+2fb99851-6f31-04a6-0268-e9f77ee0222f,WEST_S-956ee0,1980-07-02,Patient seen for a scheduled wellness encounter. Care-coordination note: Received higher education.
+2fb99851-6f31-04a6-195b-654ed0adf1a7,WEST_S-956ee0,1981-07-08,Clinical impression: reactive airway disease.
+2fb99851-6f31-04a6-4d82-e0de6deb91e4,WEST_S-956ee0,2002-11-06,Patient continues to be followed for obesity (BMI 30+).
+2fb99851-6f31-04a6-1db3-62dc1329694b,WEST_S-956ee0,2003-11-12,Clinical impression: borderline blood sugar. Medication list unchanged.
+2fb99851-6f31-04a6-84d3-cef01e27b250,WEST_S-956ee0,2004-11-17,Assessment: anemia.
+2fb99851-6f31-04a6-17ca-81e0949f3e51,WEST_S-956ee0,2012-05-09,Clinical impression: polyp of colon. Medication list unchanged.
+2fb99851-6f31-04a6-f1e5-b5e0300f5959,WEST_S-956ee0,2013-07-15,Patient reports symptoms consistent with polyp of colon. Clinical impression: recurrent rectal polyp.
+2fb99851-6f31-04a6-8ffc-b70d7783d61e,WEST_S-956ee0,2014-01-31,"Patient reports symptoms consistent with ongoing pain. New findings on exam include chronic pain, chronic low back pain, and chronic neck pain."
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,2016-01-20,"Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment, Limited social contact, and Stress. Patient given Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], and albuterol 0.83 MG/ML Inhalation Solution during this encounter."
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,2017-01-25,"Assessment: gum inflammation. Social history noted: Medication review due and Full-time employment. Patient given Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], and albuterol 0.83 MG/ML Inhalation Solution during this encounter."
+2fb99851-6f31-04a6-59fb-e7314435ea01,WEST_S-956ee0,2017-02-08,Patient was evaluated for gingivitis. Clinical impression: fractured dental filling. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,2018-01-31,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Social isolation, and Victim of intimate partner abuse. Medications prescribed today: Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], and albuterol 0.83 MG/ML Inhalation Solution."
+2fb99851-6f31-04a6-3737-e69ff0b35080,WEST_S-956ee0,2018-12-30,Patient presents today with reactive airway disease. No new medications prescribed at this time.
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,2019-02-06,"Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Part-time employment. Plan: initiate Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], and albuterol 0.83 MG/ML Inhalation Solution."
+2fb99851-6f31-04a6-f0ea-ad10d1035d81,WEST_S-956ee0,2019-02-20,Ambulatory visit for general evaluation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+2fb99851-6f31-04a6-6c34-51e2499c0960,WEST_S-956ee0,2019-12-14,Patient was evaluated for sinusitis. Assessment: sinusitis.
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,2020-02-12,"Patient seen for a scheduled wellness encounter. Care-coordination note: Social isolation. Plan: initiate Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], and albuterol 0.83 MG/ML Inhalation Solution."
+2fb99851-6f31-04a6-f87c-db91f57cb640,WEST_S-956ee0,2020-02-26,Ambulatory visit for general evaluation.
+2fb99851-6f31-04a6-a75d-f5733c6fcc13,WEST_S-956ee0,2020-12-19,Patient reports symptoms consistent with reactive airway disease.
+2fb99851-6f31-04a6-9350-eccafc81f222,WEST_S-956ee0,2020-12-20,Patient presents today with asthma. No new medications prescribed at this time.
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,2021-02-17,"Patient continues to be followed for essential hypertension and gum inflammation. Social history noted: Medication review due. Patient given Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], albuterol 0.83 MG/ML Inhalation Solution, and lisinopril 10 MG Oral Tablet during this encounter."
+2fb99851-6f31-04a6-1b48-49e45dc62843,WEST_S-956ee0,2021-03-03,Follow-up visit regarding gum inflammation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+2fb99851-6f31-04a6-f9c4-1b6d63d22c23,WEST_S-956ee0,2021-12-29,Patient was evaluated for aortic valve stenosis.
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,2022-02-23,"Assessment: metabolic syndrome X. Social history noted: Medication review due, Full-time employment, and Social isolation. Patient given Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], lisinopril 10 MG Oral Tablet, aspirin 81 MG Oral Capsule [Vazalore], and albuterol 0.83 MG/ML Inhalation Solution during this encounter."
+2fb99851-6f31-04a6-f664-b4e645110d9b,WEST_S-956ee0,2022-03-09,Assessment: primary dental caries.
+2fb99851-6f31-04a6-72dc-6290eb88d561,WEST_S-956ee0,2022-06-13,Patient presents today with asthma.
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,2023-03-01,"Wellness visit for general evaluation. Care-coordination note: Stress. Medications prescribed today: Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], lisinopril 10 MG Oral Tablet, aspirin 81 MG Oral Capsule [Vazalore], and albuterol 0.83 MG/ML Inhalation Solution."
+2fb99851-6f31-04a6-cbc8-701d027e3e39,WEST_S-956ee0,2023-12-05,Patient was evaluated for asthma.
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,2024-03-06,"Diagnosed with gingivitis at this visit. Care-coordination note: Medication review due and Limited social contact. Patient given Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], lisinopril 10 MG Oral Tablet, aspirin 81 MG Oral Capsule [Vazalore], and albuterol 0.83 MG/ML Inhalation Solution during this encounter."
+2fb99851-6f31-04a6-a164-4d4afd7fd165,WEST_S-956ee0,2024-03-20,Seen in clinic for gum inflammation.
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,2025-03-12,"Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. Plan: initiate Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], lisinopril 10 MG Oral Tablet, aspirin 81 MG Oral Capsule [Vazalore], and albuterol 0.83 MG/ML Inhalation Solution."
+2fb99851-6f31-04a6-8b95-3d8709bf97f8,WEST_S-956ee0,2025-05-28,Patient presents today with reactive airway disease. No new medications prescribed at this time.
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,2026-01-23,Seen in clinic for laceration - injury. Assessment: laceration - injury and facial laceration. Started on Acetaminophen 325 MG Oral Tablet.
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,2026-03-18,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Part-time employment and Stress. Patient given Acetaminophen 325 MG Oral Tablet [Tylenol], 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], lisinopril 10 MG Oral Tablet, aspirin 81 MG Oral Capsule [Vazalore], and albuterol 0.83 MG/ML Inhalation Solution during this encounter."
+72b1ca95-c4f0-269d-055d-703d19d1bc36,WEST_S-ec1bd7,2013-04-01,Wellness visit for general evaluation. Social history noted: Housing unsatisfactory and Received higher education. Medication list unchanged.
+72b1ca95-c4f0-269d-2cbd-2a52cd4581cf,WEST_S-ec1bd7,2014-04-07,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Social isolation."
+72b1ca95-c4f0-269d-9831-e98c6b102bf7,WEST_S-ec1bd7,2014-07-04,Presenting complaint: a chest cold.
+72b1ca95-c4f0-269d-194d-1716a49805cb,WEST_S-ec1bd7,2014-07-14,Patient seen for a scheduled outpatient encounter. Social history noted: Medication review due and Full-time employment.
+72b1ca95-c4f0-269d-98a1-9b4237924389,WEST_S-ec1bd7,2016-02-29,Follow-up visit regarding normal pregnancy. Assessment: normal pregnancy and a low blood count.
+72b1ca95-c4f0-269d-eb15-84232ac8b2b5,WEST_S-ec1bd7,2016-08-15,Seen in clinic for viral sinusitis. Assessment: a sinus infection. No new medications prescribed at this time.
+72b1ca95-c4f0-269d-2a21-fe5958dc07c9,WEST_S-ec1bd7,2016-09-12,Presenting complaint: normal pregnancy.
+72b1ca95-c4f0-269d-01b9-54ed61876d6c,WEST_S-ec1bd7,2016-10-24,Patient seen for a scheduled ambulatory encounter.
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,2016-12-18,Outpatient visit for general evaluation. Patient given {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] during this encounter.
+72b1ca95-c4f0-269d-ba08-f20e5f51a30d,WEST_S-ec1bd7,2017-04-10,Patient continues to be followed for prediabetes. Care-coordination note: Stress and Victim of intimate partner abuse. No new medications prescribed at this time.
+72b1ca95-c4f0-269d-14c4-39aff402c875,WEST_S-ec1bd7,2017-04-24,"Routine ambulatory visit, no acute complaints voiced at check-in. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel."
+72b1ca95-c4f0-269d-0ae7-904cdd678803,WEST_S-ec1bd7,2019-07-15,Presenting complaint: normal pregnancy. New findings on exam include normal pregnancy.
+72b1ca95-c4f0-269d-5576-a916ff1af9d3,WEST_S-ec1bd7,2019-08-12,Patient was evaluated for normal pregnancy.
+72b1ca95-c4f0-269d-d256-1623cdf99214,WEST_S-ec1bd7,2019-09-09,Seen in clinic for normal pregnancy. Medication list unchanged.
+72b1ca95-c4f0-269d-d925-292815595095,WEST_S-ec1bd7,2019-10-07,Presenting complaint: normal pregnancy.
+72b1ca95-c4f0-269d-aa96-4fc5d8c65a0e,WEST_S-ec1bd7,2019-11-04,Seen in clinic for normal pregnancy. Medication list unchanged.
+72b1ca95-c4f0-269d-fe6d-1f774f2b1432,WEST_S-ec1bd7,2019-11-29,Presenting complaint: a chest cold. New findings on exam include a chest cold. Medications prescribed today: Acetaminophen 325 MG Oral Tablet.
+72b1ca95-c4f0-269d-4b65-07082c715606,WEST_S-ec1bd7,2019-12-02,Presenting complaint: normal pregnancy. Medication list unchanged.
+72b1ca95-c4f0-269d-ad69-9d3ccea36c7b,WEST_S-ec1bd7,2019-12-09,New findings on exam include gingivitis. Care-coordination note: Medication review due.
+72b1ca95-c4f0-269d-d74b-799a945714bc,WEST_S-ec1bd7,2019-12-23,Patient was evaluated for gum inflammation. Clinical impression: gum disease and primary dental caries. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+72b1ca95-c4f0-269d-9cf0-b7c9f909a4e8,WEST_S-ec1bd7,2019-12-30,Presenting complaint: normal pregnancy.
+72b1ca95-c4f0-269d-64cf-c59711992dea,WEST_S-ec1bd7,2020-01-27,Patient was evaluated for normal pregnancy. Medication list unchanged.
+72b1ca95-c4f0-269d-2547-f42745728802,WEST_S-ec1bd7,2020-02-10,Follow-up visit regarding normal pregnancy.
+72b1ca95-c4f0-269d-57f2-259b6c5b6558,WEST_S-ec1bd7,2020-02-17,Patient reports symptoms consistent with normal pregnancy.
+72b1ca95-c4f0-269d-ea30-81be132d0b37,WEST_S-ec1bd7,2020-03-30,Ambulatory visit for general evaluation.
+72b1ca95-c4f0-269d-27a4-abe27df2de74,WEST_S-ec1bd7,2020-04-06,Patient seen for a scheduled outpatient encounter. Care-coordination note: Sterilization requested.
+72b1ca95-c4f0-269d-529d-9af15f72a57f,WEST_S-ec1bd7,2020-04-20,"Routine wellness visit, no acute complaints voiced at check-in."
+72b1ca95-c4f0-269d-6da4-ee52c093d983,WEST_S-ec1bd7,2020-04-27,Clinical impression: history of tubal ligation. No new medications prescribed at this time.
+72b1ca95-c4f0-269d-e625-a878c493343f,WEST_S-ec1bd7,2021-02-15,Outpatient visit for general evaluation.
+72b1ca95-c4f0-269d-4a53-b002c5161deb,WEST_S-ec1bd7,2021-03-15,Clinical impression: acute infective cystitis. No new medications prescribed at this time.
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,2021-04-04,Follow-up visit regarding acute infective cystitis. Medications prescribed today: nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule.
+72b1ca95-c4f0-269d-bbab-751a89fe43ac,WEST_S-ec1bd7,2023-04-24,Clinical impression: gingivitis. Care-coordination note: Not in labor force.
+72b1ca95-c4f0-269d-9eeb-53ccba3a6a19,WEST_S-ec1bd7,2023-05-08,Seen in clinic for gum inflammation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+72b1ca95-c4f0-269d-b1d6-fab8f8e07b0e,WEST_S-ec1bd7,2026-04-27,"Patient seen for a scheduled wellness encounter. Social history noted: Full-time employment, Social isolation, and Unhealthy alcohol drinking behavior."
+72b1ca95-c4f0-269d-5de3-b7369ab079f6,WEST_S-ec1bd7,2026-05-04,Patient was evaluated for viral sinusitis. Assessment: viral sinusitis. No new medications prescribed at this time.
+bca1691f-8839-1d66-ba0f-beb476038a1f,WEST_S-971cc7,2019-10-16,Patient presents today with alzheimer's disease.

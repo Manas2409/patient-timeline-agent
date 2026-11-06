@@ -1,0 +1,413 @@
+{
+  "cluster_id": "0",
+  "hospitals": [
+    "Berkshires Regional Health"
+  ],
+  "timeline": [
+    {
+      "date": "2016-07-10",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-07-16",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-07-23",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-07-24T02:24:27Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-07-24T02:24:27Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-18",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "WILLIAMSTOWN COMMONS NURSING & REHAB",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-11"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-11T23:56:17Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-22",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-08-24",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-09-04"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-12",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-04-25"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-28",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-08-02",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-05-30",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-20",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-08-08",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-08-22",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2022-08-14",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-07-31",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-16T13:48:55Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-20",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-09-03",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum",
+          "canonical": "gum",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-04T04:52:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-09-04T04:52:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-06",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-25T23:25:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-09",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-13",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-16",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-25",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-08-31T23:25:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-01",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-05",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-08",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-15",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-22",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-26",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-29",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-10-02",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2025-08-31",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAIRVIEW HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealth",
+          "canonical": "Unhealth",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

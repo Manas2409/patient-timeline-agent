@@ -1,0 +1,297 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+cc3eac4a-34a7-9a15-d602-66b0bd935203,PIONEE-2c833f,DIAGNOSIS,acute bronchitis
+cc3eac4a-34a7-9a15-25f1-0d3ead2180b6,PIONEE-2c833f,DIAGNOSIS,viral sinusitis
+cc3eac4a-34a7-9a15-25f1-0d3ead2180b6,PIONEE-2c833f,DIAGNOSIS,a sinus infection
+cc3eac4a-34a7-9a15-197d-c8faa82aee51,PIONEE-2c833f,DIAGNOSIS,fractured dental filling
+cc3eac4a-34a7-9a15-197d-c8faa82aee51,PIONEE-2c833f,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+cc3eac4a-34a7-9a15-88f3-730564694133,PIONEE-2c833f,DIAGNOSIS,fractured dental filling
+cc3eac4a-34a7-9a15-88f3-730564694133,PIONEE-2c833f,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+cc3eac4a-34a7-9a15-473f-34cd7ed0707a,PIONEE-2c833f,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+cc3eac4a-34a7-9a15-a77a-027dab52c156,PIONEE-2c833f,DIAGNOSIS,a sinus infection
+cc3eac4a-34a7-9a15-a77a-027dab52c156,PIONEE-2c833f,DIAGNOSIS,viral sinusitis
+cc3eac4a-34a7-9a15-a77a-027dab52c156,PIONEE-2c833f,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+30ed72f3-240e-4973-def7-19bae748e765,PIONEE-004af5,DIAGNOSIS,acute viral pharyngitis
+30ed72f3-240e-4973-def7-19bae748e765,PIONEE-004af5,DIAGNOSIS,acute viral pharyngitis
+30ed72f3-240e-4973-e02f-76cef560c123,PIONEE-004af5,DIAGNOSIS,otitis media
+30ed72f3-240e-4973-e02f-76cef560c123,PIONEE-004af5,DIAGNOSIS,otitis media
+30ed72f3-240e-4973-e02f-76cef560c123,PIONEE-004af5,MEDICATION,Ibuprofen 100 MG Oral Tablet
+30ed72f3-240e-4973-a73f-bdf99d17b476,PIONEE-004af5,DIAGNOSIS,primary dental caries
+30ed72f3-240e-4973-a73f-bdf99d17b476,PIONEE-004af5,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+30ed72f3-240e-4973-d6da-8e13c85177cb,PIONEE-004af5,DIAGNOSIS,a sinus infection
+30ed72f3-240e-4973-d6da-8e13c85177cb,PIONEE-004af5,DIAGNOSIS,viral sinusitis
+30ed72f3-240e-4973-9149-44ec5077fd30,PIONEE-004af5,DIAGNOSIS,laceration - injury
+30ed72f3-240e-4973-9149-44ec5077fd30,PIONEE-004af5,DIAGNOSIS,laceration - injury
+30ed72f3-240e-4973-9149-44ec5077fd30,PIONEE-004af5,DIAGNOSIS,facial laceration
+30ed72f3-240e-4973-9149-44ec5077fd30,PIONEE-004af5,MEDICATION,Ibuprofen 100 MG Oral Tablet
+30ed72f3-240e-4973-c91c-c79f6401f7c8,PIONEE-004af5,DIAGNOSIS,a sinus infection
+30ed72f3-240e-4973-c91c-c79f6401f7c8,PIONEE-004af5,DIAGNOSIS,viral sinusitis
+30ed72f3-240e-4973-9a4a-2732b62ce2c3,PIONEE-004af5,DIAGNOSIS,primary dental caries
+30ed72f3-240e-4973-62bf-72d207a70794,PIONEE-004af5,DIAGNOSIS,a sore throat
+30ed72f3-240e-4973-62bf-72d207a70794,PIONEE-004af5,DIAGNOSIS,a sore throat
+30ed72f3-240e-4973-62bf-72d207a70794,PIONEE-004af5,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+30ed72f3-240e-4973-5709-e46cb5d848fa,PIONEE-004af5,DIAGNOSIS,gum inflammation
+30ed72f3-240e-4973-6427-6b8fabf327cf,PIONEE-004af5,DIAGNOSIS,gingivitis
+30ed72f3-240e-4973-5ff6-be057a919655,PIONEE-004af5,DIAGNOSIS,streptococcal sore throat
+30ed72f3-240e-4973-5ff6-be057a919655,PIONEE-004af5,DIAGNOSIS,streptococcal sore throat
+30ed72f3-240e-4973-5ff6-be057a919655,PIONEE-004af5,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+a6d0791e-4c15-58e6-cd41-d7daa21fed63,PIONEE-13d3b6,DIAGNOSIS,acute bronchitis
+a6d0791e-4c15-58e6-cd41-d7daa21fed63,PIONEE-13d3b6,DIAGNOSIS,acute bronchitis
+a6d0791e-4c15-58e6-cd41-d7daa21fed63,PIONEE-13d3b6,MEDICATION,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+765bd034-e8d7-f102-af13-5a0bd9ecef54,PIONEE-a5051b,DIAGNOSIS,streptococcal sore throat
+765bd034-e8d7-f102-af13-5a0bd9ecef54,PIONEE-a5051b,DIAGNOSIS,streptococcal sore throat
+765bd034-e8d7-f102-af13-5a0bd9ecef54,PIONEE-a5051b,MEDICATION,Penicillin V Potassium 250 MG Oral Tablet
+765bd034-e8d7-f102-8278-cdd200cc6922,PIONEE-a5051b,DIAGNOSIS,a chest cold
+765bd034-e8d7-f102-8278-cdd200cc6922,PIONEE-a5051b,DIAGNOSIS,acute bronchitis
+765bd034-e8d7-f102-8278-cdd200cc6922,PIONEE-a5051b,MEDICATION,Acetaminophen 325 MG Oral Tablet
+765bd034-e8d7-f102-5474-07eff9829a35,PIONEE-a5051b,DIAGNOSIS,viral sinusitis
+765bd034-e8d7-f102-5474-07eff9829a35,PIONEE-a5051b,DIAGNOSIS,a sinus infection
+765bd034-e8d7-f102-d95b-5cf493154a09,PIONEE-a5051b,DIAGNOSIS,a middle-ear infection
+765bd034-e8d7-f102-d95b-5cf493154a09,PIONEE-a5051b,DIAGNOSIS,a middle-ear infection
+765bd034-e8d7-f102-d95b-5cf493154a09,PIONEE-a5051b,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+765bd034-e8d7-f102-b746-42a13457db3d,PIONEE-a5051b,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+765bd034-e8d7-f102-b746-42a13457db3d,PIONEE-a5051b,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+765bd034-e8d7-f102-b746-42a13457db3d,PIONEE-a5051b,MEDICATION,cetirizine hydrochloride 5 MG Oral Tablet
+765bd034-e8d7-f102-0bd6-75e434c71255,PIONEE-a5051b,DIAGNOSIS,allergic disposition
+765bd034-e8d7-f102-0bd6-75e434c71255,PIONEE-a5051b,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+765bd034-e8d7-f102-0bd6-75e434c71255,PIONEE-a5051b,ALLERGY,Tree pollen
+765bd034-e8d7-f102-1fd2-62aeed70388c,PIONEE-a5051b,DIAGNOSIS,primary dental caries
+765bd034-e8d7-f102-1fd2-62aeed70388c,PIONEE-a5051b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+765bd034-e8d7-f102-0090-2e0f69227d8b,PIONEE-a5051b,DIAGNOSIS,sprain (morphologic abnormality)
+765bd034-e8d7-f102-0090-2e0f69227d8b,PIONEE-a5051b,DIAGNOSIS,sprain (morphologic abnormality)
+765bd034-e8d7-f102-0090-2e0f69227d8b,PIONEE-a5051b,DIAGNOSIS,sprain of wrist
+765bd034-e8d7-f102-0090-2e0f69227d8b,PIONEE-a5051b,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+9c5b16dc-8a47-896c-ff85-796b4674f318,PIONEE-629a68,DIAGNOSIS,obesity (BMI 30+)
+9c5b16dc-8a47-896c-8cf8-d8755b43d91f,PIONEE-629a68,DIAGNOSIS,asthma
+9c5b16dc-8a47-896c-8cf8-d8755b43d91f,PIONEE-629a68,DIAGNOSIS,reactive airway disease
+9c5b16dc-8a47-896c-f97f-371ec5f4c208,PIONEE-629a68,DIAGNOSIS,high blood pressure
+9c5b16dc-8a47-896c-43b5-db76ad05616d,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-43b5-db76ad05616d,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-43b5-db76ad05616d,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-43b5-db76ad05616d,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-43b5-db76ad05616d,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-0ee1-632cf9cc62ed,PIONEE-629a68,DIAGNOSIS,gum inflammation
+9c5b16dc-8a47-896c-0ee1-632cf9cc62ed,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-0ee1-632cf9cc62ed,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-0ee1-632cf9cc62ed,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-0ee1-632cf9cc62ed,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-0ee1-632cf9cc62ed,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-b0fd-ed72ffa20bf1,PIONEE-629a68,DIAGNOSIS,gingivitis
+9c5b16dc-8a47-896c-b0fd-ed72ffa20bf1,PIONEE-629a68,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+9c5b16dc-8a47-896c-c7de-5484cc4d31c6,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-c7de-5484cc4d31c6,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-c7de-5484cc4d31c6,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-c7de-5484cc4d31c6,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-c7de-5484cc4d31c6,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-300e-ce9bc7b6f36b,PIONEE-629a68,DIAGNOSIS,asthma
+9c5b16dc-8a47-896c-a468-df1ff07747ed,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-a468-df1ff07747ed,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-a468-df1ff07747ed,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-a468-df1ff07747ed,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-a468-df1ff07747ed,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-3576-e91a13af98ef,PIONEE-629a68,DIAGNOSIS,reactive airway disease
+9c5b16dc-8a47-896c-6d1b-1dbef24f4052,PIONEE-629a68,DIAGNOSIS,reactive airway disease
+9c5b16dc-8a47-896c-f61b-4d90271bbda5,PIONEE-629a68,DIAGNOSIS,reactive airway disease
+9c5b16dc-8a47-896c-8bd8-c0831329bcf2,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-8bd8-c0831329bcf2,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-8bd8-c0831329bcf2,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-8bd8-c0831329bcf2,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-8bd8-c0831329bcf2,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-1d37-459dc5a7dc82,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-1d37-459dc5a7dc82,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-1d37-459dc5a7dc82,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-1d37-459dc5a7dc82,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-1d37-459dc5a7dc82,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-0042-4f9e3d269008,PIONEE-629a68,DIAGNOSIS,asthma
+9c5b16dc-8a47-896c-aa0d-9d1b208838ef,PIONEE-629a68,DIAGNOSIS,asthma
+9c5b16dc-8a47-896c-b2bb-e48bcbd02e04,PIONEE-629a68,DIAGNOSIS,gingivitis
+9c5b16dc-8a47-896c-b2bb-e48bcbd02e04,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-b2bb-e48bcbd02e04,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-b2bb-e48bcbd02e04,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-b2bb-e48bcbd02e04,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-b2bb-e48bcbd02e04,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-6d09-e32218e5abb0,PIONEE-629a68,DIAGNOSIS,gingivitis
+9c5b16dc-8a47-896c-6d09-e32218e5abb0,PIONEE-629a68,DIAGNOSIS,acute infective cystitis
+9c5b16dc-8a47-896c-1052-7f82181edb8e,PIONEE-629a68,DIAGNOSIS,acute infective cystitis
+9c5b16dc-8a47-896c-1052-7f82181edb8e,PIONEE-629a68,MEDICATION,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet
+9c5b16dc-8a47-896c-2d2d-f3b909cdebbb,PIONEE-629a68,DIAGNOSIS,acute infective cystitis
+9c5b16dc-8a47-896c-2d2d-f3b909cdebbb,PIONEE-629a68,MEDICATION,cephalexin 500 MG Oral Tablet
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,DIAGNOSIS,prediabetes
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,DIAGNOSIS,anemia
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-e008-a4aac0ed42f8,PIONEE-629a68,DIAGNOSIS,anemia
+9c5b16dc-8a47-896c-8267-a3b9a2ffa7ae,PIONEE-629a68,DIAGNOSIS,injury of neck
+9c5b16dc-8a47-896c-8267-a3b9a2ffa7ae,PIONEE-629a68,DIAGNOSIS,injury of neck
+9c5b16dc-8a47-896c-8267-a3b9a2ffa7ae,PIONEE-629a68,DIAGNOSIS,whiplash injury to neck
+9c5b16dc-8a47-896c-8267-a3b9a2ffa7ae,PIONEE-629a68,MEDICATION,Ibuprofen 200 MG Oral Tablet
+9c5b16dc-8a47-896c-975d-27600d2414be,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-975d-27600d2414be,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-975d-27600d2414be,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-975d-27600d2414be,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-975d-27600d2414be,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-ec00-a79ef8e58296,PIONEE-629a68,DIAGNOSIS,asthma
+9c5b16dc-8a47-896c-6157-c5b42d430a48,PIONEE-629a68,DIAGNOSIS,asthma
+9c5b16dc-8a47-896c-0eda-05ea714102a3,PIONEE-629a68,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+9c5b16dc-8a47-896c-0eda-05ea714102a3,PIONEE-629a68,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+9c5b16dc-8a47-896c-0eda-05ea714102a3,PIONEE-629a68,MEDICATION,lisinopril 10 MG Oral Tablet
+9c5b16dc-8a47-896c-0eda-05ea714102a3,PIONEE-629a68,MEDICATION,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+9c5b16dc-8a47-896c-0eda-05ea714102a3,PIONEE-629a68,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+9c5b16dc-8a47-896c-1e2c-d9de94a89221,PIONEE-629a68,DIAGNOSIS,asthma
+6d04a400-ad21-5951-af21-ff993fe0895a,PIONEE-dd32dc,DIAGNOSIS,a sore throat
+6d04a400-ad21-5951-af21-ff993fe0895a,PIONEE-dd32dc,DIAGNOSIS,a sore throat
+6d04a400-ad21-5951-f752-c0a515e57157,PIONEE-dd32dc,DIAGNOSIS,a chest cold
+6d04a400-ad21-5951-f752-c0a515e57157,PIONEE-dd32dc,DIAGNOSIS,acute bronchitis
+6d04a400-ad21-5951-f752-c0a515e57157,PIONEE-dd32dc,MEDICATION,Acetaminophen 325 MG Oral Tablet
+6d04a400-ad21-5951-3c15-a7ac5a7ec069,PIONEE-dd32dc,DIAGNOSIS,a sinus infection
+6d04a400-ad21-5951-3c15-a7ac5a7ec069,PIONEE-dd32dc,DIAGNOSIS,a sinus infection
+6d04a400-ad21-5951-e962-dbf00cc7a364,PIONEE-dd32dc,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+6d04a400-ad21-5951-e9d2-4f70a8f5ee09,PIONEE-dd32dc,DIAGNOSIS,gingival disease
+6d04a400-ad21-5951-e9d2-4f70a8f5ee09,PIONEE-dd32dc,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+6d04a400-ad21-5951-90c9-7aa69bb76167,PIONEE-dd32dc,DIAGNOSIS,a sinus infection
+6d04a400-ad21-5951-90c9-7aa69bb76167,PIONEE-dd32dc,DIAGNOSIS,viral sinusitis
+6d04a400-ad21-5951-0901-234877623f4c,PIONEE-dd32dc,MEDICATION,21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]
+6d04a400-ad21-5951-56e0-437ae61fd491,PIONEE-dd32dc,DIAGNOSIS,sinusitis
+6d04a400-ad21-5951-56e0-437ae61fd491,PIONEE-dd32dc,DIAGNOSIS,sinusitis
+6d04a400-ad21-5951-89e1-00cc26473faa,PIONEE-dd32dc,MEDICATION,{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]
+6d04a400-ad21-5951-6306-856c92ce3542,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+6d04a400-ad21-5951-6306-856c92ce3542,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+6d04a400-ad21-5951-70ba-77254774085d,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+6d04a400-ad21-5951-46f1-f1dc384fbb73,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+6d04a400-ad21-5951-4984-4788fa57d50f,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+6d04a400-ad21-5951-106d-e646bfc4bab9,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+6d04a400-ad21-5951-cc8f-77e9cc71d96d,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+6d04a400-ad21-5951-0d8b-607caaae57dd,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+6d04a400-ad21-5951-0d8b-607caaae57dd,PIONEE-dd32dc,DIAGNOSIS,pre-eclampsia
+6d04a400-ad21-5951-f692-ac3894a064dd,PIONEE-dd32dc,DIAGNOSIS,fracture of bone
+6d04a400-ad21-5951-f692-ac3894a064dd,PIONEE-dd32dc,DIAGNOSIS,fracture of bone
+6d04a400-ad21-5951-f692-ac3894a064dd,PIONEE-dd32dc,DIAGNOSIS,fracture of forearm
+6d04a400-ad21-5951-f692-ac3894a064dd,PIONEE-dd32dc,MEDICATION,Meperidine Hydrochloride 50 MG Oral Tablet
+6d04a400-ad21-5951-f692-ac3894a064dd,PIONEE-dd32dc,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+6d04a400-ad21-5951-436a-120042323aa6,PIONEE-dd32dc,DIAGNOSIS,normal pregnancy
+babc4b97-d859-0fe4-cc50-d5a8f80bfb58,PIONEE-fbc37b,DIAGNOSIS,viral sinusitis
+babc4b97-d859-0fe4-cc50-d5a8f80bfb58,PIONEE-fbc37b,DIAGNOSIS,viral sinusitis
+babc4b97-d859-0fe4-03bf-ddc3894e6449,PIONEE-fbc37b,DIAGNOSIS,acute viral pharyngitis
+babc4b97-d859-0fe4-03bf-ddc3894e6449,PIONEE-fbc37b,DIAGNOSIS,a sore throat
+babc4b97-d859-0fe4-bcb5-e3e9616955a1,PIONEE-fbc37b,DIAGNOSIS,a sinus infection
+babc4b97-d859-0fe4-bcb5-e3e9616955a1,PIONEE-fbc37b,DIAGNOSIS,viral sinusitis
+babc4b97-d859-0fe4-bcb5-e3e9616955a1,PIONEE-fbc37b,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+babc4b97-d859-0fe4-3974-1a0b7a72efff,PIONEE-fbc37b,DIAGNOSIS,a middle-ear infection
+babc4b97-d859-0fe4-3974-1a0b7a72efff,PIONEE-fbc37b,DIAGNOSIS,a middle-ear infection
+babc4b97-d859-0fe4-3974-1a0b7a72efff,PIONEE-fbc37b,MEDICATION,Cefuroxime 250 MG Oral Tablet
+babc4b97-d859-0fe4-3974-1a0b7a72efff,PIONEE-fbc37b,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+3935e8a9-9b9f-fd00-af08-066ece111ae6,PIONEE-a22169,DIAGNOSIS,appendicitis
+3935e8a9-9b9f-fd00-af08-066ece111ae6,PIONEE-a22169,DIAGNOSIS,history of appendectomy
+3935e8a9-9b9f-fd00-4467-5f3948d8bb98,PIONEE-a22169,DIAGNOSIS,anemia
+3935e8a9-9b9f-fd00-4467-5f3948d8bb98,PIONEE-a22169,MEDICATION,ferrous sulfate 325 MG Oral Tablet
+3935e8a9-9b9f-fd00-4d5e-1c98bc1ff197,PIONEE-a22169,DIAGNOSIS,complete miscarriage
+3935e8a9-9b9f-fd00-4d5e-1c98bc1ff197,PIONEE-a22169,DIAGNOSIS,past pregnancy history of miscarriage
+3935e8a9-9b9f-fd00-da8e-18385a395926,PIONEE-a22169,DIAGNOSIS,history of tubal ligation
+3935e8a9-9b9f-fd00-fa63-b04827d22a9a,PIONEE-a22169,DIAGNOSIS,obesity (BMI 30+)
+3935e8a9-9b9f-fd00-510c-a0a8a6dd88e4,PIONEE-a22169,DIAGNOSIS,osteoarthritis of knee
+3935e8a9-9b9f-fd00-510c-a0a8a6dd88e4,PIONEE-a22169,DIAGNOSIS,osteoarthritis of knee
+3935e8a9-9b9f-fd00-510c-a0a8a6dd88e4,PIONEE-a22169,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+3935e8a9-9b9f-fd00-679b-309c21d5dee6,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-7d38-1afd4b2c2f0c,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-7d38-1afd4b2c2f0c,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-f058-15c868cb049c,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-f058-15c868cb049c,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-2837-796fd528a3a6,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-2837-796fd528a3a6,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-7161-c51526fc28ba,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-7161-c51526fc28ba,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-0073-a6f989a74fda,PIONEE-a22169,DIAGNOSIS,fracture of bone
+3935e8a9-9b9f-fd00-0073-a6f989a74fda,PIONEE-a22169,DIAGNOSIS,fracture of bone
+3935e8a9-9b9f-fd00-0073-a6f989a74fda,PIONEE-a22169,DIAGNOSIS,fracture of ankle
+3935e8a9-9b9f-fd00-0073-a6f989a74fda,PIONEE-a22169,MEDICATION,Acetaminophen 325 MG Oral Tablet
+3935e8a9-9b9f-fd00-fd90-0ae2d0fc8d14,PIONEE-a22169,DIAGNOSIS,fracture of ankle
+3935e8a9-9b9f-fd00-6f3d-57c8c8043d53,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-6f3d-57c8c8043d53,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-c602-1511937e431b,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-c602-1511937e431b,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-af55-ac996bbfe052,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-af55-ac996bbfe052,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-b318-0d90d352be50,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-d0ae-706f2919fbfc,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-b20d-6a67d0f3d199,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-62fc-7cef8b010fa7,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-1fbd-0a0a6f776c85,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-f505-cfcd53056e57,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-bf4d-c61fc5ca9191,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-79cf-b1cd178c7b3b,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-13c1-6af48e5445e9,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-ff9f-9d5de7eb2ae4,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-3ca1-40b5ca718095,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-0699-0cc44c4b48db,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-4d21-1dfcf247c0d5,PIONEE-a22169,DIAGNOSIS,viral sinusitis
+3935e8a9-9b9f-fd00-4d21-1dfcf247c0d5,PIONEE-a22169,DIAGNOSIS,viral sinusitis
+3935e8a9-9b9f-fd00-4d21-1dfcf247c0d5,PIONEE-a22169,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+3935e8a9-9b9f-fd00-0fce-d74ec18f7962,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-8837-383d9d4698f1,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-25b2-3b8cf5f931f4,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-631d-f5f90741d01c,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-0178-e3da9b1a45bb,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-d1b3-86708d72ca92,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-faf4-158af67e98f9,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-a022-02157e088859,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-0364-61662a56035f,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-6077-fd5c7981e6b6,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-a35a-194c83fffbc5,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-899a-67c4ddddbff5,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-ac8a-cd4c1ab611cb,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-59d4-939d13cbce4c,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-c9b4-7f1c331043d6,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-ba03-34a5042ec588,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-1264-19bf315a653b,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-71de-024a5ee21425,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-ff86-4596631140d5,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-42da-cf445be14e55,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-b1ba-e0fef5349643,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-2f93-d9e922aaa9da,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-0a61-2b40b2de69db,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-2c20-192aaf84232d,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-3bd8-25eab98bf978,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-189a-a18a667cb4b7,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-189a-a18a667cb4b7,PIONEE-a22169,MEDICATION,anastrozole 1 MG Oral Tablet
+3935e8a9-9b9f-fd00-189a-a18a667cb4b7,PIONEE-a22169,MEDICATION,palbociclib 100 MG Oral Capsule
+3935e8a9-9b9f-fd00-2f20-4410135456fe,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-2f20-4410135456fe,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-7e93-3d07582fbc7a,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-85d9-e8c3301dffae,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-3259-79827d698512,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-c0f4-bb8b7529770c,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-38f0-4af8f9fb1765,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-b095-b2cea29553f0,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-b095-b2cea29553f0,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-df3d-87daf73113bc,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-4a28-b1f4ecab4e28,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-9334-31a3c20cf1ad,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-633a-65679d46b798,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-d25b-0e215817c85d,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-0244-3fce3ae21480,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-0244-3fce3ae21480,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-bb2b-051bb92e0057,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-5120-5f223c8c886d,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-baa9-41ca3cc78385,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-09b2-6e1f294655dc,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-6a3f-c2d9ad289ef9,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-ded9-cfd4cb410daa,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-e52e-fbb94fd27c0e,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-e52e-fbb94fd27c0e,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-e72e-d1584ba5dba4,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-89f8-7d497781b4aa,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-3b09-aec53007b767,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-6f5a-addafe74b61f,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-4e3c-a3a7a2844fdc,PIONEE-a22169,DIAGNOSIS,laceration - injury
+3935e8a9-9b9f-fd00-4e3c-a3a7a2844fdc,PIONEE-a22169,DIAGNOSIS,laceration - injury
+3935e8a9-9b9f-fd00-4e3c-a3a7a2844fdc,PIONEE-a22169,DIAGNOSIS,laceration of foot
+3935e8a9-9b9f-fd00-4e3c-a3a7a2844fdc,PIONEE-a22169,MEDICATION,Acetaminophen 325 MG Oral Tablet
+3935e8a9-9b9f-fd00-1a8a-166bb8f633df,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-e7e2-f55efcd70e26,PIONEE-a22169,DIAGNOSIS,hyperlipidemia
+3935e8a9-9b9f-fd00-e7e2-f55efcd70e26,PIONEE-a22169,MEDICATION,Simvastatin 10 MG Oral Tablet
+3935e8a9-9b9f-fd00-4cd8-60ab19af8bc2,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-de3d-7e468b533423,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-9685-84fbb0a3e620,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast
+3935e8a9-9b9f-fd00-1c04-6f89aa1a0644,PIONEE-a22169,DIAGNOSIS,malignant neoplasm of breast

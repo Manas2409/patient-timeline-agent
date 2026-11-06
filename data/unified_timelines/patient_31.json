@@ -1,0 +1,1069 @@
+{
+  "cluster_id": "31",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2001-08-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Perennial allergic rhinitis with seasonal variation (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-07-26"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-07-26"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Loratadine",
+          "canonical": "Loratadine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2001-08-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Penicillin V",
+          "canonical": "Penicillin V",
+          "match_method": "fuzzy",
+          "reaction": "Wheal (finding)",
+          "severity": "MILD"
+        }
+      ]
+    },
+    {
+      "date": "2012-08-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2015-09-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2016-06-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-06-25T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-06-25T10:32:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-08-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-08-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-09-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-09-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2016-09-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-09-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-09-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-10-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-05T13:30:07Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-10-05T13:30:07Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-10-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-10-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2016-10-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2017-06-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-06-20T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-06-20T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-06-20T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-06-20T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ges",
+          "canonical": "ges",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-06-20T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nat",
+          "canonical": "Nat",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-06-20T10:32:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-09-04"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-04"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-09-04"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Concussion with no loss of consciousness (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2017-10-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2018-06-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-06-15T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-06-15T10:32:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-19T13:07:04Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2019-11-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ferrous sulfate",
+          "canonical": "ferrous sulfate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-01-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-01-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-02-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-03-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-04-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-05-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-06-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-06-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": []
+    },
+    {
+      "date": "2020-07-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-09-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2021-07-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-08-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-08-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-09-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-09-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-09-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-10-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-11-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-12-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-01-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-02-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-02-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-02-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-02-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": []
+    },
+    {
+      "date": "2022-04-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-11-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-12-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-12-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-04-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pregnancy",
+          "canonical": "Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-12-06"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-06-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-07-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-08-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-09-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-09-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-11-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-11-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-11-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-11-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-12-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": []
+    },
+    {
+      "date": "2024-01-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2024-04-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2024-05-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2024-05-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2024-07-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-29T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "oxyCODONE Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-07-29T10:32:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-29T10:32:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of forearm (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2025-02-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2025-02-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2025-02-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-03-03"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus infection",
+          "canonical": "sinus infection",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-05-14"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-05-14"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-14T11:49:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HALLMARK HEALTH URGENT CARE PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-07-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pregnancy",
+          "canonical": "Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-07"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2025-09-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2025-10-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fetus with chromosomal abnormality (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2026-04-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2026-05-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2026-06-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2026-07-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2026-07-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "ALLERGY",
+      "canonical": "Penicillin V",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Concussion injury of brain",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

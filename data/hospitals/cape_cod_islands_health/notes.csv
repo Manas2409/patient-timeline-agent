@@ -1,0 +1,141 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+7af6b271-f16d-21e1-8e1c-236c2e6a930d,CAPE_C-145904,1979-01-02,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Received higher education."
+7af6b271-f16d-21e1-e6a8-a4b3adf967f8,CAPE_C-145904,1998-01-27,New findings on exam include obesity (BMI 30+). Medication list unchanged.
+7af6b271-f16d-21e1-fbf0-a1ae80800ac0,CAPE_C-145904,2000-11-14,"Patient continues to be followed for essential hypertension, metabolic syndrome X, type 2 diabetes, and a low blood count."
+7af6b271-f16d-21e1-e187-547120fdd937,CAPE_C-145904,2000-11-23,Follow-up visit regarding anemia. Patient given ferrous sulfate 325 MG Oral Tablet during this encounter.
+7af6b271-f16d-21e1-916f-92be9ea3b513,CAPE_C-145904,2001-11-20,New findings on exam include hyperglycemia and hypertriglyceridemia. Medication list unchanged.
+7af6b271-f16d-21e1-ad6b-df71202db81e,CAPE_C-145904,2005-05-31,Clinical impression: neuropathy due to type 2 diabetes mellitus.
+7af6b271-f16d-21e1-3082-4d25791611cf,CAPE_C-145904,2007-08-29,Clinical impression: nonproliferative diabetic retinopathy due to type II diabetes mellitus.
+7af6b271-f16d-21e1-35b3-45395b3db0f0,CAPE_C-145904,2010-01-05,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Limited social contact. Medication list unchanged."
+7af6b271-f16d-21e1-ca1a-9877edfe3678,CAPE_C-145904,2012-01-17,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+7af6b271-f16d-21e1-5267-d1e8b8efe1ca,CAPE_C-145904,2013-01-22,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Victim of intimate partner abuse."
+7af6b271-f16d-21e1-5db7-9a6e8c3bf68a,CAPE_C-145904,2014-10-28,Outpatient visit for general evaluation. Care-coordination note: Social isolation.
+7af6b271-f16d-21e1-cfe5-013b5d15f297,CAPE_C-145904,2015-02-03,Patient seen for a scheduled wellness encounter. Social history noted: Stress.
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,2016-02-09,Patient continues to be followed for severe anxiety with panic features. Care-coordination note: Full-time employment and Unhealthy alcohol drinking behavior. Started on 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-7541-54e2a158fa89,CAPE_C-145904,2016-12-09,"Routine ambulatory visit, no acute complaints voiced at check-in. Patient given tropicamide 5 MG/ML Ophthalmic Solution during this encounter."
+7af6b271-f16d-21e1-d638-82cff51a9fd1,CAPE_C-145904,2017-02-14,Wellness visit for general evaluation. Plan: initiate 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-c987-c6878ea047bf,CAPE_C-145904,2017-02-28,"Routine ambulatory visit, no acute complaints voiced at check-in. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel."
+7af6b271-f16d-21e1-a7d2-2b2575c0b41a,CAPE_C-145904,2017-06-13,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Social isolation. Patient given 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter."
+7af6b271-f16d-21e1-35a3-9e98675324a4,CAPE_C-145904,2017-06-20,Patient presents today with viral sinusitis. Diagnosed with a sinus infection at this visit. Medication list unchanged.
+7af6b271-f16d-21e1-36bd-b22bb44d20fc,CAPE_C-145904,2017-06-27,Ambulatory visit for general evaluation.
+7af6b271-f16d-21e1-c8df-a90991bea1c1,CAPE_C-145904,2017-11-04,"Routine ambulatory visit, no acute complaints voiced at check-in. Started on tropicamide 5 MG/ML Ophthalmic Solution."
+7af6b271-f16d-21e1-c4f2-009f322f5452,CAPE_C-145904,2018-02-20,Wellness visit for general evaluation. Care-coordination note: Medication review due and Part-time employment. Medications prescribed today: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-859f-2d6621517acd,CAPE_C-145904,2018-09-30,Ambulatory visit for general evaluation. Patient given tropicamide 5 MG/ML Ophthalmic Solution during this encounter.
+7af6b271-f16d-21e1-5034-ff30d8866eed,CAPE_C-145904,2018-11-09,Patient presents today with a sore throat. New findings on exam include a sore throat.
+7af6b271-f16d-21e1-93c5-aec2d8d13e83,CAPE_C-145904,2018-11-20,Outpatient visit for general evaluation. Medications prescribed today: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-47af-7515011510d7,CAPE_C-145904,2019-02-26,Wellness visit for general evaluation. Social history noted: Medication review due. Plan: initiate 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-f027-9e5fdaa3402e,CAPE_C-145904,2019-03-12,Ambulatory visit for general evaluation. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+7af6b271-f16d-21e1-018b-def5e5dac706,CAPE_C-145904,2019-09-25,Patient seen for a scheduled ambulatory encounter. Plan: initiate tropicamide 5 MG/ML Ophthalmic Solution.
+7af6b271-f16d-21e1-c80a-ca52f5c71f0f,CAPE_C-145904,2020-03-03,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due, Not in labor force, and Stress. Patient given 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter."
+7af6b271-f16d-21e1-447c-96aa9ef2411d,CAPE_C-145904,2020-03-17,Clinical impression: gingival disease. No new medications prescribed at this time.
+7af6b271-f16d-21e1-aa53-42afca5a1bc7,CAPE_C-145904,2020-09-19,Ambulatory visit for general evaluation. Started on tropicamide 5 MG/ML Ophthalmic Solution.
+7af6b271-f16d-21e1-cc9a-aa7f337614ab,CAPE_C-145904,2020-11-09,Patient seen for a scheduled ambulatory encounter. No new medications prescribed at this time.
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,2021-03-09,Wellness visit for general evaluation. Social history noted: Full-time employment. Medications prescribed today: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-722a-c585aafdfea4,CAPE_C-145904,2021-04-13,Patient seen for a scheduled outpatient encounter. Medication list unchanged.
+7af6b271-f16d-21e1-e9db-fed45d4dba21,CAPE_C-145904,2021-05-04,Outpatient visit for general evaluation.
+7af6b271-f16d-21e1-3e7b-f7376fcb1e05,CAPE_C-145904,2021-09-14,Ambulatory visit for general evaluation. Patient given tropicamide 5 MG/ML Ophthalmic Solution during this encounter.
+7af6b271-f16d-21e1-25d1-6a5f11a10317,CAPE_C-145904,2022-01-11,Patient seen for a scheduled emergency encounter. Care-coordination note: Stress. Plan: initiate 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-0428-2e4035069ed3,CAPE_C-145904,2022-02-01,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Medication review due. Started on 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet."
+7af6b271-f16d-21e1-ceab-040f73258c99,CAPE_C-145904,2022-02-08,Patient reports symptoms consistent with gum inflammation. Patient continues to be followed for gingival disease and primary dental caries.
+7af6b271-f16d-21e1-a81b-5ac8443b449b,CAPE_C-145904,2022-02-15,Patient presents today with acute viral pharyngitis. New findings on exam include acute viral pharyngitis.
+7af6b271-f16d-21e1-d9e6-5433deba0339,CAPE_C-145904,2022-03-01,"Routine outpatient visit, no acute complaints voiced at check-in. Started on 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet."
+7af6b271-f16d-21e1-aca4-0da2c89e39ab,CAPE_C-145904,2022-03-08,Assessment: gum disease.
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,2022-03-22,Diagnosed with gum inflammation at this visit. Social history noted: Medication review due. Medications prescribed today: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-538a-ed5b5da35af3,CAPE_C-145904,2022-04-05,Patient presents today with gum inflammation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+7af6b271-f16d-21e1-5cbf-92f5a01cf17e,CAPE_C-145904,2022-06-11,"Routine ambulatory visit, no acute complaints voiced at check-in. Plan: initiate tropicamide 5 MG/ML Ophthalmic Solution."
+7af6b271-f16d-21e1-2765-f562f6fdc015,CAPE_C-145904,2022-12-08,Patient seen for a scheduled ambulatory encounter. Plan: initiate tropicamide 5 MG/ML Ophthalmic Solution.
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,2023-03-28,"Diagnosed with ischemic heart disease at this visit. Care-coordination note: Full-time employment. Plan: initiate 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, lisinopril 10 MG Oral Tablet, Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, and Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray."
+7af6b271-f16d-21e1-a3fd-225504f884a1,CAPE_C-145904,2023-07-06,Ambulatory visit for general evaluation. Plan: initiate tropicamide 5 MG/ML Ophthalmic Solution.
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,2024-04-02,Assessment: gum inflammation. Care-coordination note: Stress. Plan: initiate 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-04d4-169ca3011f23,CAPE_C-145904,2024-04-16,Presenting complaint: gum inflammation.
+7af6b271-f16d-21e1-6c70-9b946bce81e6,CAPE_C-145904,2024-05-31,Patient seen for a scheduled ambulatory encounter. Patient given tropicamide 5 MG/ML Ophthalmic Solution during this encounter.
+7af6b271-f16d-21e1-7d75-804b84127c7d,CAPE_C-145904,2024-12-27,"Routine ambulatory visit, no acute complaints voiced at check-in. Patient given tropicamide 5 MG/ML Ophthalmic Solution during this encounter."
+7af6b271-f16d-21e1-88a8-e60228cfb046,CAPE_C-145904,2025-04-08,Wellness visit for general evaluation. Care-coordination note: Medication review due. Plan: initiate 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-1bf8-ab6d17103be3,CAPE_C-145904,2025-10-23,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: tropicamide 5 MG/ML Ophthalmic Solution.
+7af6b271-f16d-21e1-ca59-79113f071264,CAPE_C-145904,2025-11-09,"Routine ambulatory visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+7af6b271-f16d-21e1-4598-2eb81658674f,CAPE_C-145904,2025-11-11,Follow-up visit regarding alzheimer's disease.
+7af6b271-f16d-21e1-ef7e-4920d39bbcd3,CAPE_C-145904,2026-04-14,Wellness visit for general evaluation. Care-coordination note: Not in labor force and Stress. Medications prescribed today: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet and lisinopril 10 MG Oral Tablet.
+7af6b271-f16d-21e1-e8ed-3d12c46dd113,CAPE_C-145904,2026-04-28,Patient seen for a scheduled ambulatory encounter.
+3fa46c70-b194-f14c-5d3d-886fa9da6786,CAPE_C-7667e7,2013-04-27,Wellness visit for general evaluation. Social history noted: Received higher education.
+3fa46c70-b194-f14c-530e-7be692f0668d,CAPE_C-7667e7,2014-05-03,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment."
+3fa46c70-b194-f14c-a0e4-ec253b9de38f,CAPE_C-7667e7,2017-05-06,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Not in labor force, and Stress."
+3fa46c70-b194-f14c-4a1c-e5cbaa6a4f9f,CAPE_C-7667e7,2019-01-04,Patient reports symptoms consistent with injury of tendon of the rotator cuff of shoulder. Patient continues to be followed for injury of tendon of the rotator cuff of shoulder. No new medications prescribed at this time.
+3fa46c70-b194-f14c-936c-f5afb94eea60,CAPE_C-7667e7,2019-04-02,Follow-up visit regarding injury of tendon of the rotator cuff of shoulder.
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,2019-12-15,Seen in clinic for streptococcal sore throat. Patient continues to be followed for streptococcal sore throat. Started on Penicillin V Potassium 500 MG Oral Tablet.
+3fa46c70-b194-f14c-4cb7-1832b9ba6b95,CAPE_C-7667e7,2020-05-09,Clinical impression: gum inflammation. Social history noted: Full-time employment.
+3fa46c70-b194-f14c-6d05-922013520839,CAPE_C-7667e7,2020-05-23,Follow-up visit regarding gum inflammation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+3fa46c70-b194-f14c-823e-5cc5de8b30f4,CAPE_C-7667e7,2021-08-21,Outpatient visit for general evaluation.
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,2022-02-28,Patient reports symptoms consistent with sprain (morphologic abnormality). New findings on exam include sprain (morphologic abnormality) and sprain of ankle. Patient given Ibuprofen 200 MG Oral Tablet during this encounter.
+3fa46c70-b194-f14c-6a33-70724cadd219,CAPE_C-7667e7,2023-03-05,Patient presents today with a sinus infection. Assessment: a sinus infection. No new medications prescribed at this time.
+3fa46c70-b194-f14c-a268-e3d19cc89b3d,CAPE_C-7667e7,2023-05-13,Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment and Social isolation.
+3fa46c70-b194-f14c-5a79-8ae4571a74a5,CAPE_C-7667e7,2023-05-27,Ambulatory visit for general evaluation. No new medications prescribed at this time.
+3fa46c70-b194-f14c-99e3-3cef1e852ccc,CAPE_C-7667e7,2026-05-16,Assessment: gum inflammation.
+3fa46c70-b194-f14c-54a5-f6c1b32fe1fc,CAPE_C-7667e7,2026-05-30,Follow-up visit regarding gingivitis. Clinical impression: gum disease.
+8704c44c-8b97-e35a-b57d-84809b73c1b6,CAPE_C-5d1a1d,2004-03-03,Diagnosed with recurrent urinary tract infection at this visit.
+8704c44c-8b97-e35a-2830-d76d3e076813,CAPE_C-5d1a1d,2006-03-15,Wellness visit for general evaluation. Social history noted: Risk activity involvement.
+8704c44c-8b97-e35a-9915-8740855cfc25,CAPE_C-5d1a1d,2007-03-21,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Housing unsatisfactory and Received higher education."
+8704c44c-8b97-e35a-7ead-84b8f4ff44f0,CAPE_C-5d1a1d,2011-07-19,Follow-up visit regarding blighted ovum. Assessment: past pregnancy history of miscarriage.
+8704c44c-8b97-e35a-34c6-ec716a24a630,CAPE_C-5d1a1d,2014-01-31,"Patient reports symptoms consistent with ongoing pain. Clinical impression: ongoing pain, chronic low back pain, and chronic neck pain."
+8704c44c-8b97-e35a-2fdc-b85d667cd378,CAPE_C-5d1a1d,2014-02-07,Patient was evaluated for opioid abuse. Clinical impression: opioid abuse.
+8704c44c-8b97-e35a-5b68-55b013d01ae7,CAPE_C-5d1a1d,2016-03-16,Wellness visit for general evaluation. Care-coordination note: Part-time employment and Social isolation. Plan: initiate buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-27fb-ea7689cb7b9c,CAPE_C-5d1a1d,2016-09-02,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System during this encounter."
+8704c44c-8b97-e35a-2bfb-6e79f455c93a,CAPE_C-5d1a1d,2017-03-22,Wellness visit for general evaluation. Social history noted: Full-time employment and Stress. Started on buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-95d6-5e532835d9d6,CAPE_C-5d1a1d,2017-08-28,Patient seen for a scheduled outpatient encounter. Patient given 1 ML medroxyprogesterone acetate 150 MG/ML Injection during this encounter.
+8704c44c-8b97-e35a-60fe-41b59f17db91,CAPE_C-5d1a1d,2017-12-06,Patient seen for a scheduled outpatient encounter.
+8704c44c-8b97-e35a-60ad-b7021dfa33d7,CAPE_C-5d1a1d,2018-03-07,"Routine outpatient visit, no acute complaints voiced at check-in."
+8704c44c-8b97-e35a-e326-080c32ed0747,CAPE_C-5d1a1d,2018-03-28,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. Medications prescribed today: buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-5618-e41529670849,CAPE_C-5d1a1d,2018-06-06,Patient seen for a scheduled outpatient encounter.
+8704c44c-8b97-e35a-611c-9414924c04c7,CAPE_C-5d1a1d,2018-09-05,Outpatient visit for general evaluation.
+8704c44c-8b97-e35a-588b-e896f18f535d,CAPE_C-5d1a1d,2018-10-15,Patient reports symptoms consistent with a sinus infection. Clinical impression: viral sinusitis.
+8704c44c-8b97-e35a-ebdd-3193510303e0,CAPE_C-5d1a1d,2018-12-05,"Routine outpatient visit, no acute complaints voiced at check-in."
+8704c44c-8b97-e35a-023d-69cac8e69870,CAPE_C-5d1a1d,2019-03-06,Outpatient visit for general evaluation.
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,2019-04-03,New findings on exam include significant weight gain and gum inflammation. Social history noted: Medication review due and Part-time employment. Medications prescribed today: buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-450b-892c509fb6f7,CAPE_C-5d1a1d,2019-04-17,Presenting complaint: gingivitis.
+8704c44c-8b97-e35a-9a54-23968645eccf,CAPE_C-5d1a1d,2019-06-05,Outpatient visit for general evaluation.
+8704c44c-8b97-e35a-df15-f5d3509d7f59,CAPE_C-5d1a1d,2019-09-04,Patient seen for a scheduled outpatient encounter.
+8704c44c-8b97-e35a-2c57-2ceab7a9212b,CAPE_C-5d1a1d,2019-12-04,"Routine outpatient visit, no acute complaints voiced at check-in."
+8704c44c-8b97-e35a-8dc6-04ac77280eda,CAPE_C-5d1a1d,2020-03-04,Outpatient visit for general evaluation. No new medications prescribed at this time.
+8704c44c-8b97-e35a-92d1-57e044e600e8,CAPE_C-5d1a1d,2020-04-08,Patient seen for a scheduled wellness encounter. Care-coordination note: Stress. Started on buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-9fde-782e143b4e53,CAPE_C-5d1a1d,2020-04-22,"Routine ambulatory visit, no acute complaints voiced at check-in. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel."
+8704c44c-8b97-e35a-47a0-03dbbbc2979b,CAPE_C-5d1a1d,2020-06-03,"Routine outpatient visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+8704c44c-8b97-e35a-ab47-f6fb20b6f208,CAPE_C-5d1a1d,2020-09-02,Patient seen for a scheduled outpatient encounter.
+8704c44c-8b97-e35a-e3cd-b317db7fb003,CAPE_C-5d1a1d,2020-10-28,Patient presents today with normal pregnancy. Diagnosed with normal pregnancy at this visit. Medication list unchanged.
+8704c44c-8b97-e35a-688c-ea775144f4bb,CAPE_C-5d1a1d,2020-11-25,Patient reports symptoms consistent with normal pregnancy. No new medications prescribed at this time.
+8704c44c-8b97-e35a-5cad-8913f2fcf225,CAPE_C-5d1a1d,2020-12-23,Seen in clinic for normal pregnancy.
+8704c44c-8b97-e35a-6ddc-9b6ad197ea89,CAPE_C-5d1a1d,2021-01-20,Patient was evaluated for normal pregnancy.
+8704c44c-8b97-e35a-b763-27fb3f13bc85,CAPE_C-5d1a1d,2021-02-17,Patient was evaluated for normal pregnancy.
+8704c44c-8b97-e35a-667c-d6c79bea6068,CAPE_C-5d1a1d,2021-03-17,Patient presents today with normal pregnancy.
+8704c44c-8b97-e35a-d870-61e35d32c493,CAPE_C-5d1a1d,2021-04-14,Patient seen for a scheduled wellness encounter. Social history noted: Full-time employment and Victim of intimate partner abuse. Medications prescribed today: buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-6d8a-860359b233cf,CAPE_C-5d1a1d,2021-04-21,Patient reports symptoms consistent with normal pregnancy.
+8704c44c-8b97-e35a-9338-989aedbc38ca,CAPE_C-5d1a1d,2021-04-28,Patient continues to be followed for gum disease. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+8704c44c-8b97-e35a-44e8-3b749dffd3b5,CAPE_C-5d1a1d,2021-05-19,Presenting complaint: normal pregnancy.
+8704c44c-8b97-e35a-ec46-41d3d77b2875,CAPE_C-5d1a1d,2021-06-02,Presenting complaint: normal pregnancy. No new medications prescribed at this time.
+8704c44c-8b97-e35a-4c62-d7ea73184108,CAPE_C-5d1a1d,2021-07-14,Patient seen for a scheduled ambulatory encounter.
+8704c44c-8b97-e35a-57a4-22f08766978e,CAPE_C-5d1a1d,2021-10-13,Outpatient visit for general evaluation.
+8704c44c-8b97-e35a-27de-ca9fad2ddac8,CAPE_C-5d1a1d,2021-11-10,"Routine outpatient visit, no acute complaints voiced at check-in."
+8704c44c-8b97-e35a-6e51-16696027185b,CAPE_C-5d1a1d,2022-04-20,Patient seen for a scheduled wellness encounter. Patient given buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet during this encounter.
+8704c44c-8b97-e35a-9f4c-20f49688400e,CAPE_C-5d1a1d,2022-08-02,Outpatient visit for general evaluation. Medications prescribed today: {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day].
+8704c44c-8b97-e35a-9ef3-fd65cec46bd3,CAPE_C-5d1a1d,2023-04-26,Wellness visit for general evaluation. Social history noted: Medication review due. Medications prescribed today: buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,2023-06-10,Seen in clinic for acute bronchitis. Assessment: a chest cold. Medications prescribed today: Acetaminophen 325 MG Oral Tablet and buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-2fec-b998ccfb8e70,CAPE_C-5d1a1d,2023-09-27,Patient presents today with normal pregnancy. Assessment: normal pregnancy.
+8704c44c-8b97-e35a-8bf4-d415824e336e,CAPE_C-5d1a1d,2023-10-25,Patient was evaluated for normal pregnancy.
+8704c44c-8b97-e35a-980a-1bd4e7907ad2,CAPE_C-5d1a1d,2023-11-22,Follow-up visit regarding normal pregnancy. New findings on exam include miscarriage in second trimester and fetus with chromosomal abnormality.
+8704c44c-8b97-e35a-f902-3d84091bdbc1,CAPE_C-5d1a1d,2023-11-29,Patient reports symptoms consistent with fetus with chromosomal abnormality. No new medications prescribed at this time.
+8704c44c-8b97-e35a-1053-a9918a9a4d1c,CAPE_C-5d1a1d,2024-05-01,Wellness visit for general evaluation. Social history noted: Not in labor force. Started on buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-c7a5-8ca67e84156f,CAPE_C-5d1a1d,2024-07-31,Patient reports symptoms consistent with normal pregnancy. Patient continues to be followed for normal pregnancy.
+8704c44c-8b97-e35a-4824-4463e7e1996a,CAPE_C-5d1a1d,2024-08-28,Follow-up visit regarding normal pregnancy. No new medications prescribed at this time.
+8704c44c-8b97-e35a-84bd-a0f8222e4753,CAPE_C-5d1a1d,2024-09-25,Patient presents today with normal pregnancy.
+8704c44c-8b97-e35a-5fe8-5d68a15bc63a,CAPE_C-5d1a1d,2024-10-23,Follow-up visit regarding normal pregnancy.
+8704c44c-8b97-e35a-274a-4430c3625a1e,CAPE_C-5d1a1d,2024-11-20,Patient reports symptoms consistent with normal pregnancy.
+8704c44c-8b97-e35a-68d0-173b5d92db4c,CAPE_C-5d1a1d,2024-12-18,Patient presents today with normal pregnancy.
+8704c44c-8b97-e35a-7b1d-fad02e9110fa,CAPE_C-5d1a1d,2025-01-15,Follow-up visit regarding normal pregnancy. Medication list unchanged.
+8704c44c-8b97-e35a-7ee3-5e856a01f390,CAPE_C-5d1a1d,2025-02-12,Seen in clinic for normal pregnancy. Medication list unchanged.
+8704c44c-8b97-e35a-e16e-ad8ea9eaf742,CAPE_C-5d1a1d,2025-02-26,Patient reports symptoms consistent with normal pregnancy. Medication list unchanged.
+8704c44c-8b97-e35a-95a6-b00a67bc5d4e,CAPE_C-5d1a1d,2025-03-05,Patient presents today with normal pregnancy. No new medications prescribed at this time.
+8704c44c-8b97-e35a-1457-6f7ebe716ef0,CAPE_C-5d1a1d,2025-04-16,"Routine ambulatory visit, no acute complaints voiced at check-in."
+8704c44c-8b97-e35a-db6f-8470dcc4091c,CAPE_C-5d1a1d,2025-05-07,"Assessment: gum inflammation. Care-coordination note: Medication review due, Part-time employment, and Reports of violence in the environment. Medications prescribed today: buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet."
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,2025-05-21,Patient was evaluated for gingivitis. Clinical impression: gingival disease and leaking dental filling. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+8704c44c-8b97-e35a-8f30-e0e86d923687,CAPE_C-5d1a1d,2026-04-18,Outpatient visit for general evaluation. Medications prescribed today: levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena].
+8704c44c-8b97-e35a-3bc6-dae8209d5d1a,CAPE_C-5d1a1d,2026-04-20,"Routine outpatient visit, no acute complaints voiced at check-in."
+8704c44c-8b97-e35a-e0a0-a2fbc2b6f213,CAPE_C-5d1a1d,2026-05-13,New findings on exam include gum inflammation. Social history noted: Stress. Plan: initiate buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet.
+8704c44c-8b97-e35a-3cd1-8dbcbcbf00d4,CAPE_C-5d1a1d,2026-05-27,Follow-up visit regarding gum inflammation. Assessment: dental filling lost. Medication list unchanged.

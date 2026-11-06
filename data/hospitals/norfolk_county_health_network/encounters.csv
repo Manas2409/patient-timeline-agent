@@ -1,0 +1,356 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,ENCOUNTERCLASS,DESCRIPTION,REASONDESCRIPTION,SEEN_AT
+9a3814bb-f5b0-05f3-f5e5-86c32271300f,NORFOL-961b76,2018-06-10T02:15:31Z,2018-06-10T02:30:31Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+9a3814bb-f5b0-05f3-b856-6d47e4b2e36e,NORFOL-961b76,2018-09-16T02:15:31Z,2018-09-16T02:30:31Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+9a3814bb-f5b0-05f3-4fb0-647d12ee1490,NORFOL-961b76,2018-09-23T02:15:31Z,2018-09-23T02:30:31Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+9a3814bb-f5b0-05f3-fee0-b557bc5b1d34,NORFOL-961b76,2019-01-06T02:15:31Z,2019-01-06T02:30:31Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+9a3814bb-f5b0-05f3-9206-3042e7a75083,NORFOL-961b76,2019-01-13T02:15:31Z,2019-01-13T02:30:31Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+9a3814bb-f5b0-05f3-652a-d61c0c19617d,NORFOL-961b76,2019-01-20T02:15:31Z,2019-01-20T02:30:31Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+9a3814bb-f5b0-05f3-5b9e-1c747c9bef10,NORFOL-961b76,2019-01-27T02:15:31Z,2019-01-27T02:30:31Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+9a3814bb-f5b0-05f3-b6af-12cc25dd601d,NORFOL-961b76,2024-11-10T02:15:31Z,2024-11-10T02:30:31Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+65cbad6a-eb9d-420e-dfb3-7b7cc860ed4b,NORFOL-e82565,2019-12-31T06:35:38Z,2019-12-31T07:06:16Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+65cbad6a-eb9d-420e-c6da-5cfe2ca83535,NORFOL-e82565,2023-06-20T06:35:38Z,2023-06-24T06:50:38Z,hospice,Admission to hospice (procedure),Alzheimer's disease (disorder),NEW ENGLAND HOSPICE II LLC
+b50c66af-4d1c-7987-0d77-d464d6dbbac9,NORFOL-f201ef,1999-09-22T20:08:29Z,1999-09-22T20:41:36Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-fd4a-134ce203ab4d,NORFOL-f201ef,2014-02-12T20:08:29Z,2014-02-12T20:49:42Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-820c-d88748bd6785,NORFOL-f201ef,2015-02-18T20:08:29Z,2015-02-18T20:59:24Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-7a41-dd005c12766a,NORFOL-f201ef,2016-02-24T20:08:29Z,2016-02-24T20:47:23Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-07c0-c6580076b163,NORFOL-f201ef,2017-03-01T20:08:29Z,2017-03-01T20:47:53Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-5156-29b236804948,NORFOL-f201ef,2018-03-07T20:08:29Z,2018-03-07T20:46:31Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-e72f-7e20c7c80842,NORFOL-f201ef,2019-03-13T20:08:29Z,2019-03-13T20:39:43Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-abfe-49a98999aacc,NORFOL-f201ef,2020-03-18T20:08:29Z,2020-03-18T21:03:45Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-46e9-3c2385992fa7,NORFOL-f201ef,2021-03-24T20:08:29Z,2021-03-24T20:50:21Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-61ab-93a8bf106b6e,NORFOL-f201ef,2022-03-30T20:08:29Z,2022-03-30T20:54:37Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-9ef6-441e49f32707,NORFOL-f201ef,2023-04-05T20:08:29Z,2023-04-05T21:03:11Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-072f-c6995d0737b2,NORFOL-f201ef,2024-04-10T20:08:29Z,2024-04-10T20:55:54Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-1599-2d9d27baa115,NORFOL-f201ef,2025-04-16T20:08:29Z,2025-04-16T21:05:30Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+b50c66af-4d1c-7987-7763-29a83b5be88e,NORFOL-f201ef,2026-04-22T20:08:29Z,2026-04-22T21:05:29Z,wellness,General examination of patient (procedure),,WELLNESS WITH LANEY LLC
+f30304ab-8e45-1cbd-e9f3-fca0678b9f51,NORFOL-23389d,2016-07-15T02:08:41Z,2016-07-15T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-1b3b-7e0ffbe13f36,NORFOL-23389d,2017-01-13T02:08:41Z,2017-01-13T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-e868-66199daf880e,NORFOL-23389d,2017-07-14T02:08:41Z,2017-07-14T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-8f30-96b0269c984d,NORFOL-23389d,2018-01-12T02:08:41Z,2018-01-12T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-7838-83a5c9c982f0,NORFOL-23389d,2018-07-13T02:08:41Z,2018-07-13T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-6272-76939edccec5,NORFOL-23389d,2019-01-11T02:08:41Z,2019-01-11T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-9001-cd80a94eee5d,NORFOL-23389d,2020-01-17T02:08:41Z,2020-01-17T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-6977-7845bbe92ab4,NORFOL-23389d,2021-01-22T02:08:41Z,2021-01-22T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-67b4-4248793fc303,NORFOL-23389d,2022-01-28T02:08:41Z,2022-01-28T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-713f-41ac56ce943e,NORFOL-23389d,2023-02-03T02:08:41Z,2023-02-03T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-1863-ec7ea31130d6,NORFOL-23389d,2024-02-09T02:08:41Z,2024-02-09T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-f85c-947cb02cd959,NORFOL-23389d,2025-02-14T02:08:41Z,2025-02-14T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-6679-174a9b2f1234,NORFOL-23389d,2026-02-20T02:08:41Z,2026-02-20T02:23:41Z,wellness,Well child visit (procedure),,BL HEALTHCARE INC DELEWARE
+d21f2794-014b-c66b-3e23-ae48e51848ef,NORFOL-d8deec,1996-06-17T01:56:54Z,1996-06-17T04:25:43Z,emergency,Encounter for symptom (procedure),Acute infective cystitis (disorder),SOUTHWOOD AT NORWELL NURSING CTR
+d21f2794-014b-c66b-1d42-519e351a0009,NORFOL-d8deec,1998-02-15T01:56:54Z,1998-02-15T02:56:08Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-25d8-fcce93c4ef01,NORFOL-d8deec,2014-02-16T01:56:54Z,2014-02-16T02:34:33Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-1a15-711d7eaef6c5,NORFOL-d8deec,2016-02-28T01:56:54Z,2016-02-28T02:32:46Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-1730-cfcd88918006,NORFOL-d8deec,2017-03-05T01:56:54Z,2017-03-05T02:41:27Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-d08c-3ab0c869a697,NORFOL-d8deec,2018-03-11T01:56:54Z,2018-03-11T02:38:45Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-4581-99a6aa895d95,NORFOL-d8deec,2019-03-17T01:56:54Z,2019-03-17T02:44:55Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-9b3d-a41c1ca3e818,NORFOL-d8deec,2020-03-22T01:56:54Z,2020-03-22T02:38:11Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-3d95-26bedb43f5a3,NORFOL-d8deec,2021-03-28T01:56:54Z,2021-03-28T02:36:20Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-56a8-88f9e762c0b2,NORFOL-d8deec,2022-04-03T01:56:54Z,2022-04-03T02:43:01Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-83a0-4840e08f984b,NORFOL-d8deec,2023-04-09T01:56:54Z,2023-04-09T02:35:47Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-69b3-29dd92edf4a2,NORFOL-d8deec,2024-04-14T01:56:54Z,2024-04-14T02:53:07Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-c9e2-d8da34d47c57,NORFOL-d8deec,2025-04-20T01:56:54Z,2025-04-20T02:49:22Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+d21f2794-014b-c66b-9bd4-972030964c67,NORFOL-d8deec,2026-04-26T01:56:54Z,2026-04-26T02:54:46Z,wellness,General examination of patient (procedure),,CIRCLE OF LIFE FAMILY MEDICINE PC
+e34a6a5e-1d77-508d-3f65-4ab7eb2902ab,NORFOL-d010b2,2012-10-26T15:58:38Z,2012-10-26T16:13:38Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+0b786670-17af-32e1-dee6-43b80e034eb6,NORFOL-4b71fa,2017-03-28T23:29:08Z,2017-03-29T00:20:36Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-5ae7-5c0807ba53ae,NORFOL-4b71fa,2019-11-05T23:29:08Z,2019-11-06T00:09:16Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-04ef-abfe34d8307e,NORFOL-4b71fa,2019-11-19T23:29:08Z,2019-11-19T23:59:28Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-fecb-8a818d0ac2e1,NORFOL-4b71fa,2019-11-26T23:29:08Z,2019-11-26T23:44:08Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-9327-8bf1c1f8a45f,NORFOL-4b71fa,2019-12-10T23:29:08Z,2019-12-10T23:44:08Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-fe09-03b77b7e36dc,NORFOL-4b71fa,2019-12-17T23:29:08Z,2019-12-18T00:08:11Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-5780-6f8edda5f9ec,NORFOL-4b71fa,2022-08-09T23:29:08Z,2022-08-10T00:09:23Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-72bd-bfa2b8b20581,NORFOL-4b71fa,2022-08-16T23:29:08Z,2022-08-16T23:44:08Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-fbd0-d55ec68717cc,NORFOL-4b71fa,2022-08-30T23:29:08Z,2022-08-30T23:44:08Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+0b786670-17af-32e1-8319-59c6da29051b,NORFOL-4b71fa,2022-10-04T23:29:08Z,2022-10-05T00:14:58Z,urgentcare,Urgent care clinic (environment),,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+197ec76f-0730-2587-0723-f135a210228f,NORFOL-a75855,2021-06-24T01:11:59Z,2021-06-24T01:26:59Z,outpatient,Administration of vaccine to produce active immunity (procedure),,CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-aa85-041089b90257,NORFOL-a75855,2021-07-15T01:11:59Z,2021-07-15T01:26:59Z,outpatient,Administration of vaccine to produce active immunity (procedure),,CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-4d98-4d24438ad448,NORFOL-a75855,2021-11-09T01:47:30Z,2021-11-09T02:02:30Z,ambulatory,Encounter for check up (procedure),Fracture of ankle (disorder),CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-08d9-3c5bf0e66e27,NORFOL-a75855,2022-06-22T01:11:59Z,2022-06-22T01:26:59Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-948f-de16c095b492,NORFOL-a75855,2022-10-14T17:11:59Z,2022-10-14T17:26:59Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-62a7-17ae1f234a55,NORFOL-a75855,2023-06-17T01:11:59Z,2023-06-17T01:26:59Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-b4dd-647b565ae74b,NORFOL-a75855,2023-09-23T01:11:59Z,2023-09-23T02:40:47Z,ambulatory,Encounter for symptom (procedure),Acute infective cystitis (disorder),CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-c104-a261e520014b,NORFOL-a75855,2024-08-29T01:11:59Z,2024-08-29T10:40:27Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-df52-75b4c1ba2162,NORFOL-a75855,2026-06-01T01:11:59Z,2026-06-01T01:26:59Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),CURAHEALTH STOUGHTON LLC
+c1453af6-5763-f853-5b41-bbc09afc7a72,NORFOL-c0283b,2015-03-15T12:44:34Z,2015-03-15T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-a1f4-3cdfe4cfd8da,NORFOL-c0283b,2016-12-04T12:44:34Z,2016-12-04T12:59:34Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-5bee-4f2d31f99660,NORFOL-c0283b,2016-12-11T12:44:34Z,2016-12-11T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-37a3-372970fd9ed2,NORFOL-c0283b,2017-06-11T12:44:34Z,2017-06-11T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-43aa-c06a564b1a91,NORFOL-c0283b,2017-12-10T12:44:34Z,2017-12-10T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-9d5d-c939f211685c,NORFOL-c0283b,2017-12-17T12:44:34Z,2017-12-17T16:20:05Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-2ed2-8d2bd1e91c56,NORFOL-c0283b,2018-12-16T12:44:34Z,2018-12-16T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-8b62-2daca046764d,NORFOL-c0283b,2018-12-23T12:44:34Z,2018-12-23T15:56:19Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-0b03-fc05d7df86b3,NORFOL-c0283b,2019-12-22T12:44:34Z,2019-12-22T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-834b-1885a58e9840,NORFOL-c0283b,2020-12-27T12:44:34Z,2020-12-27T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-f430-702892ec8ab5,NORFOL-c0283b,2022-01-02T12:44:34Z,2022-01-02T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-8dea-7e8707934ef9,NORFOL-c0283b,2022-01-09T12:44:34Z,2022-01-09T20:01:21Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-9cf2-dd41cb6544ff,NORFOL-c0283b,2023-01-08T12:44:34Z,2023-01-08T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-d050-dbc8994095fe,NORFOL-c0283b,2023-01-15T12:44:34Z,2023-01-15T16:50:09Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-205a-d6af5d96fe97,NORFOL-c0283b,2023-12-07T12:44:34Z,2023-12-07T13:44:34Z,emergency,Emergency room admission (procedure),Concussion injury of brain (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+c1453af6-5763-f853-5798-1ce6e7ea4027,NORFOL-c0283b,2024-01-14T12:44:34Z,2024-01-14T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-0dd7-ac5abe2e5806,NORFOL-c0283b,2024-01-21T12:44:34Z,2024-01-21T16:11:40Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-aaea-a2b891cb94f8,NORFOL-c0283b,2024-02-16T12:44:34Z,2024-02-16T12:59:34Z,ambulatory,Encounter for check up (procedure),Concussion with no loss of consciousness (disorder),NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-2b4f-c8feb4d4f6ec,NORFOL-c0283b,2025-01-19T12:44:34Z,2025-01-19T12:59:34Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-f0cd-242cdf0e2c42,NORFOL-c0283b,2025-05-07T18:44:34Z,2025-05-07T18:59:34Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-700f-cf7cb1d05e7b,NORFOL-c0283b,2026-01-18T12:44:34Z,2026-01-18T12:59:34Z,outpatient,Administration of vaccine to produce active immunity (procedure),,NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-badc-0fa62b04d97b,NORFOL-c0283b,2026-01-25T12:44:34Z,2026-01-25T13:13:14Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+c1453af6-5763-f853-19e9-b76275275525,NORFOL-c0283b,2026-02-08T12:44:34Z,2026-02-08T12:59:34Z,outpatient,Administration of vaccine to produce active immunity (procedure),,NEW ENGLAND SINAI HOSPITAL
+c1453af6-5763-f853-103f-00bf51d2ff48,NORFOL-c0283b,2026-02-08T12:44:34Z,2026-02-08T15:32:16Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),NEW ENGLAND SINAI HOSPITAL
+5780b82b-0419-ffe6-fc86-ba87a123b207,NORFOL-8a483d,2019-10-03T10:43:16Z,2019-10-03T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-4054-7953a17359bb,NORFOL-8a483d,2019-11-07T10:43:16Z,2019-11-07T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-f3e1-a4e5671a93ca,NORFOL-8a483d,2020-01-09T10:43:16Z,2020-01-09T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-60da-5c21b8ba21ad,NORFOL-8a483d,2020-03-12T10:43:16Z,2020-03-12T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-d79f-12b54ef1a8f6,NORFOL-8a483d,2020-06-11T10:43:16Z,2020-06-11T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-355d-f43590e83af3,NORFOL-8a483d,2020-07-29T10:43:16Z,2020-07-29T10:58:16Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-782f-270d6fcfae1a,NORFOL-8a483d,2020-09-10T10:43:16Z,2020-09-10T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-dc8d-8acddd783d50,NORFOL-8a483d,2020-12-10T10:43:16Z,2020-12-10T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-3a29-727f8a1d52f7,NORFOL-8a483d,2020-12-17T10:43:16Z,2020-12-17T10:58:16Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-01db-4a8df5705b6f,NORFOL-8a483d,2021-03-11T10:43:16Z,2021-03-11T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-96d4-9669717af917,NORFOL-8a483d,2021-08-08T10:43:16Z,2021-08-08T10:58:16Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-83d4-2914911dbbee,NORFOL-8a483d,2021-09-09T10:43:16Z,2021-09-09T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-6437-ec8fc8cdbe64,NORFOL-8a483d,2022-03-10T10:43:16Z,2022-03-10T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-0862-b5e7502008ca,NORFOL-8a483d,2022-09-08T10:43:16Z,2022-09-08T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-da3e-7b489830b743,NORFOL-8a483d,2022-09-15T10:43:16Z,2022-09-15T14:18:39Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-8b61-738f1f8dfa7b,NORFOL-8a483d,2023-03-09T10:43:16Z,2023-03-09T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-bbf3-713bff1020f1,NORFOL-8a483d,2023-09-07T10:43:16Z,2023-09-07T11:03:18Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-59d8-b36a3805ddd0,NORFOL-8a483d,2023-09-14T10:43:16Z,2023-09-14T14:24:28Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-a599-4ef30447294e,NORFOL-8a483d,2024-09-12T10:43:16Z,2024-09-12T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+5780b82b-0419-ffe6-df19-b6ba65839adc,NORFOL-8a483d,2025-02-11T17:43:16Z,2025-02-11T17:58:16Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-66bc-3192bd55525a,NORFOL-8a483d,2025-03-19T17:43:16Z,2025-03-19T17:58:16Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-2453-18b02c9d5f3f,NORFOL-8a483d,2025-04-09T17:43:16Z,2025-04-09T17:58:16Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-6ad1-7e5d6b3425d2,NORFOL-8a483d,2025-04-17T10:43:16Z,2025-04-17T11:04:38Z,outpatient,Encounter for check up (procedure),,STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-ccee-7515ae1e4261,NORFOL-8a483d,2025-04-24T10:43:16Z,2025-04-24T17:05:22Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),STEWARD ST. ANNES HOSPITAL CORPORATION
+5780b82b-0419-ffe6-8362-72a7d823d944,NORFOL-8a483d,2025-09-18T10:43:16Z,2025-09-18T10:58:16Z,wellness,Well child visit (procedure),,ACTIVATED BY WELLNESS LLC
+887e4b4e-a3e1-b573-e5dd-fb76a003e994,NORFOL-d01758,2006-03-26T02:49:39Z,2006-03-26T03:04:39Z,ambulatory,Encounter for problem (procedure),Wheat (substance),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-4c25-13bee5319da7,NORFOL-d01758,2006-04-09T15:49:39Z,2006-04-09T16:24:41Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-c1b5-84e5a5c20ac0,NORFOL-d01758,2010-02-26T15:49:39Z,2010-02-26T16:04:39Z,ambulatory,Encounter for symptom (procedure),Perennial allergic rhinitis with seasonal variation (disorder),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-381a-3312e620787a,NORFOL-d01758,2015-03-17T11:47:20Z,2015-03-17T12:09:10Z,ambulatory,Follow-up encounter (procedure),Adolescent idiopathic scoliosis (disorder),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-3c8d-f021759d94a4,NORFOL-d01758,2016-01-05T15:49:39Z,2016-01-05T16:04:39Z,wellness,Well child visit (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-0e43-b6625956c718,NORFOL-d01758,2017-01-10T15:49:39Z,2017-01-10T16:04:39Z,wellness,Well child visit (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-37f8-d9ddfc4ca8c2,NORFOL-d01758,2018-01-02T15:49:39Z,2018-01-02T16:28:21Z,ambulatory,Allergic disorder initial assessment (regime/therapy),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-b546-2ae64ed1cad0,NORFOL-d01758,2018-01-16T15:49:39Z,2018-01-16T16:19:23Z,wellness,Well child visit (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-8ba2-62f62b3abce2,NORFOL-d01758,2018-01-26T16:28:21Z,2018-01-26T17:10:32Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-8ba8-74039dd9615d,NORFOL-d01758,2018-01-30T15:49:39Z,2018-01-30T20:24:33Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-eb96-0973acbec9f2,NORFOL-d01758,2018-02-22T17:10:32Z,2018-02-22T18:05:48Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-6151-25c3cd77e431,NORFOL-d01758,2018-03-20T18:05:48Z,2018-03-20T18:24:37Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-cf02-aa614fde76f4,NORFOL-d01758,2018-04-16T18:24:37Z,2018-04-16T18:46:45Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-9b18-0f809a7439b7,NORFOL-d01758,2018-05-09T18:46:45Z,2018-05-09T19:21:48Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-b6ea-744a85e6abd0,NORFOL-d01758,2018-06-03T19:21:48Z,2018-06-03T19:42:00Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-0b16-d439d5640ff4,NORFOL-d01758,2018-06-28T19:42:00Z,2018-06-28T20:35:55Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-6da1-147b61d6a47d,NORFOL-d01758,2018-07-19T20:35:55Z,2018-07-19T21:08:42Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-b607-05ca522e01e4,NORFOL-d01758,2018-08-09T21:08:42Z,2018-08-09T21:53:44Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-8055-e81ae2161de9,NORFOL-d01758,2018-09-03T21:53:44Z,2018-09-03T22:38:58Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-0740-fb2f753f597c,NORFOL-d01758,2018-09-30T22:38:58Z,2018-09-30T23:12:31Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-70f1-942f58324393,NORFOL-d01758,2018-10-23T23:12:31Z,2018-10-23T23:29:45Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-2a5b-f3e0ba8a5f88,NORFOL-d01758,2018-11-15T23:29:45Z,2018-11-15T23:56:08Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-955a-9aa4d44092fd,NORFOL-d01758,2018-12-08T23:56:08Z,2018-12-09T00:20:14Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-8035-ad28d60bfd5c,NORFOL-d01758,2019-01-02T00:20:14Z,2019-01-02T01:13:15Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-eb11-7cb21aea9d94,NORFOL-d01758,2019-01-22T15:49:39Z,2019-01-22T16:04:39Z,wellness,Well child visit (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-6d18-2319646e70b9,NORFOL-d01758,2019-01-25T01:13:15Z,2019-01-25T01:46:27Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-b8e9-d799fd8d055c,NORFOL-d01758,2019-02-05T15:49:39Z,2019-02-05T19:46:43Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-c934-04e9ca02e93b,NORFOL-d01758,2019-02-17T01:46:27Z,2019-02-17T02:23:42Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-ffdb-2a40859c2c6c,NORFOL-d01758,2019-03-16T02:23:42Z,2019-03-16T03:00:54Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-672c-dbdbdc6e7933,NORFOL-d01758,2019-04-12T03:00:54Z,2019-04-12T03:21:55Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-8e50-32915a3f73bd,NORFOL-d01758,2019-05-03T03:21:55Z,2019-05-03T04:13:09Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-114d-9a1e5d5abfc9,NORFOL-d01758,2019-05-30T04:13:09Z,2019-05-30T04:37:20Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-b6de-3a8bdeda55ec,NORFOL-d01758,2019-06-25T04:37:20Z,2019-06-25T05:22:56Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-522e-b5fc5c010023,NORFOL-d01758,2019-07-20T05:22:56Z,2019-07-20T06:10:38Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-57ec-bd6aaf6c7c5e,NORFOL-d01758,2019-08-12T06:10:38Z,2019-08-12T06:47:38Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-24a5-d3e55f191ffc,NORFOL-d01758,2019-09-08T06:47:38Z,2019-09-08T07:37:50Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-ac65-e10d715ab5f1,NORFOL-d01758,2019-10-01T07:37:50Z,2019-10-01T07:55:49Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-a0b6-e2c1786a31e2,NORFOL-d01758,2019-10-27T07:55:49Z,2019-10-27T08:40:40Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-158e-201d65a66ecd,NORFOL-d01758,2019-11-23T08:40:40Z,2019-11-23T09:01:26Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-00b3-f068deb69966,NORFOL-d01758,2019-12-20T09:01:26Z,2019-12-20T09:59:31Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-a0f4-d4a30a68cf60,NORFOL-d01758,2020-01-10T09:59:31Z,2020-01-10T10:35:11Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-3541-4fe167ec7354,NORFOL-d01758,2020-01-28T15:49:39Z,2020-01-28T16:12:32Z,wellness,Well child visit (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-05cd-736d3f42e2be,NORFOL-d01758,2020-02-04T10:35:11Z,2020-02-04T10:56:50Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-e1d3-4143fd2efdb7,NORFOL-d01758,2020-02-11T15:49:39Z,2020-02-11T18:51:05Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-9f99-be15919e1598,NORFOL-d01758,2020-02-26T10:56:50Z,2020-02-26T11:17:01Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-6c74-e7fffc0bba68,NORFOL-d01758,2020-03-23T11:17:01Z,2020-03-23T12:10:53Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-8933-7b89727f1acf,NORFOL-d01758,2020-04-13T12:10:53Z,2020-04-13T12:27:08Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-890f-8c2d08aa757d,NORFOL-d01758,2020-05-10T12:27:08Z,2020-05-10T12:49:59Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-3c6f-e181bccf95a8,NORFOL-d01758,2020-06-05T12:49:59Z,2020-06-05T13:41:19Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-1142-af20aefaac74,NORFOL-d01758,2020-07-02T13:41:19Z,2020-07-02T14:34:59Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-b42e-0f33d55e6859,NORFOL-d01758,2020-07-25T14:34:59Z,2020-07-25T15:19:51Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-bd54-a0abacb2916c,NORFOL-d01758,2020-08-21T15:19:51Z,2020-08-21T15:57:31Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-f07e-86c1f01173d8,NORFOL-d01758,2020-09-13T15:57:31Z,2020-09-13T16:12:54Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-2d00-3ebb6a4f91bd,NORFOL-d01758,2020-09-22T02:49:39Z,2020-09-22T03:04:39Z,ambulatory,Encounter for problem (procedure),Shellfish (substance),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-4f6e-fc87d4db143a,NORFOL-d01758,2020-10-09T16:12:54Z,2020-10-09T17:09:34Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-6cb1-f5332594d51d,NORFOL-d01758,2020-10-31T17:09:34Z,2020-10-31T17:46:47Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-85b0-8d3008bc3279,NORFOL-d01758,2020-11-26T17:46:47Z,2020-11-26T18:41:16Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-dbfe-c056bdc4983e,NORFOL-d01758,2020-12-21T18:41:16Z,2020-12-21T19:01:16Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-3bd9-f5bff692151a,NORFOL-d01758,2021-01-13T19:01:16Z,2021-01-13T19:41:52Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-df9c-62d29ccaa239,NORFOL-d01758,2021-02-02T15:49:39Z,2021-02-02T16:04:39Z,wellness,Well child visit (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-3fe6-1a6e020aa885,NORFOL-d01758,2021-02-08T19:41:52Z,2021-02-08T20:41:16Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-748c-cbd3ac0e521a,NORFOL-d01758,2021-02-16T15:49:39Z,2021-02-16T19:25:24Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-44be-ed48a7b18ecc,NORFOL-d01758,2021-03-06T20:41:16Z,2021-03-06T21:13:46Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-fa7c-1a7a425a0d96,NORFOL-d01758,2021-03-28T21:13:46Z,2021-03-28T22:06:35Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-0595-60260b959860,NORFOL-d01758,2021-04-24T22:06:35Z,2021-04-24T22:38:57Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-1873-4183451e52d2,NORFOL-d01758,2021-05-19T22:38:57Z,2021-05-19T23:35:55Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-6b44-4a47b47bd56d,NORFOL-d01758,2021-06-09T23:35:55Z,2021-06-10T00:27:18Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-97d6-864287813231,NORFOL-d01758,2021-07-01T00:27:18Z,2021-07-01T01:17:19Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-d9b9-817342734b51,NORFOL-d01758,2021-07-20T15:49:39Z,2021-07-20T16:04:39Z,outpatient,Administration of vaccine to produce active immunity (procedure),,NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-98e0-5ba1d9029f06,NORFOL-d01758,2021-07-27T01:17:19Z,2021-07-27T02:15:51Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-8379-82f44a89d4e1,NORFOL-d01758,2021-08-10T15:49:39Z,2021-08-10T16:04:39Z,outpatient,Administration of vaccine to produce active immunity (procedure),,NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-b083-edfddac18705,NORFOL-d01758,2021-08-21T02:15:51Z,2021-08-21T03:14:53Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-e9d7-6c17f0c96b45,NORFOL-d01758,2021-09-13T03:14:53Z,2021-09-13T04:01:08Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-02c0-4551fe33f49f,NORFOL-d01758,2021-10-04T04:01:08Z,2021-10-04T04:53:04Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-ff0a-143c306de5a4,NORFOL-d01758,2021-10-27T04:53:04Z,2021-10-27T05:48:00Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-9c6f-3a1d28868c7c,NORFOL-d01758,2021-11-20T05:48:00Z,2021-11-20T06:40:07Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-6727-f0a1c4ffe83b,NORFOL-d01758,2021-12-13T06:40:07Z,2021-12-13T07:36:35Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-7baf-0e6a21288faf,NORFOL-d01758,2022-01-04T07:36:35Z,2022-01-04T08:07:42Z,ambulatory,Outpatient procedure (procedure),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-198d-1a17bb50bae9,NORFOL-d01758,2022-01-18T15:49:39Z,2022-01-18T16:06:54Z,outpatient,Encounter for check up (procedure),,NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-19b0-3a2e1c1f36dd,NORFOL-d01758,2022-01-25T15:49:39Z,2022-01-25T16:04:39Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-b725-d94617a922ba,NORFOL-d01758,2022-01-26T08:07:42Z,2022-01-26T08:40:04Z,ambulatory,Allergic disorder follow-up assessment (regime/therapy),Allergic disposition (finding),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-8a23-07206d32d294,NORFOL-d01758,2022-02-08T15:49:39Z,2022-02-08T16:04:39Z,wellness,Well child visit (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-466d-02ddbba1d6ec,NORFOL-d01758,2023-02-14T15:49:39Z,2023-02-14T16:38:56Z,wellness,General examination of patient (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-ceb7-ae35c6c066b4,NORFOL-d01758,2023-02-28T15:49:39Z,2023-02-28T19:29:51Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-1ff8-b43a73358dc8,NORFOL-d01758,2024-02-20T15:49:39Z,2024-02-20T16:45:46Z,wellness,General examination of patient (procedure),,ADAPS HEALTHCARE LLC
+887e4b4e-a3e1-b573-f331-6c5dcd07788c,NORFOL-d01758,2025-08-19T15:49:39Z,2025-08-19T16:38:03Z,outpatient,Encounter for check up (procedure),,NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-2d17-31936102661a,NORFOL-d01758,2025-08-26T15:49:39Z,2025-08-26T16:04:39Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),NORWOOD HOSPITAL
+887e4b4e-a3e1-b573-ab40-3da9f3a1e51d,NORFOL-d01758,2026-02-03T15:49:39Z,2026-02-03T16:49:39Z,emergency,Emergency room admission (procedure),Sprain (morphologic abnormality),NORWOOD HOSPITAL
+031ce8e2-1443-01b4-f85f-43869f746de5,NORFOL-9c5acc,1995-04-12T15:44:09Z,1995-04-12T16:44:09Z,emergency,Emergency room admission (procedure),Chronic intractable migraine without aura (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+031ce8e2-1443-01b4-779d-a2b10a00b838,NORFOL-9c5acc,1995-06-25T15:44:09Z,1995-06-25T16:44:09Z,emergency,Emergency room admission (procedure),Impacted molars (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+031ce8e2-1443-01b4-7035-a4b6c39476ac,NORFOL-9c5acc,1996-12-08T15:44:09Z,1996-12-08T16:49:49Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-af89-09c414718f1c,NORFOL-9c5acc,1999-03-04T15:44:09Z,1999-03-04T16:29:11Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-078b-8014a8ee8471,NORFOL-9c5acc,2000-10-16T00:58:03Z,2000-10-16T11:58:03Z,emergency,Emergency room admission (procedure),Overdose (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+031ce8e2-1443-01b4-8907-7c0d38430cb2,NORFOL-9c5acc,2003-03-13T15:44:09Z,2003-03-13T16:22:40Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-3785-97b1e5c28fcf,NORFOL-9c5acc,2006-03-16T15:44:09Z,2006-03-16T16:33:40Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-812b-a052d2a1e706,NORFOL-9c5acc,2009-03-19T15:44:09Z,2009-03-19T16:18:58Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-97b7-081db810f8a6,NORFOL-9c5acc,2009-04-02T15:44:09Z,2009-04-02T19:14:12Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-1069-fa62b19913c4,NORFOL-9c5acc,2009-08-25T23:12:41Z,2009-08-26T12:12:41Z,emergency,Emergency room admission (procedure),Overdose (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+031ce8e2-1443-01b4-7e98-40c2a6b2e6b1,NORFOL-9c5acc,2009-09-02T12:12:41Z,2009-09-02T13:25:49Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-1b70-abc27dfc42fa,NORFOL-9c5acc,2009-10-02T13:25:49Z,2009-10-02T14:50:50Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-7227-6dbf5f68348d,NORFOL-9c5acc,2009-11-01T14:50:50Z,2009-11-01T15:51:41Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-0d3d-a1ba7e573074,NORFOL-9c5acc,2009-12-01T15:51:41Z,2009-12-01T17:21:28Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-deb4-7810a02b93bb,NORFOL-9c5acc,2009-12-31T17:21:28Z,2009-12-31T18:36:09Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-f754-0783f7b4d3f4,NORFOL-9c5acc,2010-01-30T18:36:09Z,2010-01-30T20:01:34Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-5564-1728added2ac,NORFOL-9c5acc,2010-03-01T20:01:34Z,2010-03-01T21:28:22Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-97d5-057c73346b7e,NORFOL-9c5acc,2010-03-17T15:44:09Z,2010-03-17T15:59:09Z,ambulatory,Domiciliary or rest home patient evaluation and management (procedure),Homeless (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-8d9d-939d3122fa0e,NORFOL-9c5acc,2010-03-31T21:28:22Z,2010-03-31T22:36:05Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-39c2-593a32abdd20,NORFOL-9c5acc,2010-04-30T22:36:05Z,2010-04-30T23:44:44Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-ac33-840a4c028465,NORFOL-9c5acc,2010-05-16T15:44:09Z,2010-05-16T15:59:09Z,ambulatory,Domiciliary or rest home patient evaluation and management (procedure),Homeless (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-81c1-2aec20f002cd,NORFOL-9c5acc,2010-05-30T23:44:44Z,2010-05-31T00:51:03Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-1cbf-9876847f2c1c,NORFOL-9c5acc,2010-07-15T15:44:09Z,2010-07-15T15:59:09Z,ambulatory,Domiciliary or rest home patient evaluation and management (procedure),Homeless (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-7c73-6d73bb00d8ab,NORFOL-9c5acc,2010-08-14T15:44:09Z,2010-08-14T15:59:09Z,ambulatory,Domiciliary or rest home patient evaluation and management (procedure),Homeless (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-c36b-4d356303c85d,NORFOL-9c5acc,2010-08-25T00:51:03Z,2010-09-07T00:51:03Z,inpatient,Drug rehabilitation and detoxification (regime/therapy),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-d670-ab96b9579bc6,NORFOL-9c5acc,2010-09-13T15:44:09Z,2010-09-13T15:59:09Z,ambulatory,Domiciliary or rest home patient evaluation and management (procedure),Homeless (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-c1ad-7e698d246493,NORFOL-9c5acc,2010-11-12T15:44:09Z,2010-11-12T15:59:09Z,ambulatory,Domiciliary or rest home patient evaluation and management (procedure),Homeless (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-a51a-b9d831c42353,NORFOL-9c5acc,2010-12-12T15:44:09Z,2010-12-12T15:59:09Z,ambulatory,Domiciliary or rest home patient evaluation and management (procedure),Homeless (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-f19d-a7f8f02aa9d5,NORFOL-9c5acc,2011-07-12T00:51:03Z,2011-07-12T02:05:40Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-9cc1-42cf0a524d7c,NORFOL-9c5acc,2011-11-10T02:05:40Z,2011-11-10T03:29:50Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-c9c6-342212f4c76c,NORFOL-9c5acc,2012-01-07T03:29:50Z,2012-01-07T04:51:58Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-0d8a-c88c75696624,NORFOL-9c5acc,2012-02-06T04:51:58Z,2012-02-06T06:10:36Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-8d24-110821e84d57,NORFOL-9c5acc,2012-03-22T15:44:09Z,2012-03-22T16:35:59Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-4125-9425c8efab14,NORFOL-9c5acc,2012-04-21T15:44:09Z,2012-04-21T15:59:09Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-c5ec-65dec50d49d5,NORFOL-9c5acc,2012-06-20T15:44:09Z,2012-06-20T15:59:09Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-4274-772a03d422e0,NORFOL-9c5acc,2012-07-07T09:44:09Z,2012-07-07T09:59:09Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-ce72-c5b9d3b1b29c,NORFOL-9c5acc,2012-07-25T06:10:36Z,2012-08-13T06:10:36Z,inpatient,Drug rehabilitation and detoxification (regime/therapy),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-c9df-40fcc8678db1,NORFOL-9c5acc,2012-08-19T15:44:09Z,2012-08-19T15:59:09Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-bc97-22a92fa15554,NORFOL-9c5acc,2012-10-22T06:10:36Z,2012-10-22T07:26:35Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-5dd4-519cf0038e74,NORFOL-9c5acc,2012-11-21T07:26:35Z,2012-11-21T08:39:05Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-4cdf-fd21d805b682,NORFOL-9c5acc,2012-12-21T08:39:05Z,2012-12-21T09:55:05Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-ccf4-5b3d301b2363,NORFOL-9c5acc,2013-03-28T15:44:09Z,2013-03-28T16:18:24Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-d3c8-8df84811e1a3,NORFOL-9c5acc,2013-04-11T15:44:09Z,2013-04-11T19:28:35Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-397a-909e34d396da,NORFOL-9c5acc,2013-07-07T09:55:05Z,2013-07-07T16:55:05Z,emergency,Emergency room admission (procedure),Overdose (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+031ce8e2-1443-01b4-3781-2dfe0466e1b7,NORFOL-9c5acc,2013-07-28T16:55:05Z,2013-07-29T00:55:05Z,emergency,Emergency room admission (procedure),Overdose (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+031ce8e2-1443-01b4-92dd-c201cdcd03a4,NORFOL-9c5acc,2013-08-26T00:55:05Z,2013-08-28T00:55:05Z,inpatient,Drug rehabilitation and detoxification (regime/therapy),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-40b7-91aadb474091,NORFOL-9c5acc,2013-11-27T00:55:05Z,2013-11-27T01:56:20Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-e4e2-ca4a7d84a762,NORFOL-9c5acc,2013-12-27T01:56:20Z,2013-12-27T02:57:55Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-fde8-65d36a627e7c,NORFOL-9c5acc,2014-01-26T02:57:55Z,2014-01-26T04:12:43Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-9c81-9c0977186bc0,NORFOL-9c5acc,2014-02-01T15:44:09Z,2014-02-01T15:59:09Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-d152-75593a6a89c3,NORFOL-9c5acc,2014-02-04T15:44:09Z,2014-02-04T16:35:32Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-b4c7-d1dbaa5225cd,NORFOL-9c5acc,2014-02-07T16:35:32Z,2014-02-07T17:18:52Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-136f-28069ea25288,NORFOL-9c5acc,2014-02-10T17:18:52Z,2014-02-10T18:15:09Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-938c-0d8679802e3f,NORFOL-9c5acc,2014-02-13T18:15:09Z,2014-02-13T18:55:38Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-3445-bc323d772091,NORFOL-9c5acc,2014-02-16T18:55:38Z,2014-02-16T19:26:16Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-c1c9-4a8914de97e8,NORFOL-9c5acc,2014-02-19T19:26:16Z,2014-02-19T20:03:14Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-cd9e-94eea5ab92d2,NORFOL-9c5acc,2014-02-22T20:03:14Z,2014-02-22T20:59:13Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-f36a-b5620dcc38c9,NORFOL-9c5acc,2014-02-25T20:59:13Z,2014-02-25T21:34:33Z,ambulatory,Patient encounter procedure (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-7cce-ef199e39a749,NORFOL-9c5acc,2014-04-03T15:44:09Z,2014-04-03T16:25:43Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-492e-37a1490759cb,NORFOL-9c5acc,2014-04-10T15:44:09Z,2014-04-10T15:59:09Z,ambulatory,Follow-up encounter (procedure),Chronic pain (finding),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-c593-09728b0f0b20,NORFOL-9c5acc,2014-07-29T04:12:43Z,2014-07-29T05:36:54Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-9258-1aa5a65e7489,NORFOL-9c5acc,2014-08-28T05:36:54Z,2014-08-28T06:46:30Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-48a8-b5c30f3eb40e,NORFOL-9c5acc,2014-09-27T06:46:30Z,2014-09-27T08:04:14Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-a973-dfd0203c8972,NORFOL-9c5acc,2014-10-27T08:04:14Z,2014-10-27T09:32:55Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-02cf-8c1a75d4b45c,NORFOL-9c5acc,2014-11-26T09:32:55Z,2014-11-26T10:43:49Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-be50-cdc25b8370d6,NORFOL-9c5acc,2015-04-09T15:44:09Z,2015-04-09T16:14:42Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-025c-2429982dd061,NORFOL-9c5acc,2016-04-01T10:43:49Z,2016-04-01T11:50:32Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-7c83-b81d8ced29c7,NORFOL-9c5acc,2016-04-14T15:44:09Z,2016-04-14T16:29:37Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-47cf-e14bb910b53d,NORFOL-9c5acc,2016-04-28T15:44:09Z,2016-04-28T18:49:51Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-396a-35da3d03aa8d,NORFOL-9c5acc,2016-05-01T11:50:32Z,2016-05-01T13:13:55Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-34c7-6d2b9eb5ec3f,NORFOL-9c5acc,2016-05-31T13:13:55Z,2016-05-31T14:20:13Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-6447-7d54edbd2672,NORFOL-9c5acc,2017-03-16T14:20:13Z,2017-03-16T15:25:58Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-e8af-ed46e251f495,NORFOL-9c5acc,2017-04-20T15:44:09Z,2017-04-20T16:29:51Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-4048-edf43c0a7478,NORFOL-9c5acc,2017-04-27T15:44:09Z,2017-04-27T16:49:53Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-0b49-7ecc87f12f59,NORFOL-9c5acc,2017-05-27T16:49:53Z,2017-05-27T17:55:08Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-0b8e-0067861f43b3,NORFOL-9c5acc,2018-02-12T17:55:08Z,2018-02-12T19:22:28Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-a023-b6cdfdc2a8f2,NORFOL-9c5acc,2018-03-14T19:22:28Z,2018-03-14T20:36:36Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-1a3b-d96c0d4fe480,NORFOL-9c5acc,2018-04-13T20:36:36Z,2018-04-13T21:47:05Z,ambulatory,Encounter for problem (procedure),Dependent drug abuse (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-780a-945fd908b466,NORFOL-9c5acc,2018-04-26T15:44:09Z,2018-04-26T16:23:24Z,wellness,General examination of patient (procedure),,FAMILY MEDICAL ASSOCIATES  P.C.
+031ce8e2-1443-01b4-f22f-f692da9cbe0b,NORFOL-9c5acc,2018-05-03T15:44:09Z,2018-05-03T15:59:09Z,outpatient,Encounter for check up (procedure),,NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-a434-df8d312cea22,NORFOL-9c5acc,2018-05-10T15:44:09Z,2018-05-10T15:59:09Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),NEW ENGLAND SINAI HOSPITAL
+031ce8e2-1443-01b4-40d5-34fd89da922b,NORFOL-9c5acc,2018-09-23T21:47:05Z,2018-09-23T22:47:05Z,emergency,Emergency room admission (procedure),Overdose (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+031ce8e2-1443-01b4-cfba-cb13fd522858,NORFOL-9c5acc,2018-10-04T15:44:09Z,2018-10-04T15:59:09Z,wellness,Death Certification,Overdose (disorder),FAMILY MEDICAL ASSOCIATES  P.C.
+97e39468-6488-ca8f-c108-c6c05cc112ed,NORFOL-951ff0,1986-05-11T19:41:42Z,1986-05-11T19:56:42Z,ambulatory,Encounter for problem (procedure),Shellfish (substance),CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-7b33-d33c04781ee2,NORFOL-951ff0,1986-05-25T23:41:42Z,1986-05-26T00:09:47Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-2cd9-4796092ea77a,NORFOL-951ff0,2003-02-07T02:41:42Z,2003-02-07T03:27:28Z,wellness,General examination of patient (procedure),,BL HEALTHCARE INC DELEWARE
+97e39468-6488-ca8f-cb39-a739bd2bee4b,NORFOL-951ff0,2004-02-13T02:41:42Z,2004-02-13T03:17:33Z,wellness,General examination of patient (procedure),,BL HEALTHCARE INC DELEWARE
+97e39468-6488-ca8f-4347-65852533d9f1,NORFOL-951ff0,2007-02-16T02:41:42Z,2007-02-16T03:22:45Z,wellness,General examination of patient (procedure),,BL HEALTHCARE INC DELEWARE
+97e39468-6488-ca8f-c018-ad9311db479b,NORFOL-951ff0,2016-02-26T02:41:42Z,2016-02-26T03:23:23Z,wellness,General examination of patient (procedure),,BL HEALTHCARE INC DELEWARE
+97e39468-6488-ca8f-6ddc-cfa0af9f3cb2,NORFOL-951ff0,2019-03-01T02:41:42Z,2019-03-01T03:15:44Z,wellness,General examination of patient (procedure),,BL HEALTHCARE INC DELEWARE
+97e39468-6488-ca8f-ac66-a8874c531ae4,NORFOL-951ff0,2019-03-15T02:41:42Z,2019-03-15T05:51:00Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-4ba8-e7495be60118,NORFOL-951ff0,2019-12-12T15:41:42Z,2019-12-12T15:56:42Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-ae98-3d7e0ef77f62,NORFOL-951ff0,2021-02-26T02:41:42Z,2021-02-26T02:56:42Z,outpatient,Administration of vaccine to produce active immunity (procedure),,CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-a087-36def050a642,NORFOL-951ff0,2021-03-06T16:41:42Z,2021-03-06T16:56:42Z,ambulatory,Encounter for symptom (procedure),Sinusitis (disorder),CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-a5e2-104997df071b,NORFOL-951ff0,2021-03-19T02:41:42Z,2021-03-19T02:56:42Z,outpatient,Administration of vaccine to produce active immunity (procedure),,CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-7fde-19a2fad5c844,NORFOL-951ff0,2022-03-04T02:41:42Z,2022-03-04T03:22:21Z,wellness,General examination of patient (procedure),,BL HEALTHCARE INC DELEWARE
+97e39468-6488-ca8f-b9ae-0dc4835d9e0e,NORFOL-951ff0,2024-06-08T02:41:42Z,2024-06-08T04:06:53Z,ambulatory,Encounter for symptom (procedure),Acute infective cystitis (disorder),CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-201e-d3afc7f2b50d,NORFOL-951ff0,2024-12-20T02:41:42Z,2024-12-20T03:40:35Z,wellness,General examination of patient (procedure),,BL HEALTHCARE INC DELEWARE
+97e39468-6488-ca8f-e033-dcc9ab28fdac,NORFOL-951ff0,2025-01-03T02:41:42Z,2025-01-03T05:37:33Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),CURAHEALTH STOUGHTON LLC
+97e39468-6488-ca8f-95f6-cdb27974993f,NORFOL-951ff0,2025-10-15T02:41:42Z,2025-10-15T02:56:42Z,ambulatory,Encounter for problem (procedure),Osteoarthritis of knee (disorder),CURAHEALTH STOUGHTON LLC
+31f368d9-3fdc-a15f-f6a9-0606e12a1440,NORFOL-e876cb,1981-11-15T21:44:09Z,1981-11-15T21:59:09Z,ambulatory,Encounter for problem (procedure),Shellfish (substance),NEW ENGLAND SINAI HOSPITAL
+31f368d9-3fdc-a15f-3b69-efb1c562bd7d,NORFOL-e876cb,1981-12-02T18:44:09Z,1981-12-02T19:06:03Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),NEW ENGLAND SINAI HOSPITAL
+31f368d9-3fdc-a15f-5cac-5b3314aa0ca9,NORFOL-e876cb,1981-12-04T11:44:09Z,1981-12-04T11:59:09Z,ambulatory,Encounter for symptom (procedure),Sinusitis (disorder),NEW ENGLAND SINAI HOSPITAL
+31f368d9-3fdc-a15f-ec3d-3b6d52a00907,NORFOL-e876cb,1995-02-11T15:44:09Z,1995-02-11T16:44:09Z,emergency,Emergency room admission (procedure),Chronic intractable migraine without aura (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+31f368d9-3fdc-a15f-e51d-5198dfee06c9,NORFOL-e876cb,1995-03-20T15:44:09Z,1995-03-20T16:44:09Z,emergency,Emergency room admission (procedure),Impacted molars (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+31f368d9-3fdc-a15f-369b-ce0768a202fa,NORFOL-e876cb,1995-07-12T15:44:09Z,1995-07-12T16:44:09Z,emergency,Emergency hospital admission (procedure),Chronic pain (finding),STOUGHTON PUBLIC HEALTH ASSOCIATION
+31f368d9-3fdc-a15f-e2a3-f17cb3ad7381,NORFOL-e876cb,2000-03-30T15:44:09Z,2000-03-30T16:55:49Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),NEW ENGLAND SINAI HOSPITAL
+31f368d9-3fdc-a15f-52f3-ff9dafd6e631,NORFOL-e876cb,2003-12-29T15:44:09Z,2003-12-30T12:44:09Z,emergency,Emergency room admission (procedure),Overdose (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+31f368d9-3fdc-a15f-5ff9-f190d17b5fc6,NORFOL-e876cb,2017-04-24T16:14:21Z,2017-04-24T17:14:21Z,emergency,Emergency room admission (procedure),Traumatic dislocation of temporomandibular joint (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+31f368d9-3fdc-a15f-0eb7-7de4bcf57ace,NORFOL-e876cb,2020-11-26T15:44:09Z,2020-11-26T16:23:39Z,urgentcare,Urgent care clinic (environment),,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+31f368d9-3fdc-a15f-bd08-3364cba08c6b,NORFOL-e876cb,2021-08-24T09:31:50Z,2021-08-25T05:31:50Z,emergency,Emergency room admission (procedure),Overdose (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+31f368d9-3fdc-a15f-440a-98c9a5a4121d,NORFOL-e876cb,2022-04-12T17:19:00Z,2022-04-12T18:19:00Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+31f368d9-3fdc-a15f-983c-364acd5b9e4d,NORFOL-e876cb,2024-12-24T13:25:03Z,2024-12-24T15:25:03Z,emergency,Emergency room admission (procedure),Overdose (disorder),STOUGHTON PUBLIC HEALTH ASSOCIATION
+35f80d0e-eaad-ef68-a696-d68e420fca4c,NORFOL-e26be4,2017-04-16T22:21:23Z,2017-04-17T03:52:24Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+35f80d0e-eaad-ef68-693f-23ad8256f0a1,NORFOL-e26be4,2020-02-02T22:21:23Z,2020-02-03T01:00:00Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+35f80d0e-eaad-ef68-31af-4a513c586746,NORFOL-e26be4,2023-09-20T00:21:23Z,2023-09-20T00:36:23Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+35f80d0e-eaad-ef68-088a-488e466abff0,NORFOL-e26be4,2024-02-11T22:21:23Z,2024-02-12T01:45:33Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),STEWARD ST. ANNES HOSPITAL CORPORATION
+35f80d0e-eaad-ef68-5102-acbf462409bc,NORFOL-e26be4,2024-04-06T22:43:41Z,2024-04-06T22:58:41Z,ambulatory,Encounter for check up (procedure),Concussion with no loss of consciousness (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+35f80d0e-eaad-ef68-2228-401c5da8a442,NORFOL-e26be4,2024-04-12T22:21:23Z,2024-04-12T23:42:50Z,ambulatory,Encounter for symptom (procedure),Acute infective cystitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+35f80d0e-eaad-ef68-fb03-ec4fb9f55ffe,NORFOL-e26be4,2026-06-15T11:21:23Z,2026-06-15T11:36:23Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+f6359fe4-4340-2820-7308-9148b78f5446,NORFOL-cd0813,2016-11-07T00:54:50Z,2016-11-07T01:09:50Z,wellness,Well child visit (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-483a-b00504255d0d,NORFOL-cd0813,2017-11-13T00:54:50Z,2017-11-13T01:09:50Z,wellness,Well child visit (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-0332-06e985d0febc,NORFOL-cd0813,2017-12-24T00:54:50Z,2017-12-24T01:54:50Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),CARDIGAN NURSING & REHABILITATION CENTER
+f6359fe4-4340-2820-d610-b19a302de696,NORFOL-cd0813,2018-11-19T00:54:50Z,2018-11-19T01:16:21Z,wellness,Well child visit (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-9598-c428ef56b1fc,NORFOL-cd0813,2019-11-25T00:54:50Z,2019-11-25T01:15:10Z,wellness,Well child visit (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-1df4-d4c62e30a5e6,NORFOL-cd0813,2020-11-30T00:54:50Z,2020-11-30T01:22:18Z,wellness,Well child visit (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-60ee-2451778574a2,NORFOL-cd0813,2021-12-06T00:54:50Z,2021-12-06T01:13:10Z,wellness,Well child visit (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-f635-f33071bc4a11,NORFOL-cd0813,2022-12-12T00:54:50Z,2022-12-12T01:09:50Z,wellness,Well child visit (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-130d-fcf71f6026f0,NORFOL-cd0813,2023-05-17T01:29:20Z,2023-05-17T02:29:20Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),CARDIGAN NURSING & REHABILITATION CENTER
+f6359fe4-4340-2820-4a88-232a015ed022,NORFOL-cd0813,2023-12-18T00:54:50Z,2023-12-18T01:21:33Z,wellness,Well child visit (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-2f2c-34b14f98e226,NORFOL-cd0813,2024-12-23T00:54:50Z,2024-12-23T01:45:55Z,wellness,General examination of patient (procedure),,SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-2470-5338d34995a3,NORFOL-cd0813,2024-12-30T00:54:50Z,2024-12-30T01:54:50Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),CARDIGAN NURSING & REHABILITATION CENTER
+f6359fe4-4340-2820-fed6-c36b23d56f1b,NORFOL-cd0813,2025-01-14T00:54:50Z,2025-01-14T03:34:22Z,emergency,Encounter for symptom (procedure),Acute infective cystitis (disorder),CARDIGAN NURSING & REHABILITATION CENTER
+f6359fe4-4340-2820-237d-34e2e7358471,NORFOL-cd0813,2025-12-29T00:54:50Z,2025-12-29T01:50:27Z,wellness,General examination of patient (procedure),,SOUTH SHORE PRIMARY CARE PC
+f67eaca3-2366-7ee2-0c19-e7100ba0010c,NORFOL-45e46b,2004-09-19T10:44:48Z,2004-09-19T11:44:48Z,emergency,Emergency room admission (procedure),Chronic intractable migraine without aura (disorder),BAYADA HOME HEALTH CARE  INC
+f67eaca3-2366-7ee2-46ba-e2d6b629b0cd,NORFOL-45e46b,2008-04-13T10:44:48Z,2008-04-13T11:33:10Z,wellness,General examination of patient (procedure),,PATHWAYS HEALTHCARE LLC
+f67eaca3-2366-7ee2-cc5c-cff15dec09b3,NORFOL-45e46b,2012-04-22T10:44:48Z,2012-04-22T11:38:33Z,wellness,General examination of patient (procedure),,PATHWAYS HEALTHCARE LLC
+f67eaca3-2366-7ee2-a734-84fcd0caec04,NORFOL-45e46b,2014-02-04T10:44:48Z,2014-02-04T10:59:48Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),WALDEN BEHAVIORAL CARE LLC
+f67eaca3-2366-7ee2-3799-4acf1a1de18e,NORFOL-45e46b,2015-04-26T10:44:48Z,2015-04-26T11:31:07Z,wellness,General examination of patient (procedure),,PATHWAYS HEALTHCARE LLC
+f67eaca3-2366-7ee2-fc60-fbf043b952bd,NORFOL-45e46b,2018-04-29T10:44:48Z,2018-04-29T11:33:44Z,wellness,General examination of patient (procedure),,PATHWAYS HEALTHCARE LLC
+f67eaca3-2366-7ee2-a3ab-903a0ec33dd8,NORFOL-45e46b,2018-05-13T10:44:48Z,2018-05-13T13:13:04Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),WALDEN BEHAVIORAL CARE LLC
+f67eaca3-2366-7ee2-5953-8a766ff348ad,NORFOL-45e46b,2021-05-02T10:44:48Z,2021-05-02T11:35:42Z,wellness,General examination of patient (procedure),,PATHWAYS HEALTHCARE LLC
+f67eaca3-2366-7ee2-b442-d111ca4856ce,NORFOL-45e46b,2024-05-05T10:44:48Z,2024-05-05T11:25:18Z,wellness,General examination of patient (procedure),,PATHWAYS HEALTHCARE LLC
+f67eaca3-2366-7ee2-2413-da64226ebcb7,NORFOL-45e46b,2024-05-19T10:44:48Z,2024-05-19T14:00:46Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),WALDEN BEHAVIORAL CARE LLC
+f67eaca3-2366-7ee2-d47e-0bb88333ecb7,NORFOL-45e46b,2025-02-10T22:44:48Z,2025-02-10T22:59:48Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),WALDEN BEHAVIORAL CARE LLC
+f67eaca3-2366-7ee2-1a60-2279df6a6a3e,NORFOL-45e46b,2025-05-26T18:44:48Z,2025-05-26T18:59:48Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),WALDEN BEHAVIORAL CARE LLC
+c823813e-2588-4814-85cf-39c61bc99db3,NORFOL-92880a,2022-05-08T05:13:47Z,2022-05-08T06:13:47Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),CARDIGAN NURSING & REHABILITATION CENTER

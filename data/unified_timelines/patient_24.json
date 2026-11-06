@@ -1,0 +1,1421 @@
+{
+  "cluster_id": "24",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "North Central Mass Health",
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1942-11-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": []
+    },
+    {
+      "date": "1948-12-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": []
+    },
+    {
+      "date": "1950-01-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": []
+    },
+    {
+      "date": "1953-01-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1980-11-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "prediabet",
+          "canonical": "prediabet",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1981-11-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": []
+    },
+    {
+      "date": "2001-03-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "NS",
+          "canonical": "NS",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2001-03-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Acute non-ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "NS",
+          "canonical": "NS",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol tartrate",
+          "canonical": "metoprolol tartrate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "atorvastatin",
+          "canonical": "atorvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "prasugrel",
+          "canonical": "prasugrel",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2004-03-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2004-03-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "corona",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Disease caused by severe acute respiratory syndrome coronavirus 2 | History of coronary artery bypass grafting | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2004-10-18",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2005-04-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2005-06-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Aortic valve stenosis (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "partner",
+          "canonical": "partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-06-01"
+        }
+      ]
+    },
+    {
+      "date": "2016-05-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-01T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-07T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-06-07T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-06-13T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-06-13T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-22T02:19:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-06-22T02:19:57Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full",
+          "canonical": "Full",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-06-24"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-06-18T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "RUMANA HOME CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2020-06-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-24T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-03"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-03T02:12:25Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2021-02-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "BENJAMIN HEALTHCARE CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-03-20"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-03-20T22:01:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "BENJAMIN HEALTHCARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2021-03-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2021-03-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of forearm (disorder)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-12",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Cerebrovascular accident (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ce",
+          "canonical": "ce",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-05-12"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ce",
+          "canonical": "ce",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-05-12"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alteplase",
+          "canonical": "Alteplase",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-30T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-06-30T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-30T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-15T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-12-15T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-15T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2022-12-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronch",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-18"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-18"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-18T03:56:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-06T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-07-06T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-06T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-29T23:46:10Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "BENJAMIN HEALTHCARE CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-22T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "HYDROcodone Bitartrate",
+          "canonical": "HYDROcodone Bitartrate | Hydrocodone Bitartrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-06-22T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-08T22:26:06Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "BENJAMIN HEALTHCARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2023-07-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-14T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-12-14T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-14T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-20T23:11:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-07-20T23:11:04Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of forearm (disorder)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-12-19"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-12-19"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-19T00:58:55Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-19T00:58:55Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-19T00:58:55Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-14",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-07-11"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-07-11"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-21T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-21T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-11T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-07-11T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-11T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-28T23:17:48Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-17T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-17T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-07-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-15T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-01-15T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-15T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": []
+    },
+    {
+      "date": "2026-01-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-23T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vazal",
+          "canonical": "Vazal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-07-23T20:44:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-23T20:44:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-01-29"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-29T21:01:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "dental",
+          "canonical": "Dental filling lost | Fractured dental filling | Leaking dental filling | Loose dental filling",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-29T23:56:25Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FENWAY COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part-time",
+          "canonical": "Part-time",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "zal",
+          "canonical": "zal",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Myocardial infarction",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bronchitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

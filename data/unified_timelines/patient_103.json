@@ -1,0 +1,497 @@
+{
+  "cluster_id": "103",
+  "hospitals": [
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "2013-04-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WAYSIDE YOUTH & FAMILY SUPPORT NETWORK",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Housing",
+          "canonical": "Housing",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Received higher education",
+          "canonical": "Received higher education",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2014-04-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WAYSIDE YOUTH & FAMILY SUPPORT NETWORK",
+      "entities": []
+    },
+    {
+      "date": "2014-07-04",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2014-07-14",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2016-02-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2016-08-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-09-07"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BROOKHAVEN AT LEXINGTON",
+      "entities": []
+    },
+    {
+      "date": "2016-10-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2016-12-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-12-13T16:32:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-12-13T16:32:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-13T16:32:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-12-13T16:32:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-13T16:32:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-12-13T16:32:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-12-13T16:32:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ness",
+          "canonical": "ness",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-12-13T16:32:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-04-10",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WAYSIDE YOUTH & FAMILY SUPPORT NETWORK",
+      "entities": []
+    },
+    {
+      "date": "2017-04-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-24T18:32:27Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2019-08-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2019-09-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2019-10-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2019-11-04",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2019-11-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-10T05:05:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-02",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2019-12-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-23T22:14:10Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2020-01-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2020-02-10",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2020-02-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BROOKHAVEN AT LEXINGTON",
+      "entities": []
+    },
+    {
+      "date": "2020-03-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2020-04-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2020-04-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WAYSIDE YOUTH & FAMILY SUPPORT NETWORK",
+      "entities": []
+    },
+    {
+      "date": "2020-04-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "inpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2021-02-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2021-03-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-04-05"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-04",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infect",
+          "canonical": "Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sti",
+          "canonical": "sti",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nitrofurantoin",
+          "canonical": "nitrofurantoin macrocrystals | nitrofurantoin monohydrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-04-05T23:06:48Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "macrocrystals",
+          "canonical": "nitrofurantoin macrocrystals",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-04-05T23:06:48Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nitrofurantoin",
+          "canonical": "nitrofurantoin macrocrystals | nitrofurantoin monohydrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-04-05T23:06:48Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "monohydra",
+          "canonical": "nitrofurantoin monohydrate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-04-05T23:06:48Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WAYSIDE YOUTH & FAMILY SUPPORT NETWORK",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-05-08"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-05-08T18:27:23Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-05-08T18:27:23Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WAYSIDE YOUTH & FAMILY SUPPORT NETWORK",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealthy alcohol",
+          "canonical": "Unhealthy alcohol",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "THE GENERAL HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-05-19"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-05-19"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

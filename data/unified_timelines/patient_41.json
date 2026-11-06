@@ -1,0 +1,529 @@
+{
+  "cluster_id": "41",
+  "hospitals": [
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2008-02-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LAWRENCE FAMILY HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2009-02-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LAWRENCE FAMILY HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2010-02-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LAWRENCE FAMILY HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2016-02-22",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LAWRENCE FAMILY HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2016-02-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ferrous sulfate",
+          "canonical": "ferrous sulfate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vitamin B12",
+          "canonical": "Vitamin B",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-10-09T01:49:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-10-04T01:49:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-12-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-01-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-02-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LAWRENCE FAMILY HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-03-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-03-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-11T05:09:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-04-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-05-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-06-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-07-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-07-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "GENTLE HOME CARE SERVICES",
+      "entities": []
+    },
+    {
+      "date": "2019-08-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-09-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-09-23T01:49:36Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-09-23T01:49:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-09-18T01:49:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-06-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-09-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-02-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LAWRENCE FAMILY HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-09-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-09-08T01:49:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-05-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-06-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-07-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-08-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-09-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-10-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-10-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-11-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "GENTLE HOME CARE SERVICES",
+      "entities": []
+    },
+    {
+      "date": "2023-12-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-01-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-12-26T01:49:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-12-24T19:53:55Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-03-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LAWRENCE FAMILY HEALTH CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2025-03-17"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-17T08:07:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-09-23"
+        }
+      ]
+    },
+    {
+      "date": "2025-12-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ges",
+          "canonical": "ges",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nat",
+          "canonical": "Nat",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

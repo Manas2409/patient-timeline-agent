@@ -1,0 +1,278 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,ENTITY_TEXT,CANONICAL,MATCH_METHOD,MATCH_SCORE
+9a3814bb-f5b0-05f3-5b77-adbaaf993479,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-5b77-adbaaf993479,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-64ee-20a4a3ba6c0c,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-64ee-20a4a3ba6c0c,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-074a-f57f8d982676,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-074a-f57f8d982676,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-a55a-498bd0064bd9,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-a55a-498bd0064bd9,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-d39e-cf2100cb0ab9,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-d39e-cf2100cb0ab9,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-1a49-bec247006f2e,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-1a49-bec247006f2e,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-42c4-51d4baaa898c,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-42c4-51d4baaa898c,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-08d8-ff809fb6a22c,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-08d8-ff809fb6a22c,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-d4fc-a488cd5ae1ea,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-d4fc-a488cd5ae1ea,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-d4fc-a488cd5ae1ea,SOUTH_-876f47,MEDICATION,hala,hala,unmapped,0.0
+9a3814bb-f5b0-05f3-d4fc-a488cd5ae1ea,SOUTH_-876f47,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+9a3814bb-f5b0-05f3-a210-1453648ef3bc,SOUTH_-876f47,SYMPTOM,lace,lace,unmapped,0.0
+9a3814bb-f5b0-05f3-a210-1453648ef3bc,SOUTH_-876f47,SYMPTOM,lace,lace,unmapped,0.0
+9a3814bb-f5b0-05f3-a210-1453648ef3bc,SOUTH_-876f47,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+9a3814bb-f5b0-05f3-ed8d-715fba402558,SOUTH_-876f47,MEDICATION,ACTUA,ACTUAT | ACTUAT Dry Powder Inhaler | ACTUAT Metered Dose Inhaler | ACTUAT Mucosal Spray,ambiguous,1.0
+9a3814bb-f5b0-05f3-ed8d-715fba402558,SOUTH_-876f47,MEDICATION,fluticasone propionate,Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-ed8d-715fba402558,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-f546-8c0f5c6fe803,SOUTH_-876f47,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+9a3814bb-f5b0-05f3-f546-8c0f5c6fe803,SOUTH_-876f47,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-f546-8c0f5c6fe803,SOUTH_-876f47,MEDICATION,albuterol,albuterol,fuzzy,1.0
+7af6b271-f16d-21e1-ff78-ca4e771c7285,SOUTH_-a1fb3a,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-ff78-ca4e771c7285,SOUTH_-a1fb3a,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-e86a-4d1d571af6e6,SOUTH_-a1fb3a,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+7af6b271-f16d-21e1-e86a-4d1d571af6e6,SOUTH_-a1fb3a,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-e86a-4d1d571af6e6,SOUTH_-a1fb3a,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+7af6b271-f16d-21e1-4328-278fe7ff7719,SOUTH_-a1fb3a,DIAGNOSIS,time,time,unmapped,0.0
+7af6b271-f16d-21e1-4328-278fe7ff7719,SOUTH_-a1fb3a,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+7af6b271-f16d-21e1-4328-278fe7ff7719,SOUTH_-a1fb3a,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,DIAGNOSIS,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+d21f2794-014b-c66b-f5e6-f297b9e9e24c,SOUTH_-394788,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+d21f2794-014b-c66b-f5e6-f297b9e9e24c,SOUTH_-394788,MEDICATION,Tylen,Tylen,unmapped,0.0
+355a4d50-2628-aa65-39c8-b2e3a91b8380,SOUTH_-a09a50,SYMPTOM,Risk,Risk,unmapped,0.0
+355a4d50-2628-aa65-f854-03969552e0ad,SOUTH_-a09a50,DIAGNOSIS,blood sugar,blood sugar,unmapped,0.0
+355a4d50-2628-aa65-c7b4-bfba7a5c752a,SOUTH_-a09a50,DIAGNOSIS,partner,partner,unmapped,0.0
+355a4d50-2628-aa65-a85e-042665c2ed87,SOUTH_-a09a50,DIAGNOSIS,hypertriglyceridemia,Hypertriglyceridemia,fuzzy,1.0
+355a4d50-2628-aa65-a85e-042665c2ed87,SOUTH_-a09a50,DIAGNOSIS,metabolic syndrome,Metabolic syndrome X,fuzzy,1.0
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,DIAGNOSIS,coronary,Abnormal findings diagnostic imaging heart+coronary circulat | History of coronary artery bypass grafting,ambiguous,1.0
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,MEDICATION,Clopidogrel,Clopidogrel | clopidogrel,ambiguous,1.0
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,MEDICATION,metoprolol succinate,metoprolol succinate,fuzzy,1.0
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,MEDICATION,Nitroglycerin,Nitroglycerin | nitroglycerin,ambiguous,1.0
+355a4d50-2628-aa65-f72a-84ff440da1c1,SOUTH_-a09a50,DIAGNOSIS,Unhealthy alcohol drinking,Unhealthy alcohol drinking,unmapped,0.0
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,DIAGNOSIS,kidney disease,Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4,ambiguous,1.0
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,DIAGNOSIS,disorder,Disorder of kidney due to diabetes mellitus | Seizure disorder | Sleep disorder,ambiguous,1.0
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,DIAGNOSIS,diabetes,Diabetes mellitus due to cystic fibrosis | Diabetes mellitus type 2 | Disorder of kidney due to diabetes mellitus | Microalbuminuria due to type 2 diabetes mellitus,ambiguous,1.0
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-6752-40c50a7a5346,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-6752-40c50a7a5346,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-6752-40c50a7a5346,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-c029-34da5af5888d,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-c029-34da5af5888d,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-31a5-3b7c9838a55c,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-31a5-3b7c9838a55c,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-31a5-3b7c9838a55c,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-f3d4-94cbee9bbf7c,SOUTH_-a09a50,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+355a4d50-2628-aa65-f3d4-94cbee9bbf7c,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-f3d4-94cbee9bbf7c,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-10ed-d96a69189fc2,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-10ed-d96a69189fc2,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-af97-e76a6cb513eb,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-af97-e76a6cb513eb,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-af97-e76a6cb513eb,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-49fa-9ae21ee5aa26,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-49fa-9ae21ee5aa26,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-c421-e246c3a0307d,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-c421-e246c3a0307d,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-c421-e246c3a0307d,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-b6ba-b89162e4da88,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-b6ba-b89162e4da88,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-a05e-7f2327cba6f9,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-a05e-7f2327cba6f9,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-a05e-7f2327cba6f9,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-af36-c5f6e47850b4,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-af36-c5f6e47850b4,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-0361-6091de617d40,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-0361-6091de617d40,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-9995-88336b4e8544,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-9995-88336b4e8544,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-a637-d6ecf07f5218,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-a637-d6ecf07f5218,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-a637-d6ecf07f5218,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-ebe9-5b8f3bdbf7dd,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-ebe9-5b8f3bdbf7dd,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-ebe9-5b8f3bdbf7dd,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-9296-000ec60f8ce9,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-9296-000ec60f8ce9,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-7edc-4afa28cf7a61,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-7edc-4afa28cf7a61,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-7edc-4afa28cf7a61,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-78c1-60e459a327e0,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-78c1-60e459a327e0,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-50c8-12f9bf5733e4,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-50c8-12f9bf5733e4,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-1e6e-0bc55feca2ce,SOUTH_-a09a50,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+355a4d50-2628-aa65-1e6e-0bc55feca2ce,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-1e6e-0bc55feca2ce,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-1e6e-0bc55feca2ce,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-31ac-59da17933968,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-31ac-59da17933968,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-77e1-59a402455737,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-77e1-59a402455737,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-9a3f-d517b8ea73dd,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-9a3f-d517b8ea73dd,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-9a3f-d517b8ea73dd,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-8cd4-d9bc4aae8ebf,SOUTH_-a09a50,DIAGNOSIS,violence,violence,unmapped,0.0
+355a4d50-2628-aa65-8cd4-d9bc4aae8ebf,SOUTH_-a09a50,DIAGNOSIS,environment,environment,unmapped,0.0
+355a4d50-2628-aa65-8cd4-d9bc4aae8ebf,SOUTH_-a09a50,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+355a4d50-2628-aa65-8cd4-d9bc4aae8ebf,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-8cd4-d9bc4aae8ebf,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-8cd4-d9bc4aae8ebf,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-76a6-d67500741021,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-76a6-d67500741021,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-76a6-d67500741021,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-426c-09e5b97b79fa,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-426c-09e5b97b79fa,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-426c-09e5b97b79fa,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-5273-5bfb6e0aaa0b,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-5273-5bfb6e0aaa0b,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-38a2-bdafc6e30f1d,SOUTH_-a09a50,SYMPTOM,violence,violence,unmapped,0.0
+355a4d50-2628-aa65-38a2-bdafc6e30f1d,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-38a2-bdafc6e30f1d,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-38a2-bdafc6e30f1d,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-e535-ccbef967d6a9,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-e535-ccbef967d6a9,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-e535-ccbef967d6a9,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-6108-01a11cffd463,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-6108-01a11cffd463,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-6108-01a11cffd463,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-592c-2ac4436aca50,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-592c-2ac4436aca50,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-592c-2ac4436aca50,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-84d2-2b8f727b5545,SOUTH_-a09a50,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+355a4d50-2628-aa65-84d2-2b8f727b5545,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-84d2-2b8f727b5545,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-84d2-2b8f727b5545,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-697b-6d2d7f9070e5,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-697b-6d2d7f9070e5,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-b28c-06a3f99a7835,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-b28c-06a3f99a7835,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-358c-c4585b3fc863,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-358c-c4585b3fc863,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-f8e9-30b54d1c36d6,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-f8e9-30b54d1c36d6,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-d8e6-5dba7871bac6,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-d8e6-5dba7871bac6,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-e20a-7f9a69a0e538,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-e20a-7f9a69a0e538,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-b168-a21fffaf00bf,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-b168-a21fffaf00bf,SOUTH_-a09a50,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-b168-a21fffaf00bf,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+355a4d50-2628-aa65-22b5-d6fae3dd23f7,SOUTH_-a09a50,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+355a4d50-2628-aa65-22b5-d6fae3dd23f7,SOUTH_-a09a50,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,DIAGNOSIS,bone,bone,unmapped,0.0
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+8704c44c-8b97-e35a-2e79-0ad7e7723971,SOUTH_-8d7313,MEDICATION,buprenorphine,buprenorphine,fuzzy,1.0
+8704c44c-8b97-e35a-2e79-0ad7e7723971,SOUTH_-8d7313,MEDICATION,naloxone,naloxone,fuzzy,1.0
+31f368d9-3fdc-a15f-7a61-dcf625947951,SOUTH_-65488f,DIAGNOSIS,Serving in military service,Serving in military service,unmapped,0.0
+31f368d9-3fdc-a15f-7a61-dcf625947951,SOUTH_-65488f,DIAGNOSIS,Only,Only,unmapped,0.0
+31f368d9-3fdc-a15f-7a61-dcf625947951,SOUTH_-65488f,DIAGNOSIS,primary school education,primary school education,unmapped,0.0
+35f80d0e-eaad-ef68-5241-e492de7c6e31,SOUTH_-0a9f25,SYMPTOM,borderline blood sugar,Prediabetes,exact_synonym,1.0
+35f80d0e-eaad-ef68-5241-e492de7c6e31,SOUTH_-0a9f25,SYMPTOM,an,an,unmapped,0.0
+35f80d0e-eaad-ef68-fe96-3f480d27680b,SOUTH_-0a9f25,SYMPTOM,violence,violence,unmapped,0.0
+35f80d0e-eaad-ef68-917b-3dc6baf1455f,SOUTH_-0a9f25,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+35f80d0e-eaad-ef68-1edb-7769f06f0926,SOUTH_-0a9f25,DIAGNOSIS,concussion injury,Concussion injury of brain,fuzzy,1.0
+35f80d0e-eaad-ef68-1edb-7769f06f0926,SOUTH_-0a9f25,DIAGNOSIS,concussion injury,Concussion injury of brain,fuzzy,1.0
+35f80d0e-eaad-ef68-1edb-7769f06f0926,SOUTH_-0a9f25,DIAGNOSIS,concussion,Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness,ambiguous,1.0
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,SYMPTOM,high,high,unmapped,0.0
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,DIAGNOSIS,metabolic syndrome,Metabolic syndrome X,fuzzy,1.0
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+5dae1e9e-46fb-5537-b057-71b5a1bf83e4,SOUTH_-f82c25,DIAGNOSIS,Housing,Housing,unmapped,0.0
+5dae1e9e-46fb-5537-b057-71b5a1bf83e4,SOUTH_-f82c25,DIAGNOSIS,Educated,Educated,unmapped,0.0
+5dae1e9e-46fb-5537-161a-b77ab7c2bea5,SOUTH_-f82c25,SYMPTOM,sore,sore,unmapped,0.0
+5dae1e9e-46fb-5537-161a-b77ab7c2bea5,SOUTH_-f82c25,SYMPTOM,sore throat,Sore throat | Streptococcal sore throat,ambiguous,1.0
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,DIAGNOSIS,lace,lace,unmapped,0.0
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,DIAGNOSIS,lace,lace,unmapped,0.0
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,SYMPTOM,laceration of foot,Laceration of foot,fuzzy,1.0
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+5dae1e9e-46fb-5537-74b8-9549758ccc22,SOUTH_-f82c25,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+5dae1e9e-46fb-5537-74b8-9549758ccc22,SOUTH_-f82c25,DIAGNOSIS,viral sin,Viral sinusitis,fuzzy,1.0
+5dae1e9e-46fb-5537-9c47-dda3e0853bf8,SOUTH_-f82c25,DIAGNOSIS,cysti,Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+5dae1e9e-46fb-5537-9c47-dda3e0853bf8,SOUTH_-f82c25,MEDICATION,sulfamethoxazole,sulfamethoxazole,fuzzy,1.0
+5dae1e9e-46fb-5537-9c47-dda3e0853bf8,SOUTH_-f82c25,MEDICATION,trimethoprim,trimethoprim,fuzzy,1.0
+5dae1e9e-46fb-5537-8571-4d3f6aac60ec,SOUTH_-f82c25,DIAGNOSIS,Unemployed,Unemployed,unmapped,0.0
+5dae1e9e-46fb-5537-8571-4d3f6aac60ec,SOUTH_-f82c25,DIAGNOSIS,Unhealthy alcohol,Unhealthy alcohol,unmapped,0.0
+5dae1e9e-46fb-5537-6709-cde62031ab8b,SOUTH_-f82c25,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+5dae1e9e-46fb-5537-6709-cde62031ab8b,SOUTH_-f82c25,MEDICATION,Gel,Gel,unmapped,0.0
+5dae1e9e-46fb-5537-7169-c9cc4970ff02,SOUTH_-f82c25,SYMPTOM,sore,sore,unmapped,0.0
+5dae1e9e-46fb-5537-dce8-72bf16a56bed,SOUTH_-f82c25,DIAGNOSIS,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+5dae1e9e-46fb-5537-dce8-72bf16a56bed,SOUTH_-f82c25,DIAGNOSIS,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+5dae1e9e-46fb-5537-dce8-72bf16a56bed,SOUTH_-f82c25,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+5dae1e9e-46fb-5537-afa8-0390702661fe,SOUTH_-f82c25,SYMPTOM,sore,sore,unmapped,0.0
+3099d813-4f5c-fc43-846a-95fbb4ee5d9b,SOUTH_-977c95,MEDICATION,Cefuroxime,Cefuroxime,fuzzy,1.0
+3099d813-4f5c-fc43-846a-95fbb4ee5d9b,SOUTH_-977c95,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+3099d813-4f5c-fc43-cc30-07914d40936a,SOUTH_-977c95,SYMPTOM,allergic reaction,Acute allergic reaction,fuzzy,1.0
+3099d813-4f5c-fc43-cc30-07914d40936a,SOUTH_-977c95,SYMPTOM,allergic reaction,Acute allergic reaction,fuzzy,1.0
+3099d813-4f5c-fc43-cc30-07914d40936a,SOUTH_-977c95,MEDICATION,predniSONE,predniSONE,fuzzy,1.0
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,MEDICATION,cetirizine hydrochloride,cetirizine hydrochloride,fuzzy,1.0
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,MEDICATION,Epinephrine,HR | norepinephrine,ambiguous,1.0
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,DIAGNOSIS,allergy to Shellfish,allergy to Shellfish,unmapped,0.0
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,ALLERGY,Shellfish,Shellfish,fuzzy,1.0
+3099d813-4f5c-fc43-bc03-6bb1010effde,SOUTH_-977c95,MEDICATION,Azithromycin,Azithromycin | HR,ambiguous,1.0
+3099d813-4f5c-fc43-bc03-6bb1010effde,SOUTH_-977c95,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3099d813-4f5c-fc43-4a15-561a3681b9ce,SOUTH_-977c95,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+3099d813-4f5c-fc43-4a15-561a3681b9ce,SOUTH_-977c95,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+3099d813-4f5c-fc43-d784-37ae33060ba3,SOUTH_-977c95,DIAGNOSIS,bacterial sinus,Acute bacterial sinusitis,fuzzy,1.0
+3099d813-4f5c-fc43-d784-37ae33060ba3,SOUTH_-977c95,DIAGNOSIS,sinus infection,sinus infection,unmapped,0.0
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,DIAGNOSIS,ot,ot,unmapped,0.0
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,MEDICATION,Azithromycin,Azithromycin | HR,ambiguous,1.0
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,DIAGNOSIS,ot,ot,unmapped,0.0
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,MEDICATION,Cefuroxime,Cefuroxime,fuzzy,1.0
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+c823813e-2588-4814-9082-f2dedf9f643a,SOUTH_-04256a,DIAGNOSIS,Educated,Educated,unmapped,0.0
+c823813e-2588-4814-9082-f2dedf9f643a,SOUTH_-04256a,DIAGNOSIS,high,high,unmapped,0.0
+c823813e-2588-4814-385d-56222a63bfa5,SOUTH_-04256a,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+c823813e-2588-4814-c4da-ebf24360eb12,SOUTH_-04256a,DIAGNOSIS,bacterial sin,Acute bacterial sinusitis,fuzzy,1.0
+c823813e-2588-4814-c4da-ebf24360eb12,SOUTH_-04256a,DIAGNOSIS,chronic sin,Chronic sinusitis,fuzzy,1.0
+c823813e-2588-4814-d712-7f242bf72017,SOUTH_-04256a,SYMPTOM,violence,violence,unmapped,0.0
+c823813e-2588-4814-0eca-cb798a035f29,SOUTH_-04256a,MEDICATION,et,et,unmapped,0.0
+c823813e-2588-4814-0eca-cb798a035f29,SOUTH_-04256a,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+c823813e-2588-4814-0eca-cb798a035f29,SOUTH_-04256a,MEDICATION,Lev,Lev,unmapped,0.0
+c823813e-2588-4814-e73f-2e543ed46910,SOUTH_-04256a,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+c823813e-2588-4814-a330-6e596b8fd9ae,SOUTH_-04256a,SYMPTOM,sugar,sugar,unmapped,0.0
+c823813e-2588-4814-a330-6e596b8fd9ae,SOUTH_-04256a,SYMPTOM,weight,weight,unmapped,0.0
+c823813e-2588-4814-90c1-24c32b687832,SOUTH_-04256a,SYMPTOM,an,an,unmapped,0.0
+c823813e-2588-4814-a3a9-ec257a69996d,SOUTH_-04256a,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+c823813e-2588-4814-a3a9-ec257a69996d,SOUTH_-04256a,SYMPTOM,sin,sin,unmapped,0.0
+c823813e-2588-4814-5a92-2c6c027e320c,SOUTH_-04256a,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,DIAGNOSIS,bro,bro,unmapped,0.0
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,DIAGNOSIS,bronchitis,Acute bronchitis,fuzzy,1.0
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,MEDICATION,Dextromethorphan Hydrobromide,Dextromethorphan Hydrobromide,fuzzy,1.0
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,MEDICATION,doxylamine succinate,doxylamine succinate,fuzzy,1.0
+c823813e-2588-4814-6928-d41adf860d40,SOUTH_-04256a,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+c823813e-2588-4814-681f-97fa27b0438b,SOUTH_-04256a,DIAGNOSIS,sinus,Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis,ambiguous,1.0
+c823813e-2588-4814-02f8-0184ab858af7,SOUTH_-04256a,MEDICATION,nor,nor,unmapped,0.0
+c823813e-2588-4814-02f8-0184ab858af7,SOUTH_-04256a,MEDICATION,Jo,Jo,unmapped,0.0
+c823813e-2588-4814-02f8-0184ab858af7,SOUTH_-04256a,MEDICATION,vet,vet,unmapped,0.0
+c823813e-2588-4814-8de7-614607d78af9,SOUTH_-04256a,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+c823813e-2588-4814-8de7-614607d78af9,SOUTH_-04256a,MEDICATION,Jolivet,Jolivet,unmapped,0.0
+c823813e-2588-4814-0475-82b02101f39d,SOUTH_-04256a,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+c823813e-2588-4814-66dc-ae5c78587bea,SOUTH_-04256a,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+c823813e-2588-4814-b1d5-3186a0a5a350,SOUTH_-04256a,MEDICATION,nor,nor,unmapped,0.0
+c823813e-2588-4814-3dd8-7507cd8cb161,SOUTH_-04256a,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+c823813e-2588-4814-4ea2-c944b2e637d2,SOUTH_-04256a,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+c823813e-2588-4814-4ea2-c944b2e637d2,SOUTH_-04256a,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+c823813e-2588-4814-0c00-67d3cf42a62d,SOUTH_-04256a,MEDICATION,nor,nor,unmapped,0.0
+c823813e-2588-4814-0c00-67d3cf42a62d,SOUTH_-04256a,MEDICATION,Jolivet,Jolivet,unmapped,0.0

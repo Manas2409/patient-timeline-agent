@@ -1,0 +1,292 @@
+{
+  "cluster_id": "27",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "2009-02-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2014-03-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ONE CALL HEALTHCARE PLLC",
+      "entities": []
+    },
+    {
+      "date": "2017-04-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ONE CALL HEALTHCARE PLLC",
+      "entities": []
+    },
+    {
+      "date": "2017-04-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-17T14:13:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ONE CALL HEALTHCARE PLLC",
+      "entities": []
+    },
+    {
+      "date": "2018-04-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-04-23T14:24:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-04-23T14:24:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ONE CALL HEALTHCARE PLLC",
+      "entities": []
+    },
+    {
+      "date": "2019-04-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-04-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-05-07T12:01:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "SANCTA MARIA NURSING FACILITY",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-10"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-10"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-07-10"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Concussion with no loss of consciousness (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-06-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-06-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-21T14:14:11Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ONE CALL HEALTHCARE PLLC",
+      "entities": []
+    },
+    {
+      "date": "2022-05-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-02T18:35:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-21",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ONE CALL HEALTHCARE PLLC",
+      "entities": []
+    },
+    {
+      "date": "2025-05-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-08-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Concussion injury of brain",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

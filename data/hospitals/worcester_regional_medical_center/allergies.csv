@@ -1,0 +1,14 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+WORCES-3330be,1993-05-03,Allergic disposition (finding),,
+WORCES-3330be,1993-05-03,Mold (organism),Nasal discharge present (situation),MILD
+WORCES-3330be,1993-05-03,House dust mite (organism),,
+WORCES-3330be,1993-05-03,Animal dander (substance),Cough (finding),MODERATE
+WORCES-3330be,1993-05-03,Grass pollen (substance),,
+WORCES-3330be,1993-05-03,Tree pollen (substance),,
+WORCES-3330be,1993-05-03,Eggs (edible) (substance),Finding of vomiting (finding),MODERATE
+WORCES-c121ad,1990-04-16,Allergic disposition (finding),,
+WORCES-c121ad,1990-04-16,Mold (organism),,
+WORCES-c121ad,1990-04-16,House dust mite (organism),,
+WORCES-c121ad,1990-04-16,Animal dander (substance),Rhinoconjunctivitis (disorder),MODERATE
+WORCES-c121ad,1990-04-16,Grass pollen (substance),,
+WORCES-c121ad,1990-04-16,Tree pollen (substance),,

@@ -1,0 +1,4 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+SOUTH_-977c95,2021-05-22,Allergic disposition (finding),,
+SOUTH_-977c95,2021-05-22,Penicillin V,Eruption of skin (disorder),MILD
+SOUTH_-977c95,2021-05-22,Shellfish (substance),Anaphylaxis (disorder),SEVERE

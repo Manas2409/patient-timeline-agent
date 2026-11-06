@@ -1,0 +1,658 @@
+{
+  "cluster_id": "68",
+  "hospitals": [
+    "Norfolk County Health Network",
+    "South Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "1998-11-15",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UNITED MEDICAL CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Educated",
+          "canonical": "Educated",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "high",
+          "canonical": "high",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2004-07-18",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Congenital uterine anomaly (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2010-01-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sin",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "chronic sin",
+          "canonical": "Chronic sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2011-12-04",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UNITED MEDICAL CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2014-12-07",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UNITED MEDICAL CARE LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2016-06-18",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-06-13T02:12:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-13T02:12:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Lev",
+          "canonical": "Lev",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-06-13T02:12:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-13",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-06-08T02:12:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UNITED MEDICAL CARE LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sugar",
+          "canonical": "sugar",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "weight",
+          "canonical": "weight",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-08",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2018-07-22",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "an",
+          "canonical": "an",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-29",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2018-08-05",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-08-19"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-12T07:29:59Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-11",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-03-24"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-24"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-24T20:29:11Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-24T20:29:11Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-24T20:29:11Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-22",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "SOUTH SHORE PRIMARY AND URGENT CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-28",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-05-26T15:21:48Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-31",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2020-06-28",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2020-09-27",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UNITED MEDICAL CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-07",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-07",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-12",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-04-12"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-26",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-09-05T06:17:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jo",
+          "canonical": "Jo",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-09-05T06:17:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "vet",
+          "canonical": "vet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-09-05T06:17:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-09-05",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2021-10-24",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2021-11-21",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2021-12-19",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2022-01-16",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2022-02-13",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-13",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2022-04-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2022-05-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CARDIGAN NURSING & REHABILITATION CENTER",
+      "entities": []
+    },
+    {
+      "date": "2022-06-19",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2022-06-26",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-06-21T05:13:47Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-21T05:13:47Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-02",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UNITED MEDICAL CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-10-16",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-16T07:36:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-21",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2024-06-02",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-06-30"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-14",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "inpatient",
+      "reason": "Tubal pregnancy (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2024-06-30",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Tubal pregnancy (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": []
+    },
+    {
+      "date": "2024-07-14",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-07-09T05:13:47Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-06",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UNITED MEDICAL CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-09-21"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-09-21"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bacterial sinusitis",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Chronic sinusitis",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bronchitis",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

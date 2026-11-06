@@ -1,0 +1,416 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+355cd402-8f45-353f-9e4f-7fb45f1a02d0,METROW-c247fb,2004-08-08,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Received higher education. Medication list unchanged."
+355cd402-8f45-353f-4ca1-6bc923aa32d3,METROW-c247fb,2014-08-24,Wellness visit for general evaluation. Social history noted: Medication review due.
+355cd402-8f45-353f-5189-d4a08215b463,METROW-c247fb,2017-08-27,"Routine wellness visit, no acute complaints voiced at check-in."
+355cd402-8f45-353f-ddcf-9fc3195844fe,METROW-c247fb,2018-05-27,Outpatient visit for general evaluation. Care-coordination note: Medication review due and Part-time employment.
+355cd402-8f45-353f-9d86-7796def9af0c,METROW-c247fb,2018-05-28,Presenting complaint: viral sinusitis. Diagnosed with viral sinusitis at this visit.
+355cd402-8f45-353f-75fa-51b846024d8b,METROW-c247fb,2020-08-30,"Clinical impression: gingivitis. Care-coordination note: Medication review due, Full-time employment, and Unhealthy alcohol drinking behavior."
+355cd402-8f45-353f-7d81-41419abc0b3e,METROW-c247fb,2020-09-13,Patient was evaluated for gum inflammation. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+355cd402-8f45-353f-b0a4-509225aaf371,METROW-c247fb,2021-05-02,Patient seen for a scheduled outpatient encounter. No new medications prescribed at this time.
+355cd402-8f45-353f-5e3e-1b23228a7c5e,METROW-c247fb,2021-05-23,"Routine outpatient visit, no acute complaints voiced at check-in."
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,2021-09-06,Patient was evaluated for localized  primary osteoarthritis of the hand. Assessment: localized  primary osteoarthritis of the hand. Started on Naproxen sodium 220 MG Oral Tablet.
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,2022-02-16,Patient presents today with fracture of mandible. New findings on exam include fracture of mandible. Started on Meperidine Hydrochloride 50 MG Oral Tablet and Acetaminophen 325 MG Oral Tablet.
+355cd402-8f45-353f-45f4-97121ef38e7d,METROW-c247fb,2022-02-27,Seen in clinic for fracture of mandible. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+355cd402-8f45-353f-0d67-50a419bea3f6,METROW-c247fb,2022-04-02,Seen in clinic for fracture of mandible.
+355cd402-8f45-353f-b5fe-ab995e860b84,METROW-c247fb,2023-09-03,Assessment: gum inflammation. Social history noted: Social isolation and Stress. No new medications prescribed at this time.
+355cd402-8f45-353f-c5f2-148b79f46d17,METROW-c247fb,2023-09-17,Patient was evaluated for gingivitis. Medication list unchanged.
+355cd402-8f45-353f-2a6b-d8b5e297465f,METROW-c247fb,2026-06-21,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Part-time employment."
+355cd402-8f45-353f-7da6-0154208efe61,METROW-c247fb,2026-07-05,Patient seen for a scheduled ambulatory encounter. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+c38b96b6-90ae-fabe-2c56-75d1741c477b,METROW-a11d75,2017-11-05,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Medication list unchanged."
+c38b96b6-90ae-fabe-3d03-a93c7e8343a4,METROW-a11d75,2017-12-10,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due. No new medications prescribed at this time.
+c38b96b6-90ae-fabe-d6a4-25370ca04317,METROW-a11d75,2018-02-11,Patient seen for a scheduled wellness encounter.
+c38b96b6-90ae-fabe-fae5-f0f8a269a787,METROW-a11d75,2018-04-15,Wellness visit for general evaluation. Social history noted: Medication review due.
+c38b96b6-90ae-fabe-64e7-49c11c4bf08f,METROW-a11d75,2018-07-15,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+c38b96b6-90ae-fabe-6e64-9de049421c74,METROW-a11d75,2018-10-14,Patient seen for a scheduled wellness encounter. No new medications prescribed at this time.
+c38b96b6-90ae-fabe-f809-d9fa5cd639c4,METROW-a11d75,2019-01-13,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,2019-02-28,Presenting complaint: a middle-ear infection. Patient continues to be followed for otitis media. Patient given Cefuroxime 250 MG Oral Tablet and Ibuprofen 100 MG Oral Tablet during this encounter.
+c38b96b6-90ae-fabe-e13b-42cc19a4ab62,METROW-a11d75,2019-04-14,"Routine wellness visit, no acute complaints voiced at check-in."
+c38b96b6-90ae-fabe-f38e-e4b4185331c6,METROW-a11d75,2019-10-13,Patient seen for a scheduled wellness encounter.
+c38b96b6-90ae-fabe-5899-77a0ebf2b9d0,METROW-a11d75,2020-04-12,Wellness visit for general evaluation. Social history noted: Medication review due.
+c38b96b6-90ae-fabe-091c-8ae0e55d3dbd,METROW-a11d75,2020-04-19,Patient seen for a scheduled ambulatory encounter. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+c38b96b6-90ae-fabe-defb-706a164f1112,METROW-a11d75,2020-10-11,"Routine wellness visit, no acute complaints voiced at check-in."
+c38b96b6-90ae-fabe-3eea-1a9a07175b52,METROW-a11d75,2020-10-18,Ambulatory visit for general evaluation.
+c38b96b6-90ae-fabe-4102-0d19042d8ab5,METROW-a11d75,2020-12-24,Presenting complaint: a sore throat. Patient continues to be followed for a sore throat. Medication list unchanged.
+c38b96b6-90ae-fabe-6d09-5cf2454e20bb,METROW-a11d75,2021-04-11,Patient seen for a scheduled wellness encounter. No new medications prescribed at this time.
+c38b96b6-90ae-fabe-dfc8-e8435121130c,METROW-a11d75,2021-10-10,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+c38b96b6-90ae-fabe-afe6-2f45be988ae3,METROW-a11d75,2021-10-17,Ambulatory visit for general evaluation.
+c38b96b6-90ae-fabe-7109-0a038369cde2,METROW-a11d75,2022-10-16,Patient seen for a scheduled wellness encounter. No new medications prescribed at this time.
+c38b96b6-90ae-fabe-ece3-4ee00e1d8da8,METROW-a11d75,2022-10-23,"Routine ambulatory visit, no acute complaints voiced at check-in. Medication list unchanged."
+c38b96b6-90ae-fabe-ae39-ec5e6e73429c,METROW-a11d75,2023-10-22,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. Medication list unchanged.
+c38b96b6-90ae-fabe-3807-0b4e110e9828,METROW-a11d75,2024-10-27,Patient seen for a scheduled wellness encounter.
+c38b96b6-90ae-fabe-0ab4-bd5e913e1311,METROW-a11d75,2025-11-02,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+c38b96b6-90ae-fabe-f7fd-9703bd58a092,METROW-a11d75,2026-05-10,Follow-up visit regarding acute viral pharyngitis. Assessment: a sore throat.
+6095681c-dfc1-8f20-0814-7b85dc934ede,METROW-9d727d,2015-10-25,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+6095681c-dfc1-8f20-72cb-02f8a4eda6f0,METROW-9d727d,2016-10-30,Patient seen for a scheduled wellness encounter.
+6095681c-dfc1-8f20-50de-c6dd78c0ccfd,METROW-9d727d,2017-11-05,Assessment: gingivitis. Medication list unchanged.
+6095681c-dfc1-8f20-8f68-46114938e66c,METROW-9d727d,2018-06-14,Patient presents today with laceration - injury. Patient continues to be followed for laceration - injury and facial laceration. Plan: initiate Naproxen sodium 220 MG Oral Tablet.
+6095681c-dfc1-8f20-a48f-991f7259a03e,METROW-9d727d,2018-11-11,"Diagnosed with gum inflammation at this visit. Care-coordination note: Medication review due, Housing unsatisfactory, Educated to high school level, Full-time employment, Limited social contact, and Stress."
+6095681c-dfc1-8f20-e1d1-43f99f699c54,METROW-9d727d,2019-11-17,Assessment: gum inflammation. Social history noted: Social isolation.
+6095681c-dfc1-8f20-dbf7-f6f6f0f630f0,METROW-9d727d,2022-11-20,Wellness visit for general evaluation. No new medications prescribed at this time.
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,2024-07-20,Follow-up visit regarding laceration - injury. Diagnosed with laceration - injury and laceration of foot at this visit. Started on Ibuprofen 200 MG Oral Tablet.
+6095681c-dfc1-8f20-4d96-923c1d00521b,METROW-9d727d,2025-11-23,Wellness visit for general evaluation. Care-coordination note: Unemployed and Reports of violence in the environment.
+3c0e60c4-176e-2c4c-89b0-2da3613a18cf,METROW-61630f,1981-01-08,Patient presents today with loss of teeth. Patient continues to be followed for loss of teeth.
+3c0e60c4-176e-2c4c-7cd0-9e0584fa68ab,METROW-61630f,2000-02-26,Patient reports symptoms consistent with congenital uterine anomaly. Diagnosed with past pregnancy history of miscarriage at this visit.
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,2007-10-26,Presenting complaint: osteoarthritis of knee. Diagnosed with osteoarthritis of knee at this visit. Medications prescribed today: Naproxen sodium 220 MG Oral Tablet.
+3c0e60c4-176e-2c4c-9290-555edae2b6a7,METROW-61630f,2008-12-11,Presenting complaint: hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-e394-eeb9d703e40d,METROW-61630f,2015-12-10,Patient was evaluated for hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+3c0e60c4-176e-2c4c-fb53-5a9856fe20d5,METROW-61630f,2016-08-18,Patient was evaluated for acute viral pharyngitis. Clinical impression: acute viral pharyngitis. Medication list unchanged.
+3c0e60c4-176e-2c4c-49b1-d513537f62e7,METROW-61630f,2016-12-09,Patient was evaluated for hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+3c0e60c4-176e-2c4c-333a-c75799536233,METROW-61630f,2017-12-09,Patient was evaluated for hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-bcae-2a639da493e7,METROW-61630f,2018-12-09,Patient presents today with hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+3c0e60c4-176e-2c4c-b91f-cb8d6177d6a9,METROW-61630f,2019-12-09,Seen in clinic for hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-6aa1-03dd4a17d88e,METROW-61630f,2020-12-17,Follow-up visit regarding hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-1829-ed730e314e9b,METROW-61630f,2020-12-24,Follow-up visit regarding gum inflammation. Patient continues to be followed for gum disease. No new medications prescribed at this time.
+3c0e60c4-176e-2c4c-4df8-d88514239bcc,METROW-61630f,2021-01-09,Patient reports symptoms consistent with essential hypertension. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet.
+3c0e60c4-176e-2c4c-20b3-6ebba68ec2c8,METROW-61630f,2021-03-10,Seen in clinic for high blood pressure. Started on amLODIPine 2.5 MG Oral Tablet.
+3c0e60c4-176e-2c4c-0a32-35af09b6bb78,METROW-61630f,2021-03-25,Patient seen for a scheduled outpatient encounter.
+3c0e60c4-176e-2c4c-b586-cd94e00b52a6,METROW-61630f,2021-04-15,Outpatient visit for general evaluation.
+3c0e60c4-176e-2c4c-e22b-8b0dee3dec05,METROW-61630f,2021-04-18,"Routine ambulatory visit, no acute complaints voiced at check-in."
+3c0e60c4-176e-2c4c-17e6-60368f3cfcec,METROW-61630f,2021-05-09,Follow-up visit regarding high blood pressure.
+3c0e60c4-176e-2c4c-36ec-501b2fc57a1e,METROW-61630f,2021-12-17,Seen in clinic for hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-0c32-44bc43b0ab46,METROW-61630f,2022-08-28,Seen in clinic for viral sinusitis. Assessment: viral sinusitis.
+3c0e60c4-176e-2c4c-3834-9c4ca57dc13b,METROW-61630f,2022-10-18,Seen in clinic for viral sinusitis. New findings on exam include viral sinusitis. No new medications prescribed at this time.
+3c0e60c4-176e-2c4c-41c8-abfe8088439b,METROW-61630f,2022-12-29,Patient was evaluated for hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-036f-f2713a09f04a,METROW-61630f,2023-03-31,Patient presents today with loss of teeth. No new medications prescribed at this time.
+3c0e60c4-176e-2c4c-9acb-5ba82605ff70,METROW-61630f,2023-04-21,Patient reports symptoms consistent with loss of teeth.
+3c0e60c4-176e-2c4c-4573-67ed3d149c72,METROW-61630f,2024-01-11,Seen in clinic for hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-9480-ecfef183377b,METROW-61630f,2024-09-02,Seen in clinic for a chest cold. Diagnosed with a chest cold at this visit. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,2024-09-12,"Outpatient visit for general evaluation. Care-coordination note: Stress. Patient given Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, and amLODIPine 2.5 MG Oral Tablet during this encounter."
+3c0e60c4-176e-2c4c-43af-4d3a19c17f1b,METROW-61630f,2025-01-10,Presenting complaint: hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-0cd6-7dee0afd0de0,METROW-61630f,2026-01-10,Patient reports symptoms consistent with hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3c0e60c4-176e-2c4c-1c9f-5d5d4a94d9f1,METROW-61630f,2026-01-22,Assessment: fractured dental filling. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+3c0e60c4-176e-2c4c-d2da-eaaf4d8bea0b,METROW-61630f,2026-04-18,Clinical impression: polyp of colon.
+a45aa142-d1e9-d944-c1f4-f6668098bff3,METROW-1f35d4,1981-11-18,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Only received primary school education."
+a45aa142-d1e9-d944-1e9f-167d15a41321,METROW-1f35d4,1982-11-24,Clinical impression: prediabetes.
+a45aa142-d1e9-d944-ee8b-fd10ca5036b8,METROW-1f35d4,1991-12-04,New findings on exam include a low blood count. No new medications prescribed at this time.
+a45aa142-d1e9-d944-8162-3eedfb0c66f1,METROW-1f35d4,2007-10-10,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,2009-10-14,"Patient continues to be followed for coronary artery disease. Started on Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, and Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray."
+a45aa142-d1e9-d944-e39f-b8f466633d48,METROW-1f35d4,2010-09-13,Patient reports symptoms consistent with sleep disorder. Clinical impression: sleep disorder.
+a45aa142-d1e9-d944-291c-8797ce950b0e,METROW-1f35d4,2010-10-03,Patient reports symptoms consistent with sleep disorder. Assessment: obstructive sleep apnea syndrome.
+a45aa142-d1e9-d944-91d9-2413ee3789f5,METROW-1f35d4,2011-10-19,Patient seen for a scheduled wellness encounter. Social history noted: Unhealthy alcohol drinking behavior. No new medications prescribed at this time.
+a45aa142-d1e9-d944-0d51-b6ad385c0257,METROW-1f35d4,2015-10-07,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment and Stress."
+a45aa142-d1e9-d944-1961-bd25a5604c86,METROW-1f35d4,2016-10-12,"Routine wellness visit, no acute complaints voiced at check-in. Medication list unchanged."
+a45aa142-d1e9-d944-b3be-f203a1133324,METROW-1f35d4,2017-10-18,Assessment: gingivitis.
+a45aa142-d1e9-d944-dbae-274bab32c2d4,METROW-1f35d4,2017-11-01,Presenting complaint: gingivitis. No new medications prescribed at this time.
+a45aa142-d1e9-d944-ca8b-662adb59f254,METROW-1f35d4,2018-10-02,"Routine ambulatory visit, no acute complaints voiced at check-in."
+a45aa142-d1e9-d944-7d94-b7a4727ee9e0,METROW-1f35d4,2018-10-24,Wellness visit for general evaluation. Social history noted: Stress.
+a45aa142-d1e9-d944-9b79-ed050c5c437e,METROW-1f35d4,2019-10-30,"Assessment: gum inflammation. Social history noted: Medication review due, Reports of violence in the environment, and Victim of intimate partner abuse."
+a45aa142-d1e9-d944-ed7d-1e0377f962ec,METROW-1f35d4,2019-11-13,Patient reports symptoms consistent with gingivitis. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+a45aa142-d1e9-d944-468b-95737be878ee,METROW-1f35d4,2020-11-04,Patient seen for a scheduled wellness encounter.
+a45aa142-d1e9-d944-e0ac-ae992466d750,METROW-1f35d4,2021-03-17,"Routine outpatient visit, no acute complaints voiced at check-in."
+a45aa142-d1e9-d944-4db6-82315b2aae4b,METROW-1f35d4,2021-04-07,Patient seen for a scheduled outpatient encounter. Medication list unchanged.
+a45aa142-d1e9-d944-ded5-611103e0a346,METROW-1f35d4,2021-11-10,New findings on exam include hyperlipidemia.
+a45aa142-d1e9-d944-4071-97dbb86a8d2d,METROW-1f35d4,2021-12-01,Patient was evaluated for hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+a45aa142-d1e9-d944-aa98-b70ca2fc5f35,METROW-1f35d4,2022-01-08,Patient reports symptoms consistent with viral sinusitis. Assessment: a sinus infection.
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,2022-06-22,Patient was evaluated for streptococcal sore throat. Patient continues to be followed for streptococcal sore throat. Medications prescribed today: Penicillin V Potassium 500 MG Oral Tablet.
+a45aa142-d1e9-d944-51d4-2e5d04159791,METROW-1f35d4,2022-11-16,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Stress and Reports of violence in the environment."
+a45aa142-d1e9-d944-d065-dde88e630ee1,METROW-1f35d4,2022-12-01,Seen in clinic for hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+a45aa142-d1e9-d944-983c-90c905f05db1,METROW-1f35d4,2023-10-02,Clinical impression: polyp of colon.
+a45aa142-d1e9-d944-4a46-1c797c62a8c3,METROW-1f35d4,2023-11-22,New findings on exam include severe anxiety with panic features. Care-coordination note: Medication review due and Limited social contact. No new medications prescribed at this time.
+a45aa142-d1e9-d944-a228-0106691a1bb0,METROW-1f35d4,2023-12-01,Presenting complaint: hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,2024-03-06,Patient presents today with a chest cold. Diagnosed with a chest cold at this visit. Started on Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution.
+a45aa142-d1e9-d944-4bfa-2ffea1ce169d,METROW-1f35d4,2024-11-27,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Stress and Unhealthy alcohol drinking behavior."
+a45aa142-d1e9-d944-3234-e3eacf9f600b,METROW-1f35d4,2024-11-30,Patient was evaluated for hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+a45aa142-d1e9-d944-c94a-c45e4a329489,METROW-1f35d4,2024-12-10,Seen in clinic for polyp of colon. Medication list unchanged.
+a45aa142-d1e9-d944-e32e-ce20a780c782,METROW-1f35d4,2024-12-11,Patient seen for a scheduled ambulatory encounter. No new medications prescribed at this time.
+a45aa142-d1e9-d944-2e10-b448a239a958,METROW-1f35d4,2025-12-03,Assessment: gum inflammation.
+a45aa142-d1e9-d944-a7ea-d10d0512d7a7,METROW-1f35d4,2025-12-10,Patient presents today with hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+a45aa142-d1e9-d944-6ccd-4a576d315ecb,METROW-1f35d4,2025-12-17,Seen in clinic for gingivitis.
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,2024-06-17,Patient was evaluated for burn injury (morphologic abnormality). New findings on exam include burn injury (morphologic abnormality) and epidermal burn of skin. Started on Acetaminophen 325 MG Oral Tablet.
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,2025-10-05,Follow-up visit regarding burn injury (morphologic abnormality). Diagnosed with burn injury (morphologic abnormality) and epidermal burn of skin at this visit. Plan: initiate Ibuprofen 200 MG Oral Tablet.
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,1984-10-15,"Follow-up visit regarding cystic fibrosis. Patient continues to be followed for female infertility due to cystic fibrosis, cystic fibrosis, and a low blood count. No new medications prescribed at this time."
+2211f478-b7b4-7711-5c72-dc0d0db7fff7,METROW-2549bd,1986-04-19,Patient was evaluated for acute respiratory failure. Clinical impression: acute respiratory failure.
+2211f478-b7b4-7711-6b26-cb71a9b167ac,METROW-2549bd,1994-06-02,Seen in clinic for cystic fibrosis. New findings on exam include infection caused by Staphylococcus aureus.
+2211f478-b7b4-7711-eb3c-f0216cea8c5b,METROW-2549bd,1995-11-14,Patient was evaluated for cystic fibrosis. Clinical impression: diabetes mellitus due to cystic fibrosis. No new medications prescribed at this time.
+2211f478-b7b4-7711-cee1-6c5024df8f66,METROW-2549bd,1996-10-28,Diagnosed with type 2 diabetes at this visit. Medication list unchanged.
+2211f478-b7b4-7711-0d1a-2addda7cf5b4,METROW-2549bd,1996-11-18,Presenting complaint: loss of teeth. Assessment: loss of teeth.
+2211f478-b7b4-7711-1f7c-7e222c111eff,METROW-2549bd,1997-11-03,New findings on exam include hypertriglyceridemia.
+2211f478-b7b4-7711-bfd4-4a8941cc2cde,METROW-2549bd,2002-12-02,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Received higher education. No new medications prescribed at this time."
+2211f478-b7b4-7711-424d-0aead9d41920,METROW-2549bd,2004-12-13,Clinical impression: obesity (BMI 30+). Medication list unchanged.
+2211f478-b7b4-7711-38c9-65a91b8fff2e,METROW-2549bd,2005-03-14,Clinical impression: hyperglycemia and metabolic syndrome X.
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,2005-12-19,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due, Not in labor force, and Social isolation. Started on dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-2d4c-731ea3435800,METROW-2549bd,2006-01-09,Follow-up visit regarding normal pregnancy. Patient continues to be followed for normal pregnancy.
+2211f478-b7b4-7711-7b72-8cc2987161cb,METROW-2549bd,2006-06-20,Patient seen for a scheduled ambulatory encounter. Started on tropicamide 5 MG/ML Ophthalmic Solution.
+2211f478-b7b4-7711-5d72-ab3f2ba2c479,METROW-2549bd,2006-06-26,Patient was evaluated for normal pregnancy.
+2211f478-b7b4-7711-b3d5-8f1d0d2f677c,METROW-2549bd,2006-07-16,Patient presents today with cystic fibrosis.
+2211f478-b7b4-7711-4394-f54450ff8356,METROW-2549bd,2006-07-24,Patient was evaluated for normal pregnancy.
+2211f478-b7b4-7711-0e31-b3f10b9f63de,METROW-2549bd,2006-08-07,Patient presents today with normal pregnancy.
+2211f478-b7b4-7711-1ee4-47415d47506e,METROW-2549bd,2006-09-18,Ambulatory visit for general evaluation.
+2211f478-b7b4-7711-6682-401fa8f2ecb2,METROW-2549bd,2006-10-21,Follow-up visit regarding cystic fibrosis.
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,2006-12-25,"Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment. Plan: initiate dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-cbd4-35945012f033,METROW-2549bd,2007-01-20,Patient reports symptoms consistent with sepsis caused by Staphylococcus aureus. New findings on exam include sepsis caused by Staphylococcus aureus.
+2211f478-b7b4-7711-0814-69f276decac7,METROW-2549bd,2007-04-16,Patient presents today with cystic fibrosis. Medications prescribed today: Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-d968-8e765bd9024a,METROW-2549bd,2007-04-23,New findings on exam include leaking dental filling. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+2211f478-b7b4-7711-5aca-e4edf829a480,METROW-2549bd,2007-04-30,Seen in clinic for viral sinusitis. Assessment: viral sinusitis.
+2211f478-b7b4-7711-7671-7ca49166a6f0,METROW-2549bd,2007-05-16,Ambulatory visit for general evaluation. Medications prescribed today: tropicamide 5 MG/ML Ophthalmic Solution.
+2211f478-b7b4-7711-0596-38765041ba1a,METROW-2549bd,2007-07-10,Patient was evaluated for cystic fibrosis.
+2211f478-b7b4-7711-939f-60126e4c6086,METROW-2549bd,2007-10-08,Seen in clinic for cystic fibrosis. Medications prescribed today: Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-7e7e-b020f6cf5120,METROW-2549bd,2007-12-10,Presenting complaint: normal pregnancy. Patient continues to be followed for normal pregnancy. No new medications prescribed at this time.
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,2007-12-31,"Wellness visit for general evaluation. Social history noted: Medication review due and Social isolation. Patient given dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet during this encounter."
+2211f478-b7b4-7711-a6e7-7b98fbebf83d,METROW-2549bd,2008-01-07,Patient was evaluated for normal pregnancy. No new medications prescribed at this time.
+2211f478-b7b4-7711-a743-1084a98dd7fd,METROW-2549bd,2008-01-12,Follow-up visit regarding cystic fibrosis. Medication list unchanged.
+2211f478-b7b4-7711-05ef-f7d59fd44f10,METROW-2549bd,2008-02-04,Patient was evaluated for normal pregnancy.
+2211f478-b7b4-7711-9426-a65e78ce184f,METROW-2549bd,2008-03-03,Patient presents today with normal pregnancy.
+2211f478-b7b4-7711-44cf-229e74f617a0,METROW-2549bd,2008-03-31,Follow-up visit regarding normal pregnancy. Medication list unchanged.
+2211f478-b7b4-7711-2444-c1144b33a54e,METROW-2549bd,2008-04-05,Patient presents today with cystic fibrosis. Medication list unchanged.
+2211f478-b7b4-7711-d28c-85bfbeabafc6,METROW-2549bd,2008-04-28,Patient presents today with normal pregnancy.
+2211f478-b7b4-7711-7e96-47a81c3e5a11,METROW-2549bd,2008-05-10,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: tropicamide 5 MG/ML Ophthalmic Solution.
+2211f478-b7b4-7711-11ec-78476a47fd80,METROW-2549bd,2008-05-26,Patient was evaluated for normal pregnancy.
+2211f478-b7b4-7711-fcf0-16628190903e,METROW-2549bd,2008-06-23,Presenting complaint: normal pregnancy.
+2211f478-b7b4-7711-58a4-63c2870204bf,METROW-2549bd,2008-07-07,Patient was evaluated for normal pregnancy.
+2211f478-b7b4-7711-c896-9c2353a506e0,METROW-2549bd,2008-07-07,Patient presents today with cystic fibrosis. Started on Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-6d73-e522e5431242,METROW-2549bd,2008-08-18,"Routine ambulatory visit, no acute complaints voiced at check-in."
+2211f478-b7b4-7711-c2ed-bb1d859e720c,METROW-2549bd,2008-09-14,Patient seen for a scheduled outpatient encounter. Started on {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day].
+2211f478-b7b4-7711-f0e6-a2c0a7920fd7,METROW-2549bd,2008-09-30,Follow-up visit regarding cystic fibrosis. No new medications prescribed at this time.
+2211f478-b7b4-7711-c047-865f024bccf4,METROW-2549bd,2008-12-27,Presenting complaint: cystic fibrosis.
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,2009-01-05,"Clinical impression: gum inflammation. Medications prescribed today: dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-ee6f-f98f4b7dd072,METROW-2549bd,2009-01-19,Patient was evaluated for gum inflammation.
+2211f478-b7b4-7711-80b3-ca71df6d1777,METROW-2549bd,2009-03-26,Follow-up visit regarding cystic fibrosis.
+2211f478-b7b4-7711-5540-46998776c701,METROW-2549bd,2009-05-05,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: tropicamide 5 MG/ML Ophthalmic Solution.
+2211f478-b7b4-7711-5286-ed9bcec7601a,METROW-2549bd,2009-06-23,Patient reports symptoms consistent with cystic fibrosis. Started on Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-45c0-a077fcee214f,METROW-2549bd,2009-09-26,Follow-up visit regarding cystic fibrosis.
+2211f478-b7b4-7711-fdb0-87475e198805,METROW-2549bd,2009-12-30,Patient reports symptoms consistent with cystic fibrosis.
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,2010-01-11,"New findings on exam include gum inflammation. Social history noted: Stress. Medications prescribed today: dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-7911-f5dd641a72d4,METROW-2549bd,2010-01-25,Patient reports symptoms consistent with gingivitis. Assessment: gum disease.
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,2010-03-08,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Part-time employment. Patient given dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet during this encounter."
+2211f478-b7b4-7711-3d91-6277ab70ab95,METROW-2549bd,2010-03-15,Patient presents today with a sinus infection. Diagnosed with viral sinusitis at this visit. Medication list unchanged.
+2211f478-b7b4-7711-bc82-50e1f21e0a54,METROW-2549bd,2010-03-31,"Routine ambulatory visit, no acute complaints voiced at check-in. Patient given tropicamide 5 MG/ML Ophthalmic Solution during this encounter."
+2211f478-b7b4-7711-6d4e-7b90001efb45,METROW-2549bd,2010-03-31,Patient was evaluated for cystic fibrosis. Medication list unchanged.
+2211f478-b7b4-7711-7125-651af6fba98e,METROW-2549bd,2010-06-24,Presenting complaint: cystic fibrosis. Started on Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-e507-4d939dc6e4ba,METROW-2549bd,2010-07-26,"Seen in clinic for normal pregnancy. Patient continues to be followed for normal pregnancy, miscarriage in first trimester, and tubal pregnancy."
+2211f478-b7b4-7711-bb60-19cff13017d7,METROW-2549bd,2010-08-15,Seen in clinic for tubal pregnancy.
+2211f478-b7b4-7711-b73b-8f7b01b8e915,METROW-2549bd,2010-08-28,Patient presents today with tubal pregnancy. Diagnosed with past pregnancy history of miscarriage at this visit. No new medications prescribed at this time.
+2211f478-b7b4-7711-6ea3-bce29d2e70ba,METROW-2549bd,2010-09-22,Seen in clinic for cystic fibrosis. Medication list unchanged.
+2211f478-b7b4-7711-1b89-679bddcc3487,METROW-2549bd,2010-12-21,Patient reports symptoms consistent with cystic fibrosis.
+2211f478-b7b4-7711-ea15-db6bf7f13879,METROW-2549bd,2011-01-03,Follow-up visit regarding normal pregnancy. Diagnosed with normal pregnancy at this visit.
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,2011-01-17,"Wellness visit for general evaluation. Care-coordination note: Medication review due, Full-time employment, and Victim of intimate partner abuse. Plan: initiate dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-0cd6-e5c7c90a89bc,METROW-2549bd,2011-01-31,Patient presents today with normal pregnancy.
+2211f478-b7b4-7711-3bb1-b8b2584defb8,METROW-2549bd,2011-02-24,"Routine ambulatory visit, no acute complaints voiced at check-in. Plan: initiate tropicamide 5 MG/ML Ophthalmic Solution."
+2211f478-b7b4-7711-dc1c-d9688d722926,METROW-2549bd,2011-02-28,Seen in clinic for normal pregnancy. Medication list unchanged.
+2211f478-b7b4-7711-9769-cd5077160508,METROW-2549bd,2011-03-17,Patient presents today with cystic fibrosis. Started on Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-3fcf-4501242318cb,METROW-2549bd,2011-03-28,Patient reports symptoms consistent with normal pregnancy.
+2211f478-b7b4-7711-c4f7-98604b7b61af,METROW-2549bd,2011-04-25,Patient was evaluated for normal pregnancy. No new medications prescribed at this time.
+2211f478-b7b4-7711-048b-0117d7d85ba3,METROW-2549bd,2011-05-23,Patient was evaluated for normal pregnancy.
+2211f478-b7b4-7711-7f4a-ca15661d8e7e,METROW-2549bd,2011-06-13,Follow-up visit regarding cystic fibrosis.
+2211f478-b7b4-7711-084e-08833242da6f,METROW-2549bd,2011-06-20,Patient was evaluated for normal pregnancy. New findings on exam include pre-eclampsia.
+2211f478-b7b4-7711-cf77-9778515964ab,METROW-2549bd,2011-07-18,Patient was evaluated for normal pregnancy.
+2211f478-b7b4-7711-d1f7-d81fee071b7d,METROW-2549bd,2011-08-01,Patient presents today with normal pregnancy.
+2211f478-b7b4-7711-b810-61d2a2c9fb1c,METROW-2549bd,2011-08-08,Follow-up visit regarding normal pregnancy.
+2211f478-b7b4-7711-010e-5198d251bb4f,METROW-2549bd,2011-09-09,Patient reports symptoms consistent with cystic fibrosis.
+2211f478-b7b4-7711-1409-32b990ee4a50,METROW-2549bd,2011-09-19,"Routine ambulatory visit, no acute complaints voiced at check-in."
+2211f478-b7b4-7711-de5b-5b27cc9e354f,METROW-2549bd,2011-12-06,Patient was evaluated for cystic fibrosis.
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,2012-01-23,"Routine wellness visit, no acute complaints voiced at check-in. Plan: initiate dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-bee5-c65b677b76ed,METROW-2549bd,2012-02-19,"Routine ambulatory visit, no acute complaints voiced at check-in. Started on tropicamide 5 MG/ML Ophthalmic Solution."
+2211f478-b7b4-7711-c78a-e3544d5a4be9,METROW-2549bd,2012-03-07,Patient was evaluated for cystic fibrosis. Medications prescribed today: Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-57b8-468a7353018b,METROW-2549bd,2012-06-05,Follow-up visit regarding cystic fibrosis.
+2211f478-b7b4-7711-82c8-754570a1a1ef,METROW-2549bd,2012-08-13,Presenting complaint: normal pregnancy. Assessment: normal pregnancy. No new medications prescribed at this time.
+2211f478-b7b4-7711-9fb5-cbda1710a710,METROW-2549bd,2012-09-02,Presenting complaint: cystic fibrosis. No new medications prescribed at this time.
+2211f478-b7b4-7711-8331-6cddcdc6bb1d,METROW-2549bd,2012-09-10,Patient reports symptoms consistent with normal pregnancy.
+2211f478-b7b4-7711-2398-52847bf74ade,METROW-2549bd,2012-10-08,Seen in clinic for normal pregnancy. Patient continues to be followed for miscarriage in second trimester and fetus with chromosomal abnormality.
+2211f478-b7b4-7711-6053-e855f580196a,METROW-2549bd,2012-10-19,Patient presents today with fetus with chromosomal abnormality.
+2211f478-b7b4-7711-a1a6-21b5c1b18f9a,METROW-2549bd,2012-10-29,Outpatient visit for general evaluation. Started on {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day].
+2211f478-b7b4-7711-39fa-4b0f00505ac7,METROW-2549bd,2012-11-25,Patient reports symptoms consistent with cystic fibrosis.
+2211f478-b7b4-7711-b1ba-e776d81ea9c0,METROW-2549bd,2013-01-14,Ambulatory visit for general evaluation. Medications prescribed today: tropicamide 5 MG/ML Ophthalmic Solution.
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,2013-01-28,"Diagnosed with gingivitis at this visit. Plan: initiate dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,2013-02-11,Seen in clinic for gingivitis. Assessment: infection of tooth. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+2211f478-b7b4-7711-4ae6-488183665a3a,METROW-2549bd,2013-03-02,Patient presents today with cystic fibrosis.
+2211f478-b7b4-7711-3c3e-1bf56eae4737,METROW-2549bd,2013-05-26,Patient presents today with cystic fibrosis. Plan: initiate Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-611b-6ea39999fa8d,METROW-2549bd,2013-08-28,Patient was evaluated for cystic fibrosis.
+2211f478-b7b4-7711-b75a-dc656f9493ec,METROW-2549bd,2013-11-22,Patient was evaluated for cystic fibrosis.
+2211f478-b7b4-7711-40dc-3a4fb8756274,METROW-2549bd,2013-12-10,Patient seen for a scheduled ambulatory encounter. Patient given tropicamide 5 MG/ML Ophthalmic Solution during this encounter.
+2211f478-b7b4-7711-2a9d-fe5a2d5ff9bf,METROW-2549bd,2014-01-09,Patient reports symptoms consistent with loss of teeth.
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,2014-02-03,"Patient seen for a scheduled wellness encounter. Plan: initiate dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-4eff-bcfd918bbfd3,METROW-2549bd,2014-02-10,Patient reports symptoms consistent with loss of teeth. No new medications prescribed at this time.
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,2014-02-17,Follow-up visit regarding ongoing pain. Assessment: chronic pain and chronic low back pain. Medications prescribed today: Acetaminophen 325 MG Oral Tablet [Tylenol].
+2211f478-b7b4-7711-1a5e-200b3098abec,METROW-2549bd,2014-02-24,Ambulatory visit for general evaluation.
+2211f478-b7b4-7711-5f64-70378ffc8d79,METROW-2549bd,2014-03-10,Seen in clinic for cystic fibrosis. Plan: initiate Vancomycin 50 MG/ML Injectable Solution.
+2211f478-b7b4-7711-fc4a-a0f109556700,METROW-2549bd,2014-06-03,Patient reports symptoms consistent with cystic fibrosis.
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,2014-06-30,"Patient continues to be followed for chronic kidney disease stage 1 and disorder of kidney due to diabetes mellitus. Care-coordination note: Not in labor force and Social isolation. Medications prescribed today: dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, and insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]."
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,2014-07-28,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment and Stress. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-b8e2-c251ed7b67c4,METROW-2549bd,2014-08-29,Patient presents today with cystic fibrosis.
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,2014-09-29,"Patient seen for a scheduled outpatient encounter. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-1e30-320546271ef6,METROW-2549bd,2014-11-22,Follow-up visit regarding cystic fibrosis.
+2211f478-b7b4-7711-c023-bcd4752dd9ef,METROW-2549bd,2014-12-05,Ambulatory visit for general evaluation. Medications prescribed today: tropicamide 5 MG/ML Ophthalmic Solution.
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,2014-12-29,"Patient continues to be followed for gum inflammation. Care-coordination note: Medication review due. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-70ee-fcd7706eb5d2,METROW-2549bd,2015-01-05,Presenting complaint: normal pregnancy. Diagnosed with normal pregnancy at this visit.
+2211f478-b7b4-7711-188c-4b8f6ee8d72d,METROW-2549bd,2015-01-12,Patient presents today with gum inflammation. Clinical impression: loose dental filling. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+2211f478-b7b4-7711-5f4f-53029cc199d9,METROW-2549bd,2015-02-02,Follow-up visit regarding normal pregnancy.
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,2015-02-09,"Diagnosed with gingivitis at this visit. Care-coordination note: Medication review due and Part-time employment. Plan: initiate insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-af05-589edbc73de3,METROW-2549bd,2015-02-23,Follow-up visit regarding gingivitis. No new medications prescribed at this time.
+2211f478-b7b4-7711-5aab-520829825c8c,METROW-2549bd,2015-03-02,Presenting complaint: normal pregnancy.
+2211f478-b7b4-7711-75f5-200ac43e1a13,METROW-2549bd,2015-03-09,Seen in clinic for cystic fibrosis.
+2211f478-b7b4-7711-52f2-dd226e1f859f,METROW-2549bd,2015-03-30,Patient was evaluated for normal pregnancy.
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,2015-04-10,"Patient presents today with a chest cold. Clinical impression: a chest cold. Plan: initiate Acetaminophen 325 MG Oral Tablet, insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,2015-04-20,"Routine emergency visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due, Not in labor force, and Limited social contact. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-fce6-94bbf2d7e19c,METROW-2549bd,2015-04-27,Presenting complaint: normal pregnancy. Medication list unchanged.
+2211f478-b7b4-7711-620d-8fa20650e9f2,METROW-2549bd,2015-05-25,Seen in clinic for normal pregnancy. Medication list unchanged.
+2211f478-b7b4-7711-d05d-99dd37f126f9,METROW-2549bd,2015-06-06,Patient reports symptoms consistent with cystic fibrosis.
+2211f478-b7b4-7711-561a-963c0835620c,METROW-2549bd,2015-06-22,Patient was evaluated for normal pregnancy. Medication list unchanged.
+2211f478-b7b4-7711-8383-96f6b347ce5d,METROW-2549bd,2015-07-20,Patient presents today with normal pregnancy.
+2211f478-b7b4-7711-fb90-03f8c7f7e73d,METROW-2549bd,2015-08-03,Follow-up visit regarding normal pregnancy.
+2211f478-b7b4-7711-1a26-b9f15d8f463c,METROW-2549bd,2015-08-10,Presenting complaint: normal pregnancy. Medication list unchanged.
+2211f478-b7b4-7711-4024-4057ec28784c,METROW-2549bd,2015-09-02,Follow-up visit regarding cystic fibrosis.
+2211f478-b7b4-7711-8566-706271053729,METROW-2549bd,2015-09-07,Presenting complaint: gingivitis. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+2211f478-b7b4-7711-33ca-7c8263068148,METROW-2549bd,2015-09-21,"Routine ambulatory visit, no acute complaints voiced at check-in."
+2211f478-b7b4-7711-952b-3c8f09c8df1d,METROW-2549bd,2015-10-14,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] during this encounter."
+2211f478-b7b4-7711-f810-a21f7d451ee4,METROW-2549bd,2015-10-31,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: tropicamide 5 MG/ML Ophthalmic Solution.
+2211f478-b7b4-7711-a1fe-9005c0b64fbb,METROW-2549bd,2015-12-02,Seen in clinic for cystic fibrosis.
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,2015-12-21,"Outpatient visit for general evaluation. Care-coordination note: Full-time employment and Stress. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,2016-01-18,"Outpatient visit for general evaluation. Social history noted: Medication review due. Medications prescribed today: insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,2016-02-15,"Patient seen for a scheduled wellness encounter. Started on insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme], Pancreatin 600 MG Oral Tablet, Acetaminophen 325 MG Oral Tablet [Tylenol], and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+2211f478-b7b4-7711-e0ef-6d8e77230e72,METROW-2549bd,2016-03-02,Seen in clinic for cystic fibrosis.
+2211f478-b7b4-7711-6ac4-d082185e9b20,METROW-2549bd,2016-06-03,Patient presents today with sepsis caused by Staphylococcus aureus.
+2211f478-b7b4-7711-c3cf-c260af366446,METROW-2549bd,2016-06-13,Patient presents today with sepsis caused by Pseudomonas.
+e503e9b3-d149-653b-7280-07d85636cde6,METROW-f81d19,1995-11-15,Patient presents today with adolescent idiopathic scoliosis. New findings on exam include adolescent idiopathic scoliosis.
+e503e9b3-d149-653b-263d-d83b3d9020a2,METROW-f81d19,2001-10-08,Wellness visit for general evaluation. Care-coordination note: Risk activity involvement.
+e503e9b3-d149-653b-ac32-eda69f4d42c1,METROW-f81d19,2002-10-14,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Received higher education. Medication list unchanged."
+e503e9b3-d149-653b-a536-cca0cbc06b1e,METROW-f81d19,2007-03-12,Patient was evaluated for acute bacterial sinusitis. New findings on exam include chronic sinusitis.
+e503e9b3-d149-653b-ac10-e39d4b9ec777,METROW-f81d19,2009-10-26,Patient continues to be followed for borderline blood sugar and a low blood count. No new medications prescribed at this time.
+e503e9b3-d149-653b-3ffa-062b5ac17d65,METROW-f81d19,2009-11-02,Seen in clinic for a low blood count. Plan: initiate ferrous sulfate 325 MG Oral Tablet.
+e503e9b3-d149-653b-ac5d-46444e967cb2,METROW-f81d19,2014-10-13,Follow-up visit regarding normal pregnancy.
+e503e9b3-d149-653b-6a3a-59b59eb91605,METROW-f81d19,2014-12-29,Patient reports symptoms consistent with fetus with chromosomal abnormality. New findings on exam include past pregnancy history of miscarriage.
+e503e9b3-d149-653b-bf5c-a70a46442f0f,METROW-f81d19,2015-11-02,Wellness visit for general evaluation. Care-coordination note: Part-time employment. Medication list unchanged.
+e503e9b3-d149-653b-ed8f-c1687b5e6edf,METROW-f81d19,2016-07-30,"Routine outpatient visit, no acute complaints voiced at check-in. Medications prescribed today: {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]."
+e503e9b3-d149-653b-7b61-31b21a173c16,METROW-f81d19,2016-11-14,"Routine outpatient visit, no acute complaints voiced at check-in. Medication list unchanged."
+e503e9b3-d149-653b-4387-a11bebf38b92,METROW-f81d19,2017-02-13,Patient seen for a scheduled outpatient encounter.
+e503e9b3-d149-653b-ac80-b9b48cd67d89,METROW-f81d19,2017-05-15,Patient seen for a scheduled outpatient encounter. No new medications prescribed at this time.
+e503e9b3-d149-653b-4eaf-0a52c9f697ba,METROW-f81d19,2017-07-25,Outpatient visit for general evaluation. Medications prescribed today: 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System.
+e503e9b3-d149-653b-7e3d-cca237d357a5,METROW-f81d19,2017-08-14,Patient seen for a scheduled outpatient encounter.
+e503e9b3-d149-653b-dbf4-3f426462f811,METROW-f81d19,2017-11-13,Outpatient visit for general evaluation. No new medications prescribed at this time.
+e503e9b3-d149-653b-2760-c1deba2a297a,METROW-f81d19,2018-02-12,Patient seen for a scheduled outpatient encounter.
+e503e9b3-d149-653b-1ca0-0bf8f83371da,METROW-f81d19,2018-05-14,Outpatient visit for general evaluation. Medication list unchanged.
+e503e9b3-d149-653b-8321-58d6fa829d64,METROW-f81d19,2018-07-20,Outpatient visit for general evaluation. Started on Etonogestrel 68 MG Drug Implant.
+e503e9b3-d149-653b-adf5-1b9304644d5f,METROW-f81d19,2018-08-13,"Routine outpatient visit, no acute complaints voiced at check-in."
+e503e9b3-d149-653b-3cb3-3bca83381510,METROW-f81d19,2018-11-05,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment and Stress."
+e503e9b3-d149-653b-1569-2b477bbd3224,METROW-f81d19,2018-11-12,"Routine outpatient visit, no acute complaints voiced at check-in."
+e503e9b3-d149-653b-5fb3-e1213db51c2e,METROW-f81d19,2018-11-19,Patient seen for a scheduled ambulatory encounter.
+e503e9b3-d149-653b-0d4e-b23edd3d34be,METROW-f81d19,2019-02-11,Patient seen for a scheduled outpatient encounter.
+e503e9b3-d149-653b-0f65-9acbc493a971,METROW-f81d19,2019-05-13,"Routine outpatient visit, no acute complaints voiced at check-in."
+e503e9b3-d149-653b-af25-7352fa22f187,METROW-f81d19,2019-08-12,Outpatient visit for general evaluation.
+e503e9b3-d149-653b-66d0-25729677c5ab,METROW-f81d19,2019-11-11,Patient seen for a scheduled outpatient encounter.
+e503e9b3-d149-653b-5b1b-525a141e756e,METROW-f81d19,2020-02-10,Outpatient visit for general evaluation.
+e503e9b3-d149-653b-1f6e-7bfc3c14600f,METROW-f81d19,2020-05-11,Patient seen for a scheduled outpatient encounter.
+e503e9b3-d149-653b-b175-98a10da01e84,METROW-f81d19,2020-07-09,Outpatient visit for general evaluation. Patient given levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena] during this encounter.
+e503e9b3-d149-653b-c8e5-799cd251064c,METROW-f81d19,2020-07-11,Outpatient visit for general evaluation. Medication list unchanged.
+e503e9b3-d149-653b-3136-f48a7caaad79,METROW-f81d19,2020-08-10,Outpatient visit for general evaluation.
+e503e9b3-d149-653b-6399-4ebb4d5877a0,METROW-f81d19,2020-11-09,Patient seen for a scheduled outpatient encounter. No new medications prescribed at this time.
+e503e9b3-d149-653b-5aa4-1b7b1df7b606,METROW-f81d19,2021-02-08,"Routine outpatient visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+e503e9b3-d149-653b-5245-4e6dc1fb9c36,METROW-f81d19,2021-05-10,"Routine outpatient visit, no acute complaints voiced at check-in."
+e503e9b3-d149-653b-e7bc-a85f5bcdd9b1,METROW-f81d19,2021-06-04,Patient presents today with viral sinusitis. Patient continues to be followed for a sinus infection. Medication list unchanged.
+e503e9b3-d149-653b-8ffa-eb6415477b0e,METROW-f81d19,2021-08-09,"Routine outpatient visit, no acute complaints voiced at check-in. Medication list unchanged."
+e503e9b3-d149-653b-f301-4409f0ffa260,METROW-f81d19,2021-08-09,Outpatient visit for general evaluation.
+e503e9b3-d149-653b-f31a-683cdadda409,METROW-f81d19,2021-08-30,Patient seen for a scheduled outpatient encounter.
+e503e9b3-d149-653b-1226-7d518d871b57,METROW-f81d19,2021-11-08,Wellness visit for general evaluation. Care-coordination note: Medication review due and Social isolation.
+e503e9b3-d149-653b-260a-20d324a07795,METROW-f81d19,2021-11-15,"Routine outpatient visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+e503e9b3-d149-653b-e95c-303764da10c1,METROW-f81d19,2022-02-21,Follow-up visit regarding normal pregnancy. Assessment: normal pregnancy.
+e503e9b3-d149-653b-28a2-4286144bf89f,METROW-f81d19,2022-03-21,Seen in clinic for normal pregnancy. No new medications prescribed at this time.
+e503e9b3-d149-653b-6ca7-8a42a97884c4,METROW-f81d19,2022-04-18,Follow-up visit regarding normal pregnancy.
+e503e9b3-d149-653b-5b70-6c3104d96e51,METROW-f81d19,2022-05-16,Patient reports symptoms consistent with normal pregnancy.
+e503e9b3-d149-653b-0a52-22852df56ee3,METROW-f81d19,2022-06-13,Seen in clinic for normal pregnancy.
+e503e9b3-d149-653b-2836-8b63ed1bd51e,METROW-f81d19,2022-07-11,Patient presents today with normal pregnancy. Medication list unchanged.
+e503e9b3-d149-653b-43b1-e79e55e7db37,METROW-f81d19,2022-08-08,Follow-up visit regarding normal pregnancy.
+e503e9b3-d149-653b-5487-835fdc2bdc53,METROW-f81d19,2022-09-05,Patient was evaluated for normal pregnancy.
+e503e9b3-d149-653b-fe8d-ef7576ef58e5,METROW-f81d19,2022-09-19,Patient was evaluated for normal pregnancy. Medication list unchanged.
+e503e9b3-d149-653b-2f5d-1ef79dff1811,METROW-f81d19,2022-09-26,Presenting complaint: normal pregnancy. Medication list unchanged.
+e503e9b3-d149-653b-cf9b-960ad1d1a27e,METROW-f81d19,2022-10-03,Patient reports symptoms consistent with normal pregnancy. No new medications prescribed at this time.
+e503e9b3-d149-653b-d53d-0533bd94c8a9,METROW-f81d19,2022-11-14,Ambulatory visit for general evaluation.
+e503e9b3-d149-653b-0562-c4421221e644,METROW-f81d19,2022-11-21,"Routine outpatient visit, no acute complaints voiced at check-in. Started on {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]."
+e503e9b3-d149-653b-c81b-1f4212b8780c,METROW-f81d19,2023-11-16,Outpatient visit for general evaluation. Plan: initiate {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day].
+e503e9b3-d149-653b-a01b-9241bfd8b58d,METROW-f81d19,2024-10-14,Patient seen for a scheduled wellness encounter.
+e503e9b3-d149-653b-f55a-fd8dabbfc570,METROW-f81d19,2024-10-28,Patient seen for a scheduled ambulatory encounter. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+e503e9b3-d149-653b-9dee-6592fd4713b5,METROW-f81d19,2025-01-13,Presenting complaint: normal pregnancy. Assessment: normal pregnancy. No new medications prescribed at this time.
+e503e9b3-d149-653b-f4c7-19dfe6ddcb8f,METROW-f81d19,2025-02-10,Seen in clinic for normal pregnancy.
+e503e9b3-d149-653b-9ffb-42e0388d1112,METROW-f81d19,2025-03-10,Patient was evaluated for normal pregnancy.
+e503e9b3-d149-653b-190d-7fe4ee0432df,METROW-f81d19,2025-04-07,Presenting complaint: normal pregnancy.
+e503e9b3-d149-653b-6d73-b9c040acdcab,METROW-f81d19,2025-05-05,Follow-up visit regarding normal pregnancy. No new medications prescribed at this time.
+e503e9b3-d149-653b-a3c6-d23e37df685f,METROW-f81d19,2025-06-02,Patient presents today with normal pregnancy.
+e503e9b3-d149-653b-4b90-bf909239a1d8,METROW-f81d19,2025-06-30,Patient reports symptoms consistent with normal pregnancy.
+e503e9b3-d149-653b-3020-60ffbfbb70d0,METROW-f81d19,2025-07-28,Patient was evaluated for normal pregnancy.
+e503e9b3-d149-653b-edcd-d49f8b17df7d,METROW-f81d19,2025-08-11,Seen in clinic for normal pregnancy. Medication list unchanged.
+e503e9b3-d149-653b-3594-7286bed2eb1e,METROW-f81d19,2025-08-18,Patient was evaluated for normal pregnancy. No new medications prescribed at this time.
+e503e9b3-d149-653b-7e76-110b2caf7ab0,METROW-f81d19,2025-09-29,Patient seen for a scheduled ambulatory encounter. Medication list unchanged.
+e503e9b3-d149-653b-0e17-773b22b5d8e7,METROW-f81d19,2025-11-05,"Routine outpatient visit, no acute complaints voiced at check-in. Started on {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]."
+82623afe-e51c-e02e-0cb3-b28c7cac5886,METROW-0fe329,2015-12-20,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.21 MG/ML Inhalation Solution.
+82623afe-e51c-e02e-951b-742e3d75b81a,METROW-0fe329,2016-12-25,"Routine wellness visit, no acute complaints voiced at check-in. Started on budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.21 MG/ML Inhalation Solution."
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,2017-12-31,"Patient continues to be followed for gingivitis. Social history noted: Medication review due, Received higher education, Full-time employment, and Stress. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.21 MG/ML Inhalation Solution."
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,2019-01-06,Patient continues to be followed for reactive airway disease and gum inflammation. Social history noted: Medication review due. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.21 MG/ML Inhalation Solution.
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,2020-01-12,Wellness visit for general evaluation. Patient given budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.21 MG/ML Inhalation Solution during this encounter.
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,2020-12-16,Patient was evaluated for sprain (morphologic abnormality). Clinical impression: sprain (morphologic abnormality) and sprain of wrist. Started on Naproxen sodium 220 MG Oral Tablet.
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,2021-01-17,Patient seen for a scheduled wellness encounter. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.21 MG/ML Inhalation Solution.
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,2022-01-23,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Unemployed and Limited social contact. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.21 MG/ML Inhalation Solution."
+82623afe-e51c-e02e-23d8-5e4116a153bb,METROW-0fe329,2022-11-06,Patient presents today with normal pregnancy. Medication list unchanged.
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,2023-01-29,Assessment: gum inflammation. Care-coordination note: Medication review due and Full-time employment. Started on budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.21 MG/ML Inhalation Solution.
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,2024-02-04,"New findings on exam include high blood pressure. Social history noted: Medication review due, Part-time employment, and Stress. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension, albuterol 0.21 MG/ML Inhalation Solution, and Hydrochlorothiazide 25 MG Oral Tablet."
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,2025-02-09,"Clinical impression: gum inflammation. Care-coordination note: Full-time employment and Social isolation. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, amLODIPine 2.5 MG Oral Tablet, and albuterol 0.21 MG/ML Inhalation Solution."
+82623afe-e51c-e02e-d36f-650f95794f9f,METROW-0fe329,2025-06-22,Patient was evaluated for normal pregnancy. No new medications prescribed at this time.
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,2026-02-15,"Clinical impression: gum inflammation. Social history noted: Medication review due, Not in labor force, and Limited social contact. Started on budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, amLODIPine 2.5 MG Oral Tablet, and albuterol 0.21 MG/ML Inhalation Solution."
+1426480f-ccc7-2393-b622-87ea0962cdd4,METROW-f498eb,1965-09-18,Patient was evaluated for perennial allergic rhinitis with seasonal variation. Plan: initiate diphenhydrAMINE Hydrochloride 25 MG Oral Tablet.
+1426480f-ccc7-2393-56c7-2d4bb4f6e93b,METROW-f498eb,1965-09-24,Follow-up visit regarding allergic disposition. Nursing staff flagged an allergy to Allergic disposition prior to any new prescriptions.
+1426480f-ccc7-2393-c230-9e7b9072c674,METROW-f498eb,1980-02-11,Patient seen for a scheduled wellness encounter. Social history noted: Educated to high school level.
+1426480f-ccc7-2393-d1fe-b9f14b909cb8,METROW-f498eb,1990-02-26,Patient continues to be followed for significant weight gain.
+1426480f-ccc7-2393-e0a0-a3c4f3ca7908,METROW-f498eb,2003-04-14,Patient presents today with sepsis. Assessment: sepsis.
+1426480f-ccc7-2393-662a-d1309441af5c,METROW-f498eb,2010-01-11,Clinical impression: essential hypertension. Medication list unchanged.
+1426480f-ccc7-2393-1f8a-f356e4233b45,METROW-f498eb,2014-02-05,"Patient was evaluated for chronic pain. Patient continues to be followed for ongoing pain, chronic low back pain, and fibromyalgia. No new medications prescribed at this time."
+1426480f-ccc7-2393-8bf6-8bf5565e5fc7,METROW-f498eb,2015-02-09,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment. No new medications prescribed at this time."
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,2016-02-15,Patient seen for a scheduled wellness encounter. Plan: initiate lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet.
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,2017-02-20,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Part-time employment, and Limited social contact. Plan: initiate lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet."
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,2017-09-12,Patient presents today with a sinus infection. Patient continues to be followed for viral sinusitis. Plan: initiate Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+1426480f-ccc7-2393-d287-fad18b41007d,METROW-f498eb,2018-02-26,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment. Medications prescribed today: lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet."
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,2019-03-04,New findings on exam include gingivitis. Plan: initiate lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet.
+1426480f-ccc7-2393-ef8d-1395aba0059c,METROW-f498eb,2019-03-18,Presenting complaint: gum inflammation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,2020-03-09,"Patient continues to be followed for coronary artery disease and severe anxiety with panic features. Social history noted: Medication review due, Part-time employment, Stress, and Reports of violence in the environment. Medications prescribed today: lisinopril 10 MG Oral Tablet, Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet, Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, and Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray."
+1426480f-ccc7-2393-072d-afa1df03bc87,METROW-f498eb,2020-08-17,Presenting complaint: a sinus infection. Clinical impression: a sinus infection.
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,2021-03-15,Assessment: gum inflammation. Care-coordination note: Full-time employment. Started on lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet.
+1426480f-ccc7-2393-eaf9-8fd9f528351a,METROW-f498eb,2021-03-29,Patient reports symptoms consistent with gingivitis. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+1426480f-ccc7-2393-3df7-451685bc150f,METROW-f498eb,2021-05-24,Outpatient visit for general evaluation. No new medications prescribed at this time.
+1426480f-ccc7-2393-097f-5ebb68644759,METROW-f498eb,2021-06-21,Patient seen for a scheduled outpatient encounter.
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,2022-02-11,Patient presents today with laceration - injury. Assessment: laceration - injury and laceration of thigh. Medications prescribed today: Naproxen sodium 220 MG Oral Tablet.
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,2022-03-21,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due, Limited social contact, and Stress. Medications prescribed today: lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet."
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,2023-02-18,Patient presents today with laceration - injury. Assessment: laceration - injury and laceration of hand. Medications prescribed today: Naproxen sodium 220 MG Oral Tablet.
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,2023-03-27,Clinical impression: gingivitis. Care-coordination note: Part-time employment. Medications prescribed today: lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet.
+1426480f-ccc7-2393-9eb2-14cfef2023ba,METROW-f498eb,2023-04-10,Follow-up visit regarding gingivitis. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+1426480f-ccc7-2393-b0b5-966fe4aad8ee,METROW-f498eb,2024-01-13,Follow-up visit regarding acute viral pharyngitis. Clinical impression: acute viral pharyngitis.
+1426480f-ccc7-2393-1dff-3d15e6fd3ea6,METROW-f498eb,2024-04-01,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Full-time employment. Patient given lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet during this encounter.
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,2025-04-07,"Routine wellness visit, no acute complaints voiced at check-in. Started on lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet."
+1426480f-ccc7-2393-0803-4519355e891a,METROW-f498eb,2025-04-21,Patient seen for a scheduled ambulatory encounter. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+1426480f-ccc7-2393-7eab-22ee566b8fd8,METROW-f498eb,2026-04-13,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Medications prescribed today: lisinopril 10 MG Oral Tablet and Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet."
+1426480f-ccc7-2393-0b9e-1f2847df7759,METROW-f498eb,2026-04-27,Assessment: gum disease. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+afb99eee-0bd5-8853-15a5-2be3e2e32e77,METROW-1bc0a3,2013-11-15,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+afb99eee-0bd5-8853-3805-cd952ecc5205,METROW-1bc0a3,2015-11-27,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Risk activity involvement. Medication list unchanged."
+afb99eee-0bd5-8853-0faa-17a3365a3087,METROW-1bc0a3,2016-12-02,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Housing unsatisfactory, Educated to high school level, and Full-time employment."
+afb99eee-0bd5-8853-90d1-e852cf94376a,METROW-1bc0a3,2017-12-08,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Social isolation. Medication list unchanged.
+afb99eee-0bd5-8853-f8a5-482b91ef8676,METROW-1bc0a3,2020-12-11,New findings on exam include gingivitis. Care-coordination note: Stress.
+afb99eee-0bd5-8853-09c5-6851ed87cd4f,METROW-1bc0a3,2023-12-15,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due and Misuses drugs."
+46fcc34a-97a1-f038-b4bb-0a4d9109b5fc,METROW-c414c1,2001-07-25,Wellness visit for general evaluation. Care-coordination note: Risk activity involvement.
+46fcc34a-97a1-f038-cdd8-cc9cb065766b,METROW-c414c1,2003-08-06,Patient seen for a scheduled wellness encounter. Care-coordination note: Received higher education and Unemployed.
+46fcc34a-97a1-f038-e100-75afc3eb2b59,METROW-c414c1,2015-09-02,Wellness visit for general evaluation. Care-coordination note: Refugee (person) and Reports of violence in the environment. Started on Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+46fcc34a-97a1-f038-3e3d-e5681d587a20,METROW-c414c1,2016-09-07,"Routine wellness visit, no acute complaints voiced at check-in. Plan: initiate Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]."
+46fcc34a-97a1-f038-b5bb-442ce514d044,METROW-c414c1,2017-09-13,"Patient continues to be followed for gingivitis. Social history noted: Medication review due, Social isolation, and Stress. Started on Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]."
+46fcc34a-97a1-f038-d193-226822c2b206,METROW-c414c1,2018-09-19,Diagnosed with gum inflammation at this visit. Started on Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+46fcc34a-97a1-f038-94de-709570a0e6ad,METROW-c414c1,2019-09-25,Assessment: gingivitis. Care-coordination note: Full-time employment. Plan: initiate Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+46fcc34a-97a1-f038-6bcf-83aaefd136d9,METROW-c414c1,2020-09-30,Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment and Social isolation. Plan: initiate Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+46fcc34a-97a1-f038-ea5f-befb62c6a10d,METROW-c414c1,2021-10-06,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due, Limited social contact, and Stress. Medications prescribed today: Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]."
+46fcc34a-97a1-f038-440f-d5968d40d953,METROW-c414c1,2022-10-12,Clinical impression: gum inflammation. Care-coordination note: Medication review due. Patient given Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] during this encounter.
+46fcc34a-97a1-f038-d625-857794e18e71,METROW-c414c1,2023-10-18,New findings on exam include gum inflammation. Social history noted: Full-time employment. Patient given Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] during this encounter.
+46fcc34a-97a1-f038-f0c2-bbc4ad58eb48,METROW-c414c1,2024-10-23,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Part-time employment. Medications prescribed today: Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]."
+46fcc34a-97a1-f038-7ddb-8f7b34964e31,METROW-c414c1,2025-10-29,New findings on exam include gum inflammation. Care-coordination note: Medication review due and Unemployed. Plan: initiate Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+6c4283c9-228b-2774-2eb7-5438fa1a67bf,METROW-c330ba,2002-10-10,Presenting complaint: acute bacterial sinusitis. Diagnosed with long-standing sinus infection at this visit.
+6c4283c9-228b-2774-ea88-056fbac733c7,METROW-c330ba,2004-01-24,Patient seen for a scheduled wellness encounter. Care-coordination note: Received higher education and Stress.
+6c4283c9-228b-2774-6722-5d93ecde9b63,METROW-c330ba,2008-02-02,Diagnosed with body mass index 40+ - severely obese at this visit.
+6c4283c9-228b-2774-a411-ef7ccbed7d33,METROW-c330ba,2014-02-08,Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment.
+6c4283c9-228b-2774-3553-acf37271f642,METROW-c330ba,2017-02-11,"Patient seen for a scheduled wellness encounter. Social history noted: Medication review due, Not in labor force, and Limited social contact."
+6c4283c9-228b-2774-aba6-52c67258b141,METROW-c330ba,2017-02-25,"Routine ambulatory visit, no acute complaints voiced at check-in. Medication list unchanged."
+6c4283c9-228b-2774-33eb-9530ace867be,METROW-c330ba,2019-10-17,Patient was evaluated for acute viral pharyngitis. Patient continues to be followed for a sore throat. No new medications prescribed at this time.
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,2020-02-15,"Diagnosed with borderline blood sugar, anemia, and gingivitis at this visit. Social history noted: Full-time employment."
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,2020-02-22,Presenting complaint: a low blood count. Plan: initiate ferrous sulfate 325 MG Oral Tablet and Vitamin B12 5 MG/ML Injectable Solution.
+6c4283c9-228b-2774-120c-a8dad592b537,METROW-c330ba,2020-03-07,Follow-up visit regarding gingivitis. New findings on exam include gingival disease. Medication list unchanged.
+6c4283c9-228b-2774-2ecd-23605fbffc3a,METROW-c330ba,2021-02-06,Patient seen for a scheduled outpatient encounter. Medication list unchanged.
+6c4283c9-228b-2774-4c2e-5f297d1a47b2,METROW-c330ba,2021-02-27,Patient seen for a scheduled outpatient encounter. Medication list unchanged.
+6c4283c9-228b-2774-b59d-cebb9b8ac5f2,METROW-c330ba,2023-02-18,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Stress.
+6c4283c9-228b-2774-aa27-8bdbb87a9904,METROW-c330ba,2025-12-06,"Routine wellness visit, no acute complaints voiced at check-in."
+9c26986a-d81d-62f0-ecce-961c5addb697,METROW-d2f872,2014-03-26,Wellness visit for general evaluation. Social history noted: Risk activity involvement.
+9c26986a-d81d-62f0-6c15-a006bccb0aa7,METROW-d2f872,2016-04-06,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Received higher education, Full-time employment, and Stress. Medication list unchanged."
+9c26986a-d81d-62f0-9319-d9ec7c28f0dd,METROW-d2f872,2017-04-12,Diagnosed with gingivitis at this visit. Care-coordination note: Medication review due and Part-time employment.
+9c26986a-d81d-62f0-ced6-1fdd19ea1a7d,METROW-d2f872,2020-04-15,"Patient continues to be followed for gingivitis. Care-coordination note: Medication review due, Unemployed, Limited social contact, and Stress."
+9c26986a-d81d-62f0-8bdd-28220c4b3d21,METROW-d2f872,2023-04-19,Wellness visit for general evaluation. Care-coordination note: Part-time employment.
+9c26986a-d81d-62f0-b5da-a7003996997d,METROW-d2f872,2026-04-22,Diagnosed with gingivitis at this visit. Social history noted: Medication review due and Full-time employment.

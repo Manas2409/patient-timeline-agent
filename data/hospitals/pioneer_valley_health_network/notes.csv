@@ -1,0 +1,265 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+cc3eac4a-34a7-9a15-d602-66b0bd935203,PIONEE-2c833f,2016-03-28,Patient reports symptoms consistent with acute bronchitis.
+cc3eac4a-34a7-9a15-25f1-0d3ead2180b6,PIONEE-2c833f,2016-10-25,Patient presents today with viral sinusitis. Clinical impression: a sinus infection.
+cc3eac4a-34a7-9a15-197d-c8faa82aee51,PIONEE-2c833f,2018-02-05,Patient continues to be followed for fractured dental filling. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+cc3eac4a-34a7-9a15-88f3-730564694133,PIONEE-2c833f,2020-02-10,Patient continues to be followed for fractured dental filling. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+cc3eac4a-34a7-9a15-f753-5f808d4cf215,PIONEE-2c833f,2021-10-18,Outpatient visit for general evaluation. No new medications prescribed at this time.
+cc3eac4a-34a7-9a15-ca00-ed6e196c4120,PIONEE-2c833f,2021-11-08,Patient seen for a scheduled outpatient encounter.
+cc3eac4a-34a7-9a15-473f-34cd7ed0707a,PIONEE-2c833f,2022-02-14,Patient seen for a scheduled ambulatory encounter. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+cc3eac4a-34a7-9a15-a77a-027dab52c156,PIONEE-2c833f,2025-11-29,Presenting complaint: a sinus infection. Assessment: viral sinusitis. Patient given Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet during this encounter.
+30ed72f3-240e-4973-e1a8-773cae1a59fb,PIONEE-004af5,2018-03-10,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+30ed72f3-240e-4973-df59-d1a3beb1541e,PIONEE-004af5,2018-04-14,"Routine wellness visit, no acute complaints voiced at check-in."
+30ed72f3-240e-4973-def7-19bae748e765,PIONEE-004af5,2018-05-11,Patient reports symptoms consistent with acute viral pharyngitis. New findings on exam include acute viral pharyngitis.
+30ed72f3-240e-4973-03df-2dcf57bb526e,PIONEE-004af5,2018-06-16,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+30ed72f3-240e-4973-8ffe-fd1a5def4e60,PIONEE-004af5,2018-08-18,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+30ed72f3-240e-4973-3f3e-14c81b3cfce6,PIONEE-004af5,2018-11-17,Wellness visit for general evaluation. Social history noted: Medication review due. No new medications prescribed at this time.
+30ed72f3-240e-4973-5c44-0d7b49cf550f,PIONEE-004af5,2019-02-16,Patient seen for a scheduled wellness encounter. No new medications prescribed at this time.
+30ed72f3-240e-4973-0c7f-e4da5762dbb9,PIONEE-004af5,2019-05-18,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+30ed72f3-240e-4973-fecb-bfcbfe13ca34,PIONEE-004af5,2019-08-17,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+30ed72f3-240e-4973-e02f-76cef560c123,PIONEE-004af5,2019-11-30,Presenting complaint: otitis media. Clinical impression: otitis media. Started on Ibuprofen 100 MG Oral Tablet.
+30ed72f3-240e-4973-db9f-f470ff8fda8f,PIONEE-004af5,2020-02-15,Wellness visit for general evaluation. Medication list unchanged.
+30ed72f3-240e-4973-5b0c-5a30915755f3,PIONEE-004af5,2020-08-15,Patient seen for a scheduled wellness encounter. Medication list unchanged.
+30ed72f3-240e-4973-a73f-bdf99d17b476,PIONEE-004af5,2020-08-22,Assessment: primary dental caries. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+30ed72f3-240e-4973-f748-952ecabb3e60,PIONEE-004af5,2021-02-13,"Routine wellness visit, no acute complaints voiced at check-in. Medication list unchanged."
+30ed72f3-240e-4973-d6da-8e13c85177cb,PIONEE-004af5,2021-06-30,Patient presents today with a sinus infection. Diagnosed with viral sinusitis at this visit.
+30ed72f3-240e-4973-483f-3a6fc0dfc38f,PIONEE-004af5,2021-08-14,"Routine wellness visit, no acute complaints voiced at check-in."
+30ed72f3-240e-4973-9149-44ec5077fd30,PIONEE-004af5,2021-11-04,Follow-up visit regarding laceration - injury. Patient continues to be followed for laceration - injury and facial laceration. Patient given Ibuprofen 100 MG Oral Tablet during this encounter.
+30ed72f3-240e-4973-c91c-c79f6401f7c8,PIONEE-004af5,2022-01-21,Patient reports symptoms consistent with a sinus infection. Patient continues to be followed for viral sinusitis. Medication list unchanged.
+30ed72f3-240e-4973-50d8-63e6e942c7b4,PIONEE-004af5,2022-02-12,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. No new medications prescribed at this time."
+30ed72f3-240e-4973-9a4a-2732b62ce2c3,PIONEE-004af5,2022-02-19,Diagnosed with primary dental caries at this visit. Medication list unchanged.
+30ed72f3-240e-4973-0feb-d9661e74785e,PIONEE-004af5,2023-02-18,Patient seen for a scheduled wellness encounter.
+30ed72f3-240e-4973-62bf-72d207a70794,PIONEE-004af5,2023-03-04,Follow-up visit regarding a sore throat. New findings on exam include a sore throat. Started on Penicillin V Potassium 250 MG Oral Tablet.
+30ed72f3-240e-4973-f404-7c6157fd1dfa,PIONEE-004af5,2024-02-24,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+30ed72f3-240e-4973-824a-fdcaa8678099,PIONEE-004af5,2025-03-01,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+30ed72f3-240e-4973-5709-e46cb5d848fa,PIONEE-004af5,2026-03-07,Assessment: gum inflammation. Social history noted: Medication review due.
+30ed72f3-240e-4973-6427-6b8fabf327cf,PIONEE-004af5,2026-03-14,Patient presents today with gingivitis. Medication list unchanged.
+30ed72f3-240e-4973-5ff6-be057a919655,PIONEE-004af5,2026-08-03,Seen in clinic for streptococcal sore throat. Diagnosed with streptococcal sore throat at this visit. Plan: initiate Penicillin V Potassium 250 MG Oral Tablet.
+a6d0791e-4c15-58e6-51de-179cfa5c5a26,PIONEE-13d3b6,2024-01-02,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+a6d0791e-4c15-58e6-f2a6-e9dc32bfbf00,PIONEE-13d3b6,2024-02-06,"Routine wellness visit, no acute complaints voiced at check-in."
+a6d0791e-4c15-58e6-696c-b0036ac9ab47,PIONEE-13d3b6,2024-04-09,Patient seen for a scheduled wellness encounter.
+a6d0791e-4c15-58e6-d7b2-0e8d5819803f,PIONEE-13d3b6,2024-06-11,"Routine wellness visit, no acute complaints voiced at check-in."
+a6d0791e-4c15-58e6-b9c3-0dbe2ebe74f2,PIONEE-13d3b6,2024-09-10,Wellness visit for general evaluation.
+a6d0791e-4c15-58e6-f61f-97e163d45019,PIONEE-13d3b6,2024-12-10,Patient seen for a scheduled wellness encounter.
+a6d0791e-4c15-58e6-3e6b-8cfdb519c16a,PIONEE-13d3b6,2025-03-11,Patient seen for a scheduled wellness encounter. No new medications prescribed at this time.
+a6d0791e-4c15-58e6-7584-3e3225ef28af,PIONEE-13d3b6,2025-06-10,Wellness visit for general evaluation. Social history noted: Medication review due. Medication list unchanged.
+a6d0791e-4c15-58e6-e8c1-ca705a676c46,PIONEE-13d3b6,2025-09-30,Patient seen for a scheduled urgentcare encounter. Care-coordination note: Medication review due.
+a6d0791e-4c15-58e6-8daa-7e005454026f,PIONEE-13d3b6,2025-10-07,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+a6d0791e-4c15-58e6-cd41-d7daa21fed63,PIONEE-13d3b6,2025-10-14,Patient presents today with acute bronchitis. Patient continues to be followed for acute bronchitis. Plan: initiate Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution.
+a6d0791e-4c15-58e6-033a-6d001559d4d9,PIONEE-13d3b6,2025-12-09,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+a6d0791e-4c15-58e6-ef95-2d1009928364,PIONEE-13d3b6,2026-06-09,Wellness visit for general evaluation. Social history noted: Medication review due. Medication list unchanged.
+765bd034-e8d7-f102-3525-2f4996ae6d1c,PIONEE-a5051b,2017-03-25,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+765bd034-e8d7-f102-1847-04955bfb5d94,PIONEE-a5051b,2017-04-29,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+765bd034-e8d7-f102-0d80-52daa362b210,PIONEE-a5051b,2017-07-01,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+765bd034-e8d7-f102-d9e3-1d4460c2c471,PIONEE-a5051b,2017-09-02,Wellness visit for general evaluation.
+765bd034-e8d7-f102-5fa1-ab5942837e4f,PIONEE-a5051b,2017-12-02,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+765bd034-e8d7-f102-341f-aa68f654bcaa,PIONEE-a5051b,2018-03-03,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+765bd034-e8d7-f102-5c42-5519c3d7c2fe,PIONEE-a5051b,2018-06-02,Wellness visit for general evaluation.
+765bd034-e8d7-f102-af13-5a0bd9ecef54,PIONEE-a5051b,2018-08-20,Patient presents today with streptococcal sore throat. New findings on exam include streptococcal sore throat. Plan: initiate Penicillin V Potassium 250 MG Oral Tablet.
+765bd034-e8d7-f102-c62b-bdd53c8be516,PIONEE-a5051b,2018-09-01,"Routine wellness visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+765bd034-e8d7-f102-8278-cdd200cc6922,PIONEE-a5051b,2018-11-17,Patient reports symptoms consistent with a chest cold. Diagnosed with acute bronchitis at this visit. Started on Acetaminophen 325 MG Oral Tablet.
+765bd034-e8d7-f102-5474-07eff9829a35,PIONEE-a5051b,2018-12-21,Patient was evaluated for viral sinusitis. Patient continues to be followed for a sinus infection.
+765bd034-e8d7-f102-2914-2d05e8e80e66,PIONEE-a5051b,2019-03-02,Wellness visit for general evaluation.
+765bd034-e8d7-f102-4046-93d9ce8e5996,PIONEE-a5051b,2019-08-31,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+765bd034-e8d7-f102-d95b-5cf493154a09,PIONEE-a5051b,2019-11-10,Patient was evaluated for a middle-ear infection. Patient continues to be followed for a middle-ear infection. Medications prescribed today: Acetaminophen 160 MG Chewable Tablet.
+765bd034-e8d7-f102-b746-42a13457db3d,PIONEE-a5051b,2020-02-22,Seen in clinic for perennial allergic rhinitis with seasonal variation. Assessment: perennial allergic rhinitis with seasonal variation. Plan: initiate cetirizine hydrochloride 5 MG Oral Tablet.
+765bd034-e8d7-f102-1d73-f2fb2a8e36a2,PIONEE-a5051b,2020-02-29,Wellness visit for general evaluation. Medication list unchanged.
+765bd034-e8d7-f102-0bd6-75e434c71255,PIONEE-a5051b,2020-03-07,Patient presents today with allergic disposition. Medications prescribed today: NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Allergy history notable for Tree pollen.
+765bd034-e8d7-f102-1fd2-62aeed70388c,PIONEE-a5051b,2020-03-14,Diagnosed with primary dental caries at this visit. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+765bd034-e8d7-f102-4569-45fbd329f086,PIONEE-a5051b,2020-08-29,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. Medication list unchanged."
+765bd034-e8d7-f102-6ff9-1dd5fb5616ba,PIONEE-a5051b,2021-02-27,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+765bd034-e8d7-f102-c7b6-873256f2429a,PIONEE-a5051b,2022-03-05,Wellness visit for general evaluation. Care-coordination note: Medication review due. No new medications prescribed at this time.
+765bd034-e8d7-f102-417e-663059b41876,PIONEE-a5051b,2023-03-11,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+765bd034-e8d7-f102-2db4-00cb44545cff,PIONEE-a5051b,2024-03-16,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+765bd034-e8d7-f102-2121-ff70bf387df9,PIONEE-a5051b,2024-03-23,Patient seen for a scheduled ambulatory encounter.
+765bd034-e8d7-f102-8421-e89bd49f51a0,PIONEE-a5051b,2025-03-22,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+765bd034-e8d7-f102-e496-8236d9204e98,PIONEE-a5051b,2025-03-29,"Routine ambulatory visit, no acute complaints voiced at check-in."
+765bd034-e8d7-f102-d5b9-ae216b65e488,PIONEE-a5051b,2026-03-28,Wellness visit for general evaluation. No new medications prescribed at this time.
+765bd034-e8d7-f102-0090-2e0f69227d8b,PIONEE-a5051b,2026-05-04,Patient was evaluated for sprain (morphologic abnormality). Diagnosed with sprain (morphologic abnormality) and sprain of wrist at this visit. Plan: initiate Acetaminophen 160 MG Chewable Tablet.
+9c5b16dc-8a47-896c-ef3c-94e0375a7eec,PIONEE-629a68,1997-03-02,Wellness visit for general evaluation. Care-coordination note: Risk activity involvement.
+9c5b16dc-8a47-896c-4432-485c19254f9c,PIONEE-629a68,1998-03-08,Patient seen for a scheduled wellness encounter. Care-coordination note: Educated to high school level.
+9c5b16dc-8a47-896c-ff85-796b4674f318,PIONEE-629a68,2002-03-17,Diagnosed with obesity (BMI 30+) at this visit. Care-coordination note: Has a criminal record. No new medications prescribed at this time.
+9c5b16dc-8a47-896c-1b9b-150cb5a9c514,PIONEE-629a68,2008-03-23,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment. Medication list unchanged.
+9c5b16dc-8a47-896c-8cf8-d8755b43d91f,PIONEE-629a68,2015-06-16,Presenting complaint: asthma. Diagnosed with reactive airway disease at this visit.
+9c5b16dc-8a47-896c-f97f-371ec5f4c208,PIONEE-629a68,2015-06-28,Patient continues to be followed for high blood pressure.
+9c5b16dc-8a47-896c-43b5-db76ad05616d,PIONEE-629a68,2016-07-03,"Wellness visit for general evaluation. Care-coordination note: Medication review due and Stress. Started on budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-0ee1-632cf9cc62ed,PIONEE-629a68,2017-07-09,"Assessment: gum inflammation. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-b0fd-ed72ffa20bf1,PIONEE-629a68,2017-07-23,Patient was evaluated for gingivitis. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+9c5b16dc-8a47-896c-c7de-5484cc4d31c6,PIONEE-629a68,2018-07-15,"Patient seen for a scheduled wellness encounter. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-300e-ce9bc7b6f36b,PIONEE-629a68,2019-05-26,Presenting complaint: asthma. No new medications prescribed at this time.
+9c5b16dc-8a47-896c-a468-df1ff07747ed,PIONEE-629a68,2019-07-21,"Wellness visit for general evaluation. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-3576-e91a13af98ef,PIONEE-629a68,2019-11-22,Seen in clinic for reactive airway disease. Medication list unchanged.
+9c5b16dc-8a47-896c-6d1b-1dbef24f4052,PIONEE-629a68,2019-11-24,Patient reports symptoms consistent with reactive airway disease.
+9c5b16dc-8a47-896c-f61b-4d90271bbda5,PIONEE-629a68,2020-05-22,Patient presents today with reactive airway disease.
+9c5b16dc-8a47-896c-8bd8-c0831329bcf2,PIONEE-629a68,2020-07-26,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due, Unemployed, and Stress. Started on budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-f5f6-a0ba10aeee85,PIONEE-629a68,2021-04-04,Outpatient visit for general evaluation. No new medications prescribed at this time.
+9c5b16dc-8a47-896c-3dc0-9b5d8467aed0,PIONEE-629a68,2021-04-25,Patient seen for a scheduled outpatient encounter.
+9c5b16dc-8a47-896c-1d37-459dc5a7dc82,PIONEE-629a68,2021-08-01,"Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Full-time employment. Started on budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-0042-4f9e3d269008,PIONEE-629a68,2022-05-12,Patient reports symptoms consistent with asthma.
+9c5b16dc-8a47-896c-aa0d-9d1b208838ef,PIONEE-629a68,2022-05-14,Presenting complaint: asthma.
+9c5b16dc-8a47-896c-b2bb-e48bcbd02e04,PIONEE-629a68,2022-08-07,"Assessment: gingivitis. Care-coordination note: Medication review due and Part-time employment. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-6d09-e32218e5abb0,PIONEE-629a68,2022-08-21,Patient was evaluated for gingivitis. Diagnosed with acute infective cystitis at this visit. Medication list unchanged.
+9c5b16dc-8a47-896c-1052-7f82181edb8e,PIONEE-629a68,2022-11-19,Seen in clinic for acute infective cystitis. Plan: initiate sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet.
+9c5b16dc-8a47-896c-2d2d-f3b909cdebbb,PIONEE-629a68,2022-11-20,Seen in clinic for acute infective cystitis. Plan: initiate cephalexin 500 MG Oral Tablet.
+9c5b16dc-8a47-896c-f577-72b43c8ac3a6,PIONEE-629a68,2023-08-13,"New findings on exam include prediabetes and anemia. Care-coordination note: Full-time employment and Stress. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-e008-a4aac0ed42f8,PIONEE-629a68,2023-08-20,Seen in clinic for anemia.
+9c5b16dc-8a47-896c-8267-a3b9a2ffa7ae,PIONEE-629a68,2024-06-13,Patient presents today with injury of neck. Assessment: injury of neck and whiplash injury to neck. Started on Ibuprofen 200 MG Oral Tablet.
+9c5b16dc-8a47-896c-7ac4-860e07d50aeb,PIONEE-629a68,2024-06-13,"Routine snf visit, no acute complaints voiced at check-in."
+9c5b16dc-8a47-896c-975d-27600d2414be,PIONEE-629a68,2024-08-18,"Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Not in labor force. Started on budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-ec00-a79ef8e58296,PIONEE-629a68,2024-10-30,Patient reports symptoms consistent with asthma.
+9c5b16dc-8a47-896c-6157-c5b42d430a48,PIONEE-629a68,2025-04-28,Seen in clinic for asthma.
+9c5b16dc-8a47-896c-0eda-05ea714102a3,PIONEE-629a68,2025-08-24,"Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension, Hydrochlorothiazide 25 MG Oral Tablet, lisinopril 10 MG Oral Tablet, NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], and amLODIPine 2.5 MG Oral Tablet."
+9c5b16dc-8a47-896c-1e2c-d9de94a89221,PIONEE-629a68,2026-04-23,Follow-up visit regarding asthma.
+6d04a400-ad21-5951-fd6c-97f2f3f6b24b,PIONEE-dd32dc,2014-09-22,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Medication list unchanged."
+6d04a400-ad21-5951-4bb9-875736a9c20f,PIONEE-dd32dc,2016-10-03,Wellness visit for general evaluation. No new medications prescribed at this time.
+6d04a400-ad21-5951-af21-ff993fe0895a,PIONEE-dd32dc,2017-02-16,Patient reports symptoms consistent with a sore throat. Assessment: a sore throat.
+6d04a400-ad21-5951-f752-c0a515e57157,PIONEE-dd32dc,2017-09-02,Patient presents today with a chest cold. Diagnosed with acute bronchitis at this visit. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+6d04a400-ad21-5951-7ad8-d4471f79bf2a,PIONEE-dd32dc,2017-09-11,Patient seen for a scheduled outpatient encounter.
+6d04a400-ad21-5951-f079-1f488aa0bb76,PIONEE-dd32dc,2017-10-09,Wellness visit for general evaluation.
+6d04a400-ad21-5951-2cd1-ec54d6e7ce07,PIONEE-dd32dc,2018-10-15,"Routine wellness visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+6d04a400-ad21-5951-3c15-a7ac5a7ec069,PIONEE-dd32dc,2019-04-10,Patient presents today with a sinus infection. New findings on exam include a sinus infection. Medication list unchanged.
+6d04a400-ad21-5951-34b2-2a6ea3fab830,PIONEE-dd32dc,2019-10-21,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due.
+6d04a400-ad21-5951-e962-dbf00cc7a364,PIONEE-dd32dc,2019-10-28,Patient seen for a scheduled ambulatory encounter. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+6d04a400-ad21-5951-ca30-09a88ee19627,PIONEE-dd32dc,2020-10-26,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+6d04a400-ad21-5951-574d-5be71250da50,PIONEE-dd32dc,2021-11-01,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+6d04a400-ad21-5951-551f-501403f02021,PIONEE-dd32dc,2022-11-07,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+6d04a400-ad21-5951-40e0-7557046f2a0e,PIONEE-dd32dc,2023-11-13,Patient seen for a scheduled wellness encounter. No new medications prescribed at this time.
+6d04a400-ad21-5951-e9d2-4f70a8f5ee09,PIONEE-dd32dc,2023-11-27,Diagnosed with gingival disease at this visit. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+6d04a400-ad21-5951-90c9-7aa69bb76167,PIONEE-dd32dc,2024-04-07,Patient reports symptoms consistent with a sinus infection. Assessment: viral sinusitis.
+6d04a400-ad21-5951-0901-234877623f4c,PIONEE-dd32dc,2024-10-17,Patient seen for a scheduled outpatient encounter. Plan: initiate 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing].
+6d04a400-ad21-5951-6af4-8ae651b636da,PIONEE-dd32dc,2024-11-18,"Routine wellness visit, no acute complaints voiced at check-in."
+6d04a400-ad21-5951-6023-5408257a10d0,PIONEE-dd32dc,2024-12-02,Patient seen for a scheduled ambulatory encounter.
+6d04a400-ad21-5951-56e0-437ae61fd491,PIONEE-dd32dc,2025-09-12,Patient was evaluated for sinusitis. Diagnosed with sinusitis at this visit.
+6d04a400-ad21-5951-89e1-00cc26473faa,PIONEE-dd32dc,2025-10-12,Outpatient visit for general evaluation. Medications prescribed today: {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day].
+6d04a400-ad21-5951-7ee6-62d8ed373beb,PIONEE-dd32dc,2025-11-24,"Routine wellness visit, no acute complaints voiced at check-in."
+6d04a400-ad21-5951-6306-856c92ce3542,PIONEE-dd32dc,2026-01-26,Patient presents today with normal pregnancy. Clinical impression: normal pregnancy.
+6d04a400-ad21-5951-70ba-77254774085d,PIONEE-dd32dc,2026-02-23,Seen in clinic for normal pregnancy.
+6d04a400-ad21-5951-46f1-f1dc384fbb73,PIONEE-dd32dc,2026-03-23,Patient was evaluated for normal pregnancy. Medication list unchanged.
+6d04a400-ad21-5951-4984-4788fa57d50f,PIONEE-dd32dc,2026-04-20,Patient was evaluated for normal pregnancy.
+6d04a400-ad21-5951-106d-e646bfc4bab9,PIONEE-dd32dc,2026-05-18,Patient was evaluated for normal pregnancy.
+6d04a400-ad21-5951-cc8f-77e9cc71d96d,PIONEE-dd32dc,2026-06-15,Presenting complaint: normal pregnancy.
+6d04a400-ad21-5951-0d8b-607caaae57dd,PIONEE-dd32dc,2026-07-13,Presenting complaint: normal pregnancy. New findings on exam include pre-eclampsia.
+6d04a400-ad21-5951-f692-ac3894a064dd,PIONEE-dd32dc,2026-07-19,Seen in clinic for fracture of bone. Patient continues to be followed for fracture of bone and fracture of forearm. Plan: initiate Meperidine Hydrochloride 50 MG Oral Tablet and Naproxen sodium 220 MG Oral Tablet.
+6d04a400-ad21-5951-436a-120042323aa6,PIONEE-dd32dc,2026-08-10,Patient presents today with normal pregnancy.
+babc4b97-d859-0fe4-bbfc-a4df18b68fd6,PIONEE-fbc37b,2023-03-25,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+babc4b97-d859-0fe4-6eff-4ee6e3189f68,PIONEE-fbc37b,2023-04-29,Wellness visit for general evaluation. No new medications prescribed at this time.
+babc4b97-d859-0fe4-ff76-c1c6f3f380ae,PIONEE-fbc37b,2023-07-01,Wellness visit for general evaluation.
+babc4b97-d859-0fe4-41ec-c0d7dbafc961,PIONEE-fbc37b,2023-09-02,Patient seen for a scheduled wellness encounter.
+babc4b97-d859-0fe4-f14e-db81e375ce03,PIONEE-fbc37b,2023-12-02,Wellness visit for general evaluation.
+babc4b97-d859-0fe4-61f5-06596cdee7c7,PIONEE-fbc37b,2024-03-02,Patient seen for a scheduled wellness encounter.
+babc4b97-d859-0fe4-cc50-d5a8f80bfb58,PIONEE-fbc37b,2024-03-09,Follow-up visit regarding viral sinusitis. New findings on exam include viral sinusitis.
+babc4b97-d859-0fe4-fe3a-4dc9d99dc544,PIONEE-fbc37b,2024-06-01,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. No new medications prescribed at this time.
+babc4b97-d859-0fe4-8281-2f439f8d64f0,PIONEE-fbc37b,2024-08-31,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. No new medications prescribed at this time."
+babc4b97-d859-0fe4-03bf-ddc3894e6449,PIONEE-fbc37b,2025-02-15,Seen in clinic for acute viral pharyngitis. Assessment: a sore throat. Medication list unchanged.
+babc4b97-d859-0fe4-916a-8b4757efe7a8,PIONEE-fbc37b,2025-03-01,"Routine wellness visit, no acute complaints voiced at check-in."
+babc4b97-d859-0fe4-bcb5-e3e9616955a1,PIONEE-fbc37b,2025-07-06,Seen in clinic for a sinus infection. Assessment: viral sinusitis. Plan: initiate Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+babc4b97-d859-0fe4-d27e-399e8e6870da,PIONEE-fbc37b,2025-08-30,Wellness visit for general evaluation.
+babc4b97-d859-0fe4-3974-1a0b7a72efff,PIONEE-fbc37b,2025-11-09,Seen in clinic for a middle-ear infection. New findings on exam include a middle-ear infection. Plan: initiate Cefuroxime 250 MG Oral Tablet and Acetaminophen 160 MG Chewable Tablet.
+babc4b97-d859-0fe4-9639-6eb0311c38e4,PIONEE-fbc37b,2026-02-28,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+ee4b7339-ca58-b6af-25b4-c3d0e1131a2e,PIONEE-cb82ef,2026-05-27,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+ee4b7339-ca58-b6af-b531-32344964d5bf,PIONEE-cb82ef,2026-07-01,Patient seen for a scheduled wellness encounter.
+3935e8a9-9b9f-fd00-9255-8c54f868d817,PIONEE-a22169,1981-10-27,Patient seen for a scheduled wellness encounter. Care-coordination note: Risk activity involvement.
+3935e8a9-9b9f-fd00-bfbb-ebe3bc23efbc,PIONEE-a22169,1986-11-25,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Only received primary school education."
+3935e8a9-9b9f-fd00-af08-066ece111ae6,PIONEE-a22169,1989-07-24,Patient reports symptoms consistent with appendicitis. Assessment: history of appendectomy. No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-b41e-ead636c6f291,PIONEE-a22169,1993-12-07,Patient seen for a scheduled wellness encounter. Care-coordination note: Has a criminal record. No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-4467-5f3948d8bb98,PIONEE-a22169,1995-11-15,Patient was evaluated for anemia. Medications prescribed today: ferrous sulfate 325 MG Oral Tablet.
+3935e8a9-9b9f-fd00-4d5e-1c98bc1ff197,PIONEE-a22169,1998-06-21,Patient was evaluated for complete miscarriage. Patient continues to be followed for past pregnancy history of miscarriage. Medication list unchanged.
+3935e8a9-9b9f-fd00-da8e-18385a395926,PIONEE-a22169,2003-11-15,Patient continues to be followed for history of tubal ligation.
+3935e8a9-9b9f-fd00-fa63-b04827d22a9a,PIONEE-a22169,2008-09-30,Clinical impression: obesity (BMI 30+). No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-510c-a0a8a6dd88e4,PIONEE-a22169,2009-03-24,Seen in clinic for osteoarthritis of knee. Assessment: osteoarthritis of knee. Medications prescribed today: Naproxen sodium 220 MG Oral Tablet.
+3935e8a9-9b9f-fd00-679b-309c21d5dee6,PIONEE-a22169,2012-10-09,New findings on exam include hyperlipidemia. Social history noted: Full-time employment and Stress.
+3935e8a9-9b9f-fd00-7d38-1afd4b2c2f0c,PIONEE-a22169,2012-10-30,Follow-up visit regarding hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-589c-a52f5b761fb3,PIONEE-a22169,2014-10-14,"Patient seen for a scheduled wellness encounter. Social history noted: Limited social contact, Victim of intimate partner abuse, and Unhealthy alcohol drinking behavior. No new medications prescribed at this time."
+3935e8a9-9b9f-fd00-f058-15c868cb049c,PIONEE-a22169,2015-10-30,Patient was evaluated for hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-d8d3-994db01ae588,PIONEE-a22169,2016-10-18,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Unemployed.
+3935e8a9-9b9f-fd00-2837-796fd528a3a6,PIONEE-a22169,2016-10-29,Patient reports symptoms consistent with hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-7161-c51526fc28ba,PIONEE-a22169,2017-10-29,Patient reports symptoms consistent with hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-0073-a6f989a74fda,PIONEE-a22169,2017-11-13,Seen in clinic for fracture of bone. New findings on exam include fracture of bone and fracture of ankle. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+3935e8a9-9b9f-fd00-2f65-03c4677664d9,PIONEE-a22169,2017-11-21,Outpatient visit for general evaluation. No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-fd90-0ae2d0fc8d14,PIONEE-a22169,2017-12-24,Patient presents today with fracture of ankle.
+3935e8a9-9b9f-fd00-3c31-c7c86cef34f2,PIONEE-a22169,2018-09-25,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Part-time employment, and Limited social contact."
+3935e8a9-9b9f-fd00-531c-df0984d68b15,PIONEE-a22169,2018-10-02,"Routine ambulatory visit, no acute complaints voiced at check-in."
+3935e8a9-9b9f-fd00-6f3d-57c8c8043d53,PIONEE-a22169,2018-10-29,Patient presents today with hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-e504-c570996807d4,PIONEE-a22169,2019-10-01,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due."
+3935e8a9-9b9f-fd00-c602-1511937e431b,PIONEE-a22169,2019-10-29,Follow-up visit regarding hyperlipidemia. Patient given Simvastatin 10 MG Oral Tablet during this encounter.
+3935e8a9-9b9f-fd00-b7f4-9ee31aee329e,PIONEE-a22169,2020-10-06,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due, Full-time employment, Social isolation, and Stress. Medication list unchanged."
+3935e8a9-9b9f-fd00-af55-ac996bbfe052,PIONEE-a22169,2020-10-28,Patient presents today with hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-1e7a-5a722875630a,PIONEE-a22169,2021-03-23,Patient seen for a scheduled outpatient encounter. Medication list unchanged.
+3935e8a9-9b9f-fd00-a011-0fcae35527f9,PIONEE-a22169,2021-04-20,Patient seen for a scheduled outpatient encounter.
+3935e8a9-9b9f-fd00-b318-0d90d352be50,PIONEE-a22169,2021-07-22,Assessment: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-d0ae-706f2919fbfc,PIONEE-a22169,2021-07-27,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-b20d-6a67d0f3d199,PIONEE-a22169,2021-08-02,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-62fc-7cef8b010fa7,PIONEE-a22169,2021-08-12,Patient presents today with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-1fbd-0a0a6f776c85,PIONEE-a22169,2021-08-13,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-f505-cfcd53056e57,PIONEE-a22169,2021-08-14,Patient presents today with malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-bf4d-c61fc5ca9191,PIONEE-a22169,2021-08-15,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-79cf-b1cd178c7b3b,PIONEE-a22169,2021-08-17,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-13c1-6af48e5445e9,PIONEE-a22169,2021-08-18,Patient reports symptoms consistent with malignant neoplasm of breast. No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-ff9f-9d5de7eb2ae4,PIONEE-a22169,2021-08-19,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-3ca1-40b5ca718095,PIONEE-a22169,2021-08-20,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-0699-0cc44c4b48db,PIONEE-a22169,2021-08-22,Seen in clinic for malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-4d21-1dfcf247c0d5,PIONEE-a22169,2021-08-23,Patient was evaluated for viral sinusitis. Diagnosed with viral sinusitis at this visit. Started on Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+3935e8a9-9b9f-fd00-0fce-d74ec18f7962,PIONEE-a22169,2021-08-23,Patient was evaluated for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-8837-383d9d4698f1,PIONEE-a22169,2021-08-25,Patient reports symptoms consistent with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-25b2-3b8cf5f931f4,PIONEE-a22169,2021-08-26,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-631d-f5f90741d01c,PIONEE-a22169,2021-08-27,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-0178-e3da9b1a45bb,PIONEE-a22169,2021-08-28,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-d1b3-86708d72ca92,PIONEE-a22169,2021-08-30,Patient was evaluated for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-faf4-158af67e98f9,PIONEE-a22169,2021-08-31,Patient presents today with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-a022-02157e088859,PIONEE-a22169,2021-09-01,Patient reports symptoms consistent with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-0364-61662a56035f,PIONEE-a22169,2021-09-02,Patient reports symptoms consistent with malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-6077-fd5c7981e6b6,PIONEE-a22169,2021-09-04,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-a35a-194c83fffbc5,PIONEE-a22169,2021-09-05,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-899a-67c4ddddbff5,PIONEE-a22169,2021-09-06,Patient was evaluated for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-ac8a-cd4c1ab611cb,PIONEE-a22169,2021-09-07,Seen in clinic for malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-59d4-939d13cbce4c,PIONEE-a22169,2021-09-09,Patient presents today with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-c9b4-7f1c331043d6,PIONEE-a22169,2021-09-10,Patient presents today with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-ba03-34a5042ec588,PIONEE-a22169,2021-09-11,Patient presents today with malignant neoplasm of breast. No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-1264-19bf315a653b,PIONEE-a22169,2021-09-12,Patient presents today with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-71de-024a5ee21425,PIONEE-a22169,2021-09-13,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-ff86-4596631140d5,PIONEE-a22169,2021-09-15,Patient reports symptoms consistent with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-42da-cf445be14e55,PIONEE-a22169,2021-09-16,Patient reports symptoms consistent with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-b1ba-e0fef5349643,PIONEE-a22169,2021-09-17,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-2f93-d9e922aaa9da,PIONEE-a22169,2021-09-19,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-0a61-2b40b2de69db,PIONEE-a22169,2021-09-20,Seen in clinic for malignant neoplasm of breast. No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-2c20-192aaf84232d,PIONEE-a22169,2021-09-21,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-3bd8-25eab98bf978,PIONEE-a22169,2021-09-22,Patient reports symptoms consistent with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-189a-a18a667cb4b7,PIONEE-a22169,2021-09-26,Follow-up visit regarding malignant neoplasm of breast. Patient given anastrozole 1 MG Oral Tablet and palbociclib 100 MG Oral Capsule during this encounter.
+3935e8a9-9b9f-fd00-04d5-06c90af879b5,PIONEE-a22169,2021-10-12,Wellness visit for general evaluation.
+3935e8a9-9b9f-fd00-2f20-4410135456fe,PIONEE-a22169,2021-10-28,Patient presents today with hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-0477-6cfcb1a888b6,PIONEE-a22169,2021-11-23,Outpatient visit for general evaluation.
+3935e8a9-9b9f-fd00-7e93-3d07582fbc7a,PIONEE-a22169,2022-01-20,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-85d9-e8c3301dffae,PIONEE-a22169,2022-05-25,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-3259-79827d698512,PIONEE-a22169,2022-09-24,Patient presents today with malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-c0f4-bb8b7529770c,PIONEE-a22169,2022-09-24,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-38f0-4af8f9fb1765,PIONEE-a22169,2022-09-24,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-4dcd-9c9aacf6f669,PIONEE-a22169,2022-10-18,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+3935e8a9-9b9f-fd00-b095-b2cea29553f0,PIONEE-a22169,2022-10-28,Seen in clinic for hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-df3d-87daf73113bc,PIONEE-a22169,2023-01-22,Patient reports symptoms consistent with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-4a28-b1f4ecab4e28,PIONEE-a22169,2023-05-14,Patient presents today with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-9334-31a3c20cf1ad,PIONEE-a22169,2023-08-31,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-633a-65679d46b798,PIONEE-a22169,2023-08-31,Patient presents today with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-d25b-0e215817c85d,PIONEE-a22169,2023-08-31,Follow-up visit regarding malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-9555-d2aea15a1512,PIONEE-a22169,2023-10-02,Patient seen for a scheduled ambulatory encounter.
+3935e8a9-9b9f-fd00-c2f5-567c256783ec,PIONEE-a22169,2023-10-24,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Part-time employment. No new medications prescribed at this time."
+3935e8a9-9b9f-fd00-0244-3fce3ae21480,PIONEE-a22169,2023-10-28,Patient was evaluated for hyperlipidemia. Started on Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-bb2b-051bb92e0057,PIONEE-a22169,2023-12-12,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-5120-5f223c8c886d,PIONEE-a22169,2024-03-28,Presenting complaint: malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-baa9-41ca3cc78385,PIONEE-a22169,2024-07-10,Patient presents today with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-09b2-6e1f294655dc,PIONEE-a22169,2024-07-10,Presenting complaint: malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-6a3f-c2d9ad289ef9,PIONEE-a22169,2024-07-10,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-b35c-00dc043bb08a,PIONEE-a22169,2024-10-29,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due, Full-time employment, Reports of violence in the environment, and Victim of intimate partner abuse."
+3935e8a9-9b9f-fd00-ded9-cfd4cb410daa,PIONEE-a22169,2024-11-05,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-e52e-fbb94fd27c0e,PIONEE-a22169,2024-11-12,Presenting complaint: hyperlipidemia. Medications prescribed today: Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-e72e-d1584ba5dba4,PIONEE-a22169,2025-02-22,Follow-up visit regarding malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-89f8-7d497781b4aa,PIONEE-a22169,2025-06-21,Patient reports symptoms consistent with malignant neoplasm of breast. No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-3b09-aec53007b767,PIONEE-a22169,2025-06-21,Seen in clinic for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-6f5a-addafe74b61f,PIONEE-a22169,2025-06-21,Patient was evaluated for malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-4e3c-a3a7a2844fdc,PIONEE-a22169,2025-10-03,Patient was evaluated for laceration - injury. Patient continues to be followed for laceration - injury and laceration of foot. Plan: initiate Acetaminophen 325 MG Oral Tablet.
+3935e8a9-9b9f-fd00-1a8a-166bb8f633df,PIONEE-a22169,2025-10-11,Presenting complaint: malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-6a25-dffcdd4d1757,PIONEE-a22169,2025-11-04,Wellness visit for general evaluation. Social history noted: Medication review due and Limited social contact. No new medications prescribed at this time.
+3935e8a9-9b9f-fd00-e7e2-f55efcd70e26,PIONEE-a22169,2025-11-12,Presenting complaint: hyperlipidemia. Plan: initiate Simvastatin 10 MG Oral Tablet.
+3935e8a9-9b9f-fd00-f341-be90057d6841,PIONEE-a22169,2025-11-25,Patient seen for a scheduled outpatient encounter.
+3935e8a9-9b9f-fd00-4cd8-60ab19af8bc2,PIONEE-a22169,2026-01-29,Follow-up visit regarding malignant neoplasm of breast. Medication list unchanged.
+3935e8a9-9b9f-fd00-de3d-7e468b533423,PIONEE-a22169,2026-05-13,Patient was evaluated for malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-9685-84fbb0a3e620,PIONEE-a22169,2026-05-13,Patient reports symptoms consistent with malignant neoplasm of breast.
+3935e8a9-9b9f-fd00-1c04-6f89aa1a0644,PIONEE-a22169,2026-05-13,Patient was evaluated for malignant neoplasm of breast.

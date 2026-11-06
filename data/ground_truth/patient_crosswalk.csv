@@ -1,0 +1,177 @@
+REAL_PATIENT_ID,HOSPITAL_SLUG,HOSPITAL_NAME,LOCAL_PATIENT_ID,CONTRIBUTING_ORGS
+cc3eac4a-34a7-9a15-1522-8087135631b7,worcester_regional_medical_center,Worcester Regional Medical Center,WORCES-390062,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-1522-8087135631b7,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-2c833f,BAYSTATE MEDICAL CENTER
+8b9df7af-24b3-66ee-afeb-2734ebcbd33c,west_suburban_boston_health,West Suburban Boston Health,WEST_S-0d961f,BEDFORD-LEXINGTON INTERNAL MEDICINE  PC
+8b9df7af-24b3-66ee-afeb-2734ebcbd33c,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-70dd97,BAYADA HOME HEALTH CARE  INC; TEWKSBURY HOSPITAL
+65cbad6a-eb9d-420e-9bab-b4f9c6aab7db,greater_boston_medical_center,Greater Boston Medical Center,GREATE-51bedd,BRAINTREE FAMILY PHYSICIAN INC; SOUTH SHORE HOSPITAL INC.
+9a3814bb-f5b0-05f3-928e-fe6640d5aa2a,southcoast_health,Southcoast Health,SOUTHC-ac561e,BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-928e-fe6640d5aa2a,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-876f47,HOSPICE SERVICES OF MASSACHUSETTS; SAVARD & MOSKOS EYE HEALTH CARE  LLC
+9a3814bb-f5b0-05f3-928e-fe6640d5aa2a,norfolk_county_health_network,Norfolk County Health Network,NORFOL-961b76,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+65cbad6a-eb9d-420e-9bab-b4f9c6aab7db,north_central_mass_health,North Central Mass Health,NORTH_-74af15,Fitchburg Outpatient Clinic
+65cbad6a-eb9d-420e-9bab-b4f9c6aab7db,norfolk_county_health_network,Norfolk County Health Network,NORFOL-e82565,CARECENTRAL URGENT CARE MEDICAL GROUP PC; NEW ENGLAND HOSPICE II LLC
+6a703775-432b-ba7d-d53a-c4d7bb0f5b58,greater_boston_medical_center,Greater Boston Medical Center,GREATE-248ede,BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC; THE SHRINERS HOSPITAL FOR CHILDREN
+355cd402-8f45-353f-013f-ecb627e85106,metrowest_health_partners,MetroWest Health Partners,METROW-c247fb,BAYADA HOME HEALTH CARE  INC; MARLBOROUGH HOSPITAL CORP; MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC
+355cd402-8f45-353f-013f-ecb627e85106,worcester_regional_medical_center,Worcester Regional Medical Center,WORCES-106f71,CAREWELL URGENT CARE CENTERS OF MA  PC
+c38b96b6-90ae-fabe-6f3c-cfd91d0fb21d,metrowest_health_partners,MetroWest Health Partners,METROW-a11d75,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.; ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+239b0c86-371a-3080-fcd9-8379b296bc9a,north_shore_health_alliance,North Shore Health Alliance,NORTH_-879e5f,LIFE CARE CENTER OF THE NORTH SHORE; LYNN COMMUNITY HEALTH; LYNN URGENT CARE LLC; WHITTIER REHABILTATION HOSPITAL
+87f7ad7b-85f9-d26d-5a41-9933f4039331,west_suburban_boston_health,West Suburban Boston Health,WEST_S-db5bad,ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS; CHILDREN'S HOSPITAL CORPORATION; GOOD SHEPHERD COMMUNITY CARE; MOUNT AUBURN HOSPITAL; STANFORD HEALTH CARE
+f5749532-3295-ad01-d9b5-932c997e7a01,west_suburban_boston_health,West Suburban Boston Health,WEST_S-2e8bad,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.; CLASSIC HEALTHCARE MEDICAL GROUP LLC
+9389eec9-a5c3-a9e1-b675-93cd1f199532,greater_boston_medical_center,Greater Boston Medical Center,GREATE-d82559,COURTYARD NURSING CARE CENTER; WOODLAND INTERNISTS  P.C.
+9389eec9-a5c3-a9e1-b675-93cd1f199532,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-80b959,FIRST PSYCHIATRIC PLANNERS  INC
+7132442e-b0b9-a886-e28d-f83700e5a3bd,north_shore_health_alliance,North Shore Health Alliance,NORTH_-889d4f,ANNA JAQUES HOSPITAL SUBACUTE UNIT; HOLISTIC FAMILY PRACTICE  INC.; MIDDLETON FAMILY MEDICINE URGENT CARE  LLC; SEA VIEW CONVALESCENT AND NURSING HOME
+4e71643c-f046-a74f-c2e2-4049efe17cd4,greater_boston_medical_center,Greater Boston Medical Center,GREATE-86daed,BOSTON HOME  INC (THE); NORTH END COMMUNITY HEALTH COMMITTEE INC; THE SHRINERS HOSPITAL FOR CHILDREN
+1be83f06-48ef-7bac-7097-b9e0644aeaf8,north_central_mass_health,North Central Mass Health,NORTH_-98cdc1,BEACON HOSPICE  AN AMEDISYS COMPANY; LEOMINSTER COMUNITY HEALTH CENTER; UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+30ed72f3-240e-4973-a0b8-25369e1a9c1e,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-004af5,BAYSTATE NOBLE HOSPITAL CORPORATION; MEMORY SUPPORT OF HERITAGE HALL; PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+6095681c-dfc1-8f20-411c-42cef37189fa,metrowest_health_partners,MetroWest Health Partners,METROW-9d727d,INTEGRATIVE FAMILY MEDICINE ASSOCIATES; LIFE CARE CENTER OF ACTON
+6095681c-dfc1-8f20-411c-42cef37189fa,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-2bdac4,EMERSON HOSPITAL; THE LOWELL GENERAL HOSPITAL
+37549f60-b5a3-69cd-dea6-5a71c4bc23cf,west_suburban_boston_health,West Suburban Boston Health,WEST_S-41bc86,CHILDREN'S HOSPITAL CORPORATION; MOUNT AUBURN HOSPITAL; WESTON PRIMARY CARE  PC
+06476266-59b1-ded7-4138-3c7543fd4981,north_central_mass_health,North Central Mass Health,NORTH_-6c70d0,HEALTH ALLIANCE HOME HEALTH AND HOSPICE; LIFE CARE CENTER OF LEOMINSTER; SUN MEDICAL CLINIC  PC; UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+09c573e2-a45d-aa5e-6a17-3c682155e6e3,greater_boston_medical_center,Greater Boston Medical Center,GREATE-bf30f8,CAMBRIDGE PUBLIC HEALTH COMMISSION; COURTYARD NURSING CARE CENTER; WHITLEY WELLNESS LLC
+8c5b83b2-737e-46cf-953b-414e07ed78e7,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-0ac500,DUTTON FAMILY CARE ASSOCIATES LLP
+8c5b83b2-737e-46cf-953b-414e07ed78e7,greater_boston_medical_center,Greater Boston Medical Center,GREATE-1e24b3,MELROSEWAKEFIELD HEALTHCARE  INC
+b50c66af-4d1c-7987-03d7-e5b65fdf880f,greater_boston_medical_center,Greater Boston Medical Center,GREATE-79dbbe,DANA FARBER CANCER INSTITUTE
+b50c66af-4d1c-7987-03d7-e5b65fdf880f,norfolk_county_health_network,Norfolk County Health Network,NORFOL-f201ef,WELLNESS WITH LANEY LLC
+cbd1dd48-89c3-3fdb-434e-3f0802738abf,greater_boston_medical_center,Greater Boston Medical Center,GREATE-dcb2bd,CAMBRIDGE PUBLIC HEALTH COMMISSION; DAVIS SQUARE FAMILY PRACTICE; MEDFORD REHABILITATION AND NURSING CENTER
+3c0e60c4-176e-2c4c-3b85-b46be390cf5e,west_suburban_boston_health,West Suburban Boston Health,WEST_S-3263d3,NEWTON WELLESLEY CENTER FOR ALZHEIMER'S CARE; WESTON PRIMARY CARE  PC
+3c0e60c4-176e-2c4c-3b85-b46be390cf5e,metrowest_health_partners,MetroWest Health Partners,METROW-61630f,VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-3b85-b46be390cf5e,north_central_mass_health,North Central Mass Health,NORTH_-7fe6a1,Fitchburg Outpatient Clinic
+83093df7-a1e4-b827-72e6-c6d604fd7748,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-078e57,LAWRENCE GENERAL HOSPITAL
+83093df7-a1e4-b827-72e6-c6d604fd7748,north_shore_health_alliance,North Shore Health Alliance,NORTH_-cd5527,MIDDLETON FAMILY MEDICINE URGENT CARE  LLC; NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC
+3a9c6df2-621a-6239-0760-e58544d252f6,greater_boston_medical_center,Greater Boston Medical Center,GREATE-e8f6db,BOSTONIAN NURSING CARE & REHABILITATION CTR  THE; CARNEY HOSPITAL; HARBOR HEALTH SERVICES INC
+45f3a7b6-d706-f174-d043-16814aa127ed,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-f92cfe,GREATER LOWELL FAMILY PRACTICE PC; TEWKSBURY HOSPITAL
+a45aa142-d1e9-d944-f2c7-05015c90762d,metrowest_health_partners,MetroWest Health Partners,METROW-1f35d4,COMPASSIONATE CARE INTERNAL MEDICINE  LLC; MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-f2c7-05015c90762d,north_central_mass_health,North Central Mass Health,NORTH_-509b05,Fitchburg Outpatient Clinic
+a45aa142-d1e9-d944-f2c7-05015c90762d,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-786ca5,CIRCLE HEALTH URGENT CARE LLC
+7af6b271-f16d-21e1-882a-7bff71005a7b,cape_cod_islands_health,Cape Cod & Islands Health,CAPE_C-145904,CAPE REGENCY REHABILITATION & HEALTH CARE CENTER; FALMOUTH HOSPITAL ASSOCIATION INC; HYANNIS FAMILY MEDICAL CARE PC; VISITING NURSE ASSOCIATION OF CAPE COD  INC.
+7af6b271-f16d-21e1-882a-7bff71005a7b,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-a1fb3a,SOUTH SHORE PRIMARY AND URGENT CARE LLC
+7af6b271-f16d-21e1-882a-7bff71005a7b,north_central_mass_health,North Central Mass Health,NORTH_-caa471,Fitchburg Outpatient Clinic
+a406f356-c8b4-54ad-e79c-54a5e15ffc19,worcester_regional_medical_center,Worcester Regional Medical Center,WORCES-3330be,CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC; LIFE CARE CENTER OF AUBURN; VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+f30304ab-8e45-1cbd-9833-cadf568373b4,norfolk_county_health_network,Norfolk County Health Network,NORFOL-23389d,BL HEALTHCARE INC DELEWARE
+f30304ab-8e45-1cbd-9833-cadf568373b4,southcoast_health,Southcoast Health,SOUTHC-9ae386,STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-9833-cadf568373b4,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-35094a,SOUTHEAST HEALTH CARE CENTER
+fb56f051-a2cd-ac10-dcb0-e0738295fc1f,greater_boston_medical_center,Greater Boston Medical Center,GREATE-4f96de,BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC; CARING HOSPICE SERVICES OF MASSACHUSETTS  LLC; HARVARD STREET NEIGHBORHOOD HEALTH CENTER; LEMUEL SHATTUCK HOSPITAL
+fb56f051-a2cd-ac10-dcb0-e0738295fc1f,north_central_mass_health,North Central Mass Health,NORTH_-8728e5,Fitchburg Outpatient Clinic
+d21f2794-014b-c66b-3688-888382ab7434,norfolk_county_health_network,Norfolk County Health Network,NORFOL-d8deec,CIRCLE OF LIFE FAMILY MEDICINE PC; SOUTHWOOD AT NORWELL NURSING CTR
+d21f2794-014b-c66b-3688-888382ab7434,greater_boston_medical_center,Greater Boston Medical Center,GREATE-861f00,DANA FARBER CANCER INSTITUTE
+d21f2794-014b-c66b-3688-888382ab7434,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-394788,HANOVER FAMILY HEALTH & URGENT CARE PC
+3368f8e7-5e00-7794-1e39-f65cb954d43d,greater_boston_medical_center,Greater Boston Medical Center,GREATE-4bd2f2,LEMUEL SHATTUCK HOSPITAL; ROOTED WELLNESS LLC
+029c95e2-d252-d8d3-3626-7f347182d6d7,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-146d19,BEAR MT WESTFORD LLC; THE LOWELL GENERAL HOSPITAL; WESTFORD INTERNAL MEDICINE PC
+e34a6a5e-1d77-508d-8be3-8816e9df8046,norfolk_county_health_network,Norfolk County Health Network,NORFOL-d010b2,CARECENTRAL URGENT CARE MEDICAL GROUP PC
+e34a6a5e-1d77-508d-8be3-8816e9df8046,southcoast_health,Southcoast Health,SOUTHC-5aa69b,BROCKTON HOSPITAL  INC.; LAKESIDE FAMILY PRACTICE
+029c95e2-d252-d8d3-3626-7f347182d6d7,metrowest_health_partners,MetroWest Health Partners,METROW-d2cc11,LIFE CARE CENTER OF ACTON
+a6d0791e-4c15-58e6-c30a-ec25e285ace9,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-13d3b6,BAYSTATE NOBLE HOSPITAL CORPORATION; HEALTH-MD URGENT CARE; PRIMARY CARE MEDICINE AND PEDIATRICS  LLC
+4af53267-820e-7687-87a4-f6716ef64a2e,southcoast_health,Southcoast Health,SOUTHC-748765,CLIFTON REHABILITATION NURSING CENTER; STANLEY STREET TREATMENT AND RESOURCES  INC; STEWARD ST. ANNES HOSPITAL CORPORATION
+1d63466e-0cfd-eb12-77aa-d153393355e5,north_shore_health_alliance,North Shore Health Alliance,NORTH_-238b1d,BLUEBERRY HILL REHABILITATION AND HEALTHCARE CTR; DIGNITY HOSPICE CARE INC; ESSEX COUNTY PRIMARY CARE; LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON
+1d63466e-0cfd-eb12-77aa-d153393355e5,north_central_mass_health,North Central Mass Health,NORTH_-a98c79,Fitchburg Outpatient Clinic
+355a4d50-2628-aa65-c336-deacf4d606fb,greater_boston_medical_center,Greater Boston Medical Center,GREATE-87eb35,SOUTH SHORE HOSPITAL INC.
+355a4d50-2628-aa65-c336-deacf4d606fb,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-a09a50,HANOVER FAMILY HEALTH & URGENT CARE PC; PRIMARY & PREVENTIVE CARE  INC.; SOUTHSHORE HEALTH CARE CENTER
+355a4d50-2628-aa65-c336-deacf4d606fb,north_central_mass_health,North Central Mass Health,NORTH_-16b9d4,Fitchburg Outpatient Clinic
+f6745f8a-8107-443e-8946-3e6329d20408,west_suburban_boston_health,West Suburban Boston Health,WEST_S-64e1c9,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.; CENTRAL HOME HEALTH CARE  INC; PATRIOT URGENT CARE PROFESSIONALS PC; VANTAGE HEALTHCARE LLC
+f6745f8a-8107-443e-8946-3e6329d20408,north_central_mass_health,North Central Mass Health,NORTH_-a0b98d,Fitchburg Outpatient Clinic
+e170fdcd-8830-89c4-94b2-aaf7f35ca9c5,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-ce076c,GENTLE HOME CARE SERVICES; GREATER LAWRENCE FAMILY HEALTH CENTER INC; TEWKSBURY HOSPITAL
+d21fc5fa-6dc5-8058-1d11-5fd631086b72,berkshires_regional_health,Berkshires Regional Health,BERKSH-591a1c,BERKSHIRE MEDICAL CENTER INC; FAIRVIEW HOSPITAL; WILLIAMSTOWN COMMONS NURSING & REHAB
+2e9a9dab-f5b6-8960-d3ce-7834bb5e7344,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-6b9d10,D'YOUVILLE SENIOR CARE; EMERSON HOSPITAL; STONY BROOK PRIMARY CARE LLC; THE LOWELL GENERAL HOSPITAL
+00bcbfc6-c7b9-bd0e-3d95-071f9fba6321,north_central_mass_health,North Central Mass Health,NORTH_-f24575,DEVENS TREATMENT & RECOVERY CENTER LLC; HOSPICE OF NASHOBA NURSING SERVICE; NASHOBA VALLEY MEDICAL CENTER
+0b786670-17af-32e1-b2d2-f77c33874b30,greater_boston_medical_center,Greater Boston Medical Center,GREATE-ab9dcb,DIMOCK COMMUNITY HEALTH CENTER  INC; VA Boston Healthcare System  Jamaica Plain Campus
+0b786670-17af-32e1-b2d2-f77c33874b30,norfolk_county_health_network,Norfolk County Health Network,NORFOL-4b71fa,DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,metrowest_health_partners,MetroWest Health Partners,METROW-2549bd,ASSABET FAMILY PODIATRY  INC; KINDRED HOSPICE; MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-c498d3,CIRCLE HEALTH URGENT CARE LLC
+716c6d0a-2a5d-0aaa-9ced-312ed6a943da,greater_boston_medical_center,Greater Boston Medical Center,GREATE-36929c,BOSTON HOME  INC (THE); THE SHRINERS HOSPITAL FOR CHILDREN; WHITLEY WELLNESS LLC
+716c6d0a-2a5d-0aaa-9ced-312ed6a943da,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-19b639,HALLMARK HEALTH URGENT CARE PHYSICIANS LLC
+8ece28c6-f931-b0e0-5c0e-72b8d8d3c86a,southcoast_health,Southcoast Health,SOUTHC-ede5b7,4499 ACUSHNET AVENUE OPERATING COMPANY  LLC; GIFFORD STREET WELLNESS CENTER LLC; ROYAL OF FAIRHAVEN NURSING CENTER; SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-5c0e-72b8d8d3c86a,north_central_mass_health,North Central Mass Health,NORTH_-da7dc3,Fitchburg Outpatient Clinic
+8ece28c6-f931-b0e0-5c0e-72b8d8d3c86a,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-e66f8b,SOUTH SHORE PRIMARY AND URGENT CARE LLC
+e503e9b3-d149-653b-92df-ca4a8cb68e16,metrowest_health_partners,MetroWest Health Partners,METROW-f81d19,DR. HE'S PRIMARY CARE FOR ADULTS INC; KINDRED HOSPICE; MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-92df-ca4a8cb68e16,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-8b1e3e,CIRCLE HEALTH URGENT CARE LLC
+3fa46c70-b194-f14c-3d51-e06cfa4bb9e2,cape_cod_islands_health,Cape Cod & Islands Health,CAPE_C-7667e7,ISLAND HEALTH INC.; MARTHA'S VINEYARD HOSPITAL INC
+fd0d7b3a-307d-07b8-9d7e-2424e1feb9e4,greater_boston_medical_center,Greater Boston Medical Center,GREATE-a96949,BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC; BOSTON HOME  INC (THE); THE SHRINERS HOSPITAL FOR CHILDREN
+ccaa0537-4e7f-99d8-8b79-c7c94c749579,north_shore_health_alliance,North Shore Health Alliance,NORTH_-c76981,BLUEBERRY HILL REHABILITATION AND HEALTHCARE CTR; NORTH SHORE MEDICAL CENTER INC; SKIN WELLNESS PHYSICIANS LLC; URGENT CARE OPERATIONS PC
+6b687f11-0721-ccaf-8796-5e929f37b755,greater_boston_medical_center,Greater Boston Medical Center,GREATE-0304cf,TUFTS MEDICAL CENTER
+6b687f11-0721-ccaf-8796-5e929f37b755,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-70ea72,NORTH READING INTERNAL MEDICINE PC; SUTTON HILL CENTER
+a5816bea-ad10-431f-1281-47baa2cf249b,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-ac192b,BETH ISRAEL LAHEY HEALTH AT HOME; EDEN HOME HEALTH CARE LLC; ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN; MASS GENERAL BRIGHAM URGENT CARE LLC
+1e32a1a3-3638-cb8c-7253-ff98a97dc0fe,north_central_mass_health,North Central Mass Health,NORTH_-0dce8b,COMMUNITY HEALTH CONNECTIONS  INC; HENRY HEYWOOD MEMORIAL HOSPITAL
+197ec76f-0730-2587-9ff9-a0f60104a782,southcoast_health,Southcoast Health,SOUTHC-ec63bd,NORTON HEALTH CARE PC
+197ec76f-0730-2587-9ff9-a0f60104a782,norfolk_county_health_network,Norfolk County Health Network,NORFOL-a75855,CURAHEALTH STOUGHTON LLC
+197ec76f-0730-2587-9ff9-a0f60104a782,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-29ef9d,SOUTHEAST HEALTH CARE CENTER
+82623afe-e51c-e02e-1dd7-15a4394d0e92,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-b32e00,EMERSON HOSPITAL; THE LOWELL GENERAL HOSPITAL
+82623afe-e51c-e02e-1dd7-15a4394d0e92,metrowest_health_partners,MetroWest Health Partners,METROW-0fe329,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.; LIFE CARE CENTER OF ACTON
+8d91c36a-1f7e-3842-9f14-8d567ed9cdcd,greater_boston_medical_center,Greater Boston Medical Center,GREATE-40a009,TUFTS MEDICAL CENTER
+8d91c36a-1f7e-3842-9f14-8d567ed9cdcd,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-83325f,COMPASSIONATE CARE HOSPICE; NORTH READING INTERNAL MEDICINE PC; SUTTON HILL CENTER
+8d91c36a-1f7e-3842-9f14-8d567ed9cdcd,north_central_mass_health,North Central Mass Health,NORTH_-53d91c,Fitchburg Outpatient Clinic
+c1453af6-5763-f853-7da2-a16adee55469,norfolk_county_health_network,Norfolk County Health Network,NORFOL-c0283b,ACTIVATED BY WELLNESS LLC; NEW ENGLAND SINAI HOSPITAL; STOUGHTON PUBLIC HEALTH ASSOCIATION
+57efda89-b582-bb08-8a2d-e06b2c184bfc,north_shore_health_alliance,North Shore Health Alliance,NORTH_-7c56c1,LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON; NORTH SHORE MEDICAL CENTER INC; SALEM FAMILY HEALTH CENTER; URGENT CARE OPERATIONS PC
+e142981b-3577-4115-584d-d9676df7fcff,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-150703,BEAR MT READING LLC; HALLMARK HEALTH URGENT CARE PHYSICIANS LLC; NORTH READING INTERNAL MEDICINE PC; SUTTON HILL CENTER
+e142981b-3577-4115-584d-d9676df7fcff,greater_boston_medical_center,Greater Boston Medical Center,GREATE-aeb5da,TUFTS MEDICAL CENTER
+adec1419-cf81-6640-abe6-cac7c0c1b9d4,southcoast_health,Southcoast Health,SOUTHC-b970b5,COMPASSIONATE CARE HOSPICE OF SOUTHEASTERN MASS LL; NORTON HEALTH CARE PC; THE COMMONWEALTH OF MASSACHUSETTS
+5780b82b-0419-ffe6-fde4-a2fcce9695f5,norfolk_county_health_network,Norfolk County Health Network,NORFOL-8a483d,ACTIVATED BY WELLNESS LLC; STEWARD ST. ANNES HOSPITAL CORPORATION
+765bd034-e8d7-f102-eb1c-4b7792fc5684,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-a5051b,HOLYOKE MEDICAL CENTER INC; MERCY MEDICAL CTR; MONT MARIE REHABILITATION & HEALTHCARE CENTER
+edb5a2e3-a981-d33c-5eac-1ca8adde82d3,worcester_regional_medical_center,Worcester Regional Medical Center,WORCES-edee44,LE & CHANG FAMILY URGENT CARE PC; RENAISSANCE PRIMARY CARE LLC; VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+8704c44c-8b97-e35a-3bac-7d5b24de06b3,cape_cod_islands_health,Cape Cod & Islands Health,CAPE_C-5d1a1d,MARTHA'S VINEYARD HOSPITAL INC
+8704c44c-8b97-e35a-3bac-7d5b24de06b3,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-8d7313,SOUTH SHORE PRIMARY AND URGENT CARE LLC
+887e4b4e-a3e1-b573-4a16-38386d3e0b88,norfolk_county_health_network,Norfolk County Health Network,NORFOL-d01758,ADAPS HEALTHCARE LLC; NORWOOD HOSPITAL
+0f3d04a2-f42e-1429-acef-0becd0a0fcea,greater_boston_medical_center,Greater Boston Medical Center,GREATE-e57722,BENJAMIN HEALTHCARE CENTER; DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER; FENWAY COMMUNITY HEALTH CENTER  INC; RUMANA HOME CARE INC
+0f3d04a2-f42e-1429-acef-0becd0a0fcea,north_central_mass_health,North Central Mass Health,NORTH_-9cc709,Fitchburg Outpatient Clinic
+0f3d04a2-f42e-1429-acef-0becd0a0fcea,west_suburban_boston_health,West Suburban Boston Health,WEST_S-a95d7a,PATRIOT URGENT CARE PROFESSIONALS PC
+9c5b16dc-8a47-896c-4d74-f96f8c98891b,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-629a68,BEACON HOSPICE  AN AMYEDISYS COMPANY; CHICOPEE REHABILITATION AND NURSING CENTER LLC; RIVER'S EDGE PRIMARY CARE LLC; THE SHRINERS HOSPITAL FOR CHILDREN
+9c5b16dc-8a47-896c-4d74-f96f8c98891b,north_central_mass_health,North Central Mass Health,NORTH_-6ec9f7,Fitchburg Outpatient Clinic
+ad48e669-959c-b6f8-8ddb-dda7a6d37473,greater_boston_medical_center,Greater Boston Medical Center,GREATE-337828,BENJAMIN HEALTHCARE CENTER; BRIGHAM AND WOMEN'S FAULKNER HOSPITAL  INC.
+ad48e669-959c-b6f8-8ddb-dda7a6d37473,west_suburban_boston_health,West Suburban Boston Health,WEST_S-40cf7b,AMERICAN CHINESE MEDICAL CENTER PC
+f870c432-0887-125e-f778-cf5110d3de1d,west_suburban_boston_health,West Suburban Boston Health,WEST_S-40a7b4,CHARLES RIVER COMMUNITY HEALTH  INC; PATRIOT URGENT CARE PROFESSIONALS PC; THE GENERAL HOSPITAL CORPORATION
+f870c432-0887-125e-f778-cf5110d3de1d,north_central_mass_health,North Central Mass Health,NORTH_-f51a07,Fitchburg Outpatient Clinic
+1426480f-ccc7-2393-40bd-f92ccf2b74b2,metrowest_health_partners,MetroWest Health Partners,METROW-f498eb,ALLIANCE HEALTH AT MARIE ESTHER; COMPASSIONATE CARE INTERNAL MEDICINE  LLC; MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-40bd-f92ccf2b74b2,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-1b72a6,CIRCLE HEALTH URGENT CARE LLC
+1426480f-ccc7-2393-40bd-f92ccf2b74b2,north_central_mass_health,North Central Mass Health,NORTH_-7f12e2,Fitchburg Outpatient Clinic
+4be6b5fb-2a19-943a-9249-7068445be4cc,west_suburban_boston_health,West Suburban Boston Health,WEST_S-c2c0e8,BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.; ENHANCED MEDICAL CARE  LLC; GOOD SHEPHERD COMMUNITY CARE; PATRIOT URGENT CARE PROFESSIONALS PC
+031ce8e2-1443-01b4-de6b-61a4084a7166,norfolk_county_health_network,Norfolk County Health Network,NORFOL-9c5acc,FAMILY MEDICAL ASSOCIATES  P.C.; NEW ENGLAND SINAI HOSPITAL; STOUGHTON PUBLIC HEALTH ASSOCIATION
+23da8e71-dfb9-9773-1bc1-7b5e31d085b5,north_shore_health_alliance,North Shore Health Alliance,NORTH_-6a632d,CROWN HOME HEALTHCARE MA  INC; PRIMARY CARE NORTH PC; WHITTIER REHABILTATION HOSPITAL
+23da8e71-dfb9-9773-1bc1-7b5e31d085b5,north_central_mass_health,North Central Mass Health,NORTH_-266ee7,Fitchburg Outpatient Clinic
+97e39468-6488-ca8f-fac2-235a80b4dcf7,norfolk_county_health_network,Norfolk County Health Network,NORFOL-951ff0,BL HEALTHCARE INC DELEWARE; CURAHEALTH STOUGHTON LLC
+31f368d9-3fdc-a15f-ccdc-fafa74a860e9,norfolk_county_health_network,Norfolk County Health Network,NORFOL-e876cb,CARECENTRAL URGENT CARE MEDICAL GROUP PC; NEW ENGLAND SINAI HOSPITAL; STOUGHTON PUBLIC HEALTH ASSOCIATION
+31f368d9-3fdc-a15f-ccdc-fafa74a860e9,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-65488f,CARING HEALTHCARE SERVICES LLC
+31f368d9-3fdc-a15f-ccdc-fafa74a860e9,greater_boston_medical_center,Greater Boston Medical Center,GREATE-8800fa,Quincy Outpatient Clinic
+ba47a33b-ffb6-25b9-e8bf-e7eabeaee1be,greater_boston_medical_center,Greater Boston Medical Center,GREATE-93c4c4,MOUNT AUBURN HOSPITAL; SANCTA MARIA NURSING FACILITY
+ba47a33b-ffb6-25b9-e8bf-e7eabeaee1be,west_suburban_boston_health,West Suburban Boston Health,WEST_S-8b63da,ONE CALL HEALTHCARE PLLC
+6d04a400-ad21-5951-b092-c14b6358d4c5,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-dd32dc,HOLYOKE HEALTH CENTER INC; HOLYOKE MEDICAL CENTER INC; HOLYOKE VISITING NURSE ASSOC & HOSPICE LIFE CARE
+35f80d0e-eaad-ef68-b762-3a1c12a872c1,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-0a9f25,SOUTHEAST HEALTH CARE CENTER; TRINITY FAMILY MEDICINE
+35f80d0e-eaad-ef68-b762-3a1c12a872c1,norfolk_county_health_network,Norfolk County Health Network,NORFOL-e26be4,STEWARD ST. ANNES HOSPITAL CORPORATION
+babc4b97-d859-0fe4-2874-fb6fe493ae6b,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-fbc37b,GROVE HILL MEDICAL CENTER PC; VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+bd4e49cb-391b-d08a-c7ab-b585e7bd5758,greater_boston_medical_center,Greater Boston Medical Center,GREATE-358e1d,BOSTON MEDICAL CENTER CORPORATION-; MELROSE INTERNAL MEDICINE ASSOC PC
+f6359fe4-4340-2820-8b76-593a45f5186c,norfolk_county_health_network,Norfolk County Health Network,NORFOL-cd0813,CARDIGAN NURSING & REHABILITATION CENTER; SOUTH SHORE PRIMARY CARE PC
+f6359fe4-4340-2820-8b76-593a45f5186c,greater_boston_medical_center,Greater Boston Medical Center,GREATE-3b5a13,DANA FARBER CANCER INSTITUTE
+afb99eee-0bd5-8853-8a32-fad74da7b103,metrowest_health_partners,MetroWest Health Partners,METROW-1bc0a3,PALMER FAMILY SERVICES LLC
+afb99eee-0bd5-8853-8a32-fad74da7b103,worcester_regional_medical_center,Worcester Regional Medical Center,WORCES-1a6cdb,LYDIA TAFT HOUSE; MILFORD REGIONAL MEDICAL CENTER
+5dae1e9e-46fb-5537-54f4-8837a56dd3d5,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-f82c25,BRIGHAM & WOMENS HOSPITAL INC; HOSPICE SERVICES OF MASSACHUSETTS; SAVARD & MOSKOS EYE HEALTH CARE  LLC
+d309f605-948b-962f-ca72-878ce8b8d154,west_suburban_boston_health,West Suburban Boston Health,WEST_S-5116f1,GOOD SHEPHERD COMMUNITY CARE; PERSONAL PHYSICIANS HEALTHCARE PC
+d309f605-948b-962f-ca72-878ce8b8d154,greater_boston_medical_center,Greater Boston Medical Center,GREATE-3a1793,FRANCISCAN HOSPITAL FOR CHILDREN INC
+2fb99851-6f31-04a6-be96-6fef4663e208,west_suburban_boston_health,West Suburban Boston Health,WEST_S-956ee0,CHILDREN'S HOSPITAL CORPORATION; KINDRED HOSPICE; STANFORD HEALTH CARE
+2fb99851-6f31-04a6-be96-6fef4663e208,north_central_mass_health,North Central Mass Health,NORTH_-7cca4c,Fitchburg Outpatient Clinic
+f67eaca3-2366-7ee2-6887-a5bd449b54a6,norfolk_county_health_network,Norfolk County Health Network,NORFOL-45e46b,BAYADA HOME HEALTH CARE  INC; PATHWAYS HEALTHCARE LLC; WALDEN BEHAVIORAL CARE LLC
+96de62ae-1b00-58d8-77f9-cd25414e16be,greater_boston_medical_center,Greater Boston Medical Center,GREATE-88cada,CAMBRIDGE PUBLIC HEALTH COMMISSION; DAVIS SQUARE FAMILY PRACTICE; MEDFORD REHABILITATION AND NURSING CENTER
+96de62ae-1b00-58d8-77f9-cd25414e16be,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-fab223,HALLMARK HEALTH URGENT CARE PHYSICIANS LLC
+46fcc34a-97a1-f038-9bb1-4ae87116ae61,worcester_regional_medical_center,Worcester Regional Medical Center,WORCES-c121ad,CAREWELL URGENT CARE CENTERS OF MA  PC; LYDIA TAFT HOUSE; MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-9bb1-4ae87116ae61,metrowest_health_partners,MetroWest Health Partners,METROW-c414c1,PALMER FAMILY SERVICES LLC
+6c4283c9-228b-2774-7d25-fbb5a14bdc1b,metrowest_health_partners,MetroWest Health Partners,METROW-c330ba,APPLE MEDICAL CLINIC MA INC; ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+30889246-5f7d-9305-542f-55cb89e1f4de,southcoast_health,Southcoast Health,SOUTHC-a9fb35,CHILD & FAMILY SERVICES  INC.; COMMUNITY NURSE HOME CARE  INC.; ROYAL OF FAIRHAVEN NURSING CENTER
+e7c068bb-6d29-27d3-0b8b-ec0406cc91b7,greater_boston_medical_center,Greater Boston Medical Center,GREATE-49cebd,LEMUEL SHATTUCK HOSPITAL; UPHAMS CORNER HEALTH COMMITTEE INC
+ee4b7339-ca58-b6af-c199-04b6d5761c73,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-cb82ef,HILLTOWN COMMUNITY HEALTH CENTERS INC
+3935e8a9-9b9f-fd00-fe22-bcb810d0330b,pioneer_valley_health_network,Pioneer Valley Health Network,PIONEE-a22169,ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS; LIFE CARE CENTER OF WILBRAHAM; RIVER'S EDGE PRIMARY CARE LLC
+1dabc422-e007-d5ee-791f-9e08a8fd9b6a,southcoast_health,Southcoast Health,SOUTHC-932357,CATHOLIC MEMORIAL HOME; CLIFTON REHABILITATION NURSING CENTER; SOUTHCOAST HOSPITALS GROUP INC; VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+3732fde5-efc6-d57a-517b-0500f2177181,southcoast_health,Southcoast Health,SOUTHC-3375af,AP MEDICAL LLC; DARTMOUTH HOUSE NURSING HOME INC; DARTMOUTH PRIMARY MEDICINE  LLC; ROYAL OF FAIRHAVEN NURSING CENTER
+9c26986a-d81d-62f0-ee7a-ab8bb6377434,north_central_mass_health,North Central Mass Health,NORTH_-1cbba8,DEVENS TREATMENT & RECOVERY CENTER LLC
+9c26986a-d81d-62f0-ee7a-ab8bb6377434,metrowest_health_partners,MetroWest Health Partners,METROW-d2f872,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+3314e296-2326-2826-271d-a7be5b896db9,worcester_regional_medical_center,Worcester Regional Medical Center,WORCES-c3dcd8,RUTLAND FAMILY HEALTH CENTER; STERLING VILLAGE; T MASSACHUSETTS  LLC
+72b1ca95-c4f0-269d-28bf-ba36b25a9aa6,west_suburban_boston_health,West Suburban Boston Health,WEST_S-ec1bd7,BROOKHAVEN AT LEXINGTON; PATRIOT URGENT CARE PROFESSIONALS PC; THE GENERAL HOSPITAL CORPORATION; WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+d537941e-1fb7-9868-939a-a26252da8be1,berkshires_regional_health,Berkshires Regional Health,BERKSH-ee35ac,BERKSHIRE MEDICAL CENTER INC; BERKSHIRE MEDICAL CENTER INC - 1; KIMBALL FARMS NURSING CARE CENTER; SUBURBAN INTERNAL MEDICINE  INC.
+3eec36b2-71cc-13c4-489a-495c45318bc3,worcester_regional_medical_center,Worcester Regional Medical Center,WORCES-992abe,ACCLAIM HOME HEALTH CARE  INC; JEWISH FAMILY & CHILDREN'S SERVICE; VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+dc77ef0d-1846-94fd-cce5-a7a555009d17,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-c4f683,LOWELL COMMUNITY HEALTH CENTER; LOWELL COMMUNITY HEALTH CENTER  INC.; TEWKSBURY HOSPITAL
+3099d813-4f5c-fc43-31d8-7bba5dc84bed,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-977c95,BRIGHAM & WOMENS HOSPITAL INC; GUARDIAN HOME HEALTH CARE  LLC; SIGNATURE HEALTHCARE MEDICAL GROUP INC
+c823813e-2588-4814-6eb4-824974791862,south_shore_health_alliance,South Shore Health Alliance,SOUTH_-04256a,BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC; SOUTH SHORE PRIMARY AND URGENT CARE LLC; UNITED MEDICAL CARE LLC
+c823813e-2588-4814-6eb4-824974791862,norfolk_county_health_network,Norfolk County Health Network,NORFOL-92880a,CARDIGAN NURSING & REHABILITATION CENTER
+bca1691f-8839-1d66-ed01-471134d55738,greater_boston_medical_center,Greater Boston Medical Center,GREATE-4607ed,CAMBRIDGE REHABILITATION & NURSING CENTER; CHARLES RIVER COMMUNITY HEALTH  INC; SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+bca1691f-8839-1d66-ed01-471134d55738,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-bacf17,MASS GENERAL BRIGHAM URGENT CARE LLC
+bca1691f-8839-1d66-ed01-471134d55738,north_central_mass_health,North Central Mass Health,NORTH_-59ed7e,Fitchburg Outpatient Clinic
+ca443842-f546-d34c-a69b-b044cfe007d9,greater_boston_medical_center,Greater Boston Medical Center,GREATE-8b88b4,ARBOUR HOSPITAL  THE; JOHN ADAMS HEALTHCARE CENTER; SOUTH SHORE HEALTH CARE INC
+bca1691f-8839-1d66-ed01-471134d55738,west_suburban_boston_health,West Suburban Boston Health,WEST_S-971cc7,MEDFORD VISITING NURSING ASSOCIATION
+5693c080-f485-91e7-54b9-ad9a8c12af62,merrimack_valley_health_network,Merrimack Valley Health Network,MERRIM-7383c4,ACADEMY MANOR; BLUEPRINT HEALTHCARE LLC; LAWRENCE GENERAL HOSPITAL
+5693c080-f485-91e7-54b9-ad9a8c12af62,north_shore_health_alliance,North Shore Health Alliance,NORTH_-3f4705,MIDDLETON FAMILY MEDICINE URGENT CARE  LLC
+5693c080-f485-91e7-54b9-ad9a8c12af62,north_central_mass_health,North Central Mass Health,NORTH_-c315c6,Fitchburg Outpatient Clinic

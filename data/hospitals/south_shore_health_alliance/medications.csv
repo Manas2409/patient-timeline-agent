@@ -1,0 +1,111 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,DESCRIPTION,REASONDESCRIPTION
+9a3814bb-f5b0-05f3-5b77-adbaaf993479,SOUTH_-876f47,2017-12-24T02:15:31Z,2018-06-10T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-5b77-adbaaf993479,SOUTH_-876f47,2017-12-24T02:15:31Z,2018-06-10T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-64ee-20a4a3ba6c0c,SOUTH_-876f47,2018-06-24T02:15:31Z,2018-09-16T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-64ee-20a4a3ba6c0c,SOUTH_-876f47,2018-06-24T02:15:31Z,2018-09-16T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-074a-f57f8d982676,SOUTH_-876f47,2018-12-23T02:15:31Z,2019-01-06T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-074a-f57f8d982676,SOUTH_-876f47,2018-12-23T02:15:31Z,2019-01-06T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-a55a-498bd0064bd9,SOUTH_-876f47,2019-06-23T02:15:31Z,2020-06-28T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-a55a-498bd0064bd9,SOUTH_-876f47,2019-06-23T02:15:31Z,2020-06-28T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-d39e-cf2100cb0ab9,SOUTH_-876f47,2020-06-28T02:15:31Z,2021-07-04T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-d39e-cf2100cb0ab9,SOUTH_-876f47,2020-06-28T02:15:31Z,2021-07-04T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-1a49-bec247006f2e,SOUTH_-876f47,2021-07-04T02:15:31Z,2022-07-10T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-1a49-bec247006f2e,SOUTH_-876f47,2021-07-04T02:15:31Z,2022-07-10T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-42c4-51d4baaa898c,SOUTH_-876f47,2022-07-10T02:15:31Z,2023-07-16T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-42c4-51d4baaa898c,SOUTH_-876f47,2022-07-10T02:15:31Z,2023-07-16T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-08d8-ff809fb6a22c,SOUTH_-876f47,2023-07-16T02:15:31Z,2024-07-21T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-08d8-ff809fb6a22c,SOUTH_-876f47,2023-07-16T02:15:31Z,2024-07-21T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-d4fc-a488cd5ae1ea,SOUTH_-876f47,2024-07-21T02:15:31Z,2024-11-10T00:25:40Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-d4fc-a488cd5ae1ea,SOUTH_-876f47,2024-07-21T02:15:31Z,2024-11-10T00:25:40Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-a210-1453648ef3bc,SOUTH_-876f47,2024-08-04T02:59:25Z,2024-08-18T02:59:25Z,Acetaminophen 160 MG Chewable Tablet,
+9a3814bb-f5b0-05f3-ed8d-715fba402558,SOUTH_-876f47,2025-07-27T02:15:31Z,2026-08-02T02:15:31Z,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-ed8d-715fba402558,SOUTH_-876f47,2025-07-27T02:15:31Z,2026-08-02T02:15:31Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-f546-8c0f5c6fe803,SOUTH_-876f47,2026-08-02T02:15:31Z,,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],Childhood asthma (disorder)
+9a3814bb-f5b0-05f3-f546-8c0f5c6fe803,SOUTH_-876f47,2026-08-02T02:15:31Z,,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+7af6b271-f16d-21e1-ff78-ca4e771c7285,SOUTH_-a1fb3a,2022-01-18T22:51:41Z,2022-01-25T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-ff78-ca4e771c7285,SOUTH_-a1fb3a,2022-01-18T22:51:41Z,2022-01-25T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-e86a-4d1d571af6e6,SOUTH_-a1fb3a,2022-01-25T22:51:41Z,2022-02-01T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-e86a-4d1d571af6e6,SOUTH_-a1fb3a,2022-01-25T22:51:41Z,2022-02-01T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-4328-278fe7ff7719,SOUTH_-a1fb3a,2022-02-22T22:51:41Z,2022-03-01T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-4328-278fe7ff7719,SOUTH_-a1fb3a,2022-02-22T22:51:41Z,2022-03-01T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,2022-10-31T02:08:41Z,2022-11-17T02:08:41Z,Ibuprofen 100 MG Oral Tablet,
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,2025-02-02T02:08:41Z,2025-03-02T02:08:41Z,Ibuprofen 100 MG Oral Tablet,
+d21f2794-014b-c66b-f5e6-f297b9e9e24c,SOUTH_-394788,2022-06-26T01:56:54Z,2023-04-09T01:56:54Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,2016-12-22T20:04:51Z,,Clopidogrel 75 MG Oral Tablet,
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,2016-12-22T20:04:51Z,,Simvastatin 20 MG Oral Tablet,
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,2016-12-22T20:04:51Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,2016-12-22T20:04:51Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,2020-09-04T02:15:02Z,2020-10-19T02:15:02Z,Ibuprofen 200 MG Oral Tablet,
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,2021-12-30T20:04:51Z,2021-12-30T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,2021-12-30T20:04:51Z,2022-01-13T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-6752-40c50a7a5346,SOUTH_-a09a50,2022-01-13T20:04:51Z,2022-02-03T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-c029-34da5af5888d,SOUTH_-a09a50,2022-02-03T20:04:51Z,2022-02-10T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-31a5-3b7c9838a55c,SOUTH_-a09a50,2022-02-10T20:04:51Z,2022-02-17T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-f3d4-94cbee9bbf7c,SOUTH_-a09a50,2022-02-17T20:04:51Z,2022-02-24T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-10ed-d96a69189fc2,SOUTH_-a09a50,2022-02-24T20:04:51Z,2022-03-03T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-af97-e76a6cb513eb,SOUTH_-a09a50,2022-03-03T20:04:51Z,2022-03-10T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-49fa-9ae21ee5aa26,SOUTH_-a09a50,2022-03-10T20:04:51Z,2022-03-17T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-c421-e246c3a0307d,SOUTH_-a09a50,2022-03-17T20:04:51Z,2022-03-24T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-b6ba-b89162e4da88,SOUTH_-a09a50,2022-03-31T20:04:51Z,2022-04-07T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-a05e-7f2327cba6f9,SOUTH_-a09a50,2022-04-07T20:04:51Z,2022-04-14T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-af36-c5f6e47850b4,SOUTH_-a09a50,2022-04-14T20:04:51Z,2022-04-21T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-0361-6091de617d40,SOUTH_-a09a50,2022-04-28T20:04:51Z,2022-05-05T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-9995-88336b4e8544,SOUTH_-a09a50,2022-05-05T20:04:51Z,2022-05-12T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-a637-d6ecf07f5218,SOUTH_-a09a50,2022-05-12T20:04:51Z,2022-05-19T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-ebe9-5b8f3bdbf7dd,SOUTH_-a09a50,2022-05-26T20:04:51Z,2022-06-02T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-9296-000ec60f8ce9,SOUTH_-a09a50,2022-06-02T20:04:51Z,2022-06-09T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-7edc-4afa28cf7a61,SOUTH_-a09a50,2023-01-19T20:04:51Z,2023-05-25T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-78c1-60e459a327e0,SOUTH_-a09a50,2024-01-25T20:04:51Z,2024-04-11T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-50c8-12f9bf5733e4,SOUTH_-a09a50,2024-12-12T20:04:51Z,2024-12-19T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-1e6e-0bc55feca2ce,SOUTH_-a09a50,2024-12-19T20:04:51Z,2024-12-26T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-31ac-59da17933968,SOUTH_-a09a50,2024-12-26T20:04:51Z,2025-01-02T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-77e1-59a402455737,SOUTH_-a09a50,2025-01-02T20:04:51Z,2025-01-09T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-9a3f-d517b8ea73dd,SOUTH_-a09a50,2025-01-09T20:04:51Z,2025-01-16T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-8cd4-d9bc4aae8ebf,SOUTH_-a09a50,2025-01-16T20:04:51Z,2025-01-23T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-76a6-d67500741021,SOUTH_-a09a50,2025-01-30T20:04:51Z,2025-02-06T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-426c-09e5b97b79fa,SOUTH_-a09a50,2025-02-13T20:04:51Z,2025-02-20T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-5273-5bfb6e0aaa0b,SOUTH_-a09a50,2025-02-20T20:04:51Z,2025-02-27T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-38a2-bdafc6e30f1d,SOUTH_-a09a50,2025-03-27T20:04:51Z,2025-04-03T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-e535-ccbef967d6a9,SOUTH_-a09a50,2025-04-03T20:04:51Z,2025-04-10T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-6108-01a11cffd463,SOUTH_-a09a50,2025-04-10T20:04:51Z,2025-05-08T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-592c-2ac4436aca50,SOUTH_-a09a50,2025-10-09T20:04:51Z,2026-02-05T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-84d2-2b8f727b5545,SOUTH_-a09a50,2026-02-05T20:04:51Z,2026-05-07T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-697b-6d2d7f9070e5,SOUTH_-a09a50,2026-05-07T20:04:51Z,2026-05-14T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-b28c-06a3f99a7835,SOUTH_-a09a50,2026-05-14T20:04:51Z,2026-05-21T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-358c-c4585b3fc863,SOUTH_-a09a50,2026-05-21T20:04:51Z,2026-05-28T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-f8e9-30b54d1c36d6,SOUTH_-a09a50,2026-05-28T20:04:51Z,2026-06-04T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-d8e6-5dba7871bac6,SOUTH_-a09a50,2026-06-04T20:04:51Z,2026-06-11T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-e20a-7f9a69a0e538,SOUTH_-a09a50,2026-07-09T20:04:51Z,2026-07-16T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-b168-a21fffaf00bf,SOUTH_-a09a50,2026-07-16T20:04:51Z,2026-08-06T20:04:51Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+355a4d50-2628-aa65-22b5-d6fae3dd23f7,SOUTH_-a09a50,2026-08-06T20:04:51Z,,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,2021-09-18T01:47:30Z,2021-11-09T01:47:30Z,Acetaminophen 325 MG Oral Tablet,
+8704c44c-8b97-e35a-2e79-0ad7e7723971,SOUTH_-8d7313,2023-06-21T17:19:39Z,2024-05-01T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,2026-02-01T22:21:23Z,2026-02-01T22:21:23Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,2026-02-01T22:21:23Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,2016-11-11T17:31:10Z,2016-12-06T17:31:10Z,Naproxen sodium 220 MG Oral Tablet,
+5dae1e9e-46fb-5537-9c47-dda3e0853bf8,SOUTH_-f82c25,2020-05-12T18:16:13Z,2020-05-14T16:16:13Z,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet,Acute infective cystitis (disorder)
+5dae1e9e-46fb-5537-6709-cde62031ab8b,SOUTH_-f82c25,2022-07-31T19:00:44Z,2022-07-31T19:00:44Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+5dae1e9e-46fb-5537-dce8-72bf16a56bed,SOUTH_-f82c25,2024-12-22T17:31:10Z,2025-01-05T17:31:10Z,Acetaminophen 325 MG Oral Tablet,
+3099d813-4f5c-fc43-846a-95fbb4ee5d9b,SOUTH_-977c95,2020-11-12T04:32:03Z,2020-11-26T04:32:03Z,Cefuroxime 250 MG Oral Tablet,
+3099d813-4f5c-fc43-846a-95fbb4ee5d9b,SOUTH_-977c95,2020-11-12T04:32:03Z,2020-11-26T04:32:03Z,Ibuprofen 100 MG Oral Tablet,
+3099d813-4f5c-fc43-cc30-07914d40936a,SOUTH_-977c95,2021-05-10T08:01:03Z,2021-05-10T08:01:03Z,predniSONE 5 MG Oral Tablet,
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,2021-05-22T10:05:35Z,,cetirizine hydrochloride 5 MG Oral Tablet,
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,2021-05-22T10:05:35Z,,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,
+3099d813-4f5c-fc43-bc03-6bb1010effde,SOUTH_-977c95,2022-12-13T04:32:03Z,2022-12-27T04:32:03Z,Azithromycin 250 MG Oral Capsule,
+3099d813-4f5c-fc43-bc03-6bb1010effde,SOUTH_-977c95,2022-12-13T04:32:03Z,2022-12-27T04:32:03Z,Acetaminophen 160 MG Chewable Tablet,
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,2025-02-08T04:32:03Z,2025-02-22T04:32:03Z,Azithromycin 250 MG Oral Capsule,
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,2025-02-08T04:32:03Z,2025-02-22T04:32:03Z,Ibuprofen 100 MG Oral Tablet,
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,2025-08-24T04:32:03Z,2025-09-07T04:32:03Z,Cefuroxime 250 MG Oral Tablet,
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,2025-08-24T04:32:03Z,2025-09-07T04:32:03Z,Acetaminophen 160 MG Chewable Tablet,
+c823813e-2588-4814-0eca-cb798a035f29,SOUTH_-04256a,2016-06-18T02:12:50Z,2017-06-13T02:12:50Z,{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day],
+c823813e-2588-4814-e73f-2e543ed46910,SOUTH_-04256a,2017-06-13T02:12:50Z,2018-06-08T02:12:50Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+c823813e-2588-4814-f9cb-440519258100,SOUTH_-04256a,2018-06-08T02:12:50Z,2019-06-03T02:12:50Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+c823813e-2588-4814-5a92-2c6c027e320c,SOUTH_-04256a,2018-08-12T07:29:59Z,2018-08-12T07:29:59Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,2020-03-11T20:29:11Z,2020-03-24T20:29:11Z,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,Acute bronchitis (disorder)
+c823813e-2588-4814-6928-d41adf860d40,SOUTH_-04256a,2020-05-28T02:12:50Z,2021-05-26T15:21:48Z,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena],
+c823813e-2588-4814-02f8-0184ab858af7,SOUTH_-04256a,2021-05-26T15:21:48Z,2021-09-05T06:17:02Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+c823813e-2588-4814-8de7-614607d78af9,SOUTH_-04256a,2022-06-26T05:13:47Z,2023-06-21T05:13:47Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+c823813e-2588-4814-0475-82b02101f39d,SOUTH_-04256a,2022-10-16T07:36:32Z,2022-10-16T07:36:32Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+c823813e-2588-4814-c3a7-ca9146dced54,SOUTH_-04256a,2023-06-21T05:13:47Z,2024-06-15T05:13:47Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day],
+c823813e-2588-4814-b1d5-3186a0a5a350,SOUTH_-04256a,2024-07-14T05:13:47Z,2025-07-09T05:13:47Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+c823813e-2588-4814-0c00-67d3cf42a62d,SOUTH_-04256a,2026-07-04T05:13:47Z,,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],

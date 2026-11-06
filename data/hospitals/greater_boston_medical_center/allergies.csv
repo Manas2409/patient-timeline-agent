@@ -1,0 +1,14 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+GREATE-e8f6db,2023-11-03,Allergic disposition (finding),,
+GREATE-e8f6db,2023-11-03,Latex (substance),Wheal (finding),MILD
+GREATE-e8f6db,2023-11-03,Bee venom (substance),,
+GREATE-e8f6db,2023-11-03,Mold (organism),Cutaneous hypersensitivity (disorder),MILD
+GREATE-e8f6db,2023-11-03,House dust mite (organism),,
+GREATE-e8f6db,2023-11-03,Animal dander (substance),Cough (finding),MODERATE
+GREATE-e8f6db,2023-11-03,Tree pollen (substance),,
+GREATE-e8f6db,2023-11-03,Cow's milk (substance),Allergic angioedema (disorder),MODERATE
+GREATE-e8f6db,2023-11-03,Glycine max (substance),,
+GREATE-e8f6db,2023-11-03,Eggs (edible) (substance),,
+GREATE-88cada,2001-08-16,Allergic disposition (finding),,
+GREATE-88cada,2001-08-16,Mold (organism),Nasal discharge present (situation),MILD
+GREATE-88cada,2001-08-16,Penicillin V,Wheal (finding),MILD

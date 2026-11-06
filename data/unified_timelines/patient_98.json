@@ -1,0 +1,1046 @@
+{
+  "cluster_id": "98",
+  "hospitals": [
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "1978-05-19",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Educated",
+          "canonical": "Educated",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2007-11-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Osteoarthritis of knee (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2008-04-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2012-05-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-06-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-09T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-09T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-06-09T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-06-24",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-08-07T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-15T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-15T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-06-15T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-23",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-23T13:30:04Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-24",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-24T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-06-21T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-06-21T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-06-21T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-24",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-06-24T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-21",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-06-26T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-06-26T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-06-26T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-24",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-03T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-31",
+      "hospital": "Southcoast Health",
+      "encounter_class": "virtual",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "emergency",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "ROYAL OF FAIRHAVEN NURSING CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cysti",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ciprofloxacin",
+          "canonical": "ciprofloxacin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-03T12:45:01Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-07-02T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-07-02T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-07-02T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-07-03T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2020-07-10"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-08-29"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-09-07"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "d",
+          "canonical": "d",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "p",
+          "canonical": "p",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "w",
+          "canonical": "w",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "respiratory syndrome coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-07"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "inpatient",
+      "reason": "Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acute respiratory syndrome coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "hypox",
+          "canonical": "Hypoxemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Enoxaparin",
+          "canonical": "Enoxaparin sodium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Enoxaparin",
+          "canonical": "Enoxaparin sodium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Enoxaparin",
+          "canonical": "Enoxaparin sodium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Enoxaparin",
+          "canonical": "Enoxaparin sodium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Enoxaparin",
+          "canonical": "Enoxaparin sodium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Enoxaparin sodium",
+          "canonical": "Enoxaparin sodium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Enoxaparin",
+          "canonical": "Enoxaparin sodium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Enoxaparin",
+          "canonical": "Enoxaparin sodium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-29T12:45:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-22",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-19",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-02",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-08T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-08T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-07-08T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-15T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-08",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-14T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-14T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-07-14T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-15T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-19T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-19T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-07-19T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-26T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-28T13:40:01Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-07-28T13:40:01Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-19",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-25T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-25T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-07-25T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-26T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "DARTMOUTH HOUSE NURSING HOME INC",
+      "entities": []
+    },
+    {
+      "date": "2025-07-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-31T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-31T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-07-31T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-08-07T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DARTMOUTH PRIMARY MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "AP MEDICAL LLC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,322 @@
+{
+  "cluster_id": "8",
+  "hospitals": [
+    "Greater Boston Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2016-11-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2018-12-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2019-11-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-06"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2020-07-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-30"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-30T06:22:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Potassium",
+          "canonical": "Penicillin V Potassium | losartan potassium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-07-30T06:22:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "BOSTON HOME  INC (THE)",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Meperidine Hydrochloride",
+          "canonical": "Meperidine Hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-11T12:56:17Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2021-11-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of forearm (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2021-12-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2022-01-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2022-12-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2023-01-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2024-01-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2025-01-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2025-01-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2026-01-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH END COMMUNITY HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "panic attacks",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "exact_synonym"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infect",
+          "canonical": "Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-06-18"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-06-18"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-30T15:03:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-01-30T15:03:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cystitis",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ciprofloxacin",
+          "canonical": "ciprofloxacin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-18T20:45:39Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

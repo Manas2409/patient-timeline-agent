@@ -1,0 +1,407 @@
+{
+  "cluster_id": "88",
+  "hospitals": [
+    "Pioneer Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2014-09-22",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2016-10-03",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-02-16",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-19"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-19T01:00:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-11",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-09",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-10-15",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-04-10",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-10-21",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-10-28",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-10-28T16:58:59Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-26",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-11-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2022-11-07",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2023-11-13",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2023-11-27",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2023-11-27"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-11-27T18:52:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-11-27T18:52:45Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-07",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-10-17",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ethinyl estradiol",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-12T13:36:36Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "etonogestrel",
+          "canonical": "Etonogestrel | etonogestrel",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-12T13:36:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-18",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-12-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2025-09-12",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-10-16"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinusitis",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-16"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-12",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ethinyl est",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Lev",
+          "canonical": "Lev",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE HEALTH CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-01-26",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-02-23",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-03-23",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-04-20",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-05-18",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-15",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-07-13",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-07-19",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "HOLYOKE VISITING NURSE ASSOC & HOSPICE LIFE CARE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Meperidine Hydrochloride",
+          "canonical": "Meperidine Hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

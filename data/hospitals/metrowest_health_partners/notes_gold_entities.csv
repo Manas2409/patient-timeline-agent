@@ -1,0 +1,578 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+355cd402-8f45-353f-9d86-7796def9af0c,METROW-c247fb,DIAGNOSIS,viral sinusitis
+355cd402-8f45-353f-9d86-7796def9af0c,METROW-c247fb,DIAGNOSIS,viral sinusitis
+355cd402-8f45-353f-75fa-51b846024d8b,METROW-c247fb,DIAGNOSIS,gingivitis
+355cd402-8f45-353f-7d81-41419abc0b3e,METROW-c247fb,DIAGNOSIS,gum inflammation
+355cd402-8f45-353f-7d81-41419abc0b3e,METROW-c247fb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,DIAGNOSIS,localized  primary osteoarthritis of the hand
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,DIAGNOSIS,localized  primary osteoarthritis of the hand
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,DIAGNOSIS,fracture of mandible
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,DIAGNOSIS,fracture of mandible
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,MEDICATION,Meperidine Hydrochloride 50 MG Oral Tablet
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,MEDICATION,Acetaminophen 325 MG Oral Tablet
+355cd402-8f45-353f-45f4-97121ef38e7d,METROW-c247fb,DIAGNOSIS,fracture of mandible
+355cd402-8f45-353f-45f4-97121ef38e7d,METROW-c247fb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+355cd402-8f45-353f-0d67-50a419bea3f6,METROW-c247fb,DIAGNOSIS,fracture of mandible
+355cd402-8f45-353f-b5fe-ab995e860b84,METROW-c247fb,DIAGNOSIS,gum inflammation
+355cd402-8f45-353f-c5f2-148b79f46d17,METROW-c247fb,DIAGNOSIS,gingivitis
+355cd402-8f45-353f-7da6-0154208efe61,METROW-c247fb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,DIAGNOSIS,a middle-ear infection
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,DIAGNOSIS,otitis media
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,MEDICATION,Cefuroxime 250 MG Oral Tablet
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,MEDICATION,Ibuprofen 100 MG Oral Tablet
+c38b96b6-90ae-fabe-091c-8ae0e55d3dbd,METROW-a11d75,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c38b96b6-90ae-fabe-4102-0d19042d8ab5,METROW-a11d75,DIAGNOSIS,a sore throat
+c38b96b6-90ae-fabe-4102-0d19042d8ab5,METROW-a11d75,DIAGNOSIS,a sore throat
+c38b96b6-90ae-fabe-f7fd-9703bd58a092,METROW-a11d75,DIAGNOSIS,acute viral pharyngitis
+c38b96b6-90ae-fabe-f7fd-9703bd58a092,METROW-a11d75,DIAGNOSIS,a sore throat
+6095681c-dfc1-8f20-50de-c6dd78c0ccfd,METROW-9d727d,DIAGNOSIS,gingivitis
+6095681c-dfc1-8f20-8f68-46114938e66c,METROW-9d727d,DIAGNOSIS,laceration - injury
+6095681c-dfc1-8f20-8f68-46114938e66c,METROW-9d727d,DIAGNOSIS,laceration - injury
+6095681c-dfc1-8f20-8f68-46114938e66c,METROW-9d727d,DIAGNOSIS,facial laceration
+6095681c-dfc1-8f20-8f68-46114938e66c,METROW-9d727d,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+6095681c-dfc1-8f20-a48f-991f7259a03e,METROW-9d727d,DIAGNOSIS,gum inflammation
+6095681c-dfc1-8f20-e1d1-43f99f699c54,METROW-9d727d,DIAGNOSIS,gum inflammation
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,DIAGNOSIS,laceration - injury
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,DIAGNOSIS,laceration - injury
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,DIAGNOSIS,laceration of foot
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,MEDICATION,Ibuprofen 200 MG Oral Tablet
+3c0e60c4-176e-2c4c-89b0-2da3613a18cf,METROW-61630f,DIAGNOSIS,loss of teeth
+3c0e60c4-176e-2c4c-89b0-2da3613a18cf,METROW-61630f,DIAGNOSIS,loss of teeth
+3c0e60c4-176e-2c4c-7cd0-9e0584fa68ab,METROW-61630f,DIAGNOSIS,congenital uterine anomaly
+3c0e60c4-176e-2c4c-7cd0-9e0584fa68ab,METROW-61630f,DIAGNOSIS,past pregnancy history of miscarriage
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,DIAGNOSIS,osteoarthritis of knee
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,DIAGNOSIS,osteoarthritis of knee
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+3c0e60c4-176e-2c4c-9290-555edae2b6a7,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-9290-555edae2b6a7,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-e394-eeb9d703e40d,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-e394-eeb9d703e40d,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-fb53-5a9856fe20d5,METROW-61630f,DIAGNOSIS,acute viral pharyngitis
+3c0e60c4-176e-2c4c-fb53-5a9856fe20d5,METROW-61630f,DIAGNOSIS,acute viral pharyngitis
+3c0e60c4-176e-2c4c-49b1-d513537f62e7,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-49b1-d513537f62e7,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-333a-c75799536233,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-333a-c75799536233,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-bcae-2a639da493e7,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-bcae-2a639da493e7,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-b91f-cb8d6177d6a9,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-b91f-cb8d6177d6a9,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-6aa1-03dd4a17d88e,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-6aa1-03dd4a17d88e,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-1829-ed730e314e9b,METROW-61630f,DIAGNOSIS,gum inflammation
+3c0e60c4-176e-2c4c-1829-ed730e314e9b,METROW-61630f,DIAGNOSIS,gum disease
+3c0e60c4-176e-2c4c-4df8-d88514239bcc,METROW-61630f,DIAGNOSIS,essential hypertension
+3c0e60c4-176e-2c4c-4df8-d88514239bcc,METROW-61630f,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3c0e60c4-176e-2c4c-20b3-6ebba68ec2c8,METROW-61630f,DIAGNOSIS,high blood pressure
+3c0e60c4-176e-2c4c-20b3-6ebba68ec2c8,METROW-61630f,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3c0e60c4-176e-2c4c-17e6-60368f3cfcec,METROW-61630f,DIAGNOSIS,high blood pressure
+3c0e60c4-176e-2c4c-36ec-501b2fc57a1e,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-36ec-501b2fc57a1e,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-0c32-44bc43b0ab46,METROW-61630f,DIAGNOSIS,viral sinusitis
+3c0e60c4-176e-2c4c-0c32-44bc43b0ab46,METROW-61630f,DIAGNOSIS,viral sinusitis
+3c0e60c4-176e-2c4c-3834-9c4ca57dc13b,METROW-61630f,DIAGNOSIS,viral sinusitis
+3c0e60c4-176e-2c4c-3834-9c4ca57dc13b,METROW-61630f,DIAGNOSIS,viral sinusitis
+3c0e60c4-176e-2c4c-41c8-abfe8088439b,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-41c8-abfe8088439b,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-036f-f2713a09f04a,METROW-61630f,DIAGNOSIS,loss of teeth
+3c0e60c4-176e-2c4c-9acb-5ba82605ff70,METROW-61630f,DIAGNOSIS,loss of teeth
+3c0e60c4-176e-2c4c-4573-67ed3d149c72,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-4573-67ed3d149c72,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-9480-ecfef183377b,METROW-61630f,DIAGNOSIS,a chest cold
+3c0e60c4-176e-2c4c-9480-ecfef183377b,METROW-61630f,DIAGNOSIS,a chest cold
+3c0e60c4-176e-2c4c-9480-ecfef183377b,METROW-61630f,MEDICATION,Acetaminophen 325 MG Oral Tablet
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,MEDICATION,lisinopril 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3c0e60c4-176e-2c4c-43af-4d3a19c17f1b,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-43af-4d3a19c17f1b,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-0cd6-7dee0afd0de0,METROW-61630f,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-0cd6-7dee0afd0de0,METROW-61630f,MEDICATION,Simvastatin 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-1c9f-5d5d4a94d9f1,METROW-61630f,DIAGNOSIS,fractured dental filling
+3c0e60c4-176e-2c4c-1c9f-5d5d4a94d9f1,METROW-61630f,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+3c0e60c4-176e-2c4c-d2da-eaaf4d8bea0b,METROW-61630f,DIAGNOSIS,polyp of colon
+a45aa142-d1e9-d944-1e9f-167d15a41321,METROW-1f35d4,DIAGNOSIS,prediabetes
+a45aa142-d1e9-d944-ee8b-fd10ca5036b8,METROW-1f35d4,DIAGNOSIS,a low blood count
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,DIAGNOSIS,coronary artery disease
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,MEDICATION,Clopidogrel 75 MG Oral Tablet
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,MEDICATION,Simvastatin 20 MG Oral Tablet
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,MEDICATION,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,MEDICATION,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+a45aa142-d1e9-d944-e39f-b8f466633d48,METROW-1f35d4,DIAGNOSIS,sleep disorder
+a45aa142-d1e9-d944-e39f-b8f466633d48,METROW-1f35d4,DIAGNOSIS,sleep disorder
+a45aa142-d1e9-d944-291c-8797ce950b0e,METROW-1f35d4,DIAGNOSIS,sleep disorder
+a45aa142-d1e9-d944-291c-8797ce950b0e,METROW-1f35d4,DIAGNOSIS,obstructive sleep apnea syndrome
+a45aa142-d1e9-d944-b3be-f203a1133324,METROW-1f35d4,DIAGNOSIS,gingivitis
+a45aa142-d1e9-d944-dbae-274bab32c2d4,METROW-1f35d4,DIAGNOSIS,gingivitis
+a45aa142-d1e9-d944-9b79-ed050c5c437e,METROW-1f35d4,DIAGNOSIS,gum inflammation
+a45aa142-d1e9-d944-ed7d-1e0377f962ec,METROW-1f35d4,DIAGNOSIS,gingivitis
+a45aa142-d1e9-d944-ed7d-1e0377f962ec,METROW-1f35d4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+a45aa142-d1e9-d944-ded5-611103e0a346,METROW-1f35d4,DIAGNOSIS,hyperlipidemia
+a45aa142-d1e9-d944-4071-97dbb86a8d2d,METROW-1f35d4,DIAGNOSIS,hyperlipidemia
+a45aa142-d1e9-d944-4071-97dbb86a8d2d,METROW-1f35d4,MEDICATION,Simvastatin 10 MG Oral Tablet
+a45aa142-d1e9-d944-aa98-b70ca2fc5f35,METROW-1f35d4,DIAGNOSIS,viral sinusitis
+a45aa142-d1e9-d944-aa98-b70ca2fc5f35,METROW-1f35d4,DIAGNOSIS,a sinus infection
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,DIAGNOSIS,streptococcal sore throat
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,DIAGNOSIS,streptococcal sore throat
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,MEDICATION,Penicillin V Potassium 500 MG Oral Tablet
+a45aa142-d1e9-d944-d065-dde88e630ee1,METROW-1f35d4,DIAGNOSIS,hyperlipidemia
+a45aa142-d1e9-d944-d065-dde88e630ee1,METROW-1f35d4,MEDICATION,Simvastatin 10 MG Oral Tablet
+a45aa142-d1e9-d944-983c-90c905f05db1,METROW-1f35d4,DIAGNOSIS,polyp of colon
+a45aa142-d1e9-d944-4a46-1c797c62a8c3,METROW-1f35d4,DIAGNOSIS,severe anxiety with panic features
+a45aa142-d1e9-d944-a228-0106691a1bb0,METROW-1f35d4,DIAGNOSIS,hyperlipidemia
+a45aa142-d1e9-d944-a228-0106691a1bb0,METROW-1f35d4,MEDICATION,Simvastatin 10 MG Oral Tablet
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,DIAGNOSIS,a chest cold
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,DIAGNOSIS,a chest cold
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,MEDICATION,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+a45aa142-d1e9-d944-3234-e3eacf9f600b,METROW-1f35d4,DIAGNOSIS,hyperlipidemia
+a45aa142-d1e9-d944-3234-e3eacf9f600b,METROW-1f35d4,MEDICATION,Simvastatin 10 MG Oral Tablet
+a45aa142-d1e9-d944-c94a-c45e4a329489,METROW-1f35d4,DIAGNOSIS,polyp of colon
+a45aa142-d1e9-d944-2e10-b448a239a958,METROW-1f35d4,DIAGNOSIS,gum inflammation
+a45aa142-d1e9-d944-a7ea-d10d0512d7a7,METROW-1f35d4,DIAGNOSIS,hyperlipidemia
+a45aa142-d1e9-d944-a7ea-d10d0512d7a7,METROW-1f35d4,MEDICATION,Simvastatin 10 MG Oral Tablet
+a45aa142-d1e9-d944-6ccd-4a576d315ecb,METROW-1f35d4,DIAGNOSIS,gingivitis
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,DIAGNOSIS,burn injury (morphologic abnormality)
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,DIAGNOSIS,burn injury (morphologic abnormality)
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,DIAGNOSIS,epidermal burn of skin
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,MEDICATION,Acetaminophen 325 MG Oral Tablet
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,DIAGNOSIS,burn injury (morphologic abnormality)
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,DIAGNOSIS,burn injury (morphologic abnormality)
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,DIAGNOSIS,epidermal burn of skin
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,MEDICATION,Ibuprofen 200 MG Oral Tablet
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,DIAGNOSIS,female infertility due to cystic fibrosis
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,DIAGNOSIS,a low blood count
+2211f478-b7b4-7711-5c72-dc0d0db7fff7,METROW-2549bd,DIAGNOSIS,acute respiratory failure
+2211f478-b7b4-7711-5c72-dc0d0db7fff7,METROW-2549bd,DIAGNOSIS,acute respiratory failure
+2211f478-b7b4-7711-6b26-cb71a9b167ac,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-6b26-cb71a9b167ac,METROW-2549bd,DIAGNOSIS,infection caused by Staphylococcus aureus
+2211f478-b7b4-7711-eb3c-f0216cea8c5b,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-eb3c-f0216cea8c5b,METROW-2549bd,DIAGNOSIS,diabetes mellitus due to cystic fibrosis
+2211f478-b7b4-7711-cee1-6c5024df8f66,METROW-2549bd,DIAGNOSIS,type 2 diabetes
+2211f478-b7b4-7711-0d1a-2addda7cf5b4,METROW-2549bd,DIAGNOSIS,loss of teeth
+2211f478-b7b4-7711-0d1a-2addda7cf5b4,METROW-2549bd,DIAGNOSIS,loss of teeth
+2211f478-b7b4-7711-1f7c-7e222c111eff,METROW-2549bd,DIAGNOSIS,hypertriglyceridemia
+2211f478-b7b4-7711-424d-0aead9d41920,METROW-2549bd,DIAGNOSIS,obesity (BMI 30+)
+2211f478-b7b4-7711-38c9-65a91b8fff2e,METROW-2549bd,DIAGNOSIS,hyperglycemia
+2211f478-b7b4-7711-38c9-65a91b8fff2e,METROW-2549bd,DIAGNOSIS,metabolic syndrome X
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-2d4c-731ea3435800,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-2d4c-731ea3435800,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-7b72-8cc2987161cb,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-5d72-ab3f2ba2c479,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-b3d5-8f1d0d2f677c,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-4394-f54450ff8356,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-0e31-b3f10b9f63de,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-6682-401fa8f2ecb2,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-cbd4-35945012f033,METROW-2549bd,DIAGNOSIS,sepsis caused by Staphylococcus aureus
+2211f478-b7b4-7711-cbd4-35945012f033,METROW-2549bd,DIAGNOSIS,sepsis caused by Staphylococcus aureus
+2211f478-b7b4-7711-0814-69f276decac7,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-0814-69f276decac7,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-d968-8e765bd9024a,METROW-2549bd,DIAGNOSIS,leaking dental filling
+2211f478-b7b4-7711-d968-8e765bd9024a,METROW-2549bd,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2211f478-b7b4-7711-5aca-e4edf829a480,METROW-2549bd,DIAGNOSIS,viral sinusitis
+2211f478-b7b4-7711-5aca-e4edf829a480,METROW-2549bd,DIAGNOSIS,viral sinusitis
+2211f478-b7b4-7711-7671-7ca49166a6f0,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-0596-38765041ba1a,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-939f-60126e4c6086,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-939f-60126e4c6086,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-7e7e-b020f6cf5120,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-7e7e-b020f6cf5120,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-a6e7-7b98fbebf83d,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-a743-1084a98dd7fd,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-05ef-f7d59fd44f10,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-9426-a65e78ce184f,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-44cf-229e74f617a0,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-2444-c1144b33a54e,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-d28c-85bfbeabafc6,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-7e96-47a81c3e5a11,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-11ec-78476a47fd80,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-fcf0-16628190903e,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-58a4-63c2870204bf,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-c896-9c2353a506e0,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-c896-9c2353a506e0,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-c2ed-bb1d859e720c,METROW-2549bd,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+2211f478-b7b4-7711-f0e6-a2c0a7920fd7,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-c047-865f024bccf4,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,DIAGNOSIS,gum inflammation
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-ee6f-f98f4b7dd072,METROW-2549bd,DIAGNOSIS,gum inflammation
+2211f478-b7b4-7711-80b3-ca71df6d1777,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-5540-46998776c701,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-5286-ed9bcec7601a,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-5286-ed9bcec7601a,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-45c0-a077fcee214f,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-fdb0-87475e198805,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,DIAGNOSIS,gum inflammation
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-7911-f5dd641a72d4,METROW-2549bd,DIAGNOSIS,gingivitis
+2211f478-b7b4-7711-7911-f5dd641a72d4,METROW-2549bd,DIAGNOSIS,gum disease
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-3d91-6277ab70ab95,METROW-2549bd,DIAGNOSIS,a sinus infection
+2211f478-b7b4-7711-3d91-6277ab70ab95,METROW-2549bd,DIAGNOSIS,viral sinusitis
+2211f478-b7b4-7711-bc82-50e1f21e0a54,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-6d4e-7b90001efb45,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-7125-651af6fba98e,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-7125-651af6fba98e,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-e507-4d939dc6e4ba,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-e507-4d939dc6e4ba,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-e507-4d939dc6e4ba,METROW-2549bd,DIAGNOSIS,miscarriage in first trimester
+2211f478-b7b4-7711-e507-4d939dc6e4ba,METROW-2549bd,DIAGNOSIS,tubal pregnancy
+2211f478-b7b4-7711-bb60-19cff13017d7,METROW-2549bd,DIAGNOSIS,tubal pregnancy
+2211f478-b7b4-7711-b73b-8f7b01b8e915,METROW-2549bd,DIAGNOSIS,tubal pregnancy
+2211f478-b7b4-7711-b73b-8f7b01b8e915,METROW-2549bd,DIAGNOSIS,past pregnancy history of miscarriage
+2211f478-b7b4-7711-6ea3-bce29d2e70ba,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-1b89-679bddcc3487,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-ea15-db6bf7f13879,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-ea15-db6bf7f13879,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-0cd6-e5c7c90a89bc,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-3bb1-b8b2584defb8,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-dc1c-d9688d722926,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-9769-cd5077160508,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-9769-cd5077160508,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-3fcf-4501242318cb,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-c4f7-98604b7b61af,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-048b-0117d7d85ba3,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-7f4a-ca15661d8e7e,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-084e-08833242da6f,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-084e-08833242da6f,METROW-2549bd,DIAGNOSIS,pre-eclampsia
+2211f478-b7b4-7711-cf77-9778515964ab,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-d1f7-d81fee071b7d,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-b810-61d2a2c9fb1c,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-010e-5198d251bb4f,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-de5b-5b27cc9e354f,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-bee5-c65b677b76ed,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-c78a-e3544d5a4be9,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-c78a-e3544d5a4be9,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-57b8-468a7353018b,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-82c8-754570a1a1ef,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-82c8-754570a1a1ef,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-9fb5-cbda1710a710,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-8331-6cddcdc6bb1d,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-2398-52847bf74ade,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-2398-52847bf74ade,METROW-2549bd,DIAGNOSIS,miscarriage in second trimester
+2211f478-b7b4-7711-2398-52847bf74ade,METROW-2549bd,DIAGNOSIS,fetus with chromosomal abnormality
+2211f478-b7b4-7711-6053-e855f580196a,METROW-2549bd,DIAGNOSIS,fetus with chromosomal abnormality
+2211f478-b7b4-7711-a1a6-21b5c1b18f9a,METROW-2549bd,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+2211f478-b7b4-7711-39fa-4b0f00505ac7,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-b1ba-e776d81ea9c0,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,DIAGNOSIS,gingivitis
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,DIAGNOSIS,gingivitis
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,DIAGNOSIS,infection of tooth
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2211f478-b7b4-7711-4ae6-488183665a3a,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-3c3e-1bf56eae4737,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-3c3e-1bf56eae4737,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-611b-6ea39999fa8d,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-b75a-dc656f9493ec,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-40dc-3a4fb8756274,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-2a9d-fe5a2d5ff9bf,METROW-2549bd,DIAGNOSIS,loss of teeth
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-4eff-bcfd918bbfd3,METROW-2549bd,DIAGNOSIS,loss of teeth
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,DIAGNOSIS,ongoing pain
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,DIAGNOSIS,chronic pain
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,DIAGNOSIS,chronic low back pain
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-5f64-70378ffc8d79,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-5f64-70378ffc8d79,METROW-2549bd,MEDICATION,Vancomycin 50 MG/ML Injectable Solution
+2211f478-b7b4-7711-fc4a-a0f109556700,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,DIAGNOSIS,chronic kidney disease stage 1
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,DIAGNOSIS,disorder of kidney due to diabetes mellitus
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-b8e2-c251ed7b67c4,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-1e30-320546271ef6,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-c023-bcd4752dd9ef,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,DIAGNOSIS,gum inflammation
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-70ee-fcd7706eb5d2,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-70ee-fcd7706eb5d2,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-188c-4b8f6ee8d72d,METROW-2549bd,DIAGNOSIS,gum inflammation
+2211f478-b7b4-7711-188c-4b8f6ee8d72d,METROW-2549bd,DIAGNOSIS,loose dental filling
+2211f478-b7b4-7711-188c-4b8f6ee8d72d,METROW-2549bd,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2211f478-b7b4-7711-5f4f-53029cc199d9,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,DIAGNOSIS,gingivitis
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-af05-589edbc73de3,METROW-2549bd,DIAGNOSIS,gingivitis
+2211f478-b7b4-7711-5aab-520829825c8c,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-75f5-200ac43e1a13,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-52f2-dd226e1f859f,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,DIAGNOSIS,a chest cold
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,DIAGNOSIS,a chest cold
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-fce6-94bbf2d7e19c,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-620d-8fa20650e9f2,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-d05d-99dd37f126f9,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-561a-963c0835620c,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-8383-96f6b347ce5d,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-fb90-03f8c7f7e73d,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-1a26-b9f15d8f463c,METROW-2549bd,DIAGNOSIS,normal pregnancy
+2211f478-b7b4-7711-4024-4057ec28784c,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-8566-706271053729,METROW-2549bd,DIAGNOSIS,gingivitis
+2211f478-b7b4-7711-8566-706271053729,METROW-2549bd,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2211f478-b7b4-7711-952b-3c8f09c8df1d,METROW-2549bd,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+2211f478-b7b4-7711-f810-a21f7d451ee4,METROW-2549bd,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+2211f478-b7b4-7711-a1fe-9005c0b64fbb,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,Pancreatin 600 MG Oral Tablet
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+2211f478-b7b4-7711-e0ef-6d8e77230e72,METROW-2549bd,DIAGNOSIS,cystic fibrosis
+2211f478-b7b4-7711-6ac4-d082185e9b20,METROW-2549bd,DIAGNOSIS,sepsis caused by Staphylococcus aureus
+2211f478-b7b4-7711-c3cf-c260af366446,METROW-2549bd,DIAGNOSIS,sepsis caused by Pseudomonas
+e503e9b3-d149-653b-7280-07d85636cde6,METROW-f81d19,DIAGNOSIS,adolescent idiopathic scoliosis
+e503e9b3-d149-653b-7280-07d85636cde6,METROW-f81d19,DIAGNOSIS,adolescent idiopathic scoliosis
+e503e9b3-d149-653b-a536-cca0cbc06b1e,METROW-f81d19,DIAGNOSIS,acute bacterial sinusitis
+e503e9b3-d149-653b-a536-cca0cbc06b1e,METROW-f81d19,DIAGNOSIS,chronic sinusitis
+e503e9b3-d149-653b-ac10-e39d4b9ec777,METROW-f81d19,DIAGNOSIS,borderline blood sugar
+e503e9b3-d149-653b-ac10-e39d4b9ec777,METROW-f81d19,DIAGNOSIS,a low blood count
+e503e9b3-d149-653b-3ffa-062b5ac17d65,METROW-f81d19,DIAGNOSIS,a low blood count
+e503e9b3-d149-653b-3ffa-062b5ac17d65,METROW-f81d19,MEDICATION,ferrous sulfate 325 MG Oral Tablet
+e503e9b3-d149-653b-ac5d-46444e967cb2,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-6a3a-59b59eb91605,METROW-f81d19,DIAGNOSIS,fetus with chromosomal abnormality
+e503e9b3-d149-653b-6a3a-59b59eb91605,METROW-f81d19,DIAGNOSIS,past pregnancy history of miscarriage
+e503e9b3-d149-653b-ed8f-c1687b5e6edf,METROW-f81d19,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+e503e9b3-d149-653b-4eaf-0a52c9f697ba,METROW-f81d19,MEDICATION,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+e503e9b3-d149-653b-8321-58d6fa829d64,METROW-f81d19,MEDICATION,Etonogestrel 68 MG Drug Implant
+e503e9b3-d149-653b-b175-98a10da01e84,METROW-f81d19,MEDICATION,levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]
+e503e9b3-d149-653b-e7bc-a85f5bcdd9b1,METROW-f81d19,DIAGNOSIS,viral sinusitis
+e503e9b3-d149-653b-e7bc-a85f5bcdd9b1,METROW-f81d19,DIAGNOSIS,a sinus infection
+e503e9b3-d149-653b-e95c-303764da10c1,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-e95c-303764da10c1,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-28a2-4286144bf89f,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-6ca7-8a42a97884c4,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-5b70-6c3104d96e51,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-0a52-22852df56ee3,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-2836-8b63ed1bd51e,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-43b1-e79e55e7db37,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-5487-835fdc2bdc53,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-fe8d-ef7576ef58e5,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-2f5d-1ef79dff1811,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-cf9b-960ad1d1a27e,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-0562-c4421221e644,METROW-f81d19,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+e503e9b3-d149-653b-c81b-1f4212b8780c,METROW-f81d19,MEDICATION,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]
+e503e9b3-d149-653b-f55a-fd8dabbfc570,METROW-f81d19,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+e503e9b3-d149-653b-9dee-6592fd4713b5,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-9dee-6592fd4713b5,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-f4c7-19dfe6ddcb8f,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-9ffb-42e0388d1112,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-190d-7fe4ee0432df,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-6d73-b9c040acdcab,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-a3c6-d23e37df685f,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-4b90-bf909239a1d8,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-3020-60ffbfbb70d0,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-edcd-d49f8b17df7d,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-3594-7286bed2eb1e,METROW-f81d19,DIAGNOSIS,normal pregnancy
+e503e9b3-d149-653b-0e17-773b22b5d8e7,METROW-f81d19,MEDICATION,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]
+82623afe-e51c-e02e-0cb3-b28c7cac5886,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-0cb3-b28c7cac5886,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-951b-742e3d75b81a,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-951b-742e3d75b81a,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,DIAGNOSIS,gingivitis
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,DIAGNOSIS,reactive airway disease
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,DIAGNOSIS,gum inflammation
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,DIAGNOSIS,sprain (morphologic abnormality)
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,DIAGNOSIS,sprain (morphologic abnormality)
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,DIAGNOSIS,sprain of wrist
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-23d8-5e4116a153bb,METROW-0fe329,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,DIAGNOSIS,gum inflammation
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,DIAGNOSIS,high blood pressure
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,DIAGNOSIS,gum inflammation
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,lisinopril 10 MG Oral Tablet
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+82623afe-e51c-e02e-d36f-650f95794f9f,METROW-0fe329,DIAGNOSIS,normal pregnancy
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,DIAGNOSIS,gum inflammation
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,lisinopril 10 MG Oral Tablet
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,albuterol 0.21 MG/ML Inhalation Solution
+1426480f-ccc7-2393-b622-87ea0962cdd4,METROW-f498eb,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+1426480f-ccc7-2393-b622-87ea0962cdd4,METROW-f498eb,MEDICATION,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+1426480f-ccc7-2393-56c7-2d4bb4f6e93b,METROW-f498eb,DIAGNOSIS,allergic disposition
+1426480f-ccc7-2393-56c7-2d4bb4f6e93b,METROW-f498eb,ALLERGY,Allergic disposition
+1426480f-ccc7-2393-d1fe-b9f14b909cb8,METROW-f498eb,DIAGNOSIS,significant weight gain
+1426480f-ccc7-2393-e0a0-a3c4f3ca7908,METROW-f498eb,DIAGNOSIS,sepsis
+1426480f-ccc7-2393-e0a0-a3c4f3ca7908,METROW-f498eb,DIAGNOSIS,sepsis
+1426480f-ccc7-2393-662a-d1309441af5c,METROW-f498eb,DIAGNOSIS,essential hypertension
+1426480f-ccc7-2393-1f8a-f356e4233b45,METROW-f498eb,DIAGNOSIS,chronic pain
+1426480f-ccc7-2393-1f8a-f356e4233b45,METROW-f498eb,DIAGNOSIS,ongoing pain
+1426480f-ccc7-2393-1f8a-f356e4233b45,METROW-f498eb,DIAGNOSIS,chronic low back pain
+1426480f-ccc7-2393-1f8a-f356e4233b45,METROW-f498eb,DIAGNOSIS,fibromyalgia
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,DIAGNOSIS,a sinus infection
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,DIAGNOSIS,viral sinusitis
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+1426480f-ccc7-2393-d287-fad18b41007d,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-d287-fad18b41007d,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,DIAGNOSIS,gingivitis
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-ef8d-1395aba0059c,METROW-f498eb,DIAGNOSIS,gum inflammation
+1426480f-ccc7-2393-ef8d-1395aba0059c,METROW-f498eb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,DIAGNOSIS,coronary artery disease
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,DIAGNOSIS,severe anxiety with panic features
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Clopidogrel 75 MG Oral Tablet
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Simvastatin 20 MG Oral Tablet
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+1426480f-ccc7-2393-072d-afa1df03bc87,METROW-f498eb,DIAGNOSIS,a sinus infection
+1426480f-ccc7-2393-072d-afa1df03bc87,METROW-f498eb,DIAGNOSIS,a sinus infection
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,DIAGNOSIS,gum inflammation
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-eaf9-8fd9f528351a,METROW-f498eb,DIAGNOSIS,gingivitis
+1426480f-ccc7-2393-eaf9-8fd9f528351a,METROW-f498eb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,DIAGNOSIS,laceration - injury
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,DIAGNOSIS,laceration - injury
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,DIAGNOSIS,laceration of thigh
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,DIAGNOSIS,laceration - injury
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,DIAGNOSIS,laceration - injury
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,DIAGNOSIS,laceration of hand
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,DIAGNOSIS,gingivitis
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-9eb2-14cfef2023ba,METROW-f498eb,DIAGNOSIS,gingivitis
+1426480f-ccc7-2393-9eb2-14cfef2023ba,METROW-f498eb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+1426480f-ccc7-2393-b0b5-966fe4aad8ee,METROW-f498eb,DIAGNOSIS,acute viral pharyngitis
+1426480f-ccc7-2393-b0b5-966fe4aad8ee,METROW-f498eb,DIAGNOSIS,acute viral pharyngitis
+1426480f-ccc7-2393-1dff-3d15e6fd3ea6,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-1dff-3d15e6fd3ea6,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-0803-4519355e891a,METROW-f498eb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+1426480f-ccc7-2393-7eab-22ee566b8fd8,METROW-f498eb,MEDICATION,lisinopril 10 MG Oral Tablet
+1426480f-ccc7-2393-7eab-22ee566b8fd8,METROW-f498eb,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+1426480f-ccc7-2393-0b9e-1f2847df7759,METROW-f498eb,DIAGNOSIS,gum disease
+1426480f-ccc7-2393-0b9e-1f2847df7759,METROW-f498eb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+afb99eee-0bd5-8853-f8a5-482b91ef8676,METROW-1bc0a3,DIAGNOSIS,gingivitis
+46fcc34a-97a1-f038-e100-75afc3eb2b59,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-3e3d-e5681d587a20,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-b5bb-442ce514d044,METROW-c414c1,DIAGNOSIS,gingivitis
+46fcc34a-97a1-f038-b5bb-442ce514d044,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-d193-226822c2b206,METROW-c414c1,DIAGNOSIS,gum inflammation
+46fcc34a-97a1-f038-d193-226822c2b206,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-94de-709570a0e6ad,METROW-c414c1,DIAGNOSIS,gingivitis
+46fcc34a-97a1-f038-94de-709570a0e6ad,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-6bcf-83aaefd136d9,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-ea5f-befb62c6a10d,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-440f-d5968d40d953,METROW-c414c1,DIAGNOSIS,gum inflammation
+46fcc34a-97a1-f038-440f-d5968d40d953,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-d625-857794e18e71,METROW-c414c1,DIAGNOSIS,gum inflammation
+46fcc34a-97a1-f038-d625-857794e18e71,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-f0c2-bbc4ad58eb48,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-7ddb-8f7b34964e31,METROW-c414c1,DIAGNOSIS,gum inflammation
+46fcc34a-97a1-f038-7ddb-8f7b34964e31,METROW-c414c1,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+6c4283c9-228b-2774-2eb7-5438fa1a67bf,METROW-c330ba,DIAGNOSIS,acute bacterial sinusitis
+6c4283c9-228b-2774-2eb7-5438fa1a67bf,METROW-c330ba,DIAGNOSIS,long-standing sinus infection
+6c4283c9-228b-2774-6722-5d93ecde9b63,METROW-c330ba,DIAGNOSIS,body mass index 40+ - severely obese
+6c4283c9-228b-2774-33eb-9530ace867be,METROW-c330ba,DIAGNOSIS,acute viral pharyngitis
+6c4283c9-228b-2774-33eb-9530ace867be,METROW-c330ba,DIAGNOSIS,a sore throat
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,DIAGNOSIS,borderline blood sugar
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,DIAGNOSIS,anemia
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,DIAGNOSIS,gingivitis
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,DIAGNOSIS,a low blood count
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,MEDICATION,ferrous sulfate 325 MG Oral Tablet
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,MEDICATION,Vitamin B12 5 MG/ML Injectable Solution
+6c4283c9-228b-2774-120c-a8dad592b537,METROW-c330ba,DIAGNOSIS,gingivitis
+6c4283c9-228b-2774-120c-a8dad592b537,METROW-c330ba,DIAGNOSIS,gingival disease
+9c26986a-d81d-62f0-9319-d9ec7c28f0dd,METROW-d2f872,DIAGNOSIS,gingivitis
+9c26986a-d81d-62f0-ced6-1fdd19ea1a7d,METROW-d2f872,DIAGNOSIS,gingivitis
+9c26986a-d81d-62f0-b5da-a7003996997d,METROW-d2f872,DIAGNOSIS,gingivitis

@@ -1,0 +1,331 @@
+{
+  "cluster_id": "60",
+  "hospitals": [
+    "Norfolk County Health Network",
+    "South Shore Health Alliance",
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "2012-06-07",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-06",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2018-07-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2019-07-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2020-07-23",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-24",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-18",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "SOUTHEAST HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-11-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-11-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bone",
+          "canonical": "bone",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-11-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-11-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-09T01:47:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of ankle (disorder)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-17T01:11:59Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-17T01:11:59Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-04",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-14",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-06-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-06-11T01:11:59Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-06-11T01:11:59Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cystitis",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-24"
+        }
+      ]
+    },
+    {
+      "date": "2023-09-23",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "fect",
+          "canonical": "fect",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ciprofloxacin",
+          "canonical": "ciprofloxacin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-24T17:40:47Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-29",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-21",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Educated",
+          "canonical": "Educated",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "high school",
+          "canonical": "high school",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ethinyl Estradiol",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norelgestromin",
+          "canonical": "norelgestromin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "SYMPTOM",
+      "canonical": "Severe anxiety (panic)",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute infective cystitis",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

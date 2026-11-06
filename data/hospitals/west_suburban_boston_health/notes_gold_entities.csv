@@ -1,0 +1,465 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+8b9df7af-24b3-66ee-bf90-f3660887778c,WEST_S-0d961f,DIAGNOSIS,gingivitis
+87f7ad7b-85f9-d26d-2738-9080392bfe67,WEST_S-db5bad,DIAGNOSIS,complete miscarriage
+87f7ad7b-85f9-d26d-2738-9080392bfe67,WEST_S-db5bad,DIAGNOSIS,past pregnancy history of miscarriage
+87f7ad7b-85f9-d26d-98dd-55637e225cfe,WEST_S-db5bad,DIAGNOSIS,obesity (BMI 30+)
+87f7ad7b-85f9-d26d-528c-75a0a272f300,WEST_S-db5bad,DIAGNOSIS,impacted molars
+87f7ad7b-85f9-d26d-528c-75a0a272f300,WEST_S-db5bad,DIAGNOSIS,impacted molars
+87f7ad7b-85f9-d26d-4cad-f4f86bd71724,WEST_S-db5bad,MEDICATION,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]
+87f7ad7b-85f9-d26d-1d74-1aac2639cbc8,WEST_S-db5bad,MEDICATION,Etonogestrel 68 MG Drug Implant
+87f7ad7b-85f9-d26d-8404-84e3b121240b,WEST_S-db5bad,DIAGNOSIS,appendicitis
+87f7ad7b-85f9-d26d-8404-84e3b121240b,WEST_S-db5bad,DIAGNOSIS,appendicitis
+87f7ad7b-85f9-d26d-2bc9-54896a9dc2e4,WEST_S-db5bad,DIAGNOSIS,appendicitis
+87f7ad7b-85f9-d26d-2bc9-54896a9dc2e4,WEST_S-db5bad,DIAGNOSIS,history of appendectomy
+87f7ad7b-85f9-d26d-308d-3c022a1a32d5,WEST_S-db5bad,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+87f7ad7b-85f9-d26d-8fd2-ceda10957c9c,WEST_S-db5bad,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+87f7ad7b-85f9-d26d-5832-02f6b7a712d7,WEST_S-db5bad,DIAGNOSIS,gingivitis
+87f7ad7b-85f9-d26d-2a4e-d117289c562c,WEST_S-db5bad,DIAGNOSIS,gingivitis
+87f7ad7b-85f9-d26d-2a4e-d117289c562c,WEST_S-db5bad,DIAGNOSIS,gingival disease
+87f7ad7b-85f9-d26d-e330-a68f417ab6e4,WEST_S-db5bad,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,cough
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,sore throat
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,fatigue
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,dyspnea
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,wheezing
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,fever
+87f7ad7b-85f9-d26d-2b6f-2ff581d9f5d4,WEST_S-db5bad,DIAGNOSIS,disease caused by severe acute respiratory syndrome coronavirus 2
+87f7ad7b-85f9-d26d-5f08-f4398ac29a86,WEST_S-db5bad,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,DIAGNOSIS,essential hypertension
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,MEDICATION,lisinopril 10 MG Oral Tablet
+87f7ad7b-85f9-d26d-4fbd-b31201c4ee13,WEST_S-db5bad,MEDICATION,lisinopril 10 MG Oral Tablet
+87f7ad7b-85f9-d26d-e0dd-4693ca635e6b,WEST_S-db5bad,DIAGNOSIS,essential hypertension
+87f7ad7b-85f9-d26d-e0dd-4693ca635e6b,WEST_S-db5bad,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+87f7ad7b-85f9-d26d-b7c2-0d595a4f6917,WEST_S-db5bad,DIAGNOSIS,high blood pressure
+87f7ad7b-85f9-d26d-8751-b1e329116ba7,WEST_S-db5bad,DIAGNOSIS,essential hypertension
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,DIAGNOSIS,gingivitis
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+87f7ad7b-85f9-d26d-09ee-5e327026a48e,WEST_S-db5bad,MEDICATION,lisinopril 10 MG Oral Tablet
+87f7ad7b-85f9-d26d-8968-938d7d6962f9,WEST_S-db5bad,DIAGNOSIS,gingivitis
+87f7ad7b-85f9-d26d-8968-938d7d6962f9,WEST_S-db5bad,DIAGNOSIS,loose dental filling
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,DIAGNOSIS,gingivitis
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+87f7ad7b-85f9-d26d-b61b-88b4a390193b,WEST_S-db5bad,MEDICATION,lisinopril 10 MG Oral Tablet
+87f7ad7b-85f9-d26d-8ed1-78321688f54b,WEST_S-db5bad,DIAGNOSIS,gum inflammation
+87f7ad7b-85f9-d26d-8ed1-78321688f54b,WEST_S-db5bad,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+87f7ad7b-85f9-d26d-42fa-0b23756aa084,WEST_S-db5bad,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+87f7ad7b-85f9-d26d-42fa-0b23756aa084,WEST_S-db5bad,MEDICATION,lisinopril 10 MG Oral Tablet
+87f7ad7b-85f9-d26d-cf1a-95b514289d63,WEST_S-db5bad,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+f5749532-3295-ad01-e596-ecdf3cf1e767,WEST_S-2e8bad,DIAGNOSIS,prediabetes
+f5749532-3295-ad01-e596-ecdf3cf1e767,WEST_S-2e8bad,DIAGNOSIS,anemia
+f5749532-3295-ad01-ff01-45763dd7c52b,WEST_S-2e8bad,DIAGNOSIS,a low blood count
+f5749532-3295-ad01-ff01-45763dd7c52b,WEST_S-2e8bad,MEDICATION,ferrous sulfate 325 MG Oral Tablet
+f5749532-3295-ad01-f559-54b5bf1bdefd,WEST_S-2e8bad,DIAGNOSIS,significant weight gain
+f5749532-3295-ad01-b198-0b8422f92d43,WEST_S-2e8bad,DIAGNOSIS,loss of teeth
+f5749532-3295-ad01-b198-0b8422f92d43,WEST_S-2e8bad,DIAGNOSIS,loss of teeth
+f5749532-3295-ad01-c53e-0cfd46599b2c,WEST_S-2e8bad,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+f5749532-3295-ad01-0f8c-1aea90e943c6,WEST_S-2e8bad,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+f5749532-3295-ad01-f3bc-407311274bf6,WEST_S-2e8bad,MEDICATION,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+f5749532-3295-ad01-c495-dc0a50f64d58,WEST_S-2e8bad,DIAGNOSIS,a sinus infection
+f5749532-3295-ad01-c495-dc0a50f64d58,WEST_S-2e8bad,DIAGNOSIS,viral sinusitis
+f5749532-3295-ad01-0103-e324fc633aff,WEST_S-2e8bad,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+f5749532-3295-ad01-5d0e-c3905bcb60fe,WEST_S-2e8bad,MEDICATION,Etonogestrel 68 MG Drug Implant
+f5749532-3295-ad01-85bf-2ba1c9e089e2,WEST_S-2e8bad,MEDICATION,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]
+f5749532-3295-ad01-7a44-711db61d3a16,WEST_S-2e8bad,DIAGNOSIS,gum inflammation
+f5749532-3295-ad01-eb9d-d574a10d9f8e,WEST_S-2e8bad,DIAGNOSIS,gum inflammation
+f5749532-3295-ad01-eb9d-d574a10d9f8e,WEST_S-2e8bad,DIAGNOSIS,gingival disease
+f5749532-3295-ad01-eb9d-d574a10d9f8e,WEST_S-2e8bad,DIAGNOSIS,primary dental caries
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,DIAGNOSIS,streptococcal sore throat
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,DIAGNOSIS,streptococcal sore throat
+f5749532-3295-ad01-ad12-bd0e89f74c09,WEST_S-2e8bad,MEDICATION,Penicillin V Potassium 500 MG Oral Tablet
+f5749532-3295-ad01-493d-dffc15d5dae5,WEST_S-2e8bad,DIAGNOSIS,loss of teeth
+f5749532-3295-ad01-4142-7c51d7bba5be,WEST_S-2e8bad,DIAGNOSIS,loss of teeth
+f5749532-3295-ad01-61e6-c7911e74323d,WEST_S-2e8bad,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+f5749532-3295-ad01-b7a2-ddd897c9e7da,WEST_S-2e8bad,DIAGNOSIS,gum inflammation
+f5749532-3295-ad01-f7b3-590b37932e3b,WEST_S-2e8bad,DIAGNOSIS,gingivitis
+f5749532-3295-ad01-f7b3-590b37932e3b,WEST_S-2e8bad,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+f5749532-3295-ad01-8601-92ba8138d033,WEST_S-2e8bad,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+37549f60-b5a3-69cd-1f2b-5b0e1daa6e75,WEST_S-41bc86,DIAGNOSIS,contact dermatitis
+37549f60-b5a3-69cd-1f2b-5b0e1daa6e75,WEST_S-41bc86,MEDICATION,Hydrocortisone 10 MG/ML Topical Cream
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,DIAGNOSIS,allergic disposition
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,MEDICATION,Fexofenadine hydrochloride 60 MG Oral Tablet
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+37549f60-b5a3-69cd-bd30-c7a0b0133ccf,WEST_S-41bc86,ALLERGY,Allergic disposition
+37549f60-b5a3-69cd-2d72-8965f27ddcc9,WEST_S-41bc86,DIAGNOSIS,tubal pregnancy
+37549f60-b5a3-69cd-2d72-8965f27ddcc9,WEST_S-41bc86,DIAGNOSIS,past pregnancy history of miscarriage
+37549f60-b5a3-69cd-1bd9-1134287ee64f,WEST_S-41bc86,DIAGNOSIS,prediabetes
+37549f60-b5a3-69cd-1bd9-1134287ee64f,WEST_S-41bc86,DIAGNOSIS,a low blood count
+37549f60-b5a3-69cd-472b-bbfa6ccfe9f8,WEST_S-41bc86,MEDICATION,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+37549f60-b5a3-69cd-ad4a-2091412653c2,WEST_S-41bc86,DIAGNOSIS,gum inflammation
+37549f60-b5a3-69cd-f0d0-8b874531a764,WEST_S-41bc86,DIAGNOSIS,viral sinusitis
+37549f60-b5a3-69cd-f0d0-8b874531a764,WEST_S-41bc86,DIAGNOSIS,viral sinusitis
+37549f60-b5a3-69cd-6f05-913e40a20748,WEST_S-41bc86,DIAGNOSIS,gum inflammation
+37549f60-b5a3-69cd-6f05-913e40a20748,WEST_S-41bc86,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+37549f60-b5a3-69cd-4ea5-4f85bef1e645,WEST_S-41bc86,MEDICATION,1 ML medroxyprogesterone acetate 150 MG/ML Injection
+37549f60-b5a3-69cd-8b07-510c222fe7c5,WEST_S-41bc86,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+37549f60-b5a3-69cd-cbc9-c5faab358567,WEST_S-41bc86,MEDICATION,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]
+37549f60-b5a3-69cd-a515-63877cb9e999,WEST_S-41bc86,DIAGNOSIS,acute viral pharyngitis
+37549f60-b5a3-69cd-a515-63877cb9e999,WEST_S-41bc86,DIAGNOSIS,a sore throat
+37549f60-b5a3-69cd-a580-8fb7eeb38c45,WEST_S-41bc86,MEDICATION,1 ML medroxyprogesterone acetate 150 MG/ML Injection
+37549f60-b5a3-69cd-ea6a-57bed1c3fe64,WEST_S-41bc86,MEDICATION,levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]
+37549f60-b5a3-69cd-4544-25d68a7bade2,WEST_S-41bc86,MEDICATION,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]
+37549f60-b5a3-69cd-746c-025c76449e91,WEST_S-41bc86,DIAGNOSIS,gingivitis
+37549f60-b5a3-69cd-af28-26d4f3ff0312,WEST_S-41bc86,DIAGNOSIS,gingivitis
+37549f60-b5a3-69cd-914b-f940a59de94c,WEST_S-41bc86,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+37549f60-b5a3-69cd-ae79-c9a9fc0a286b,WEST_S-41bc86,DIAGNOSIS,significant weight gain
+37549f60-b5a3-69cd-5871-347b884fd7e4,WEST_S-41bc86,DIAGNOSIS,a sore throat
+37549f60-b5a3-69cd-5871-347b884fd7e4,WEST_S-41bc86,DIAGNOSIS,acute viral pharyngitis
+37549f60-b5a3-69cd-cae0-419093807284,WEST_S-41bc86,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+3c0e60c4-176e-2c4c-1dcb-16fb8f38bd6a,WEST_S-3263d3,DIAGNOSIS,ongoing pain
+3c0e60c4-176e-2c4c-1dcb-16fb8f38bd6a,WEST_S-3263d3,DIAGNOSIS,chronic pain
+3c0e60c4-176e-2c4c-349f-d1d329fb6404,WEST_S-3263d3,DIAGNOSIS,hyperlipidemia
+3c0e60c4-176e-2c4c-349f-d1d329fb6404,WEST_S-3263d3,DIAGNOSIS,significant weight gain
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,DIAGNOSIS,high blood pressure
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,DIAGNOSIS,gingivitis
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,MEDICATION,lisinopril 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-ea57-28f16fd723dc,WEST_S-3263d3,MEDICATION,lisinopril 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,DIAGNOSIS,laceration - injury
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,DIAGNOSIS,laceration - injury
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,DIAGNOSIS,laceration of forearm
+3c0e60c4-176e-2c4c-6d8a-bbe10fc064a7,WEST_S-3263d3,MEDICATION,Ibuprofen 200 MG Oral Tablet
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,MEDICATION,lisinopril 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-8cb3-d574b01c246e,WEST_S-3263d3,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,DIAGNOSIS,severe anxiety with panic features
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,MEDICATION,lisinopril 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-2615-9d62c6bc29cf,WEST_S-3263d3,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,DIAGNOSIS,coronary artery disease
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,lisinopril 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,Clopidogrel 75 MG Oral Tablet
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,Simvastatin 20 MG Oral Tablet
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+3c0e60c4-176e-2c4c-cc5c-7df9d26e2c23,WEST_S-3263d3,MEDICATION,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,MEDICATION,lisinopril 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-5a79-4efee6e0af4a,WEST_S-3263d3,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,MEDICATION,lisinopril 10 MG Oral Tablet
+3c0e60c4-176e-2c4c-86de-10f3d9c2cc0c,WEST_S-3263d3,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+f6745f8a-8107-443e-96a4-c3109911c436,WEST_S-64e1c9,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+f6745f8a-8107-443e-96a4-c3109911c436,WEST_S-64e1c9,MEDICATION,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+f6745f8a-8107-443e-2249-0b4b49af0630,WEST_S-64e1c9,DIAGNOSIS,allergic disposition
+f6745f8a-8107-443e-2249-0b4b49af0630,WEST_S-64e1c9,ALLERGY,Sulfamethoxazole / Trimethoprim
+f6745f8a-8107-443e-b55f-4877d3e97b47,WEST_S-64e1c9,DIAGNOSIS,borderline blood sugar
+f6745f8a-8107-443e-cfbb-51379f5f4a07,WEST_S-64e1c9,DIAGNOSIS,anemia
+f6745f8a-8107-443e-402e-d236ef71aa79,WEST_S-64e1c9,DIAGNOSIS,a low blood count
+f6745f8a-8107-443e-402e-d236ef71aa79,WEST_S-64e1c9,MEDICATION,Vitamin B12 5 MG/ML Injectable Solution
+f6745f8a-8107-443e-61ef-3c986a64b965,WEST_S-64e1c9,DIAGNOSIS,obesity (BMI 30+)
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,DIAGNOSIS,localized  primary osteoarthritis of the hand
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,DIAGNOSIS,localized  primary osteoarthritis of the hand
+f6745f8a-8107-443e-424f-786e6c6663ab,WEST_S-64e1c9,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+f6745f8a-8107-443e-7a1d-858797793b5a,WEST_S-64e1c9,DIAGNOSIS,ongoing pain
+f6745f8a-8107-443e-7a1d-858797793b5a,WEST_S-64e1c9,DIAGNOSIS,chronic pain
+f6745f8a-8107-443e-7a1d-858797793b5a,WEST_S-64e1c9,DIAGNOSIS,chronic low back pain
+f6745f8a-8107-443e-e78d-3fe6ad1ed010,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-cbc1-9f942a0dee50,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-cbc1-9f942a0dee50,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-52bc-16a1d5b3f61e,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-52bc-16a1d5b3f61e,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-d52c-4d62d23fce8e,WEST_S-64e1c9,DIAGNOSIS,gum inflammation
+f6745f8a-8107-443e-4155-4c198f5b983f,WEST_S-64e1c9,DIAGNOSIS,gingivitis
+f6745f8a-8107-443e-4155-4c198f5b983f,WEST_S-64e1c9,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+f6745f8a-8107-443e-dcf2-5f70e2a2369e,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-dcf2-5f70e2a2369e,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-c8f2-de5663c4d7ca,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-c8f2-de5663c4d7ca,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-a26f-34eef06e073a,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-a26f-34eef06e073a,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-d096-9242a6171347,WEST_S-64e1c9,DIAGNOSIS,a middle-ear infection
+f6745f8a-8107-443e-d096-9242a6171347,WEST_S-64e1c9,DIAGNOSIS,a middle-ear infection
+f6745f8a-8107-443e-d096-9242a6171347,WEST_S-64e1c9,MEDICATION,Amoxicillin 250 MG Oral Capsule
+f6745f8a-8107-443e-97e8-bc81256b6e0b,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-97e8-bc81256b6e0b,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,DIAGNOSIS,acute bronchitis
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,DIAGNOSIS,acute bronchitis
+f6745f8a-8107-443e-9e1a-a25902ec9e8e,WEST_S-64e1c9,MEDICATION,Acetaminophen 325 MG Oral Tablet
+f6745f8a-8107-443e-fc1d-8ead3df1f308,WEST_S-64e1c9,DIAGNOSIS,fractured dental filling
+f6745f8a-8107-443e-45e5-8e9615f97844,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-45e5-8e9615f97844,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,DIAGNOSIS,acute bronchitis
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,DIAGNOSIS,acute bronchitis
+f6745f8a-8107-443e-e8bc-4f48bc182f4c,WEST_S-64e1c9,MEDICATION,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+f6745f8a-8107-443e-fe7a-32b9fd330626,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-fe7a-32b9fd330626,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-4d0e-2bb8614839ae,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-4d0e-2bb8614839ae,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-dab7-edfd666a042a,WEST_S-64e1c9,DIAGNOSIS,a sinus infection
+f6745f8a-8107-443e-dab7-edfd666a042a,WEST_S-64e1c9,DIAGNOSIS,a sinus infection
+f6745f8a-8107-443e-a06a-e08bf3292dd8,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-a06a-e08bf3292dd8,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-ec75-7f98d40c4e75,WEST_S-64e1c9,DIAGNOSIS,gingivitis
+f6745f8a-8107-443e-1b33-f84b54b63091,WEST_S-64e1c9,DIAGNOSIS,hyperlipidemia
+f6745f8a-8107-443e-1b33-f84b54b63091,WEST_S-64e1c9,MEDICATION,Simvastatin 10 MG Oral Tablet
+f6745f8a-8107-443e-1187-788f2ff640da,WEST_S-64e1c9,DIAGNOSIS,gingivitis
+f6745f8a-8107-443e-1187-788f2ff640da,WEST_S-64e1c9,DIAGNOSIS,gum disease
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,MEDICATION,aspirin 81 MG Oral Capsule [Vazalore]
+0f3d04a2-f42e-1429-a8d7-a034ddadbbf8,WEST_S-a95d7a,MEDICATION,Alendronic acid 10 MG Oral Tablet
+ad48e669-959c-b6f8-71a5-35835fc049c9,WEST_S-40cf7b,DIAGNOSIS,gingivitis
+f870c432-0887-125e-a238-4b94934775c3,WEST_S-40a7b4,DIAGNOSIS,prediabetes
+f870c432-0887-125e-df49-3b5b9f441b70,WEST_S-40a7b4,DIAGNOSIS,a low blood count
+f870c432-0887-125e-828d-fc27d192607b,WEST_S-40a7b4,DIAGNOSIS,anemia
+f870c432-0887-125e-828d-fc27d192607b,WEST_S-40a7b4,MEDICATION,Vitamin B12 5 MG/ML Injectable Solution
+f870c432-0887-125e-62a8-a758fa4cc4c9,WEST_S-40a7b4,DIAGNOSIS,sleep disorder
+f870c432-0887-125e-62a8-a758fa4cc4c9,WEST_S-40a7b4,DIAGNOSIS,sleep disorder
+f870c432-0887-125e-46ec-a77f360112e2,WEST_S-40a7b4,DIAGNOSIS,obesity (BMI 30+)
+f870c432-0887-125e-b7aa-5db8b8675b44,WEST_S-40a7b4,DIAGNOSIS,sleep disorder
+f870c432-0887-125e-b7aa-5db8b8675b44,WEST_S-40a7b4,DIAGNOSIS,sleep apnea
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,DIAGNOSIS,coronary artery disease
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,MEDICATION,Clopidogrel 75 MG Oral Tablet
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,MEDICATION,Simvastatin 20 MG Oral Tablet
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,MEDICATION,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+f870c432-0887-125e-ad37-d73187995692,WEST_S-40a7b4,MEDICATION,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+f870c432-0887-125e-f7a4-31e2f362ace5,WEST_S-40a7b4,DIAGNOSIS,ongoing pain
+f870c432-0887-125e-f7a4-31e2f362ace5,WEST_S-40a7b4,DIAGNOSIS,ongoing pain
+f870c432-0887-125e-f7a4-31e2f362ace5,WEST_S-40a7b4,DIAGNOSIS,chronic low back pain
+f870c432-0887-125e-fd20-3c261f3a8696,WEST_S-40a7b4,DIAGNOSIS,acute viral pharyngitis
+f870c432-0887-125e-fd20-3c261f3a8696,WEST_S-40a7b4,DIAGNOSIS,acute viral pharyngitis
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,DIAGNOSIS,a sinus infection
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,DIAGNOSIS,a sinus infection
+f870c432-0887-125e-ee4c-a5f4e1933a7b,WEST_S-40a7b4,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+f870c432-0887-125e-dd9b-15c5b57a67b9,WEST_S-40a7b4,DIAGNOSIS,gingival disease
+f870c432-0887-125e-dd9b-15c5b57a67b9,WEST_S-40a7b4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+f870c432-0887-125e-79b7-e73ee42dee32,WEST_S-40a7b4,DIAGNOSIS,hyperlipidemia
+f870c432-0887-125e-d46b-f29d77d6065b,WEST_S-40a7b4,DIAGNOSIS,hyperlipidemia
+f870c432-0887-125e-d46b-f29d77d6065b,WEST_S-40a7b4,MEDICATION,Simvastatin 10 MG Oral Tablet
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,DIAGNOSIS,a sinus infection
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,DIAGNOSIS,viral sinusitis
+f870c432-0887-125e-4c1e-e24d5139678c,WEST_S-40a7b4,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+f870c432-0887-125e-25d9-4df1bdc8ff70,WEST_S-40a7b4,DIAGNOSIS,hyperlipidemia
+f870c432-0887-125e-25d9-4df1bdc8ff70,WEST_S-40a7b4,MEDICATION,Simvastatin 10 MG Oral Tablet
+f870c432-0887-125e-6431-dd81bdb5beb0,WEST_S-40a7b4,DIAGNOSIS,hyperlipidemia
+f870c432-0887-125e-6431-dd81bdb5beb0,WEST_S-40a7b4,MEDICATION,Simvastatin 10 MG Oral Tablet
+f870c432-0887-125e-f3f8-a2d5a0da0e58,WEST_S-40a7b4,DIAGNOSIS,a sore throat
+f870c432-0887-125e-f3f8-a2d5a0da0e58,WEST_S-40a7b4,DIAGNOSIS,acute viral pharyngitis
+f870c432-0887-125e-2b3e-86611b389026,WEST_S-40a7b4,DIAGNOSIS,gum inflammation
+f870c432-0887-125e-267a-7a2c01670a07,WEST_S-40a7b4,DIAGNOSIS,hyperlipidemia
+f870c432-0887-125e-267a-7a2c01670a07,WEST_S-40a7b4,MEDICATION,Simvastatin 10 MG Oral Tablet
+f870c432-0887-125e-8c27-427465be86e4,WEST_S-40a7b4,DIAGNOSIS,gum inflammation
+f870c432-0887-125e-8c27-427465be86e4,WEST_S-40a7b4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+f870c432-0887-125e-63f1-7bf0366caece,WEST_S-40a7b4,DIAGNOSIS,gum inflammation
+f870c432-0887-125e-4f0a-c9d6f0fe487d,WEST_S-40a7b4,DIAGNOSIS,hyperlipidemia
+f870c432-0887-125e-4f0a-c9d6f0fe487d,WEST_S-40a7b4,MEDICATION,Simvastatin 10 MG Oral Tablet
+f870c432-0887-125e-1ec8-5770663fb1c4,WEST_S-40a7b4,DIAGNOSIS,gingivitis
+f870c432-0887-125e-1ec8-5770663fb1c4,WEST_S-40a7b4,DIAGNOSIS,gingival disease
+f870c432-0887-125e-2acc-c9c0584b42bd,WEST_S-40a7b4,DIAGNOSIS,gingivitis
+f870c432-0887-125e-d547-16d4ec3a8843,WEST_S-40a7b4,DIAGNOSIS,hyperlipidemia
+f870c432-0887-125e-d547-16d4ec3a8843,WEST_S-40a7b4,MEDICATION,Simvastatin 10 MG Oral Tablet
+f870c432-0887-125e-8223-d5ebf72a3ac2,WEST_S-40a7b4,DIAGNOSIS,gum inflammation
+4be6b5fb-2a19-943a-27ae-63c4bc9f0615,WEST_S-c2c0e8,DIAGNOSIS,borderline blood sugar
+4be6b5fb-2a19-943a-f306-80ae58168c70,WEST_S-c2c0e8,DIAGNOSIS,anemia
+4be6b5fb-2a19-943a-4d00-62295456e582,WEST_S-c2c0e8,DIAGNOSIS,sinusitis
+4be6b5fb-2a19-943a-4d00-62295456e582,WEST_S-c2c0e8,DIAGNOSIS,chronic sinusitis
+4be6b5fb-2a19-943a-8730-bee21a2213fa,WEST_S-c2c0e8,DIAGNOSIS,gum inflammation
+4be6b5fb-2a19-943a-9970-f8fcede2d4fb,WEST_S-c2c0e8,DIAGNOSIS,gingivitis
+4be6b5fb-2a19-943a-9970-f8fcede2d4fb,WEST_S-c2c0e8,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+4be6b5fb-2a19-943a-335d-39af66b944fc,WEST_S-c2c0e8,DIAGNOSIS,a chest cold
+4be6b5fb-2a19-943a-335d-39af66b944fc,WEST_S-c2c0e8,DIAGNOSIS,acute bronchitis
+4be6b5fb-2a19-943a-335d-39af66b944fc,WEST_S-c2c0e8,MEDICATION,Acetaminophen 325 MG Oral Tablet
+4be6b5fb-2a19-943a-102f-733b295d930c,WEST_S-c2c0e8,DIAGNOSIS,gingivitis
+4be6b5fb-2a19-943a-6dae-6603d173aec5,WEST_S-c2c0e8,DIAGNOSIS,gum inflammation
+4be6b5fb-2a19-943a-6dae-6603d173aec5,WEST_S-c2c0e8,DIAGNOSIS,infection of tooth
+4be6b5fb-2a19-943a-db1e-8b2334b3c388,WEST_S-c2c0e8,DIAGNOSIS,alveolitis of jaw
+4be6b5fb-2a19-943a-db1e-8b2334b3c388,WEST_S-c2c0e8,DIAGNOSIS,alveolitis of jaw
+4be6b5fb-2a19-943a-9144-2ab048490ae9,WEST_S-c2c0e8,DIAGNOSIS,loss of teeth
+4be6b5fb-2a19-943a-9144-2ab048490ae9,WEST_S-c2c0e8,DIAGNOSIS,loss of teeth
+4be6b5fb-2a19-943a-9144-2ab048490ae9,WEST_S-c2c0e8,DIAGNOSIS,torus palatinus
+4be6b5fb-2a19-943a-088b-d34bb22bf353,WEST_S-c2c0e8,DIAGNOSIS,torus palatinus
+4be6b5fb-2a19-943a-a87d-007f2a0c584d,WEST_S-c2c0e8,DIAGNOSIS,loss of teeth
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,DIAGNOSIS,streptococcal sore throat
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,DIAGNOSIS,streptococcal sore throat
+4be6b5fb-2a19-943a-917b-138eb7a5006d,WEST_S-c2c0e8,MEDICATION,Penicillin V Potassium 500 MG Oral Tablet
+4be6b5fb-2a19-943a-4f16-9cef724ab4b3,WEST_S-c2c0e8,DIAGNOSIS,gingivitis
+4be6b5fb-2a19-943a-4018-d9cfcbb22f1d,WEST_S-c2c0e8,DIAGNOSIS,gingivitis
+4be6b5fb-2a19-943a-4018-d9cfcbb22f1d,WEST_S-c2c0e8,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+4be6b5fb-2a19-943a-2ace-532690c135e2,WEST_S-c2c0e8,DIAGNOSIS,a sinus infection
+4be6b5fb-2a19-943a-2ace-532690c135e2,WEST_S-c2c0e8,DIAGNOSIS,a sinus infection
+4be6b5fb-2a19-943a-a993-8db423631e35,WEST_S-c2c0e8,DIAGNOSIS,a sore throat
+4be6b5fb-2a19-943a-a993-8db423631e35,WEST_S-c2c0e8,DIAGNOSIS,a sore throat
+4be6b5fb-2a19-943a-af08-99b19826d7e9,WEST_S-c2c0e8,DIAGNOSIS,a sore throat
+4be6b5fb-2a19-943a-af08-99b19826d7e9,WEST_S-c2c0e8,DIAGNOSIS,a sore throat
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,DIAGNOSIS,sprain (morphologic abnormality)
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,DIAGNOSIS,sprain (morphologic abnormality)
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,DIAGNOSIS,sprain of ankle
+4be6b5fb-2a19-943a-0d27-8af67dfd29df,WEST_S-c2c0e8,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+4be6b5fb-2a19-943a-48ed-3fce02959351,WEST_S-c2c0e8,DIAGNOSIS,panic attacks
+4be6b5fb-2a19-943a-48ed-3fce02959351,WEST_S-c2c0e8,DIAGNOSIS,gum inflammation
+4be6b5fb-2a19-943a-a463-25969b45a17d,WEST_S-c2c0e8,DIAGNOSIS,gingivitis
+4be6b5fb-2a19-943a-68d2-d114893fa8bf,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-68d2-d114893fa8bf,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-a19b-c02467c2e500,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-6e79-26fffd37b2b6,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-9eba-fb3a2ab9ee39,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-90c8-51833a1025cb,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-7c1d-06f4a1fdf354,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-cddd-98f533f3202f,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-7e3d-90de8e621ed5,WEST_S-c2c0e8,DIAGNOSIS,loss of teeth
+4be6b5fb-2a19-943a-de80-dea2da14ace9,WEST_S-c2c0e8,DIAGNOSIS,loss of teeth
+4be6b5fb-2a19-943a-92fb-593c52f01924,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-34de-9713a87e2085,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,DIAGNOSIS,a chest cold
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,DIAGNOSIS,acute bronchitis
+4be6b5fb-2a19-943a-db70-5f30bcb2d304,WEST_S-c2c0e8,MEDICATION,Acetaminophen 325 MG Oral Tablet
+4be6b5fb-2a19-943a-2985-e7955de888d0,WEST_S-c2c0e8,DIAGNOSIS,primary dental caries
+4be6b5fb-2a19-943a-2985-e7955de888d0,WEST_S-c2c0e8,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+4be6b5fb-2a19-943a-d599-cbc44812cad7,WEST_S-c2c0e8,DIAGNOSIS,acute bacterial sinusitis
+4be6b5fb-2a19-943a-a6ba-f19d05e781bf,WEST_S-c2c0e8,DIAGNOSIS,gum inflammation
+4be6b5fb-2a19-943a-6c77-eae28c19c692,WEST_S-c2c0e8,DIAGNOSIS,gum inflammation
+4be6b5fb-2a19-943a-6c77-eae28c19c692,WEST_S-c2c0e8,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+ba47a33b-ffb6-25b9-f3fa-ea6e809a0d93,WEST_S-8b63da,DIAGNOSIS,gingivitis
+ba47a33b-ffb6-25b9-19c7-47eb12ea68f9,WEST_S-8b63da,DIAGNOSIS,gum inflammation
+d309f605-948b-962f-430b-695b4f1e59b4,WEST_S-5116f1,DIAGNOSIS,obesity (BMI 30+)
+d309f605-948b-962f-22ab-02d08a386a33,WEST_S-5116f1,DIAGNOSIS,prediabetes
+d309f605-948b-962f-a238-6cc733821be2,WEST_S-5116f1,DIAGNOSIS,a low blood count
+d309f605-948b-962f-69d1-702a8fdd184d,WEST_S-5116f1,DIAGNOSIS,metabolic syndrome X
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,DIAGNOSIS,gum inflammation
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-67fc-0b12733f6ba5,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-b697-67f8d7e2c62f,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-b697-67f8d7e2c62f,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,DIAGNOSIS,gingivitis
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-25c3-ecca6415c4c7,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-fdeb-fc421f7e8adf,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-fdeb-fc421f7e8adf,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-e455-7698bb43f126,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-e455-7698bb43f126,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-ee7e-65b380f22273,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-ee7e-65b380f22273,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-b739-cc8e762f090a,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-b739-cc8e762f090a,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,DIAGNOSIS,gum inflammation
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-7096-d3364a0d5d46,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,DIAGNOSIS,laceration - injury
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,DIAGNOSIS,laceration - injury
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,DIAGNOSIS,laceration of thigh
+d309f605-948b-962f-bd06-3b1af4e111c9,WEST_S-5116f1,MEDICATION,Ibuprofen 200 MG Oral Tablet
+d309f605-948b-962f-0322-36df06ef3f81,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-0322-36df06ef3f81,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,DIAGNOSIS,gum inflammation
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+d309f605-948b-962f-5f1e-6c724ee1e8f2,WEST_S-5116f1,MEDICATION,lisinopril 10 MG Oral Tablet
+2fb99851-6f31-04a6-4d28-9d8ae64514d4,WEST_S-956ee0,DIAGNOSIS,childhood asthma
+2fb99851-6f31-04a6-195b-654ed0adf1a7,WEST_S-956ee0,DIAGNOSIS,reactive airway disease
+2fb99851-6f31-04a6-4d82-e0de6deb91e4,WEST_S-956ee0,DIAGNOSIS,obesity (BMI 30+)
+2fb99851-6f31-04a6-1db3-62dc1329694b,WEST_S-956ee0,DIAGNOSIS,borderline blood sugar
+2fb99851-6f31-04a6-84d3-cef01e27b250,WEST_S-956ee0,DIAGNOSIS,anemia
+2fb99851-6f31-04a6-17ca-81e0949f3e51,WEST_S-956ee0,DIAGNOSIS,polyp of colon
+2fb99851-6f31-04a6-f1e5-b5e0300f5959,WEST_S-956ee0,DIAGNOSIS,polyp of colon
+2fb99851-6f31-04a6-f1e5-b5e0300f5959,WEST_S-956ee0,DIAGNOSIS,recurrent rectal polyp
+2fb99851-6f31-04a6-8ffc-b70d7783d61e,WEST_S-956ee0,DIAGNOSIS,ongoing pain
+2fb99851-6f31-04a6-8ffc-b70d7783d61e,WEST_S-956ee0,DIAGNOSIS,chronic pain
+2fb99851-6f31-04a6-8ffc-b70d7783d61e,WEST_S-956ee0,DIAGNOSIS,chronic low back pain
+2fb99851-6f31-04a6-8ffc-b70d7783d61e,WEST_S-956ee0,DIAGNOSIS,chronic neck pain
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-dba7-9fd96ce9a1a5,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,DIAGNOSIS,gum inflammation
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-5517-80f33d270d39,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-59fb-e7314435ea01,WEST_S-956ee0,DIAGNOSIS,gingivitis
+2fb99851-6f31-04a6-59fb-e7314435ea01,WEST_S-956ee0,DIAGNOSIS,fractured dental filling
+2fb99851-6f31-04a6-59fb-e7314435ea01,WEST_S-956ee0,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-0abc-d8e024627c42,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-3737-e69ff0b35080,WEST_S-956ee0,DIAGNOSIS,reactive airway disease
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-48a7-b803821336b7,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-f0ea-ad10d1035d81,WEST_S-956ee0,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2fb99851-6f31-04a6-6c34-51e2499c0960,WEST_S-956ee0,DIAGNOSIS,sinusitis
+2fb99851-6f31-04a6-6c34-51e2499c0960,WEST_S-956ee0,DIAGNOSIS,sinusitis
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-b711-b50c762ac16e,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-a75d-f5733c6fcc13,WEST_S-956ee0,DIAGNOSIS,reactive airway disease
+2fb99851-6f31-04a6-9350-eccafc81f222,WEST_S-956ee0,DIAGNOSIS,asthma
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,DIAGNOSIS,essential hypertension
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,DIAGNOSIS,gum inflammation
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-7d9d-98c0d1f35619,WEST_S-956ee0,MEDICATION,lisinopril 10 MG Oral Tablet
+2fb99851-6f31-04a6-1b48-49e45dc62843,WEST_S-956ee0,DIAGNOSIS,gum inflammation
+2fb99851-6f31-04a6-1b48-49e45dc62843,WEST_S-956ee0,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+2fb99851-6f31-04a6-f9c4-1b6d63d22c23,WEST_S-956ee0,DIAGNOSIS,aortic valve stenosis
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,DIAGNOSIS,metabolic syndrome X
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,lisinopril 10 MG Oral Tablet
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,aspirin 81 MG Oral Capsule [Vazalore]
+2fb99851-6f31-04a6-e967-abe6b39b2153,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-f664-b4e645110d9b,WEST_S-956ee0,DIAGNOSIS,primary dental caries
+2fb99851-6f31-04a6-72dc-6290eb88d561,WEST_S-956ee0,DIAGNOSIS,asthma
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,lisinopril 10 MG Oral Tablet
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,aspirin 81 MG Oral Capsule [Vazalore]
+2fb99851-6f31-04a6-2796-357f4e97ffb1,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-cbc8-701d027e3e39,WEST_S-956ee0,DIAGNOSIS,asthma
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,DIAGNOSIS,gingivitis
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,lisinopril 10 MG Oral Tablet
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,aspirin 81 MG Oral Capsule [Vazalore]
+2fb99851-6f31-04a6-853b-3cb011eacf9a,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-a164-4d4afd7fd165,WEST_S-956ee0,DIAGNOSIS,gum inflammation
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,lisinopril 10 MG Oral Tablet
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,aspirin 81 MG Oral Capsule [Vazalore]
+2fb99851-6f31-04a6-59e4-931bc06a7a0d,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+2fb99851-6f31-04a6-8b95-3d8709bf97f8,WEST_S-956ee0,DIAGNOSIS,reactive airway disease
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,DIAGNOSIS,laceration - injury
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,DIAGNOSIS,laceration - injury
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,DIAGNOSIS,facial laceration
+2fb99851-6f31-04a6-ae35-369a1f3ec38b,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,lisinopril 10 MG Oral Tablet
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,aspirin 81 MG Oral Capsule [Vazalore]
+2fb99851-6f31-04a6-52a1-1d3ccc55cd97,WEST_S-956ee0,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+72b1ca95-c4f0-269d-9831-e98c6b102bf7,WEST_S-ec1bd7,DIAGNOSIS,a chest cold
+72b1ca95-c4f0-269d-98a1-9b4237924389,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-98a1-9b4237924389,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-98a1-9b4237924389,WEST_S-ec1bd7,DIAGNOSIS,a low blood count
+72b1ca95-c4f0-269d-eb15-84232ac8b2b5,WEST_S-ec1bd7,DIAGNOSIS,viral sinusitis
+72b1ca95-c4f0-269d-eb15-84232ac8b2b5,WEST_S-ec1bd7,DIAGNOSIS,a sinus infection
+72b1ca95-c4f0-269d-2a21-fe5958dc07c9,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-08c4-7f78251c3ede,WEST_S-ec1bd7,MEDICATION,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]
+72b1ca95-c4f0-269d-ba08-f20e5f51a30d,WEST_S-ec1bd7,DIAGNOSIS,prediabetes
+72b1ca95-c4f0-269d-14c4-39aff402c875,WEST_S-ec1bd7,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+72b1ca95-c4f0-269d-0ae7-904cdd678803,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-0ae7-904cdd678803,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-5576-a916ff1af9d3,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-d256-1623cdf99214,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-d925-292815595095,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-aa96-4fc5d8c65a0e,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-fe6d-1f774f2b1432,WEST_S-ec1bd7,DIAGNOSIS,a chest cold
+72b1ca95-c4f0-269d-fe6d-1f774f2b1432,WEST_S-ec1bd7,DIAGNOSIS,a chest cold
+72b1ca95-c4f0-269d-fe6d-1f774f2b1432,WEST_S-ec1bd7,MEDICATION,Acetaminophen 325 MG Oral Tablet
+72b1ca95-c4f0-269d-4b65-07082c715606,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-ad69-9d3ccea36c7b,WEST_S-ec1bd7,DIAGNOSIS,gingivitis
+72b1ca95-c4f0-269d-d74b-799a945714bc,WEST_S-ec1bd7,DIAGNOSIS,gum inflammation
+72b1ca95-c4f0-269d-d74b-799a945714bc,WEST_S-ec1bd7,DIAGNOSIS,gum disease
+72b1ca95-c4f0-269d-d74b-799a945714bc,WEST_S-ec1bd7,DIAGNOSIS,primary dental caries
+72b1ca95-c4f0-269d-d74b-799a945714bc,WEST_S-ec1bd7,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+72b1ca95-c4f0-269d-9cf0-b7c9f909a4e8,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-64cf-c59711992dea,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-2547-f42745728802,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-57f2-259b6c5b6558,WEST_S-ec1bd7,DIAGNOSIS,normal pregnancy
+72b1ca95-c4f0-269d-6da4-ee52c093d983,WEST_S-ec1bd7,DIAGNOSIS,history of tubal ligation
+72b1ca95-c4f0-269d-4a53-b002c5161deb,WEST_S-ec1bd7,DIAGNOSIS,acute infective cystitis
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,DIAGNOSIS,acute infective cystitis
+72b1ca95-c4f0-269d-8c50-8f1258c6e9ac,WEST_S-ec1bd7,MEDICATION,nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule
+72b1ca95-c4f0-269d-bbab-751a89fe43ac,WEST_S-ec1bd7,DIAGNOSIS,gingivitis
+72b1ca95-c4f0-269d-9eeb-53ccba3a6a19,WEST_S-ec1bd7,DIAGNOSIS,gum inflammation
+72b1ca95-c4f0-269d-9eeb-53ccba3a6a19,WEST_S-ec1bd7,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+72b1ca95-c4f0-269d-5de3-b7369ab079f6,WEST_S-ec1bd7,DIAGNOSIS,viral sinusitis
+72b1ca95-c4f0-269d-5de3-b7369ab079f6,WEST_S-ec1bd7,DIAGNOSIS,viral sinusitis
+bca1691f-8839-1d66-ba0f-beb476038a1f,WEST_S-971cc7,DIAGNOSIS,alzheimer's disease

@@ -1,0 +1,765 @@
+{
+  "cluster_id": "22",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Merrimack Valley Health Network",
+    "North Central Mass Health"
+  ],
+  "timeline": [
+    {
+      "date": "1994-09-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sinus",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "1996-11-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1998-11-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2002-12-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2005-12-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Stress",
+          "canonical": "Acute respiratory distress syndrome | Respiratory distress",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-05-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Un",
+          "canonical": "Un",
+          "match_method": "unmapped",
+          "outcome": "resolved 2011-12-17"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "lth",
+          "canonical": "lth",
+          "match_method": "unmapped",
+          "outcome": "resolved 2011-12-17"
+        }
+      ]
+    },
+    {
+      "date": "2007-10-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2008-02-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "SUTTON HILL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2008-02-25T11:57:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-12-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2008-12-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2008-12-27T13:17:57Z"
+        }
+      ]
+    },
+    {
+      "date": "2011-04-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2011-12-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2011-12-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2013-03-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2013-04-14",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-04-27T10:46:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "carvedilol",
+          "canonical": "carvedilol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-04-27T10:46:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "losartan potassium",
+          "canonical": "losartan potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-04-27T10:46:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-04-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight",
+          "canonical": "weight",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "carvedilol",
+          "canonical": "carvedilol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-03T10:46:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-03T10:46:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "losartan potassium",
+          "canonical": "losartan potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-03T10:46:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-05-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2013-10-11",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-03T10:46:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-04-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-04-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-09T11:26:14Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-04-20",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-04-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "carvedilol",
+          "canonical": "carvedilol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-05-09T10:46:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-05-09T10:46:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "losartan potassium",
+          "canonical": "losartan potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-05-09T10:46:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-05-09T10:46:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-05-10",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-11",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-12",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-14",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-16",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-17",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-18",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-19",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-21",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-22",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-05-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-28T10:53:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-28T10:53:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-28T10:53:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-28T10:53:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-28T10:53:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-05-28T10:53:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-11-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2014-11-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-11-27T11:57:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-11-27T11:57:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-11-27T11:57:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-11-27T11:57:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-05-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "carvedilol",
+          "canonical": "carvedilol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Furosemide",
+          "canonical": "Furosemide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "losartan potassium",
+          "canonical": "losartan potassium",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-05-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2015-06-06",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sacubitril",
+          "canonical": "sacubitril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "valsartan",
+          "canonical": "valsartan",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-08-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "hospice",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "COMPASSIONATE CARE HOSPICE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "heart",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Chronic congestive heart failure | Ischemic heart disease",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2015-09-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "Chronic congestive heart failure (disorder)",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bacterial sinusitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

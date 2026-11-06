@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# large / third-party / regenerable — see README for how to re-obtain
+demo.mp4
+data/raw/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# personal/coursework-specific, not part of the public project
+Prompts.docx

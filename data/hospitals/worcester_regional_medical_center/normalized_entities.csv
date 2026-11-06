@@ -1,0 +1,194 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,ENTITY_TEXT,CANONICAL,MATCH_METHOD,MATCH_SCORE
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,MEDICATION,Loratadine,Loratadine,fuzzy,1.0
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,MEDICATION,Epinephrine,HR | norepinephrine,ambiguous,1.0
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,ALLERGY,Eggs (edible),Eggs (edible),fuzzy,1.0
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,SYMPTOM,lace,lace,unmapped,0.0
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,SYMPTOM,laceration,Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm,ambiguous,1.0
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+a406f356-c8b4-54ad-9d1b-6ee03f89f93e,WORCES-3330be,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+a406f356-c8b4-54ad-9d1b-6ee03f89f93e,WORCES-3330be,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+a406f356-c8b4-54ad-7a07-bb8616684a01,WORCES-3330be,DIAGNOSIS,bacterial sinus,Acute bacterial sinusitis,fuzzy,1.0
+a406f356-c8b4-54ad-ad37-f72a5994d5fc,WORCES-3330be,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+a406f356-c8b4-54ad-ad37-f72a5994d5fc,WORCES-3330be,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+a406f356-c8b4-54ad-5d7b-f3ed98482704,WORCES-3330be,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,MEDICATION,hala,hala,unmapped,0.0
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-aeca-529a1b69325c,WORCES-edee44,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+edb5a2e3-a981-d33c-aeca-529a1b69325c,WORCES-edee44,MEDICATION,Gel,Gel,unmapped,0.0
+edb5a2e3-a981-d33c-7761-2de1eacea0a1,WORCES-edee44,DIAGNOSIS,sc,sc,unmapped,0.0
+edb5a2e3-a981-d33c-7761-2de1eacea0a1,WORCES-edee44,DIAGNOSIS,sc,sc,unmapped,0.0
+edb5a2e3-a981-d33c-91e4-e5f8bfdb9ee1,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-91e4-e5f8bfdb9ee1,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-36ed-248cba604e6b,WORCES-edee44,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+edb5a2e3-a981-d33c-ead4-704926882bab,WORCES-edee44,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+edb5a2e3-a981-d33c-0a4a-eefa8e77bd28,WORCES-edee44,DIAGNOSIS,pharyng,Acute viral pharyngitis,fuzzy,1.0
+edb5a2e3-a981-d33c-0a4a-eefa8e77bd28,WORCES-edee44,SYMPTOM,sore,sore,unmapped,0.0
+edb5a2e3-a981-d33c-806b-630c57c14a2c,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-806b-630c57c14a2c,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,MEDICATION,Suspension,ML Inhalation Suspension | ML Injectable Suspension | ML Oral Suspension,ambiguous,1.0
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-fc3b-e5ab9c052779,WORCES-edee44,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-56c3-f49aad719878,WORCES-edee44,DIAGNOSIS,viral sinus,Viral sinusitis,fuzzy,1.0
+edb5a2e3-a981-d33c-56c3-f49aad719878,WORCES-edee44,DIAGNOSIS,viral sinusitis,Viral sinusitis,exact_synonym,1.0
+edb5a2e3-a981-d33c-1550-69d7cf0e97ef,WORCES-edee44,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-1415-1eeb1ba4d9b0,WORCES-edee44,DIAGNOSIS,gin,gin,unmapped,0.0
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,DIAGNOSIS,school level,school level,unmapped,0.0
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,MEDICATION,In,In,unmapped,0.0
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+edb5a2e3-a981-d33c-a7a5-045eb7c68d3a,WORCES-edee44,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+edb5a2e3-a981-d33c-0abd-d93e42d5f097,WORCES-edee44,MEDICATION,medroxyprogesterone acetate,medroxyPROGESTERone acetate | medroxyprogesterone acetate,ambiguous,1.0
+edb5a2e3-a981-d33c-e4bd-ec6af8a21173,WORCES-edee44,MEDICATION,budesonide,budesonide,fuzzy,1.0
+edb5a2e3-a981-d33c-e4bd-ec6af8a21173,WORCES-edee44,MEDICATION,albuterol,albuterol,fuzzy,1.0
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+afb99eee-0bd5-8853-1bb6-bb3c78ebf071,WORCES-1a6cdb,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+afb99eee-0bd5-8853-df9b-b6c8b98e761f,WORCES-1a6cdb,DIAGNOSIS,cysti,Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+afb99eee-0bd5-8853-df9b-b6c8b98e761f,WORCES-1a6cdb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+afb99eee-0bd5-8853-85b9-38c13bae933e,WORCES-1a6cdb,DIAGNOSIS,cy,cy,unmapped,0.0
+afb99eee-0bd5-8853-85b9-38c13bae933e,WORCES-1a6cdb,MEDICATION,sulfamethoxazole,sulfamethoxazole,fuzzy,1.0
+afb99eee-0bd5-8853-85b9-38c13bae933e,WORCES-1a6cdb,MEDICATION,trimethoprim,trimethoprim,fuzzy,1.0
+afb99eee-0bd5-8853-4f69-7ce79ea777ff,WORCES-1a6cdb,DIAGNOSIS,concussion injury,Concussion injury of brain,fuzzy,1.0
+afb99eee-0bd5-8853-4f69-7ce79ea777ff,WORCES-1a6cdb,DIAGNOSIS,concussion injury,Concussion injury of brain,fuzzy,1.0
+afb99eee-0bd5-8853-4f69-7ce79ea777ff,WORCES-1a6cdb,DIAGNOSIS,concussion,Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness,ambiguous,1.0
+afb99eee-0bd5-8853-7a30-582aeea4aaa9,WORCES-1a6cdb,SYMPTOM,concussion,Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness,ambiguous,1.0
+afb99eee-0bd5-8853-7a30-582aeea4aaa9,WORCES-1a6cdb,SYMPTOM,loss,loss,unmapped,0.0
+afb99eee-0bd5-8853-bcdd-40e5c43edcd6,WORCES-1a6cdb,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+46fcc34a-97a1-f038-ce5a-a68dbde9c1b7,WORCES-c121ad,SYMPTOM,allergic rhini,Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+46fcc34a-97a1-f038-ce5a-a68dbde9c1b7,WORCES-c121ad,MEDICATION,Terfenadine,Terfenadine,fuzzy,1.0
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,SYMPTOM,allergic disposition,allergic disposition,unmapped,0.0
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,MEDICATION,NDA020800 0.3 ML Epinephrine,NDA,unmapped,0.0
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,ALLERGY,Tree pollen,Tree pollen,fuzzy,1.0
+46fcc34a-97a1-f038-5fa6-f301ae898671,WORCES-c121ad,DIAGNOSIS,mis,mis,unmapped,0.0
+46fcc34a-97a1-f038-5fa6-f301ae898671,WORCES-c121ad,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+46fcc34a-97a1-f038-3016-022093fe87df,WORCES-c121ad,SYMPTOM,pain,pain,unmapped,0.0
+46fcc34a-97a1-f038-8c70-e6130a71adab,WORCES-c121ad,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+46fcc34a-97a1-f038-37c4-96e01dab3dbd,WORCES-c121ad,SYMPTOM,inflammation,inflammation,unmapped,0.0
+46fcc34a-97a1-f038-eb4d-396682727acc,WORCES-c121ad,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-eb4d-396682727acc,WORCES-c121ad,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,MEDICATION,et,et,unmapped,0.0
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,MEDICATION,est,est,unmapped,0.0
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,MEDICATION,norgestimate,norgestimate,fuzzy,1.0
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,MEDICATION,et,et,unmapped,0.0
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,MEDICATION,norgesti,norgestimate,fuzzy,1.0
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,MEDICATION,norgesti,norgestimate,fuzzy,1.0
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,MEDICATION,ness,ness,unmapped,0.0
+46fcc34a-97a1-f038-6407-6e95fa1328c5,WORCES-c121ad,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+46fcc34a-97a1-f038-6407-6e95fa1328c5,WORCES-c121ad,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+46fcc34a-97a1-f038-e16b-fcc656d95b8d,WORCES-c121ad,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+46fcc34a-97a1-f038-0d91-706248ffcf2b,WORCES-c121ad,MEDICATION,Etonogestrel,Etonogestrel | etonogestrel,ambiguous,1.0
+46fcc34a-97a1-f038-bd44-289b75cb8bea,WORCES-c121ad,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+46fcc34a-97a1-f038-e122-e77d0b78d268,WORCES-c121ad,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+46fcc34a-97a1-f038-e122-e77d0b78d268,WORCES-c121ad,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+46fcc34a-97a1-f038-dc38-aec4048893e4,WORCES-c121ad,MEDICATION,et,et,unmapped,0.0
+46fcc34a-97a1-f038-dc38-aec4048893e4,WORCES-c121ad,MEDICATION,et,et,unmapped,0.0
+46fcc34a-97a1-f038-dc38-aec4048893e4,WORCES-c121ad,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+46fcc34a-97a1-f038-eef3-961f5ab34eed,WORCES-c121ad,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,DIAGNOSIS,gingival,Gingival disease,fuzzy,1.0
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+46fcc34a-97a1-f038-771f-2a8271a9c2ed,WORCES-c121ad,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+3314e296-2326-2826-84ae-cbecec394f05,WORCES-c3dcd8,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+3314e296-2326-2826-d6a1-c8ef73dae655,WORCES-c3dcd8,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+3314e296-2326-2826-75f1-6a7627dd938a,WORCES-c3dcd8,DIAGNOSIS,violence,violence,unmapped,0.0
+3314e296-2326-2826-75f1-6a7627dd938a,WORCES-c3dcd8,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+3314e296-2326-2826-75f1-6a7627dd938a,WORCES-c3dcd8,DIAGNOSIS,uses,uses,unmapped,0.0
+3314e296-2326-2826-1b3d-57d3f292f8f9,WORCES-c3dcd8,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,MEDICATION,HYDROcodone Bitartrate,HYDROcodone Bitartrate | Hydrocodone Bitartrate,ambiguous,1.0
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+3314e296-2326-2826-4605-8665a9e0c1f4,WORCES-c3dcd8,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+3314e296-2326-2826-df3a-1d13586a59f0,WORCES-c3dcd8,MEDICATION,nor,nor,unmapped,0.0
+3314e296-2326-2826-df3a-1d13586a59f0,WORCES-c3dcd8,MEDICATION,Jolivet,Jolivet,unmapped,0.0
+3eec36b2-71cc-13c4-2522-946a5cb53deb,WORCES-992abe,SYMPTOM,pain,pain,unmapped,0.0
+3eec36b2-71cc-13c4-2522-946a5cb53deb,WORCES-992abe,SYMPTOM,pain,pain,unmapped,0.0
+3eec36b2-71cc-13c4-4f65-af02ae1e3c0c,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-4f65-af02ae1e3c0c,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-7c3c-b0eb332d661d,WORCES-992abe,MEDICATION,Ethinyl Estradiol,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+3eec36b2-71cc-13c4-7c3c-b0eb332d661d,WORCES-992abe,MEDICATION,norelgestromin,norelgestromin,fuzzy,1.0
+3eec36b2-71cc-13c4-19f3-4977ac4717b5,WORCES-992abe,DIAGNOSIS,violence,violence,unmapped,0.0
+3eec36b2-71cc-13c4-19f3-4977ac4717b5,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-19f3-4977ac4717b5,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-c215-47acb6449985,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-c215-47acb6449985,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,DIAGNOSIS,infect,Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis,ambiguous,1.0
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,DIAGNOSIS,sti,sti,unmapped,0.0
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,DIAGNOSIS,infect,Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis,ambiguous,1.0
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,DIAGNOSIS,cysti,Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,MEDICATION,sulfamethoxazole,sulfamethoxazole,fuzzy,1.0
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,MEDICATION,trimethoprim,trimethoprim,fuzzy,1.0
+3eec36b2-71cc-13c4-da67-3e61882561ea,WORCES-992abe,DIAGNOSIS,infection,Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection,ambiguous,1.0
+3eec36b2-71cc-13c4-da67-3e61882561ea,WORCES-992abe,DIAGNOSIS,cystitis,Acute infective cystitis,fuzzy,1.0
+3eec36b2-71cc-13c4-6142-5c6f0e3cd1d4,WORCES-992abe,MEDICATION,nitrofurantoin,nitrofurantoin macrocrystals | nitrofurantoin monohydrate,ambiguous,1.0
+3eec36b2-71cc-13c4-6142-5c6f0e3cd1d4,WORCES-992abe,MEDICATION,nitrofurantoin,nitrofurantoin macrocrystals | nitrofurantoin monohydrate,ambiguous,1.0
+3eec36b2-71cc-13c4-823d-0a4b7a15b575,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-823d-0a4b7a15b575,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,DIAGNOSIS,coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,DIAGNOSIS,coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,SYMPTOM,loss of,Concussion with loss of consciousness | Concussion with no loss of consciousness | Loss of taste | Loss of teeth,ambiguous,1.0
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,DIAGNOSIS,acute respiratory syndrome coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2,fuzzy,1.0
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,DIAGNOSIS,Part-time employment,Part-time employment,unmapped,0.0
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-7948-ae8ba9939c14,WORCES-992abe,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+3eec36b2-71cc-13c4-4393-31f36dea142a,WORCES-992abe,DIAGNOSIS,viral pharyng,Acute viral pharyngitis,fuzzy,1.0
+3eec36b2-71cc-13c4-4393-31f36dea142a,WORCES-992abe,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+3eec36b2-71cc-13c4-8962-9d2cb102a467,WORCES-992abe,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,SYMPTOM,prediabetes,Prediabetes,exact_synonym,1.0
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,SYMPTOM,an,an,unmapped,0.0
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-2b66-f2b4422c060e,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-2b66-f2b4422c060e,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-3303-086fa59fbf12,WORCES-992abe,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+3eec36b2-71cc-13c4-3303-086fa59fbf12,WORCES-992abe,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+3eec36b2-71cc-13c4-3181-2dd4a5dcda70,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-3181-2dd4a5dcda70,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-f940-f7f7e0157a12,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-f940-f7f7e0157a12,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,SYMPTOM,inflammation,inflammation,unmapped,0.0
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,DIAGNOSIS,time,time,unmapped,0.0
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-69e5-a342dfb25e60,WORCES-992abe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3eec36b2-71cc-13c4-69e5-a342dfb25e60,WORCES-992abe,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+3eec36b2-71cc-13c4-4763-5a64b2fe51a3,WORCES-992abe,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+3eec36b2-71cc-13c4-4fca-05129da5acd7,WORCES-992abe,DIAGNOSIS,mis,mis,unmapped,0.0
+3eec36b2-71cc-13c4-3db5-a0cb7107a12c,WORCES-992abe,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+3eec36b2-71cc-13c4-3db5-a0cb7107a12c,WORCES-992abe,MEDICATION,Er,Er,unmapped,0.0

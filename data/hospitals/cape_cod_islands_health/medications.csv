@@ -1,0 +1,76 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,DESCRIPTION,REASONDESCRIPTION
+7af6b271-f16d-21e1-e187-547120fdd937,CAPE_C-145904,2000-11-23T02:00:37Z,,ferrous sulfate 325 MG Oral Tablet,
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,2016-02-09T22:51:41Z,2017-02-14T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,2016-02-09T22:51:41Z,2017-02-14T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-7541-54e2a158fa89,CAPE_C-145904,2016-12-09T03:32:07Z,2016-12-09T03:32:07Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-d638-82cff51a9fd1,CAPE_C-145904,2017-02-14T22:51:41Z,2017-06-13T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-d638-82cff51a9fd1,CAPE_C-145904,2017-02-14T22:51:41Z,2017-06-13T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-c987-c6878ea047bf,CAPE_C-145904,2017-03-01T01:55:30Z,2017-03-01T01:55:30Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+7af6b271-f16d-21e1-a7d2-2b2575c0b41a,CAPE_C-145904,2017-06-13T22:51:41Z,2018-02-20T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-a7d2-2b2575c0b41a,CAPE_C-145904,2017-06-13T22:51:41Z,2018-02-20T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-c8df-a90991bea1c1,CAPE_C-145904,2017-11-04T03:50:32Z,2017-11-04T03:50:32Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-c4f2-009f322f5452,CAPE_C-145904,2018-02-20T22:51:41Z,2018-11-20T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-c4f2-009f322f5452,CAPE_C-145904,2018-02-20T22:51:41Z,2018-11-20T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-859f-2d6621517acd,CAPE_C-145904,2018-09-30T04:08:31Z,2018-09-30T04:08:31Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-93c5-aec2d8d13e83,CAPE_C-145904,2018-11-20T22:51:41Z,2019-02-26T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-93c5-aec2d8d13e83,CAPE_C-145904,2018-11-20T22:51:41Z,2019-02-26T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-47af-7515011510d7,CAPE_C-145904,2019-02-26T22:51:41Z,2020-03-03T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-47af-7515011510d7,CAPE_C-145904,2019-02-26T22:51:41Z,2020-03-03T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-f027-9e5fdaa3402e,CAPE_C-145904,2019-03-13T01:35:07Z,2019-03-13T01:35:07Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+7af6b271-f16d-21e1-018b-def5e5dac706,CAPE_C-145904,2019-09-25T04:26:06Z,2019-09-25T04:26:06Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-c80a-ca52f5c71f0f,CAPE_C-145904,2020-03-03T22:51:41Z,2021-03-09T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-c80a-ca52f5c71f0f,CAPE_C-145904,2020-03-03T22:51:41Z,2021-03-09T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-aa53-42afca5a1bc7,CAPE_C-145904,2020-09-19T04:44:27Z,2020-09-19T04:44:27Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,2021-03-09T22:51:41Z,2022-01-11T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,2021-03-09T22:51:41Z,2022-01-11T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-3e7b-f7376fcb1e05,CAPE_C-145904,2021-09-14T05:03:12Z,2021-09-14T05:03:12Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-25d1-6a5f11a10317,CAPE_C-145904,2022-01-11T22:51:41Z,2022-01-18T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-25d1-6a5f11a10317,CAPE_C-145904,2022-01-11T22:51:41Z,2022-01-18T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-0428-2e4035069ed3,CAPE_C-145904,2022-02-01T22:51:41Z,2022-02-22T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-0428-2e4035069ed3,CAPE_C-145904,2022-02-01T22:51:41Z,2022-02-22T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-d9e6-5433deba0339,CAPE_C-145904,2022-03-01T22:51:41Z,2022-03-22T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-d9e6-5433deba0339,CAPE_C-145904,2022-03-01T22:51:41Z,2022-03-22T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,2022-03-22T22:51:41Z,2023-03-28T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,2022-03-22T22:51:41Z,2023-03-28T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-538a-ed5b5da35af3,CAPE_C-145904,2022-04-06T01:33:41Z,2022-04-06T01:33:41Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+7af6b271-f16d-21e1-5cbf-92f5a01cf17e,CAPE_C-145904,2022-06-11T05:22:11Z,2022-06-11T05:22:11Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-2765-f562f6fdc015,CAPE_C-145904,2022-12-08T05:40:31Z,2022-12-08T05:40:31Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,2023-03-28T22:51:41Z,2024-04-02T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,2023-03-28T22:51:41Z,2024-04-02T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,2023-04-04T22:51:41Z,,Clopidogrel 75 MG Oral Tablet,
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,2023-04-04T22:51:41Z,,Simvastatin 20 MG Oral Tablet,
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,2023-04-04T22:51:41Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,2023-04-04T22:51:41Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+7af6b271-f16d-21e1-a3fd-225504f884a1,CAPE_C-145904,2023-07-06T05:57:16Z,2023-07-06T05:57:16Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,2024-04-02T22:51:41Z,2025-04-08T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,2024-04-02T22:51:41Z,2025-04-08T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-6c70-9b946bce81e6,CAPE_C-145904,2024-05-31T06:14:24Z,2024-05-31T06:14:24Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-7d75-804b84127c7d,CAPE_C-145904,2024-12-27T06:33:05Z,2024-12-27T06:33:05Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-88a8-e60228cfb046,CAPE_C-145904,2025-04-08T22:51:41Z,2026-04-14T22:51:41Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-88a8-e60228cfb046,CAPE_C-145904,2025-04-08T22:51:41Z,2026-04-14T22:51:41Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+7af6b271-f16d-21e1-1bf8-ab6d17103be3,CAPE_C-145904,2025-10-23T06:49:42Z,2025-10-23T06:49:42Z,tropicamide 5 MG/ML Ophthalmic Solution,
+7af6b271-f16d-21e1-ef7e-4920d39bbcd3,CAPE_C-145904,2026-04-14T22:51:41Z,,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+7af6b271-f16d-21e1-ef7e-4920d39bbcd3,CAPE_C-145904,2026-04-14T22:51:41Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,2019-12-15T05:58:30Z,2019-12-24T01:58:30Z,Penicillin V Potassium 500 MG Oral Tablet,Streptococcal sore throat (disorder)
+3fa46c70-b194-f14c-6d05-922013520839,CAPE_C-7667e7,2020-05-23T05:43:51Z,2020-05-23T05:43:51Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,2022-02-28T03:27:09Z,2022-03-29T03:27:09Z,Ibuprofen 200 MG Oral Tablet,
+8704c44c-8b97-e35a-5b68-55b013d01ae7,CAPE_C-5d1a1d,2016-03-16T17:19:39Z,2017-03-22T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-27fb-ea7689cb7b9c,CAPE_C-5d1a1d,2016-09-02T17:19:39Z,2017-08-28T17:19:39Z,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,
+8704c44c-8b97-e35a-2bfb-6e79f455c93a,CAPE_C-5d1a1d,2017-03-22T17:19:39Z,2018-03-28T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-95d6-5e532835d9d6,CAPE_C-5d1a1d,2017-08-28T17:19:39Z,2018-08-23T17:38:02Z,1 ML medroxyprogesterone acetate 150 MG/ML Injection,
+8704c44c-8b97-e35a-e326-080c32ed0747,CAPE_C-5d1a1d,2018-03-28T17:19:39Z,2019-04-03T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,2019-04-03T17:19:39Z,2020-04-08T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-92d1-57e044e600e8,CAPE_C-5d1a1d,2020-04-08T17:19:39Z,2021-04-14T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-9fde-782e143b4e53,CAPE_C-5d1a1d,2020-04-22T20:03:25Z,2020-04-22T20:03:25Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+8704c44c-8b97-e35a-d870-61e35d32c493,CAPE_C-5d1a1d,2021-04-14T17:19:39Z,2022-04-20T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-9338-989aedbc38ca,CAPE_C-5d1a1d,2021-04-28T22:36:28Z,2021-04-28T22:36:28Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+8704c44c-8b97-e35a-6e51-16696027185b,CAPE_C-5d1a1d,2022-04-20T17:19:39Z,2023-04-26T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-9f4c-20f49688400e,CAPE_C-5d1a1d,2022-08-02T17:38:02Z,2023-07-28T17:38:02Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+8704c44c-8b97-e35a-9ef3-fd65cec46bd3,CAPE_C-5d1a1d,2023-04-26T17:19:39Z,2023-06-19T09:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,2023-06-10T09:19:39Z,2023-06-19T09:19:39Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,2023-06-19T09:19:39Z,2023-06-21T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-1053-a9918a9a4d1c,CAPE_C-5d1a1d,2024-05-01T17:19:39Z,2025-05-07T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-db6f-8470dcc4091c,CAPE_C-5d1a1d,2025-05-07T17:19:39Z,2026-05-13T17:19:39Z,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,2025-05-22T00:10:27Z,2025-05-22T00:10:27Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+8704c44c-8b97-e35a-8f30-e0e86d923687,CAPE_C-5d1a1d,2026-04-18T17:19:39Z,2026-04-18T17:19:39Z,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena],
+8704c44c-8b97-e35a-e0a0-a2fbc2b6f213,CAPE_C-5d1a1d,2026-05-13T17:19:39Z,,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,Opioid abuse

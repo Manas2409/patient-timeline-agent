@@ -1,0 +1,355 @@
+{
+  "cluster_id": "10",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "1990-12-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": []
+    },
+    {
+      "date": "1992-01-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": []
+    },
+    {
+      "date": "1996-01-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "prediabet",
+          "canonical": "Prediabetes",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "an",
+          "canonical": "an",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2008-01-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": []
+    },
+    {
+      "date": "2015-11-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": []
+    },
+    {
+      "date": "2016-01-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2016-02-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2017-04-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-22"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": []
+    },
+    {
+      "date": "2019-09-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": []
+    },
+    {
+      "date": "2019-12-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-16T18:14:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2021-12-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": []
+    },
+    {
+      "date": "2021-12-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-20T18:25:06Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Injury of tendon of the rotator cuff of shoulder (disorder)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "injury of",
+          "canonical": "Concussion injury of brain | Injury of knee | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Injury of tendon of the rotator cuff of shoulder (disorder)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2024-12-02"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Not in labor force",
+          "canonical": "Not in labor force",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-11-24"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate",
+          "canonical": "intimate",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-11-24"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Alveolitis of jaw (disorder)",
+      "seen_at": "MELROSEWAKEFIELD HEALTHCARE  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "alveolitis",
+          "canonical": "Alveolitis of jaw",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-07"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "alveolitis",
+          "canonical": "Alveolitis of jaw",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-07"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DUTTON FAMILY CARE ASSOCIATES LLP",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Prediabetes",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Alveolitis of jaw",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

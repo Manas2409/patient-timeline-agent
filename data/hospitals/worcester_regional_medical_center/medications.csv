@@ -1,0 +1,80 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,DESCRIPTION,REASONDESCRIPTION
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,1993-05-03T04:39:03Z,,Loratadine 5 MG Chewable Tablet,
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,1993-05-03T04:39:03Z,,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,2017-04-04T13:24:51Z,2017-04-20T13:24:51Z,Naproxen sodium 220 MG Oral Tablet,
+a406f356-c8b4-54ad-5d7b-f3ed98482704,WORCES-3330be,2026-06-05T15:03:15Z,2026-06-05T15:03:15Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,2015-10-04T21:22:28Z,2016-10-09T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,2015-10-04T21:22:28Z,2016-10-09T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,2016-10-09T21:22:28Z,2018-09-02T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,2016-10-09T21:22:28Z,2018-09-02T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-aeca-529a1b69325c,WORCES-edee44,2016-10-16T23:49:33Z,2016-10-16T23:49:33Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+edb5a2e3-a981-d33c-91e4-e5f8bfdb9ee1,WORCES-edee44,2018-09-02T21:22:28Z,2019-09-08T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-91e4-e5f8bfdb9ee1,WORCES-edee44,2018-09-02T21:22:28Z,2019-09-08T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,2019-09-08T21:22:28Z,2020-03-08T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,2019-09-08T21:22:28Z,2020-03-08T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-36ed-248cba604e6b,WORCES-edee44,2019-09-22T23:41:37Z,2019-09-22T23:41:37Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,2020-03-08T21:22:28Z,2020-03-15T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,2020-03-08T21:22:28Z,2020-03-15T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,2020-03-15T21:22:28Z,2020-09-13T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,2020-03-15T21:22:28Z,2020-09-13T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-ead4-704926882bab,WORCES-edee44,2020-03-23T00:16:29Z,2020-03-23T00:16:29Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+edb5a2e3-a981-d33c-806b-630c57c14a2c,WORCES-edee44,2020-09-13T21:22:28Z,2021-09-19T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-806b-630c57c14a2c,WORCES-edee44,2020-09-13T21:22:28Z,2021-09-19T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,2021-09-19T21:22:28Z,2021-12-26T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,2021-09-19T21:22:28Z,2021-12-26T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-fc3b-e5ab9c052779,WORCES-edee44,2021-10-04T00:38:23Z,2021-10-04T00:38:23Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,2021-12-26T21:22:28Z,2022-09-25T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,2021-12-26T21:22:28Z,2022-09-25T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-1550-69d7cf0e97ef,WORCES-edee44,2022-01-09T23:39:42Z,2022-01-09T23:39:42Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,2022-09-25T21:22:28Z,2023-10-01T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,2022-09-25T21:22:28Z,2023-10-01T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,2023-10-01T21:22:28Z,2024-10-06T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,2023-10-01T21:22:28Z,2024-10-06T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,2024-10-06T21:22:28Z,2025-10-12T21:22:28Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,2024-10-06T21:22:28Z,2025-10-12T21:22:28Z,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-a7a5-045eb7c68d3a,WORCES-edee44,2024-10-21T00:03:13Z,2024-10-21T00:03:13Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+edb5a2e3-a981-d33c-0abd-d93e42d5f097,WORCES-edee44,2025-09-04T21:22:28Z,2025-09-04T21:22:28Z,1 ML medroxyprogesterone acetate 150 MG/ML Injection,
+edb5a2e3-a981-d33c-e4bd-ec6af8a21173,WORCES-edee44,2025-10-12T21:22:28Z,,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+edb5a2e3-a981-d33c-e4bd-ec6af8a21173,WORCES-edee44,2025-10-12T21:22:28Z,,albuterol 0.83 MG/ML Inhalation Solution,Childhood asthma (disorder)
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,2017-03-05T10:26:32Z,2017-06-05T10:26:32Z,Ibuprofen 200 MG Oral Tablet,
+afb99eee-0bd5-8853-df9b-b6c8b98e761f,WORCES-1a6cdb,2017-12-22T11:23:28Z,2017-12-22T11:23:28Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+afb99eee-0bd5-8853-85b9-38c13bae933e,WORCES-1a6cdb,2019-01-13T10:48:33Z,2019-01-13T12:58:33Z,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet,Acute infective cystitis (disorder)
+46fcc34a-97a1-f038-ce5a-a68dbde9c1b7,WORCES-c121ad,1990-04-05T02:56:05Z,,Terfenadine 60 MG Oral Tablet,
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,1990-04-16T21:29:45Z,,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,
+46fcc34a-97a1-f038-8c70-e6130a71adab,WORCES-c121ad,2018-11-30T02:56:05Z,2019-11-29T13:02:59Z,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta],
+46fcc34a-97a1-f038-eb4d-396682727acc,WORCES-c121ad,2019-12-04T02:56:05Z,2020-09-30T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,2019-12-11T02:56:05Z,2020-12-05T02:56:05Z,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day],
+46fcc34a-97a1-f038-e16b-fcc656d95b8d,WORCES-c121ad,2019-12-18T06:27:49Z,2019-12-18T06:27:49Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+46fcc34a-97a1-f038-0d91-706248ffcf2b,WORCES-c121ad,2020-12-05T02:56:05Z,2021-11-30T03:30:01Z,Etonogestrel 68 MG Drug Implant,
+46fcc34a-97a1-f038-bd44-289b75cb8bea,WORCES-c121ad,2021-11-30T03:30:01Z,2022-11-30T00:29:46Z,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta],
+46fcc34a-97a1-f038-e122-e77d0b78d268,WORCES-c121ad,2022-10-26T05:25:52Z,2022-10-26T05:25:52Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+46fcc34a-97a1-f038-dc38-aec4048893e4,WORCES-c121ad,2022-11-30T00:29:46Z,2023-11-25T00:29:46Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+46fcc34a-97a1-f038-eef3-961f5ab34eed,WORCES-c121ad,2024-11-19T00:29:46Z,2025-11-14T00:29:46Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day],
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,2025-11-12T09:14:47Z,2025-11-12T09:14:47Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+46fcc34a-97a1-f038-771f-2a8271a9c2ed,WORCES-c121ad,2025-11-26T02:56:05Z,2025-11-26T02:56:05Z,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena],
+3314e296-2326-2826-d6a1-c8ef73dae655,WORCES-c3dcd8,2018-01-28T02:18:12Z,2019-01-27T20:10:24Z,levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena],
+3314e296-2326-2826-1b3d-57d3f292f8f9,WORCES-c3dcd8,2025-01-12T02:18:12Z,2026-01-07T02:18:12Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day],
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,2025-02-18T04:08:17Z,2025-03-18T02:18:12Z,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,2025-02-18T04:08:17Z,2025-04-08T04:08:17Z,Ibuprofen 200 MG Oral Tablet,
+3314e296-2326-2826-df3a-1d13586a59f0,WORCES-c3dcd8,2026-01-07T02:18:12Z,,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+3eec36b2-71cc-13c4-4f65-af02ae1e3c0c,WORCES-992abe,2016-03-10T18:16:45Z,2017-03-16T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-7c3c-b0eb332d661d,WORCES-992abe,2016-09-04T18:16:45Z,2017-08-30T18:16:45Z,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,
+3eec36b2-71cc-13c4-19f3-4977ac4717b5,WORCES-992abe,2017-03-16T18:16:45Z,2018-03-22T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-c215-47acb6449985,WORCES-992abe,2018-03-22T18:16:45Z,2019-03-28T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,2019-03-28T18:16:45Z,2020-04-02T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,2019-04-13T19:48:24Z,2019-04-15T16:48:24Z,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet,Acute infective cystitis (disorder)
+3eec36b2-71cc-13c4-6142-5c6f0e3cd1d4,WORCES-992abe,2019-08-13T18:18:21Z,2019-08-14T20:18:21Z,nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule,Acute infective cystitis (disorder)
+3eec36b2-71cc-13c4-823d-0a4b7a15b575,WORCES-992abe,2020-04-02T18:16:45Z,2021-04-08T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,2020-04-17T00:47:23Z,2020-04-17T00:47:23Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,2021-04-08T18:16:45Z,2022-04-14T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-7948-ae8ba9939c14,WORCES-992abe,2021-04-22T21:54:33Z,2021-04-22T21:54:33Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,2021-09-18T18:56:58Z,2021-11-13T18:56:58Z,Ibuprofen 200 MG Oral Tablet,
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,2022-04-14T18:16:45Z,2023-04-06T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-2b66-f2b4422c060e,WORCES-992abe,2023-04-06T18:16:45Z,2023-04-20T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-3303-086fa59fbf12,WORCES-992abe,2023-04-13T18:16:45Z,2023-05-01T18:16:45Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+3eec36b2-71cc-13c4-3181-2dd4a5dcda70,WORCES-992abe,2023-04-20T18:16:45Z,2024-04-25T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-f940-f7f7e0157a12,WORCES-992abe,2024-04-25T18:16:45Z,2025-05-01T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,2025-05-01T18:16:45Z,2026-05-07T18:16:45Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-69e5-a342dfb25e60,WORCES-992abe,2026-05-07T18:16:45Z,,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+3eec36b2-71cc-13c4-4763-5a64b2fe51a3,WORCES-992abe,2026-05-21T20:59:31Z,2026-05-21T20:59:31Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+3eec36b2-71cc-13c4-3db5-a0cb7107a12c,WORCES-992abe,2026-07-02T18:16:45Z,,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day],

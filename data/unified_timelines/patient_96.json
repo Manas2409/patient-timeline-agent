@@ -1,0 +1,134 @@
+{
+  "cluster_id": "96",
+  "hospitals": [
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "1960-03-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CHILD & FAMILY SERVICES  INC.",
+      "entities": []
+    },
+    {
+      "date": "1960-04-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "emergency",
+      "reason": "Seizure disorder (disorder)",
+      "seen_at": "ROYAL OF FAIRHAVEN NURSING CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "seizure",
+          "canonical": "History of seizure | Seizure disorder",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "seizure",
+          "canonical": "History of seizure | Seizure disorder",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "clonazePAM",
+          "canonical": "clonazePAM",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1960-08-08T13:24:35Z"
+        }
+      ]
+    },
+    {
+      "date": "1960-04-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CHILD & FAMILY SERVICES  INC.",
+      "entities": []
+    },
+    {
+      "date": "1960-07-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CHILD & FAMILY SERVICES  INC.",
+      "entities": []
+    },
+    {
+      "date": "1960-09-02",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CHILD & FAMILY SERVICES  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "carbamazepine",
+          "canonical": "carbamazepine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 1960-11-17T10:39:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Te",
+          "canonical": "Te",
+          "match_method": "unmapped",
+          "outcome": "resolved 1960-11-17T10:39:49Z"
+        }
+      ]
+    },
+    {
+      "date": "1960-12-02",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CHILD & FAMILY SERVICES  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "carbamazepine",
+          "canonical": "carbamazepine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1961-03-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CHILD & FAMILY SERVICES  INC.",
+      "entities": []
+    },
+    {
+      "date": "1961-06-02",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CHILD & FAMILY SERVICES  INC.",
+      "entities": []
+    },
+    {
+      "date": "1961-07-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "hospice",
+      "reason": "",
+      "seen_at": "COMMUNITY NURSE HOME CARE  INC.",
+      "entities": []
+    },
+    {
+      "date": "1961-08-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "Sudden cardiac death (disorder)",
+      "seen_at": "CHILD & FAMILY SERVICES  INC.",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

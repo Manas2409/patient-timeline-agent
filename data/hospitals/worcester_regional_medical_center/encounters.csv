@@ -1,0 +1,247 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,ENCOUNTERCLASS,DESCRIPTION,REASONDESCRIPTION,SEEN_AT
+cc3eac4a-34a7-9a15-13f3-57f4a6b934f9,WORCES-390062,1996-03-11T08:35:36Z,1996-03-11T09:21:33Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-1dc5-a353457420c6,WORCES-390062,2006-03-27T08:35:36Z,2006-03-27T09:29:36Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-94b5-26ac8c6c7134,WORCES-390062,2009-03-30T08:35:36Z,2009-03-30T09:25:14Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-2a3d-1a1ba491a8ac,WORCES-390062,2012-04-02T08:35:36Z,2012-04-02T09:18:03Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-99df-e3a0393fa95e,WORCES-390062,2015-04-06T08:35:36Z,2015-04-06T09:07:26Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-da83-de2c625ae978,WORCES-390062,2018-01-22T08:35:36Z,2018-01-22T09:34:09Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-747e-7510e2463417,WORCES-390062,2020-01-27T08:35:36Z,2020-01-27T09:07:58Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-ca32-5d73928c0a72,WORCES-390062,2022-01-31T08:35:36Z,2022-01-31T09:35:08Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-65ed-a29acec55dc1,WORCES-390062,2024-02-05T08:35:36Z,2024-02-05T09:35:09Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+cc3eac4a-34a7-9a15-0045-5d8e18d8dd42,WORCES-390062,2026-02-09T08:35:36Z,2026-02-09T09:29:10Z,wellness,General examination of patient (procedure),,WEST BROOKFIELD FAMILY PRACTICE
+355cd402-8f45-353f-a3cc-1bce4e2d22f9,WORCES-106f71,2016-05-22T20:03:49Z,2016-05-22T21:00:50Z,urgentcare,Urgent care clinic (environment),,CAREWELL URGENT CARE CENTERS OF MA  PC
+a406f356-c8b4-54ad-ca7c-9561dbdd9ed9,WORCES-3330be,1993-04-22T11:07:01Z,1993-04-22T11:22:01Z,ambulatory,Encounter for problem (procedure),Eggs (edible) (substance),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,1993-05-03T04:04:01Z,1993-05-03T04:39:03Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+a406f356-c8b4-54ad-93d7-e66098750b07,WORCES-3330be,2010-01-29T13:04:01Z,2010-01-29T13:49:54Z,wellness,General examination of patient (procedure),,CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+a406f356-c8b4-54ad-ad0d-784d83a4cb42,WORCES-3330be,2011-02-04T13:04:01Z,2011-02-04T13:40:04Z,wellness,General examination of patient (procedure),,CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+a406f356-c8b4-54ad-8afd-4759ace93fbb,WORCES-3330be,2015-02-13T13:04:01Z,2015-02-13T13:34:10Z,wellness,General examination of patient (procedure),,CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,2017-04-04T13:04:01Z,2017-04-04T14:04:01Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),LIFE CARE CENTER OF AUBURN
+a406f356-c8b4-54ad-c184-46e725ceb8e4,WORCES-3330be,2018-02-16T13:04:01Z,2018-02-16T13:35:58Z,wellness,General examination of patient (procedure),,CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+a406f356-c8b4-54ad-bce1-9c6131007a11,WORCES-3330be,2021-02-19T13:04:01Z,2021-02-19T13:54:24Z,wellness,General examination of patient (procedure),,CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+a406f356-c8b4-54ad-3807-d81ddc7d3c8a,WORCES-3330be,2021-10-15T13:04:01Z,2021-10-15T13:19:01Z,outpatient,Administration of vaccine to produce active immunity (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+a406f356-c8b4-54ad-4af2-f24dac26f433,WORCES-3330be,2021-11-05T13:04:01Z,2021-11-05T13:19:01Z,outpatient,Administration of vaccine to produce active immunity (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+a406f356-c8b4-54ad-0d28-75e38f0245b3,WORCES-3330be,2024-02-23T13:04:01Z,2024-02-23T13:49:03Z,wellness,General examination of patient (procedure),,CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+a406f356-c8b4-54ad-9d1b-6ee03f89f93e,WORCES-3330be,2026-04-19T13:04:01Z,2026-04-19T13:19:01Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+a406f356-c8b4-54ad-7a07-bb8616684a01,WORCES-3330be,2026-05-10T13:04:01Z,2026-05-10T13:19:01Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+a406f356-c8b4-54ad-486b-382043d0b8bb,WORCES-3330be,2026-05-22T13:04:01Z,2026-05-22T14:04:01Z,emergency,Emergency room admission (procedure),,LIFE CARE CENTER OF AUBURN
+a406f356-c8b4-54ad-ad37-f72a5994d5fc,WORCES-3330be,2026-05-29T13:04:01Z,2026-05-29T13:19:01Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+a406f356-c8b4-54ad-5d7b-f3ed98482704,WORCES-3330be,2026-06-05T13:04:01Z,2026-06-05T15:47:41Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-3db0-5427687709d1,WORCES-edee44,2010-01-22T21:22:28Z,2010-01-22T21:37:28Z,ambulatory,Encounter for symptom (procedure),Childhood asthma (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,2015-10-04T21:22:28Z,2015-10-04T21:37:28Z,wellness,Well child visit (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,2016-10-09T21:22:28Z,2016-10-09T21:37:28Z,wellness,Well child visit (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-aeca-529a1b69325c,WORCES-edee44,2016-10-16T21:22:28Z,2016-10-17T00:28:37Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-9f02-8f942274699f,WORCES-edee44,2017-06-14T21:22:28Z,2017-06-14T21:37:28Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-7746-387f8572c0d7,WORCES-edee44,2017-08-28T21:22:28Z,2017-10-08T08:25:19Z,wellness,Encounter for check up (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-2b65-b1c590309522,WORCES-edee44,2017-10-08T08:25:19Z,2017-10-08T08:57:44Z,ambulatory,Encounter for problem (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-5e74-aca863634115,WORCES-edee44,2017-10-08T08:57:44Z,2017-10-12T09:13:41Z,outpatient,Patient encounter procedure (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-7761-2de1eacea0a1,WORCES-edee44,2017-10-25T09:13:41Z,2017-10-25T09:42:34Z,ambulatory,Follow-up encounter (procedure),Adolescent idiopathic scoliosis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-e92a-659929123729,WORCES-edee44,2017-11-30T09:42:34Z,2017-11-30T09:57:34Z,ambulatory,Encounter for problem (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-91e4-e5f8bfdb9ee1,WORCES-edee44,2018-09-02T21:22:28Z,2018-09-02T21:37:28Z,wellness,Well child visit (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,2019-09-08T21:22:28Z,2019-09-08T21:45:10Z,wellness,Well child visit (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-36ed-248cba604e6b,WORCES-edee44,2019-09-22T21:22:28Z,2019-09-23T00:29:57Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,2020-03-08T21:22:28Z,2020-03-08T21:49:45Z,urgentcare,Urgent care clinic (environment),,LE & CHANG FAMILY URGENT CARE PC
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,2020-03-15T21:22:28Z,2020-03-15T21:37:28Z,outpatient,Encounter for check up (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-ead4-704926882bab,WORCES-edee44,2020-03-22T21:22:28Z,2020-03-23T00:55:37Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-0a4a-eefa8e77bd28,WORCES-edee44,2020-03-29T21:22:28Z,2020-03-29T21:37:28Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-806b-630c57c14a2c,WORCES-edee44,2020-09-13T21:22:28Z,2020-09-13T21:37:28Z,wellness,Well child visit (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-4c06-6bebde63cf4d,WORCES-edee44,2021-05-23T21:22:28Z,2021-05-23T21:37:28Z,outpatient,Administration of vaccine to produce active immunity (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-d006-debf19a0c75e,WORCES-edee44,2021-05-24T21:22:28Z,2021-05-24T21:37:28Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-ecd6-95359fe73d30,WORCES-edee44,2021-06-13T21:22:28Z,2021-06-13T21:37:28Z,outpatient,Administration of vaccine to produce active immunity (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,2021-09-19T21:22:28Z,2021-09-19T21:38:23Z,wellness,Well child visit (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-fc3b-e5ab9c052779,WORCES-edee44,2021-10-03T21:22:28Z,2021-10-04T01:15:10Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-5aaf-e3ccc1ddb874,WORCES-edee44,2021-11-20T21:22:28Z,2021-11-20T21:37:28Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,2021-12-26T21:22:28Z,2021-12-26T21:37:28Z,outpatient,Encounter for check up (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-56c3-f49aad719878,WORCES-edee44,2022-01-02T21:22:28Z,2022-01-02T21:37:28Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-1550-69d7cf0e97ef,WORCES-edee44,2022-01-09T21:22:28Z,2022-01-10T00:22:36Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-867c-3521ae84caea,WORCES-edee44,2022-05-19T21:22:28Z,2022-05-19T21:37:28Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,2022-09-25T21:22:28Z,2022-09-25T21:51:17Z,wellness,Well child visit (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-1415-1eeb1ba4d9b0,WORCES-edee44,2022-10-09T21:22:28Z,2022-10-10T03:54:47Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,2023-10-01T21:22:28Z,2023-10-01T21:47:48Z,wellness,Well child visit (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-d38b-208d46dd621a,WORCES-edee44,2023-10-15T21:22:28Z,2023-10-16T00:20:36Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,2024-10-06T21:22:28Z,2024-10-06T21:59:13Z,wellness,General examination of patient (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-a7a5-045eb7c68d3a,WORCES-edee44,2024-10-20T21:22:28Z,2024-10-21T00:45:17Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-0abd-d93e42d5f097,WORCES-edee44,2025-09-04T21:22:28Z,2025-09-04T21:37:28Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-e4bd-ec6af8a21173,WORCES-edee44,2025-10-12T21:22:28Z,2025-10-12T22:08:08Z,wellness,General examination of patient (procedure),,RENAISSANCE PRIMARY CARE LLC
+edb5a2e3-a981-d33c-be28-4776a00da782,WORCES-edee44,2025-10-26T21:22:28Z,2025-10-27T01:04:55Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-67a1-48dccd08134b,WORCES-edee44,2025-12-14T21:22:28Z,2025-12-14T21:37:44Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-34de-27f00e8fac7e,WORCES-edee44,2026-03-15T21:22:28Z,2026-03-15T21:40:52Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+edb5a2e3-a981-d33c-ae95-80923ce12c53,WORCES-edee44,2026-06-14T21:22:28Z,2026-06-14T21:37:28Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,2017-03-05T09:49:53Z,2017-03-05T10:49:53Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),LYDIA TAFT HOUSE
+afb99eee-0bd5-8853-1bb6-bb3c78ebf071,WORCES-1a6cdb,2017-06-05T10:26:32Z,2017-06-05T10:41:32Z,ambulatory,Encounter for check up (procedure),Fracture of rib (disorder),MILFORD REGIONAL MEDICAL CENTER
+afb99eee-0bd5-8853-df9b-b6c8b98e761f,WORCES-1a6cdb,2017-12-22T08:46:09Z,2017-12-22T12:00:03Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MILFORD REGIONAL MEDICAL CENTER
+afb99eee-0bd5-8853-85b9-38c13bae933e,WORCES-1a6cdb,2019-01-13T08:46:09Z,2019-01-13T10:58:33Z,emergency,Encounter for symptom (procedure),Acute infective cystitis (disorder),LYDIA TAFT HOUSE
+afb99eee-0bd5-8853-9ec5-71ff3ce88930,WORCES-1a6cdb,2020-12-25T08:46:09Z,2020-12-25T12:01:15Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+afb99eee-0bd5-8853-4f69-7ce79ea777ff,WORCES-1a6cdb,2024-04-06T10:26:32Z,2024-04-06T11:26:32Z,emergency,Emergency room admission (procedure),Concussion injury of brain (disorder),LYDIA TAFT HOUSE
+afb99eee-0bd5-8853-7a30-582aeea4aaa9,WORCES-1a6cdb,2024-05-16T10:26:32Z,2024-05-16T10:41:32Z,ambulatory,Encounter for check up (procedure),Concussion with loss of consciousness (disorder),MILFORD REGIONAL MEDICAL CENTER
+afb99eee-0bd5-8853-bcdd-40e5c43edcd6,WORCES-1a6cdb,2026-02-11T12:46:09Z,2026-02-11T13:01:09Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-ce5a-a68dbde9c1b7,WORCES-c121ad,1990-04-05T02:56:05Z,1990-04-05T03:11:05Z,ambulatory,Encounter for symptom (procedure),Seasonal allergic rhinitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,1990-04-16T20:56:05Z,1990-04-16T21:29:45Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-5fa6-f301ae898671,WORCES-c121ad,2008-10-18T02:56:05Z,2008-10-18T03:11:05Z,ambulatory,Prenatal visit (regime/therapy),Complete miscarriage (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-2013-a1445cc983b6,WORCES-c121ad,2014-01-31T02:56:05Z,2014-01-31T03:11:05Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-3016-022093fe87df,WORCES-c121ad,2014-04-22T16:56:05Z,2014-04-22T17:11:05Z,ambulatory,Follow-up encounter (procedure),Chronic pain (finding),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-cf8f-2b43cd9da3dd,WORCES-c121ad,2015-02-04T02:56:05Z,2015-02-04T03:26:30Z,urgentcare,Urgent care clinic (environment),,CAREWELL URGENT CARE CENTERS OF MA  PC
+46fcc34a-97a1-f038-426b-3a0f8a44dfd7,WORCES-c121ad,2016-03-16T02:56:05Z,2016-03-16T03:11:05Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-4f9e-dd80bd7b8b1c,WORCES-c121ad,2016-08-31T02:56:05Z,2016-08-31T03:11:05Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-b630-3ffe3455a7da,WORCES-c121ad,2016-09-28T02:56:05Z,2016-09-28T03:11:05Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-e968-203ac44b060f,WORCES-c121ad,2016-10-12T02:56:05Z,2016-10-12T03:56:05Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),LYDIA TAFT HOUSE
+46fcc34a-97a1-f038-5563-19c776e8b2ec,WORCES-c121ad,2016-11-23T02:56:05Z,2016-11-23T03:11:05Z,ambulatory,Postnatal visit (regime/therapy),,MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-1e7a-8285f098736d,WORCES-c121ad,2017-09-27T02:56:05Z,2017-09-27T08:29:59Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-a123-d4747d8d1080,WORCES-c121ad,2018-10-03T02:56:05Z,2018-10-03T08:26:54Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-8c70-e6130a71adab,WORCES-c121ad,2018-11-30T02:56:05Z,2018-11-30T03:11:05Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-a1dc-9c43c877ecb3,WORCES-c121ad,2018-12-04T11:56:05Z,2018-12-04T13:02:59Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-37c4-96e01dab3dbd,WORCES-c121ad,2019-10-09T02:56:05Z,2019-10-09T06:54:46Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-eb4d-396682727acc,WORCES-c121ad,2019-12-04T02:56:05Z,2019-12-04T03:30:57Z,outpatient,Encounter for check up (procedure),,MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,2019-12-11T02:56:05Z,2019-12-11T03:11:05Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-6407-6e95fa1328c5,WORCES-c121ad,2019-12-11T02:56:05Z,2019-12-11T03:11:05Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-e16b-fcc656d95b8d,WORCES-c121ad,2019-12-18T02:56:05Z,2019-12-18T07:16:34Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-0d91-706248ffcf2b,WORCES-c121ad,2020-12-05T02:56:05Z,2020-12-05T03:30:01Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-4e3e-c1be2f453fe4,WORCES-c121ad,2021-03-31T02:56:05Z,2021-03-31T03:11:05Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-bd44-289b75cb8bea,WORCES-c121ad,2021-11-30T03:30:01Z,2021-11-30T03:45:01Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-2b3b-9e41c2377c9a,WORCES-c121ad,2021-12-04T23:30:01Z,2021-12-05T00:29:46Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-e122-e77d0b78d268,WORCES-c121ad,2022-10-26T02:56:05Z,2022-10-26T05:58:48Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-dc38-aec4048893e4,WORCES-c121ad,2022-11-30T00:29:46Z,2022-11-30T00:44:46Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-c2bb-a19436b83a5a,WORCES-c121ad,2023-11-01T02:56:05Z,2023-11-01T10:18:41Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-d6af-c8b94f7cae43,WORCES-c121ad,2023-12-13T02:56:05Z,2023-12-13T04:01:06Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-eef3-961f5ab34eed,WORCES-c121ad,2024-11-19T00:29:46Z,2024-11-19T00:44:46Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,2025-11-12T02:56:05Z,2025-11-12T09:49:32Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-771f-2a8271a9c2ed,WORCES-c121ad,2025-11-26T02:56:05Z,2025-11-26T03:11:05Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+46fcc34a-97a1-f038-f819-acf5c7c5c053,WORCES-c121ad,2025-11-28T07:56:05Z,2025-11-28T08:55:41Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MILFORD REGIONAL MEDICAL CENTER
+3314e296-2326-2826-911a-5ed37a6d9920,WORCES-c3dcd8,2002-06-16T02:18:12Z,2002-06-16T02:37:40Z,wellness,Well child visit (procedure),,RUTLAND FAMILY HEALTH CENTER
+3314e296-2326-2826-0b54-189d70231639,WORCES-c3dcd8,2008-07-20T02:18:12Z,2008-07-20T03:12:35Z,wellness,General examination of patient (procedure),,RUTLAND FAMILY HEALTH CENTER
+3314e296-2326-2826-dfaf-df11c54c0d86,WORCES-c3dcd8,2009-07-26T02:18:12Z,2009-07-26T03:10:22Z,wellness,General examination of patient (procedure),,RUTLAND FAMILY HEALTH CENTER
+3314e296-2326-2826-84ae-cbecec394f05,WORCES-c3dcd8,2012-07-29T02:18:12Z,2012-07-29T03:11:41Z,wellness,General examination of patient (procedure),,RUTLAND FAMILY HEALTH CENTER
+3314e296-2326-2826-742c-ccfdd4bf3a88,WORCES-c3dcd8,2015-08-02T02:18:12Z,2015-08-02T03:08:20Z,wellness,General examination of patient (procedure),,RUTLAND FAMILY HEALTH CENTER
+3314e296-2326-2826-f230-98843387c8fd,WORCES-c3dcd8,2016-02-21T02:18:12Z,2016-02-21T02:33:12Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-80a8-6594eda82a06,WORCES-c3dcd8,2016-04-01T02:18:12Z,2016-04-01T02:33:12Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),T MASSACHUSETTS  LLC
+3314e296-2326-2826-c0c5-70199ff5b42e,WORCES-c3dcd8,2016-09-04T02:18:12Z,2016-09-04T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-514a-df81e2b2efe9,WORCES-c3dcd8,2016-09-18T02:18:12Z,2016-09-18T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-de50-88eef0eedd62,WORCES-c3dcd8,2016-09-25T02:18:12Z,2016-09-25T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-01d1-e841f6c95319,WORCES-c3dcd8,2016-10-02T02:18:12Z,2016-10-02T03:18:12Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),STERLING VILLAGE
+3314e296-2326-2826-4d65-2b5ea7d029bd,WORCES-c3dcd8,2016-11-13T02:18:12Z,2016-11-13T02:33:12Z,ambulatory,Postnatal visit (regime/therapy),,T MASSACHUSETTS  LLC
+3314e296-2326-2826-18d7-9b733123f995,WORCES-c3dcd8,2017-05-14T02:18:12Z,2017-05-14T02:33:12Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-3f0a-fee30f544c37,WORCES-c3dcd8,2017-06-11T02:18:12Z,2017-06-11T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-3689-50199400a19e,WORCES-c3dcd8,2017-07-09T02:18:12Z,2017-07-09T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-06f8-e7f6da57c226,WORCES-c3dcd8,2017-08-06T02:18:12Z,2017-08-06T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-75ea-9936d72cff1e,WORCES-c3dcd8,2017-09-03T02:18:12Z,2017-09-03T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-183c-0e63c9c2c345,WORCES-c3dcd8,2017-10-01T02:18:12Z,2017-10-01T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-6d12-6d823c28995b,WORCES-c3dcd8,2017-10-29T02:18:12Z,2017-10-29T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-e66e-ff31d38c5cc3,WORCES-c3dcd8,2017-11-26T02:18:12Z,2017-11-26T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-d84d-a800b444f908,WORCES-c3dcd8,2017-12-10T02:18:12Z,2017-12-10T03:18:12Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),STERLING VILLAGE
+3314e296-2326-2826-3f0f-0debc8ca537b,WORCES-c3dcd8,2018-01-21T02:18:12Z,2018-01-21T02:33:12Z,ambulatory,Postnatal visit (regime/therapy),,T MASSACHUSETTS  LLC
+3314e296-2326-2826-d6a1-c8ef73dae655,WORCES-c3dcd8,2018-01-28T02:18:12Z,2018-01-28T02:33:12Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),T MASSACHUSETTS  LLC
+3314e296-2326-2826-51fb-d6ea66de10b2,WORCES-c3dcd8,2018-02-01T19:18:12Z,2018-02-01T20:10:24Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),T MASSACHUSETTS  LLC
+3314e296-2326-2826-90b9-47072e2449d8,WORCES-c3dcd8,2018-08-05T02:18:12Z,2018-08-05T02:49:50Z,wellness,General examination of patient (procedure),,RUTLAND FAMILY HEALTH CENTER
+3314e296-2326-2826-258e-188743233b3a,WORCES-c3dcd8,2019-04-21T02:18:12Z,2019-04-21T03:10:08Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),T MASSACHUSETTS  LLC
+3314e296-2326-2826-2998-3800d9b1a634,WORCES-c3dcd8,2019-06-09T02:18:12Z,2019-06-09T02:33:12Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-5ed7-b3580a06600e,WORCES-c3dcd8,2019-06-21T02:18:12Z,2019-06-21T02:33:12Z,ambulatory,Patient-initiated encounter (procedure),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-e96a-0b6b52a5847b,WORCES-c3dcd8,2019-06-29T02:18:12Z,2019-06-29T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-dffc-510aac833ff9,WORCES-c3dcd8,2020-04-19T02:18:12Z,2020-04-19T02:33:12Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-a776-1057a2123a9e,WORCES-c3dcd8,2020-05-07T02:18:12Z,2020-05-07T02:33:12Z,ambulatory,Patient-initiated encounter (procedure),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-3154-bc9e58a9f907,WORCES-c3dcd8,2020-05-25T02:18:12Z,2020-05-25T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-d44f-c1305b45e833,WORCES-c3dcd8,2020-11-08T02:18:12Z,2020-11-08T02:33:12Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-6afd-96fa701c1bf1,WORCES-c3dcd8,2020-11-08T02:18:12Z,2020-11-08T03:30:39Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),T MASSACHUSETTS  LLC
+3314e296-2326-2826-e5fb-7aaef795e591,WORCES-c3dcd8,2020-12-06T03:30:39Z,2020-12-06T03:45:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-ffb0-3a9819c95da4,WORCES-c3dcd8,2021-01-03T03:30:39Z,2021-01-03T03:45:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-fbe3-1babc46942fb,WORCES-c3dcd8,2021-01-31T03:30:39Z,2021-01-31T03:45:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-aba8-78b0d8f1dc85,WORCES-c3dcd8,2021-02-28T03:30:39Z,2021-02-28T03:45:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-29fc-7672b21f61a8,WORCES-c3dcd8,2021-03-28T03:30:39Z,2021-03-28T03:45:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-1bbb-44b70cac9ddc,WORCES-c3dcd8,2021-04-25T03:30:39Z,2021-04-25T03:45:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-092b-0bde0b1f8d77,WORCES-c3dcd8,2021-05-23T03:30:39Z,2021-05-23T03:45:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-2d6e-19d563aa9381,WORCES-c3dcd8,2021-06-06T03:30:39Z,2021-06-06T03:45:39Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-27b4-e77cccbfe199,WORCES-c3dcd8,2021-06-13T03:30:39Z,2021-06-13T04:30:39Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),STERLING VILLAGE
+3314e296-2326-2826-16fb-b3cc49911257,WORCES-c3dcd8,2021-07-25T03:30:39Z,2021-07-25T03:45:39Z,ambulatory,Postnatal visit (regime/therapy),,T MASSACHUSETTS  LLC
+3314e296-2326-2826-75f1-6a7627dd938a,WORCES-c3dcd8,2021-08-08T02:18:12Z,2021-08-08T03:05:30Z,wellness,General examination of patient (procedure),,RUTLAND FAMILY HEALTH CENTER
+3314e296-2326-2826-05bc-4a7cc2721811,WORCES-c3dcd8,2021-09-05T02:18:12Z,2021-09-05T02:33:12Z,outpatient,Administration of vaccine to produce active immunity (procedure),,T MASSACHUSETTS  LLC
+3314e296-2326-2826-4544-7979891d6099,WORCES-c3dcd8,2021-09-26T02:18:12Z,2021-09-26T02:33:12Z,outpatient,Administration of vaccine to produce active immunity (procedure),,T MASSACHUSETTS  LLC
+3314e296-2326-2826-a051-443743d49209,WORCES-c3dcd8,2023-10-01T02:18:12Z,2023-10-01T02:33:12Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-1cae-e3335014fb50,WORCES-c3dcd8,2023-10-17T02:18:12Z,2023-10-17T02:33:12Z,ambulatory,Patient-initiated encounter (procedure),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-1354-51293fdc8d6e,WORCES-c3dcd8,2023-10-26T02:18:12Z,2023-10-26T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-e1fc-a0c07f24d9df,WORCES-c3dcd8,2024-04-14T02:18:12Z,2024-04-14T02:33:12Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-c9c1-359e1d1d8c17,WORCES-c3dcd8,2024-05-12T02:18:12Z,2024-05-12T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-0325-a20e52eb57ca,WORCES-c3dcd8,2024-06-09T02:18:12Z,2024-06-09T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-f534-ec694f48da01,WORCES-c3dcd8,2024-07-07T02:18:12Z,2024-07-07T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-bb42-56acd916125b,WORCES-c3dcd8,2024-08-04T02:18:12Z,2024-08-04T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-9fd5-dcbd2ca2e0cc,WORCES-c3dcd8,2024-08-11T02:18:12Z,2024-08-11T03:08:06Z,wellness,General examination of patient (procedure),,RUTLAND FAMILY HEALTH CENTER
+3314e296-2326-2826-6a24-b5094e644399,WORCES-c3dcd8,2024-09-01T02:18:12Z,2024-09-01T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-5023-c694147e4852,WORCES-c3dcd8,2024-09-29T02:18:12Z,2024-09-29T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-d0f3-428ca737aaf1,WORCES-c3dcd8,2024-10-27T02:18:12Z,2024-10-27T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-fb11-a0c52ce7e816,WORCES-c3dcd8,2024-11-10T02:18:12Z,2024-11-10T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-cda6-7aef235792f5,WORCES-c3dcd8,2024-11-17T02:18:12Z,2024-11-17T02:33:12Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),T MASSACHUSETTS  LLC
+3314e296-2326-2826-dade-9f840e05f82a,WORCES-c3dcd8,2024-11-24T02:18:12Z,2024-11-24T03:18:12Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),STERLING VILLAGE
+3314e296-2326-2826-f55e-112ed6ec0c9d,WORCES-c3dcd8,2025-01-05T02:18:12Z,2025-01-05T02:33:12Z,ambulatory,Postnatal visit (regime/therapy),,T MASSACHUSETTS  LLC
+3314e296-2326-2826-1b3d-57d3f292f8f9,WORCES-c3dcd8,2025-01-12T02:18:12Z,2025-01-12T02:33:12Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),T MASSACHUSETTS  LLC
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,2025-02-18T03:33:50Z,2025-02-18T04:33:50Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),STERLING VILLAGE
+3314e296-2326-2826-4605-8665a9e0c1f4,WORCES-c3dcd8,2025-04-08T04:08:17Z,2025-04-08T04:23:17Z,ambulatory,Encounter for check up (procedure),Fracture of forearm (disorder),T MASSACHUSETTS  LLC
+3314e296-2326-2826-df3a-1d13586a59f0,WORCES-c3dcd8,2026-01-07T02:18:12Z,2026-01-07T02:33:12Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),T MASSACHUSETTS  LLC
+3eec36b2-71cc-13c4-1af6-f71c378e6ba7,WORCES-992abe,2013-02-21T18:16:45Z,2013-02-21T18:57:24Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-2522-946a5cb53deb,WORCES-992abe,2014-02-01T18:16:45Z,2014-02-01T18:31:45Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-656c-648277e5cf74,WORCES-992abe,2015-03-05T18:16:45Z,2015-03-05T19:14:15Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-4f65-af02ae1e3c0c,WORCES-992abe,2016-03-10T18:16:45Z,2016-03-10T19:00:58Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-7c3c-b0eb332d661d,WORCES-992abe,2016-09-04T18:16:45Z,2016-09-04T18:31:45Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-19f3-4977ac4717b5,WORCES-992abe,2017-03-16T18:16:45Z,2017-03-16T19:00:06Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-c215-47acb6449985,WORCES-992abe,2018-03-22T18:16:45Z,2018-03-22T18:59:11Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,2019-03-28T18:16:45Z,2019-03-28T19:15:46Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,2019-04-13T18:16:45Z,2019-04-13T19:48:24Z,ambulatory,Encounter for symptom (procedure),Acute infective cystitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-8bde-14e97bced69d,WORCES-992abe,2019-05-09T18:16:45Z,2019-05-09T18:31:45Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-1beb-e73ce2ae4dd6,WORCES-992abe,2019-06-06T18:16:45Z,2019-06-06T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-208f-92a973a3d7ed,WORCES-992abe,2019-07-04T18:16:45Z,2019-07-04T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-da67-3e61882561ea,WORCES-992abe,2019-08-01T18:16:45Z,2019-08-01T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-6142-5c6f0e3cd1d4,WORCES-992abe,2019-08-13T16:48:24Z,2019-08-13T18:18:21Z,ambulatory,Encounter for symptom (procedure),Acute infective cystitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-3656-3bf7232843bb,WORCES-992abe,2019-08-29T18:16:45Z,2019-08-29T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-63ac-3af6b50645eb,WORCES-992abe,2019-09-26T18:16:45Z,2019-09-26T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-4add-f5c485ed2fd2,WORCES-992abe,2019-10-24T18:16:45Z,2019-10-24T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-8c0b-46d44df6bae5,WORCES-992abe,2019-11-21T18:16:45Z,2019-11-21T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-5375-cba693886b80,WORCES-992abe,2019-12-05T18:16:45Z,2019-12-05T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-50f3-3200ac83c10d,WORCES-992abe,2019-12-12T18:16:45Z,2019-12-12T19:16:45Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),ACCLAIM HOME HEALTH CARE  INC
+3eec36b2-71cc-13c4-ac4e-19047234f5b5,WORCES-992abe,2020-01-23T18:16:45Z,2020-01-23T18:31:45Z,ambulatory,Postnatal visit (regime/therapy),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-823d-0a4b7a15b575,WORCES-992abe,2020-04-02T18:16:45Z,2020-04-02T19:01:08Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,2020-04-16T18:16:45Z,2020-04-17T01:41:19Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,2020-10-01T18:16:45Z,2020-10-01T19:01:29Z,ambulatory,Encounter for symptom (procedure),Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-4451-3c4ca4feb03e,WORCES-992abe,2021-01-14T18:16:45Z,2021-01-14T18:31:45Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-4755-d866b74c015c,WORCES-992abe,2021-01-22T18:16:45Z,2021-01-22T18:31:45Z,ambulatory,Patient-initiated encounter (procedure),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-c1dd-27aa86e29ae9,WORCES-992abe,2021-01-30T18:16:45Z,2021-01-30T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-05e8-791f80d3563b,WORCES-992abe,2021-03-11T18:16:45Z,2021-03-11T18:31:45Z,outpatient,Administration of vaccine to produce active immunity (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,2021-04-08T18:16:45Z,2021-04-08T18:57:26Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-7948-ae8ba9939c14,WORCES-992abe,2021-04-22T18:16:45Z,2021-04-22T22:35:45Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-4393-31f36dea142a,WORCES-992abe,2021-06-21T00:16:45Z,2021-06-21T00:31:45Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,2021-09-18T18:16:45Z,2021-09-18T19:16:45Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),ACCLAIM HOME HEALTH CARE  INC
+3eec36b2-71cc-13c4-8962-9d2cb102a467,WORCES-992abe,2021-11-13T18:56:58Z,2021-11-13T19:11:58Z,ambulatory,Encounter for check up (procedure),Fracture of ankle (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,2022-04-14T18:16:45Z,2022-04-14T18:52:08Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-a7d7-364bd2a4c771,WORCES-992abe,2022-04-21T18:16:45Z,2022-04-21T19:25:09Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-2b66-f2b4422c060e,WORCES-992abe,2023-04-06T18:16:45Z,2023-04-06T18:48:06Z,outpatient,Encounter for check up (procedure),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-3303-086fa59fbf12,WORCES-992abe,2023-04-13T18:16:45Z,2023-04-13T18:31:45Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-3181-2dd4a5dcda70,WORCES-992abe,2023-04-20T18:16:45Z,2023-04-20T18:50:48Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-f5d7-8a4cb3f0c478,WORCES-992abe,2023-07-20T18:16:45Z,2023-07-20T18:31:45Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-33bb-79dfc4794e4e,WORCES-992abe,2023-08-17T18:16:45Z,2023-08-17T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-3f97-116e4177f319,WORCES-992abe,2023-09-14T18:16:45Z,2023-09-14T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-5b3f-9021c7c8ebd7,WORCES-992abe,2023-10-12T18:16:45Z,2023-10-12T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-0c4c-1f5ffc9de949,WORCES-992abe,2023-11-09T18:16:45Z,2023-11-09T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-c8d1-98f94f25febc,WORCES-992abe,2023-12-07T18:16:45Z,2023-12-07T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-2ab5-bea25535fb1f,WORCES-992abe,2024-01-04T18:16:45Z,2024-01-04T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-8f24-9ad9be498969,WORCES-992abe,2024-02-01T18:16:45Z,2024-02-01T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-7e94-3a07e79c8009,WORCES-992abe,2024-02-15T18:16:45Z,2024-02-15T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-87fc-9ed5e82cee33,WORCES-992abe,2024-02-22T18:16:45Z,2024-02-22T19:16:45Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),ACCLAIM HOME HEALTH CARE  INC
+3eec36b2-71cc-13c4-c1af-459102cc9f5e,WORCES-992abe,2024-04-04T18:16:45Z,2024-04-04T18:31:45Z,ambulatory,Postnatal visit (regime/therapy),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-f940-f7f7e0157a12,WORCES-992abe,2024-04-25T18:16:45Z,2024-04-25T18:51:51Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-f798-fe0a3f5f5177,WORCES-992abe,2024-07-04T18:16:45Z,2024-07-04T18:31:45Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-1ecc-89abac96523e,WORCES-992abe,2024-08-01T18:16:45Z,2024-08-01T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-7b3d-ae78c4872056,WORCES-992abe,2024-08-29T18:16:45Z,2024-08-29T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-25b6-044025c11441,WORCES-992abe,2024-09-26T18:16:45Z,2024-09-26T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-23ef-eb0646a2c6aa,WORCES-992abe,2024-10-24T18:16:45Z,2024-10-24T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-2818-02d940132710,WORCES-992abe,2024-11-21T18:16:45Z,2024-11-21T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-daeb-4d66a65d7ed9,WORCES-992abe,2024-12-19T18:16:45Z,2024-12-19T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-e642-370583bdf285,WORCES-992abe,2025-01-16T18:16:45Z,2025-01-16T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-4a4b-5d59cd9f75f1,WORCES-992abe,2025-01-30T18:16:45Z,2025-01-30T19:16:45Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),ACCLAIM HOME HEALTH CARE  INC
+3eec36b2-71cc-13c4-9156-a2b23f81ef00,WORCES-992abe,2025-03-13T18:16:45Z,2025-03-13T18:31:45Z,ambulatory,Postnatal visit (regime/therapy),,VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,2025-05-01T18:16:45Z,2025-05-01T19:16:31Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-65c4-fe0da3d676ce,WORCES-992abe,2025-05-15T18:16:45Z,2025-05-15T20:51:50Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-53ea-2ff2a8e7fa83,WORCES-992abe,2025-08-14T18:16:45Z,2025-08-14T18:31:45Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-ba1b-ca0854634316,WORCES-992abe,2025-08-23T18:16:45Z,2025-08-23T18:31:45Z,ambulatory,Patient-initiated encounter (procedure),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-adaa-c22f6c5e9bb1,WORCES-992abe,2025-09-03T18:16:45Z,2025-09-03T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-7909-525d7ec9a1f2,WORCES-992abe,2026-04-09T18:16:45Z,2026-04-09T18:31:45Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-69e5-a342dfb25e60,WORCES-992abe,2026-05-07T18:16:45Z,2026-05-07T18:55:50Z,wellness,General examination of patient (procedure),,JEWISH FAMILY & CHILDREN'S SERVICE
+3eec36b2-71cc-13c4-f789-c4fcf7fff4c4,WORCES-992abe,2026-05-14T18:16:45Z,2026-05-14T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-4763-5a64b2fe51a3,WORCES-992abe,2026-05-21T18:16:45Z,2026-05-21T21:37:03Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-597d-3caea598dfc8,WORCES-992abe,2026-06-11T18:16:45Z,2026-06-11T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-4fca-05129da5acd7,WORCES-992abe,2026-06-21T18:16:45Z,2026-06-21T18:31:45Z,ambulatory,Prenatal visit (regime/therapy),Fetus with chromosomal abnormality (disorder),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+3eec36b2-71cc-13c4-3db5-a0cb7107a12c,WORCES-992abe,2026-07-02T18:16:45Z,2026-07-02T18:31:45Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC

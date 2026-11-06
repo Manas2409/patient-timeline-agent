@@ -1,0 +1,171 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+7af6b271-f16d-21e1-e6a8-a4b3adf967f8,CAPE_C-145904,DIAGNOSIS,obesity (BMI 30+)
+7af6b271-f16d-21e1-fbf0-a1ae80800ac0,CAPE_C-145904,DIAGNOSIS,essential hypertension
+7af6b271-f16d-21e1-fbf0-a1ae80800ac0,CAPE_C-145904,DIAGNOSIS,metabolic syndrome X
+7af6b271-f16d-21e1-fbf0-a1ae80800ac0,CAPE_C-145904,DIAGNOSIS,type 2 diabetes
+7af6b271-f16d-21e1-fbf0-a1ae80800ac0,CAPE_C-145904,DIAGNOSIS,a low blood count
+7af6b271-f16d-21e1-e187-547120fdd937,CAPE_C-145904,DIAGNOSIS,anemia
+7af6b271-f16d-21e1-e187-547120fdd937,CAPE_C-145904,MEDICATION,ferrous sulfate 325 MG Oral Tablet
+7af6b271-f16d-21e1-916f-92be9ea3b513,CAPE_C-145904,DIAGNOSIS,hyperglycemia
+7af6b271-f16d-21e1-916f-92be9ea3b513,CAPE_C-145904,DIAGNOSIS,hypertriglyceridemia
+7af6b271-f16d-21e1-ad6b-df71202db81e,CAPE_C-145904,DIAGNOSIS,neuropathy due to type 2 diabetes mellitus
+7af6b271-f16d-21e1-3082-4d25791611cf,CAPE_C-145904,DIAGNOSIS,nonproliferative diabetic retinopathy due to type II diabetes mellitus
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,DIAGNOSIS,severe anxiety with panic features
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-4848-929bf827ab9e,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-7541-54e2a158fa89,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-d638-82cff51a9fd1,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-d638-82cff51a9fd1,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-c987-c6878ea047bf,CAPE_C-145904,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+7af6b271-f16d-21e1-a7d2-2b2575c0b41a,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-a7d2-2b2575c0b41a,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-35a3-9e98675324a4,CAPE_C-145904,DIAGNOSIS,viral sinusitis
+7af6b271-f16d-21e1-35a3-9e98675324a4,CAPE_C-145904,DIAGNOSIS,a sinus infection
+7af6b271-f16d-21e1-c8df-a90991bea1c1,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-c4f2-009f322f5452,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-c4f2-009f322f5452,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-859f-2d6621517acd,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-5034-ff30d8866eed,CAPE_C-145904,DIAGNOSIS,a sore throat
+7af6b271-f16d-21e1-5034-ff30d8866eed,CAPE_C-145904,DIAGNOSIS,a sore throat
+7af6b271-f16d-21e1-93c5-aec2d8d13e83,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-93c5-aec2d8d13e83,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-47af-7515011510d7,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-47af-7515011510d7,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-f027-9e5fdaa3402e,CAPE_C-145904,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+7af6b271-f16d-21e1-018b-def5e5dac706,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-c80a-ca52f5c71f0f,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-c80a-ca52f5c71f0f,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-447c-96aa9ef2411d,CAPE_C-145904,DIAGNOSIS,gingival disease
+7af6b271-f16d-21e1-aa53-42afca5a1bc7,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-1662-f0914d4f70a1,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-3e7b-f7376fcb1e05,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-25d1-6a5f11a10317,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-25d1-6a5f11a10317,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-0428-2e4035069ed3,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-0428-2e4035069ed3,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-ceab-040f73258c99,CAPE_C-145904,DIAGNOSIS,gum inflammation
+7af6b271-f16d-21e1-ceab-040f73258c99,CAPE_C-145904,DIAGNOSIS,gingival disease
+7af6b271-f16d-21e1-ceab-040f73258c99,CAPE_C-145904,DIAGNOSIS,primary dental caries
+7af6b271-f16d-21e1-a81b-5ac8443b449b,CAPE_C-145904,DIAGNOSIS,acute viral pharyngitis
+7af6b271-f16d-21e1-a81b-5ac8443b449b,CAPE_C-145904,DIAGNOSIS,acute viral pharyngitis
+7af6b271-f16d-21e1-d9e6-5433deba0339,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-d9e6-5433deba0339,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-aca4-0da2c89e39ab,CAPE_C-145904,DIAGNOSIS,gum disease
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,DIAGNOSIS,gum inflammation
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-ccb4-1ecdabefb36f,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-538a-ed5b5da35af3,CAPE_C-145904,DIAGNOSIS,gum inflammation
+7af6b271-f16d-21e1-538a-ed5b5da35af3,CAPE_C-145904,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+7af6b271-f16d-21e1-5cbf-92f5a01cf17e,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-2765-f562f6fdc015,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,DIAGNOSIS,ischemic heart disease
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,Clopidogrel 75 MG Oral Tablet
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,Simvastatin 20 MG Oral Tablet
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-8a53-65fe43a98be3,CAPE_C-145904,MEDICATION,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+7af6b271-f16d-21e1-a3fd-225504f884a1,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,DIAGNOSIS,gum inflammation
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-7a2c-eb7bed181b58,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-04d4-169ca3011f23,CAPE_C-145904,DIAGNOSIS,gum inflammation
+7af6b271-f16d-21e1-6c70-9b946bce81e6,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-7d75-804b84127c7d,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-88a8-e60228cfb046,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-88a8-e60228cfb046,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-1bf8-ab6d17103be3,CAPE_C-145904,MEDICATION,tropicamide 5 MG/ML Ophthalmic Solution
+7af6b271-f16d-21e1-4598-2eb81658674f,CAPE_C-145904,DIAGNOSIS,alzheimer's disease
+7af6b271-f16d-21e1-ef7e-4920d39bbcd3,CAPE_C-145904,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-ef7e-4920d39bbcd3,CAPE_C-145904,MEDICATION,lisinopril 10 MG Oral Tablet
+3fa46c70-b194-f14c-4a1c-e5cbaa6a4f9f,CAPE_C-7667e7,DIAGNOSIS,injury of tendon of the rotator cuff of shoulder
+3fa46c70-b194-f14c-4a1c-e5cbaa6a4f9f,CAPE_C-7667e7,DIAGNOSIS,injury of tendon of the rotator cuff of shoulder
+3fa46c70-b194-f14c-936c-f5afb94eea60,CAPE_C-7667e7,DIAGNOSIS,injury of tendon of the rotator cuff of shoulder
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,DIAGNOSIS,streptococcal sore throat
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,DIAGNOSIS,streptococcal sore throat
+3fa46c70-b194-f14c-9459-81e05deb3e49,CAPE_C-7667e7,MEDICATION,Penicillin V Potassium 500 MG Oral Tablet
+3fa46c70-b194-f14c-4cb7-1832b9ba6b95,CAPE_C-7667e7,DIAGNOSIS,gum inflammation
+3fa46c70-b194-f14c-6d05-922013520839,CAPE_C-7667e7,DIAGNOSIS,gum inflammation
+3fa46c70-b194-f14c-6d05-922013520839,CAPE_C-7667e7,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,DIAGNOSIS,sprain (morphologic abnormality)
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,DIAGNOSIS,sprain (morphologic abnormality)
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,DIAGNOSIS,sprain of ankle
+3fa46c70-b194-f14c-ad1d-c9119919f63a,CAPE_C-7667e7,MEDICATION,Ibuprofen 200 MG Oral Tablet
+3fa46c70-b194-f14c-6a33-70724cadd219,CAPE_C-7667e7,DIAGNOSIS,a sinus infection
+3fa46c70-b194-f14c-6a33-70724cadd219,CAPE_C-7667e7,DIAGNOSIS,a sinus infection
+3fa46c70-b194-f14c-99e3-3cef1e852ccc,CAPE_C-7667e7,DIAGNOSIS,gum inflammation
+3fa46c70-b194-f14c-54a5-f6c1b32fe1fc,CAPE_C-7667e7,DIAGNOSIS,gingivitis
+3fa46c70-b194-f14c-54a5-f6c1b32fe1fc,CAPE_C-7667e7,DIAGNOSIS,gum disease
+8704c44c-8b97-e35a-b57d-84809b73c1b6,CAPE_C-5d1a1d,DIAGNOSIS,recurrent urinary tract infection
+8704c44c-8b97-e35a-7ead-84b8f4ff44f0,CAPE_C-5d1a1d,DIAGNOSIS,blighted ovum
+8704c44c-8b97-e35a-7ead-84b8f4ff44f0,CAPE_C-5d1a1d,DIAGNOSIS,past pregnancy history of miscarriage
+8704c44c-8b97-e35a-34c6-ec716a24a630,CAPE_C-5d1a1d,DIAGNOSIS,ongoing pain
+8704c44c-8b97-e35a-34c6-ec716a24a630,CAPE_C-5d1a1d,DIAGNOSIS,ongoing pain
+8704c44c-8b97-e35a-34c6-ec716a24a630,CAPE_C-5d1a1d,DIAGNOSIS,chronic low back pain
+8704c44c-8b97-e35a-34c6-ec716a24a630,CAPE_C-5d1a1d,DIAGNOSIS,chronic neck pain
+8704c44c-8b97-e35a-2fdc-b85d667cd378,CAPE_C-5d1a1d,DIAGNOSIS,opioid abuse
+8704c44c-8b97-e35a-2fdc-b85d667cd378,CAPE_C-5d1a1d,DIAGNOSIS,opioid abuse
+8704c44c-8b97-e35a-5b68-55b013d01ae7,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-27fb-ea7689cb7b9c,CAPE_C-5d1a1d,MEDICATION,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+8704c44c-8b97-e35a-2bfb-6e79f455c93a,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-95d6-5e532835d9d6,CAPE_C-5d1a1d,MEDICATION,1 ML medroxyprogesterone acetate 150 MG/ML Injection
+8704c44c-8b97-e35a-e326-080c32ed0747,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-588b-e896f18f535d,CAPE_C-5d1a1d,DIAGNOSIS,a sinus infection
+8704c44c-8b97-e35a-588b-e896f18f535d,CAPE_C-5d1a1d,DIAGNOSIS,viral sinusitis
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,DIAGNOSIS,significant weight gain
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,DIAGNOSIS,gum inflammation
+8704c44c-8b97-e35a-fc66-05c0438eb71d,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-450b-892c509fb6f7,CAPE_C-5d1a1d,DIAGNOSIS,gingivitis
+8704c44c-8b97-e35a-92d1-57e044e600e8,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-9fde-782e143b4e53,CAPE_C-5d1a1d,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+8704c44c-8b97-e35a-e3cd-b317db7fb003,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-e3cd-b317db7fb003,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-688c-ea775144f4bb,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-5cad-8913f2fcf225,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-6ddc-9b6ad197ea89,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-b763-27fb3f13bc85,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-667c-d6c79bea6068,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-d870-61e35d32c493,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-6d8a-860359b233cf,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-9338-989aedbc38ca,CAPE_C-5d1a1d,DIAGNOSIS,gum disease
+8704c44c-8b97-e35a-9338-989aedbc38ca,CAPE_C-5d1a1d,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+8704c44c-8b97-e35a-44e8-3b749dffd3b5,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-ec46-41d3d77b2875,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-6e51-16696027185b,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-9f4c-20f49688400e,CAPE_C-5d1a1d,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+8704c44c-8b97-e35a-9ef3-fd65cec46bd3,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,DIAGNOSIS,acute bronchitis
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,DIAGNOSIS,a chest cold
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,MEDICATION,Acetaminophen 325 MG Oral Tablet
+8704c44c-8b97-e35a-b914-38d4f6cb703c,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-2fec-b998ccfb8e70,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-2fec-b998ccfb8e70,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-8bf4-d415824e336e,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-980a-1bd4e7907ad2,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-980a-1bd4e7907ad2,CAPE_C-5d1a1d,DIAGNOSIS,miscarriage in second trimester
+8704c44c-8b97-e35a-980a-1bd4e7907ad2,CAPE_C-5d1a1d,DIAGNOSIS,fetus with chromosomal abnormality
+8704c44c-8b97-e35a-f902-3d84091bdbc1,CAPE_C-5d1a1d,DIAGNOSIS,fetus with chromosomal abnormality
+8704c44c-8b97-e35a-1053-a9918a9a4d1c,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-c7a5-8ca67e84156f,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-c7a5-8ca67e84156f,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-4824-4463e7e1996a,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-84bd-a0f8222e4753,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-5fe8-5d68a15bc63a,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-274a-4430c3625a1e,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-68d0-173b5d92db4c,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-7b1d-fad02e9110fa,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-7ee3-5e856a01f390,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-e16e-ad8ea9eaf742,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-95a6-b00a67bc5d4e,CAPE_C-5d1a1d,DIAGNOSIS,normal pregnancy
+8704c44c-8b97-e35a-db6f-8470dcc4091c,CAPE_C-5d1a1d,DIAGNOSIS,gum inflammation
+8704c44c-8b97-e35a-db6f-8470dcc4091c,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,DIAGNOSIS,gingivitis
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,DIAGNOSIS,gingival disease
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,DIAGNOSIS,leaking dental filling
+8704c44c-8b97-e35a-44a8-918996e71417,CAPE_C-5d1a1d,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+8704c44c-8b97-e35a-8f30-e0e86d923687,CAPE_C-5d1a1d,MEDICATION,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]
+8704c44c-8b97-e35a-e0a0-a2fbc2b6f213,CAPE_C-5d1a1d,DIAGNOSIS,gum inflammation
+8704c44c-8b97-e35a-e0a0-a2fbc2b6f213,CAPE_C-5d1a1d,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+8704c44c-8b97-e35a-3cd1-8dbcbcbf00d4,CAPE_C-5d1a1d,DIAGNOSIS,gum inflammation
+8704c44c-8b97-e35a-3cd1-8dbcbcbf00d4,CAPE_C-5d1a1d,DIAGNOSIS,dental filling lost

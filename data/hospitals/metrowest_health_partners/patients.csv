@@ -1,0 +1,15 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+METROW-c247fb,Josef,,Champlin,06/15/1986,False,M,530 Goodwin Mission Suite 74,Marlborough,Massachusetts,01752,
+METROW-a11d75,F.,,Bechtelar,"Nov 5, 2017",False,F,,Sudbury,Massachusetts,,999-60-1644
+METROW-9d727d,A.,,Krajcik,2000-09-17,False,M,,Concord,Massachusetts,,999-22-5151
+METROW-61630f,Bebe,Miss,Larkin,"Nov 5, 1964",False,F,1011 Paucek Trafficway Suite 37,Wellesley,Massachusetts,02481,
+METROW-1f35d4,Zachariah,,Morar,1963-09-25,True,M,307 Sauer Wynd Unit 22,Maynard,Massachusetts,01754,999-67-9987
+METROW-d2cc11,C.,,Gaylord,11-01-1972,False,F,,Westford,Massachusetts,,
+METROW-2549bd,Francine,,Hyatt,"Oct 8, 1984",False,F,,Marlborough,Massachusetts,,
+METROW-f81d19,N.,,Wiza,10-08-1984,False,F,,Marlborough,Massachusetts,,
+METROW-0fe329,J.,,Abbott,11/07/1999,False,F,,Acton,Massachusetts,,
+METROW-f498eb,Rogelio,Prince,Monahan,1961-12-18,False,M,654 Harris Viaduct Apt 56,Sudbury,Massachusetts,00000,999-96-5090
+METROW-1bc0a3,W.,,Haley,10-09-1998,False,M,382 Torp Frontage road,Mendon,Massachusetts,00000,999-42-9141
+METROW-c414c1,M.,,Rendón,"Jun 21, 1985",True,F,,Northbridge,Massachusetts,,999-32-2672
+METROW-c330ba,Tony,,Schoen,11/30/1985,False,M,651 Brown Rue Suite 81,Framingham,Massachusetts,01701,
+METROW-d2f872,Barbra,Yaeko,Schaefer,02/11/1998,False,F,158 Cormier Overpass,Stow,Massachusetts,00000,999-35-5297

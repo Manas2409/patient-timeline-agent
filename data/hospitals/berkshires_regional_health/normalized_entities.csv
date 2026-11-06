@@ -1,0 +1,41 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,ENTITY_TEXT,CANONICAL,MATCH_METHOD,MATCH_SCORE
+d21fc5fa-6dc5-8058-e632-38d1e7468329,BERKSH-591a1c,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+d21fc5fa-6dc5-8058-e632-38d1e7468329,BERKSH-591a1c,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+d21fc5fa-6dc5-8058-e632-38d1e7468329,BERKSH-591a1c,MEDICATION,Gel,Gel,unmapped,0.0
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,DIAGNOSIS,lace,lace,unmapped,0.0
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,SYMPTOM,laceration,Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm,ambiguous,1.0
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+d21fc5fa-6dc5-8058-e1c1-05787c5051d5,BERKSH-591a1c,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+d21fc5fa-6dc5-8058-e719-9e37f1a2b82c,BERKSH-591a1c,SYMPTOM,sore,sore,unmapped,0.0
+d21fc5fa-6dc5-8058-e719-9e37f1a2b82c,BERKSH-591a1c,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+d21fc5fa-6dc5-8058-57ae-c3622afc213f,BERKSH-591a1c,SYMPTOM,cold,cold,unmapped,0.0
+d21fc5fa-6dc5-8058-57ae-c3622afc213f,BERKSH-591a1c,SYMPTOM,cold,cold,unmapped,0.0
+d21fc5fa-6dc5-8058-57ae-c3622afc213f,BERKSH-591a1c,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+d21fc5fa-6dc5-8058-de3a-a521dc09a203,BERKSH-591a1c,DIAGNOSIS,gum,gum,unmapped,0.0
+d21fc5fa-6dc5-8058-de3a-a521dc09a203,BERKSH-591a1c,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+d21fc5fa-6dc5-8058-de3a-a521dc09a203,BERKSH-591a1c,MEDICATION,Gel,Gel,unmapped,0.0
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,SYMPTOM,pain,pain,unmapped,0.0
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,SYMPTOM,pain,pain,unmapped,0.0
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,SYMPTOM,pain,pain,unmapped,0.0
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+d21fc5fa-6dc5-8058-aa5b-388cb64b40ba,BERKSH-591a1c,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+d21fc5fa-6dc5-8058-d7b7-ce56295cecbe,BERKSH-591a1c,DIAGNOSIS,Unhealth,Unhealth,unmapped,0.0
+d21fc5fa-6dc5-8058-d7b7-ce56295cecbe,BERKSH-591a1c,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+d537941e-1fb7-9868-8717-7fea5ee200fb,BERKSH-ee35ac,SYMPTOM,weight,weight,unmapped,0.0
+d537941e-1fb7-9868-1651-bbb5f408602a,BERKSH-ee35ac,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+d537941e-1fb7-9868-1651-bbb5f408602a,BERKSH-ee35ac,SYMPTOM,light,Blighted ovum,fuzzy,1.0
+d537941e-1fb7-9868-c545-2a83ce132cf3,BERKSH-ee35ac,MEDICATION,Etonogestrel,Etonogestrel | etonogestrel,ambiguous,1.0
+d537941e-1fb7-9868-7da8-3bda69443e56,BERKSH-ee35ac,DIAGNOSIS,viral sinus,Viral sinusitis,fuzzy,1.0
+d537941e-1fb7-9868-7da8-3bda69443e56,BERKSH-ee35ac,DIAGNOSIS,viral sinusitis,Viral sinusitis,exact_synonym,1.0
+d537941e-1fb7-9868-6deb-ea0ea4b14b1f,BERKSH-ee35ac,MEDICATION,nor,nor,unmapped,0.0
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,DIAGNOSIS,streptococcal,Streptococcal sore throat,fuzzy,1.0
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,SYMPTOM,sore,sore,unmapped,0.0
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,DIAGNOSIS,strept,Streptococcal sore throat,fuzzy,1.0
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,DIAGNOSIS,cca,cca,unmapped,0.0
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,SYMPTOM,sore,sore,unmapped,0.0
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,MEDICATION,Potassium,Penicillin V Potassium | losartan potassium,ambiguous,1.0
+d537941e-1fb7-9868-2cc4-a4db85820d10,BERKSH-ee35ac,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+d537941e-1fb7-9868-2cc4-a4db85820d10,BERKSH-ee35ac,MEDICATION,Gel,Gel,unmapped,0.0
+d537941e-1fb7-9868-ecc5-6b032a931f99,BERKSH-ee35ac,SYMPTOM,sore throat,Sore throat | Streptococcal sore throat,ambiguous,1.0
+d537941e-1fb7-9868-ecc5-6b032a931f99,BERKSH-ee35ac,SYMPTOM,sore throat,Sore throat | Streptococcal sore throat,ambiguous,1.0

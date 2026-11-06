@@ -1,0 +1,946 @@
+{
+  "cluster_id": "4",
+  "hospitals": [
+    "Cape Cod & Islands Health",
+    "South Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "2004-03-03",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2006-03-15",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Risk",
+          "canonical": "Risk",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2007-03-21",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2011-07-19",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Blighted ovum (disorder)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2014-01-31",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2014-02-07",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Opioid abuse",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "opioid",
+          "canonical": "Opioid abuse",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "op",
+          "canonical": "op",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-10-14",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "SOUTH SHORE PRIMARY AND URGENT CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-03-16",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-22T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-22T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-02",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ethinyl Estradiol",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-08-28T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norelgestromin",
+          "canonical": "norelgestromin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-08-28T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-22",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full",
+          "canonical": "Full",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-04-03"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-28T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-28T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-08-23T17:38:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-06",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2018-03-07",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2018-03-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-04-03T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-04-03T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-06",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2018-09-05",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2018-10-15",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2018-12-05",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2019-03-06",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2019-04-03",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight gain",
+          "canonical": "weight gain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-08T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-08T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-17",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2019-06-05",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2019-09-04",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-04",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-04",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2020-04-08",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-04-14T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-04-14T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-22",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-22T20:03:25Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-03",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2020-09-02",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2020-10-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2020-11-25",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2020-12-23",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-01-20",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-17",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-17",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-14",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-05-01"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-21"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-20T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-20T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-21",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-04-28T22:36:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-19",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-02",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-14",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-10-13",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2021-11-10",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2022-04-20",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-26T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-26T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-02",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-07-28T17:38:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-26",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-19T09:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-19T09:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-10",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-19"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-19T09:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-21T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-21T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-21",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "SOUTH SHORE PRIMARY AND URGENT CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-01T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-01T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2023-10-25",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2023-11-22",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-29",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Fetus with chromosomal abnormality (disorder)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-05-01",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-07T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-07T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-31",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-25",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-10-23",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-11-20",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-12-18",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2025-01-15",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2025-02-12",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2025-02-26",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-05",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2025-04-16",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2025-05-07",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-13T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-13T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-21",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-05-21"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2025-05-21"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-22T00:10:27Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-18T17:19:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ine System",
+          "canonical": "HR Intrauterine System",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-18T17:19:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2026-05-13",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "buprenorphine",
+          "canonical": "buprenorphine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "naloxone",
+          "canonical": "naloxone",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARTHA'S VINEYARD HOSPITAL INC",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Opioid abuse",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

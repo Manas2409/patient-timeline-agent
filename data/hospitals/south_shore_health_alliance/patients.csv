@@ -1,0 +1,14 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+SOUTH_-876f47,Esperanza,Rachell,Auer,"Jul 19, 2015",False,F,666 Ebert Lodge,Taunton,Massachusetts,02718,
+SOUTH_-a1fb3a,Benedict,,Gibson,11/08/1960,False,M,198 Bauch Flat Apt 27,Barnstable,Massachusetts,02668,
+SOUTH_-35094a,E.,,Waters,02-06-2015,False,F,1056 Skiles Skyway,Foxborough,Massachusetts,02035,999-13-4971
+SOUTH_-394788,Theressa,Tabatha,Carroll,12/23/1979,False,F,616 Satterfield Key,Weymouth,Massachusetts,02191,999-96-4488
+SOUTH_-a09a50,Emmanuel,,Considine,1956-10-18,False,M,,Hanover,Massachusetts,,
+SOUTH_-e66f8b,Aurelio,,Eichmann,04/04/1942,False,M,154 Weimann Orchard,Mattapoisett,Massachusetts,00000,999-95-3958
+SOUTH_-29ef9d,Reynalda,,Leuschke,2007-06-28,False,F,439 Adams Route,Norton Center,Massachusetts,00000,999-71-6952
+SOUTH_-8d7313,Rosanne,Ivana,Koch,1989-01-18,False,F,117 Hartmann Wynd Unit 98,Oak Bluffs,Massachusetts,00000,
+SOUTH_-65488f,Manuel,,Frami,1981-01-08,False,M,,Canton,Massachusetts,,
+SOUTH_-0a9f25,Brady,,Olson,1980-01-13,False,M,691 Morissette Frontage road,Easton,Massachusetts,00000,999-69-3762
+SOUTH_-f82c25,John,Bill,D'Amore,1994-05-08,False,M,,Middleborough Center,Massachusetts,,999-42-1045
+SOUTH_-977c95,Booker,,Jakubowski,2020-08-14,False,M,,Brockton,Massachusetts,,
+SOUTH_-04256a,Mathilde,,Hettinger,1980-09-21,False,F,,Marshfield,Massachusetts,,999-78-5034

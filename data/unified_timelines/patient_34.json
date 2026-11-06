@@ -1,0 +1,950 @@
+{
+  "cluster_id": "34",
+  "hospitals": [
+    "Greater Boston Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2004-01-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": []
+    },
+    {
+      "date": "2009-04-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2014-02-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2014-04-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2015-02-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "prediabetes",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anemia",
+          "canonical": "Anemia",
+          "match_method": "exact_synonym"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vitamin B12",
+          "canonical": "Vitamin B",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-02-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-25T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-02-25T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-25T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-09-06T10:11:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2016-12-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2017-02-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-03T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-03-03T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-03T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-04-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2017-07-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2017-09-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2017-12-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2018-03-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-09T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-03-09T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-09T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2018-05-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2018-05-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2018-09-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-08-27T10:11:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-14T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-03-14T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-14T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-08-21T10:11:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-08-21T10:11:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gi",
+          "canonical": "gi",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-03-28"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-20T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-03-20T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-20T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-03-28"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum",
+          "canonical": "gum",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-08-16T10:11:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-26T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-03-26T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-26T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2021-08-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Etonogestrel",
+          "canonical": "Etonogestrel | etonogestrel",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-08-11T10:31:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2021-11-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2022-03-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-01T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-04-01T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-01T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ib",
+          "canonical": "Ib",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-04-01T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-09T12:48:06Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-04-09T12:48:06Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-02-04T10:26:44Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-24"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Impacted molars (disorder)",
+      "seen_at": "JOHN ADAMS HEALTHCARE CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "impacted",
+          "canonical": "Impacted molars",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "impacted",
+          "canonical": "Impacted molars",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-10T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "HYDROcodone Bitartrate",
+          "canonical": "HYDROcodone Bitartrate | Hydrocodone Bitartrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-10T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2023-03-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2023-04-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-06T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-04-06T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-06T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2023-04-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-04-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-12T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-04-12T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-12T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-06-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-07-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-08-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-08-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-09-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-10-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-11-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2024-12-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2025-01-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2025-01-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "JOHN ADAMS HEALTHCARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2025-01-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-27"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2025-03-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-02-24T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-02-24T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-18T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-04-18T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-18T09:55:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ib",
+          "canonical": "Ib",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-04-18T09:55:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-26T12:12:20Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-04-26T12:12:20Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "ARBOUR HOSPITAL  THE",
+      "entities": []
+    },
+    {
+      "date": "2026-04-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HEALTH CARE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,251 @@
+{
+  "cluster_id": "51",
+  "hospitals": [
+    "MetroWest Health Partners"
+  ],
+  "timeline": [
+    {
+      "date": "2017-11-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2017-12-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2018-02-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2018-04-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2018-07-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2018-10-14",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2019-01-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2019-02-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "otitis",
+          "canonical": "Otitis media",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-04-14"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Cefuroxime",
+          "canonical": "Cefuroxime",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-14T17:44:55Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-14T17:44:55Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-14",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2019-10-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2020-04-12",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2020-04-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-19T20:49:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2020-10-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": []
+    },
+    {
+      "date": "2020-12-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2021-10-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2021-10-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": []
+    },
+    {
+      "date": "2022-10-16",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2022-10-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": []
+    },
+    {
+      "date": "2023-10-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2024-10-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2025-11-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2026-05-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

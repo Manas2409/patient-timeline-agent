@@ -1,0 +1,335 @@
+{
+  "cluster_id": "38",
+  "hospitals": [
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2019-02-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2019-03-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2019-06-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2019-11-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2020-01-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-09T22:17:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2020-02-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-03-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "otitis",
+          "canonical": "Otitis media",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-03"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-04-03T16:04:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-03T16:04:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Shellfish (substance)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-04-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Fexofenadine hydrochloride",
+          "canonical": "Fexofenadine hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Shellfish",
+          "canonical": "Shellfish",
+          "match_method": "fuzzy",
+          "reaction": "Anaphylaxis (disorder)",
+          "severity": "SEVERE"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2020-08-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2021-01-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2021-08-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2022-01-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2022-07-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2023-01-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2023-05-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Seasonal allergic rhinitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhini",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-02-04"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-31T16:04:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2024-02-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-02-11T19:18:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-02-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Azithromycin",
+          "canonical": "Azithromycin | HR",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-09-15T16:04:26Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-09-15T16:04:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2026-02-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GREATER LOWELL FAMILY PRACTICE PC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Shellfish (substance)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

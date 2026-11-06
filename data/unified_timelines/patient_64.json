@@ -1,0 +1,1058 @@
+{
+  "cluster_id": "64",
+  "hospitals": [
+    "Norfolk County Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "1995-04-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Chronic intractable migraine without aura (disorder)",
+      "seen_at": "STOUGHTON PUBLIC HEALTH ASSOCIATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "migraine",
+          "canonical": "Chronic intractable migraine without aura",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "migraine",
+          "canonical": "Chronic intractable migraine without aura",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1995-06-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Impacted molars (disorder)",
+      "seen_at": "STOUGHTON PUBLIC HEALTH ASSOCIATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "impacted",
+          "canonical": "Impacted molars",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "impacted",
+          "canonical": "Impacted molars",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "1996-12-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dependent drug",
+          "canonical": "Dependent drug abuse",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "dependent",
+          "canonical": "Dependent drug abuse",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1999-03-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Only",
+          "canonical": "Only",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "primary school",
+          "canonical": "primary school",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2000-10-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Overdose (disorder)",
+      "seen_at": "STOUGHTON PUBLIC HEALTH ASSOCIATION",
+      "entities": []
+    },
+    {
+      "date": "2003-03-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2006-03-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2009-03-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2009-04-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2009-08-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Overdose (disorder)",
+      "seen_at": "STOUGHTON PUBLIC HEALTH ASSOCIATION",
+      "entities": []
+    },
+    {
+      "date": "2009-09-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2009-10-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2009-11-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2009-12-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dependent",
+          "canonical": "Dependent drug abuse",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-31",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-01-30",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-03-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-03-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Homeless (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-03-31",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-04-30",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-05-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Homeless (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-05-30",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dependent drug",
+          "canonical": "Dependent drug abuse",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2010-07-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Homeless (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-08-14",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Homeless (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-08-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "inpatient",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "drug",
+          "canonical": "drug",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2010-09-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Homeless (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-11-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Homeless (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2010-12-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Homeless (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2011-07-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dependent drug",
+          "canonical": "Dependent drug abuse",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2011-11-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2012-01-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2012-02-06",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2012-03-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-03-22T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-03-22T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2012-04-21",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-03-28T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2012-06-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2012-07-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-07-15"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2012-07-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "inpatient",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2012-08-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2012-10-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "drug",
+          "canonical": "drug",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2012-11-21",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dependent",
+          "canonical": "Dependent drug abuse",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2012-12-21",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2013-03-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-03T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-03T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-04-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-04-11T18:35:18Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-07-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Overdose (disorder)",
+      "seen_at": "STOUGHTON PUBLIC HEALTH ASSOCIATION",
+      "entities": []
+    },
+    {
+      "date": "2013-07-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Overdose (disorder)",
+      "seen_at": "STOUGHTON PUBLIC HEALTH ASSOCIATION",
+      "entities": []
+    },
+    {
+      "date": "2013-08-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "inpatient",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "drug",
+          "canonical": "drug",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2013-11-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2013-12-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dependent drug",
+          "canonical": "Dependent drug abuse",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2014-01-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-02-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-04-03T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ib",
+          "canonical": "Ib",
+          "match_method": "unmapped",
+          "outcome": "resolved 2014-04-03T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-02-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-02-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-02-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-02-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-02-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-02-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-02-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-04-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-09T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-09T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-09T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-04-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrocodone Bitartrate",
+          "canonical": "HYDROcodone Bitartrate | Hydrocodone Bitartrate",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2014-07-29",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-08-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-09-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-10-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2014-11-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2015-04-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-04-14T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-04-14T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-04-14T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-04-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2016-04-14",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-20T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-20T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-04-20T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-04-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-04-28T17:57:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-05-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "drug",
+          "canonical": "drug",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2016-05-31",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dependent",
+          "canonical": "Dependent drug abuse",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-04-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-04-26T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-04-26T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-04-26T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-04-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-05-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-02-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-03-14",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-04-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Dependent drug abuse (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-04-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-03T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-03T15:44:09Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-03T15:44:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "NEW ENGLAND SINAI HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-09-23",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Overdose (disorder)",
+      "seen_at": "STOUGHTON PUBLIC HEALTH ASSOCIATION",
+      "entities": []
+    },
+    {
+      "date": "2018-10-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "Overdose (disorder)",
+      "seen_at": "FAMILY MEDICAL ASSOCIATES  P.C.",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

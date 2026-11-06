@@ -1,0 +1,11 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+NORTH_-879e5f,1999-01-03,Allergic disposition (finding),,
+NORTH_-c76981,2005-11-11,Allergic disposition (finding),,
+NORTH_-c76981,2005-11-11,Bee venom (substance),Eruption of skin (disorder),MODERATE
+NORTH_-c76981,2005-11-11,Mold (organism),Cutaneous hypersensitivity (disorder),MILD
+NORTH_-c76981,2005-11-11,House dust mite (organism),,
+NORTH_-c76981,2005-11-11,Animal dander (substance),Rhinoconjunctivitis (disorder),MODERATE
+NORTH_-c76981,2005-11-11,Grass pollen (substance),,
+NORTH_-c76981,2005-11-11,Tree pollen (substance),,
+NORTH_-c76981,2005-11-11,Cow's milk (substance),,
+NORTH_-7c56c1,2007-01-28,Allergic disposition (finding),,

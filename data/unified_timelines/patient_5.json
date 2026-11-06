@@ -1,0 +1,773 @@
+{
+  "cluster_id": "5",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Norfolk County Health Network",
+    "North Central Mass Health"
+  ],
+  "timeline": [
+    {
+      "date": "1966-08-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": []
+    },
+    {
+      "date": "1985-08-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Blighted ovum (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "blight",
+          "canonical": "Blighted ovum",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "1990-06-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": []
+    },
+    {
+      "date": "1999-06-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "high blood pressure",
+          "canonical": "Essential hypertension",
+          "match_method": "exact_synonym"
+        }
+      ]
+    },
+    {
+      "date": "2008-08-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": []
+    },
+    {
+      "date": "2012-09-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": []
+    },
+    {
+      "date": "2013-09-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": []
+    },
+    {
+      "date": "2013-10-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2014-09-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": []
+    },
+    {
+      "date": "2015-09-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-09-27T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-09-27T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-10-03"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-10-03T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-10-03T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-10-16"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2017-10-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-10-09T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-10-09T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-10-17T09:29:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-10-15T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-10-15T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-10-23T10:08:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronary artery disease",
+          "canonical": "Ischemic heart disease",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-31T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-31T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2019-11-05",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2019-11-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "corona",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Disease caused by severe acute respiratory syndrome coronavirus 2 | History of coronary artery bypass grafting | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-12",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2019-12-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronch",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-02"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronch",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-02"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-02T08:56:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-02T08:56:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-02T08:56:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-31",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-20T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-20T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-10-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-10-26T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-10-26T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-02-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-03-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-10-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-01T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-01T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-11-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-11-07T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-11-07T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-06-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "hospice",
+      "reason": "Alzheimer's disease (disorder)",
+      "seen_at": "NEW ENGLAND HOSPICE II LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "alzheimer",
+          "canonical": "Alzheimer's disease",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-11-12T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-11-12T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "SOUTH SHORE HOSPITAL INC.",
+      "entities": []
+    },
+    {
+      "date": "2024-11-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-18T06:35:38Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-18T06:35:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BRAINTREE FAMILY PHYSICIAN INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "alzheimer's",
+          "canonical": "Alzheimer's disease",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alendronic acid",
+          "canonical": "Alendronic acid",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Galantamine",
+          "canonical": "Galantamine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "SYMPTOM",
+      "canonical": "Blighted ovum",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Essential hypertension",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Loss of teeth",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Ischemic heart disease",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bronchitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

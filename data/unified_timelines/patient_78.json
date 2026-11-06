@@ -1,0 +1,434 @@
+{
+  "cluster_id": "78",
+  "hospitals": [
+    "North Central Mass Health",
+    "North Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "1966-03-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "inpatient",
+      "reason": "Appendicitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ici",
+          "canonical": "ici",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1981-05-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "1985-05-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "prediabetes",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2003-03-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2011-04-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronary artery",
+          "canonical": "History of coronary artery bypass grafting",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2011-05-04",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2011-05-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2013-03-16",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-04-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2017-04-08",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2018-03-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-04-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2018-04-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-04-28"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-04-28T08:17:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-05-04"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-04-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-05-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-08",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-12-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-01-07"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-07",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2023-03-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "CROWN HOME HEALTHCARE MA  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-08T02:17:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-05-13",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2023-05-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-05-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2025-05-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate",
+          "canonical": "intimate",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-05-30"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE NORTH PC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-13",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-06-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-07-05"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "History of coronary artery bypass grafting",
+      "reported_by": [
+        "North Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "North Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "cluster_id": "101",
+  "hospitals": [
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1999-07-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "partner",
+          "canonical": "partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-05"
+        }
+      ]
+    },
+    {
+      "date": "2000-07-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2005-06-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Contact dermatitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrocortisone",
+          "canonical": "Hydrocortisone",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2005-06-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fexofenadine hydrochloride",
+          "canonical": "Fexofenadine hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "all",
+          "canonical": "all",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "Allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Allergic disposition",
+          "canonical": "Allergic disposition",
+          "match_method": "fuzzy",
+          "reaction": "",
+          "severity": ""
+        }
+      ]
+    },
+    {
+      "date": "2006-08-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2012-08-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2013-02-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Tubal pregnancy (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2015-08-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2016-03-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyPROGESTERone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-03-01T22:56:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2016-12-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-01-01"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-01-01"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-20T01:28:01Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-12-20T01:28:01Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-02-24T23:08:45Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-02-19T23:08:45Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2018-08-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2019-02-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "yl est",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ti",
+          "canonical": "ti",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ness",
+          "canonical": "ness",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-14T23:08:45Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-22",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-14",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-02-08T23:26:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-07T17:36:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2021-05-31",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2022-02-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "yl est",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-02T17:36:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-28",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2023-06-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-20"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-28",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-01-22T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-01-22T17:36:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-22T17:36:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight gain",
+          "canonical": "weight gain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part-time employment",
+          "canonical": "Part-time employment",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2026-03-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

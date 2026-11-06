@@ -1,0 +1,723 @@
+{
+  "cluster_id": "40",
+  "hospitals": [
+    "Merrimack Valley Health Network",
+    "MetroWest Health Partners"
+  ],
+  "timeline": [
+    {
+      "date": "1990-12-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1992-10-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Tubal pregnancy (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "1995-01-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "prediabetes",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1998-01-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2001-01-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2014-01-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2015-09-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-08-30T16:49:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-08-30T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-02-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-05T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-01T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-10-25"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-10-25"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-07T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-08-20T17:04:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-03-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-13T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-06-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-08-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-08-19T09:47:45Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-09-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-12-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-03-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-03-27"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-18T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-03-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-06-19",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-09-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-11-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-09"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Complete miscarriage (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-03-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-24T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-08-08T09:47:45Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-30T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-07-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-03-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-05T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-04-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-10T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-16T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-24T22:16:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-04-24T22:16:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "BEAR MT WESTFORD LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-06-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Burn injury (morphologic abnormality)",
+      "seen_at": "LIFE CARE CENTER OF ACTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "burn injury",
+          "canonical": "Burn injury (morphologic abnormality)",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-17"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "burn injury",
+          "canonical": "Burn injury (morphologic abnormality)",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-17"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "burn",
+          "canonical": "burn",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminoph",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-17T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Epidermal burn of skin (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "burn",
+          "canonical": "burn",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-22T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-10-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "BEAR MT WESTFORD LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-10-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Burn injury (morphologic abnormality)",
+      "seen_at": "LIFE CARE CENTER OF ACTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "burn injury",
+          "canonical": "Burn injury (morphologic abnormality)",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-25"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "burn injury",
+          "canonical": "Burn injury (morphologic abnormality)",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-25"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "burn",
+          "canonical": "burn",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-25T16:49:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Epidermal burn of skin (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "burn",
+          "canonical": "burn",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Osteoarthritis of hip (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "os",
+          "canonical": "os",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTFORD INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-07-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "THE LOWELL GENERAL HOSPITAL",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Prediabetes",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Burn injury (morphologic abnormality)",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

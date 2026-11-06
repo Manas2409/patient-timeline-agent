@@ -1,0 +1,324 @@
+{
+  "cluster_id": "23",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "1997-11-22",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "1998-11-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2002-12-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2008-12-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2020-10-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-24T13:34:23Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "SUTTON HILL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-01-14"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-02-01T11:47:18Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-02-05"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "acute respiratory syndrome coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-02-05"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2022-01-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronch",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-12"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-12T12:01:01Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HALLMARK HEALTH URGENT CARE PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-02-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2022-10-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-29T14:04:34Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-10-29T14:04:34Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-19",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTH READING INTERNAL MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Burn injury (morphologic abnormality)",
+      "seen_at": "SUTTON HILL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "burn",
+          "canonical": "burn",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-08-08"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "burn",
+          "canonical": "burn",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-08-08"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "burn",
+          "canonical": "burn",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-08-08T11:47:18Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "BEAR MT READING LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-08-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Epidermal burn of skin (disorder)",
+      "seen_at": "TUFTS MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "burn",
+          "canonical": "burn",
+          "match_method": "unmapped"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bronchitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

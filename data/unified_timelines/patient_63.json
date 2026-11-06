@@ -1,0 +1,1120 @@
+{
+  "cluster_id": "63",
+  "hospitals": [
+    "Norfolk County Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2006-03-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Wheat (substance)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2006-04-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Fexofenadine hydrochloride",
+          "canonical": "Fexofenadine hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Shellfish",
+          "canonical": "Shellfish",
+          "match_method": "fuzzy",
+          "reaction": "Eruption of skin (disorder)",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "date": "2010-02-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Perennial allergic rhinitis with seasonal variation (disorder)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2015-03-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Adolescent idiopathic scoliosis (disorder)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "scolio",
+          "canonical": "Adolescent idiopathic scoliosis",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "scoliosis",
+          "canonical": "Adolescent idiopathic scoliosis",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-01-05",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-01-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-30",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-01-30T19:35:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-04-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-05-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-06-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-07-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-30",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-10-23",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-11-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-01-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-01-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-01-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-05",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-05T19:11:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-02-05T19:11:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-04-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-30",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-07-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-09-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-10-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-10-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-23",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-12-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-01-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-02-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-02-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-11T18:12:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-03-23",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-05",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-07-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-08-21",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-09-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Shellfish (substance)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-10-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-31",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-12-21",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-02-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic disposition",
+          "canonical": "allergic disposition",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-03-06",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-04-24",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-05-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-06-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-07-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-08-21",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-09-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-11-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-18",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-01-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-02-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-02-14",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-28T18:39:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ADAPS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-08-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-08-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-09-04"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-04T16:03:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-04T16:03:57Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-04T16:03:57Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Sprain (morphologic abnormality)",
+      "seen_at": "NORWOOD HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-02-27"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-02-27"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-27T15:49:39Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

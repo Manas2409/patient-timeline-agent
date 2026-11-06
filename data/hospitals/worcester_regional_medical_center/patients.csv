@@ -1,0 +1,9 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+WORCES-390062,Guillermo,,VonRueden,01-16-1978,False,M,733 Boehm Ville,North Brookfield,Massachusetts,01535,999-55-9547
+WORCES-106f71,Josef,,Champlin,"Jun 15, 1986",False,M,530 Goodwin Mission Suite 74,Marlborough,Massachusetts,01752,999-34-9423
+WORCES-3330be,Brock,Toby,Lockman,12/06/1991,False,M,799 Ledner Landing,Webster,Massachusetts,01570,999-48-1543
+WORCES-edee44,Eleonor,,Mosciski,"Oct 1, 2006",False,F,974 Ziemann Approach Apt 34,Webster,Massachusetts,01570,999-62-1779
+WORCES-1a6cdb,W.,,Haley,10-09-1998,False,M,382 Torp Frontage road,Mendon,Massachusetts,00000,999-42-9141
+WORCES-c121ad,Micaela,,Rendón,06-12-1985,False,F,,Northbridge,Massachusetts,,
+WORCES-c3dcd8,Micah,Sherie,Hirthe,05/27/1990,False,F,,Holden,Massachusetts,,
+WORCES-992abe,Madalyn,,Crist,12-29-1994,False,F,711 Hyatt Glen,Leicester,Massachusetts,00000,

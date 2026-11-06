@@ -1,0 +1,926 @@
+{
+  "cluster_id": "72",
+  "hospitals": [
+    "North Central Mass Health",
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1955-12-04",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Perennial allergic rhinitis with seasonal variation (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "diphenhydrAMINE Hydrochloride",
+          "canonical": "diphenhydrAMINE Hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1955-12-11",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Sulfamethoxazole",
+          "canonical": "sulfamethoxazole",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Trimeth",
+          "canonical": "trimethoprim",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Sulfamethoxazole / Trimethoprim",
+          "canonical": "Sulfamethoxazole / Trimethoprim",
+          "match_method": "fuzzy",
+          "reaction": "Wheal (finding)",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "date": "1971-07-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "1990-07-31",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "1990-10-02",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anemia",
+          "canonical": "Anemia",
+          "match_method": "exact_synonym"
+        }
+      ]
+    },
+    {
+      "date": "1990-10-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Vitamin B12",
+          "canonical": "Vitamin B",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1995-05-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1999-12-31",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Localized  primary osteoarthritis of the hand (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "primary osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "oste",
+          "canonical": "oste",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-09-03T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2006-10-31",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2006-10-31",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Preinfarction syndrome (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "preinfarction",
+          "canonical": "Preinfarction syndrome",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "heart attack",
+          "canonical": "heart attack",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "rosuvastatin calcium",
+          "canonical": "rosuvastatin calcium",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "losartan potassium",
+          "canonical": "losartan potassium",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "prasugrel",
+          "canonical": "prasugrel",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2014-07-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2014-08-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-17T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-07-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-08-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-08-16T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-08-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-08-15T14:54:52Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-08-15T14:54:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-16T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-08-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-08-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-08-16T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-25T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-09-03T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-08-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-08-25T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-05-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-06-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-06-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-07-17"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-07-17"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-07-17T12:24:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-08-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-08-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-06T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-02-05"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-02-05"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-05T15:10:58Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-05T15:10:58Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-05T15:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2022-08-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-09-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-06T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-09-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-09-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-09-17T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "CENTRAL HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "CENTRAL HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "CENTRAL HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "CENTRAL HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "CENTRAL HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-28",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "home",
+      "reason": "Transition from acute care to home-health care (finding)",
+      "seen_at": "CENTRAL HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2024-07-04",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2024-09-10",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-17T12:10:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VANTAGE HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-09-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "ALLERGY",
+      "canonical": "Sulfamethoxazole / Trimethoprim",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Anemia",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Localized  primary osteoarthritis of the hand",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Preinfarction syndrome",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

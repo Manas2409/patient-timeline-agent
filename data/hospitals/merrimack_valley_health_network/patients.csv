@@ -1,0 +1,24 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+MERRIM-70dd97,Jayne,,Bruen,02-11-2001,False,F,305 Weimann Underpass,Bedford,Massachusetts,01730,999-32-1995
+MERRIM-80b959,Stephine,,Christiansen,2001-05-20,False,F,770 Ebert Road,Woburn,Massachusetts,01890,999-30-4092
+MERRIM-2bdac4,Ali,,Krajcik,2000-09-17,False,M,,Concord,Massachusetts,,999-22-5151
+MERRIM-0ac500,Raphael,,McLaughlin,11/12/1973,False,M,112 Wuckert Course Suite 5,Saugus,Massachusetts,01906,
+MERRIM-078e57,Byron,Carmen,Emard,12/14/2009,False,M,846 Green Estate Unit 47,North Andover,Massachusetts,00000,999-92-6564
+MERRIM-f92cfe,C.,,Jenkins,02/24/2019,False,M,737 VonRueden Fort,Lowell,Massachusetts,01850,999-12-8158
+MERRIM-786ca5,Zachariah,,Morar,1963-09-25,False,M,,Maynard,Massachusetts,,
+MERRIM-146d19,Clemencia,,Gaylord,11/01/1972,False,F,,Westford,Massachusetts,,
+MERRIM-ce076c,Christiana,,O'Kon,12/17/1990,False,F,,Tewksbury,Massachusetts,,999-89-3463
+MERRIM-6b9d10,Mario,,VonRueden,01-14-1990,False,F,821 O'Reilly Corner Apt 74,Tyngsborough,Massachusetts,00000,999-52-6267
+MERRIM-c498d3,Francine,,Hyatt,"Oct 8, 1984",False,F,,Marlborough,Massachusetts,,999-44-8196
+MERRIM-19b639,Lance,,Padberg,06/23/1964,False,M,1097 Macejkovic Heights,Boston,Massachusetts,02110,999-97-3286
+MERRIM-8b1e3e,Nilda,,Wiza,10-08-1984,False,F,270 Kuhlman Highlands Unit 88,Marlborough,Massachusetts,01752,
+MERRIM-70ea72,Bryce,,Stoltenberg,10/04/1980,False,M,870 Doyle Ranch,Reading,Massachusetts,01801,
+MERRIM-ac192b,Tonisha,,Grady,03/08/2009,False,F,172 Morissette Plaza Unit 35,Winchester,Massachusetts,01890,999-73-8463
+MERRIM-b32e00,J.,,Abbott,1999-11-07,False,F,,Acton,Massachusetts,,
+MERRIM-83325f,Benito,,Gulgowski,10/04/1980,False,M,,Reading,Massachusetts,,999-24-5790
+MERRIM-150703,Julian,,Walsh,"Oct 4, 1980",False,M,102 Littel Fort,Reading,Massachusetts,01801,999-49-4084
+MERRIM-1b72a6,R.,,Monahan,12/18/1961,False,M,654 Harris Viaduct Apt 56,Sudbury,Massachusetts,00000,
+MERRIM-fab223,T.,,VonRueden,"Jul 22, 1998",False,F,273 Turcotte Byway,Cambridge,Massachusetts,02139,
+MERRIM-c4f683,Marylee,,Fisher,2011-10-16,False,F,,Lowell,Massachusetts,,
+MERRIM-bacf17,C.,,Corwin,1944-10-11,False,M,566 Hartmann Parade,Boston,Massachusetts,02114,999-94-3814
+MERRIM-7383c4,Maurice,,Auer,03-25-1973,False,M,628 Emard Walk Suite 0,Andover,Massachusetts,01810,

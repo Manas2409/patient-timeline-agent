@@ -1,0 +1,347 @@
+{
+  "cluster_id": "9",
+  "hospitals": [
+    "Greater Boston Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2016-02-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-11-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "COURTYARD NURSING CARE CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-18T01:45:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-01-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-01-31"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus infection",
+          "canonical": "sinus infection",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-02-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of ankle (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2018-02-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-02-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2018-07-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-02"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-02T21:33:37Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-03-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-05T04:03:11Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Risk",
+          "canonical": "Risk",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-23T04:34:46Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-06-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2022-03-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-29T04:00:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-09-22T06:16:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-09-22T06:16:14Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-04-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-04T04:20:37Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-31"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-04-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WHITLEY WELLNESS LLC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

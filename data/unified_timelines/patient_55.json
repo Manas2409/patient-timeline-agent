@@ -1,0 +1,209 @@
+{
+  "cluster_id": "55",
+  "hospitals": [
+    "MetroWest Health Partners"
+  ],
+  "timeline": [
+    {
+      "date": "2002-10-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinus",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus infection",
+          "canonical": "sinus infection",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2004-01-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "APPLE MEDICAL CLINIC MA INC",
+      "entities": []
+    },
+    {
+      "date": "2008-02-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "APPLE MEDICAL CLINIC MA INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "obese",
+          "canonical": "Body mass index 40+ - severely obese",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "APPLE MEDICAL CLINIC MA INC",
+      "entities": []
+    },
+    {
+      "date": "2017-02-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "APPLE MEDICAL CLINIC MA INC",
+      "entities": []
+    },
+    {
+      "date": "2017-02-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": []
+    },
+    {
+      "date": "2019-10-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "APPLE MEDICAL CLINIC MA INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "borderline blood sugar",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "an",
+          "canonical": "an",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": ",",
+          "canonical": ",",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2020-03-07"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ferrous sulfate",
+          "canonical": "ferrous sulfate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vitamin B12",
+          "canonical": "Vitamin B",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-07"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": []
+    },
+    {
+      "date": "2021-02-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "entities": []
+    },
+    {
+      "date": "2023-02-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "APPLE MEDICAL CLINIC MA INC",
+      "entities": []
+    },
+    {
+      "date": "2025-12-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "APPLE MEDICAL CLINIC MA INC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

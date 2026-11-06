@@ -1,0 +1,277 @@
+{
+  "cluster_id": "65",
+  "hospitals": [
+    "Norfolk County Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "1986-05-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Shellfish (substance)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "1986-05-25",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic disposition",
+          "canonical": "allergic disposition",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Terfenadine",
+          "canonical": "Terfenadine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Shellfish",
+          "canonical": "Shellfish",
+          "match_method": "fuzzy",
+          "reaction": "Eruption of skin (disorder)",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "date": "2003-02-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BL HEALTHCARE INC DELEWARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Only",
+          "canonical": "Only",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "primary school",
+          "canonical": "primary school",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Lack",
+          "canonical": "Lack",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2004-02-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BL HEALTHCARE INC DELEWARE",
+      "entities": []
+    },
+    {
+      "date": "2007-02-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BL HEALTHCARE INC DELEWARE",
+      "entities": []
+    },
+    {
+      "date": "2016-02-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BL HEALTHCARE INC DELEWARE",
+      "entities": []
+    },
+    {
+      "date": "2019-03-01",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BL HEALTHCARE INC DELEWARE",
+      "entities": []
+    },
+    {
+      "date": "2019-03-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-01-03"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-01-03T15:41:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-01-03T15:41:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-06",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BL HEALTHCARE INC DELEWARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infect",
+          "canonical": "Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-06-08"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-06-08"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sulfamethoxazole",
+          "canonical": "sulfamethoxazole",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-06-08T16:06:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "trimethoprim",
+          "canonical": "trimethoprim",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-06-08T16:06:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BL HEALTHCARE INC DELEWARE",
+      "entities": []
+    },
+    {
+      "date": "2025-01-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-10-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Osteoarthritis of knee (disorder)",
+      "seen_at": "CURAHEALTH STOUGHTON LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "os",
+          "canonical": "os",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "os",
+          "canonical": "os",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

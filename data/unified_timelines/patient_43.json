@@ -1,0 +1,3055 @@
+{
+  "cluster_id": "43",
+  "hospitals": [
+    "Merrimack Valley Health Network",
+    "MetroWest Health Partners"
+  ],
+  "timeline": [
+    {
+      "date": "1984-10-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "inpatient",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibrosis",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1986-04-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Acute respiratory failure (disorder)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": []
+    },
+    {
+      "date": "1994-06-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Staphyl",
+          "canonical": "Infection caused by Staphylococcus aureus | Sepsis caused by Staphylococcus aureus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ccus",
+          "canonical": "ccus",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1995-11-14",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "diabetes mellitus",
+          "canonical": "Diabetes mellitus due to cystic fibrosis | Diabetes mellitus type 2 | Disorder of kidney due to diabetes mellitus | Microalbuminuria due to type 2 diabetes mellitus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1996-10-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "type 2 diabetes",
+          "canonical": "Diabetes mellitus type 2",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1996-11-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "1997-11-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hypertri",
+          "canonical": "Hypertriglyceridemia",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2002-12-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": []
+    },
+    {
+      "date": "2004-12-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2005-03-14",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperglycemia",
+          "canonical": "Hyperglycemia",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "metabolic syndrome",
+          "canonical": "Metabolic syndrome X",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2005-12-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2006-12-25T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2006-12-25T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2006-12-25T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2006-01-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2006-06-20",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2006-06-20T10:56:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2006-06-20T10:56:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "halmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2006-06-20T10:56:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2006-06-26",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2006-07-16",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2006-07-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2006-08-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": []
+    },
+    {
+      "date": "2006-09-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2006-10-21",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2006-12-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dorna",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-04-02T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "alfa",
+          "canonical": "alfa",
+          "match_method": "unmapped",
+          "outcome": "resolved 2007-04-02T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "hala",
+          "canonical": "hala",
+          "match_method": "unmapped",
+          "outcome": "resolved 2007-04-02T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-04-02T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-04-02T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2007-01-20",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Sepsis caused by Staphylococcus aureus (disorder)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sepsis",
+          "canonical": "Sepsis | Sepsis caused by Staphylococcus aureus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "St",
+          "canonical": "St",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sep",
+          "canonical": "sep",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2007-04-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CIRCLE HEALTH URGENT CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-04-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-04-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-04-09T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2007-04-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CIRCLE HEALTH URGENT CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-12-31T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-12-31T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-12-31T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2007-04-16",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibrosis",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2007-04-16T08:00:44Z"
+        }
+      ]
+    },
+    {
+      "date": "2007-04-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "leaking",
+          "canonical": "Leaking dental filling",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-04-23T10:16:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2007-04-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2007-05-16",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-05-16T11:14:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2007-05-16T11:14:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2007-07-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2007-10-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2007-10-08T09:18:13Z"
+        }
+      ]
+    },
+    {
+      "date": "2007-12-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2007-12-31",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2009-01-05T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2009-01-05T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2009-01-05T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-01-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2008-01-12",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2008-02-04",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2008-03-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2008-03-31",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2008-04-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibrosis",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2008-04-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2008-05-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2008-05-10T11:30:55Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2008-05-10T11:30:55Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-05-26",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2008-06-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2008-07-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": []
+    },
+    {
+      "date": "2008-07-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibrosis",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2008-07-07T10:58:20Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-08-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2008-09-14",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2009-09-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jo",
+          "canonical": "Jo",
+          "match_method": "unmapped",
+          "outcome": "resolved 2009-09-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "vet",
+          "canonical": "vet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2009-09-09T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2008-09-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2008-12-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2009-01-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-01-11T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "hala",
+          "canonical": "hala",
+          "match_method": "unmapped",
+          "outcome": "resolved 2010-01-11T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-01-11T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-01-11T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2009-01-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2009-03-26",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2009-05-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2009-05-05T11:47:46Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2009-05-05T11:47:46Z"
+        }
+      ]
+    },
+    {
+      "date": "2009-06-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibrosis",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2009-06-23T16:59:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2009-09-26",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2010-01-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-03-08T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-03-08T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-03-08T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2010-01-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-01-25"
+        }
+      ]
+    },
+    {
+      "date": "2010-03-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2011-01-17T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2011-01-17T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2011-01-17T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2010-03-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinusitis",
+          "canonical": "Viral sinusitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2010-04-01"
+        }
+      ]
+    },
+    {
+      "date": "2010-03-31",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-03-31T12:04:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2010-03-31T12:04:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2010-03-31",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2010-06-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibrosis",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2010-06-24T19:55:57Z"
+        }
+      ]
+    },
+    {
+      "date": "2010-07-26",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2010-08-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "inpatient",
+      "reason": "Tubal pregnancy (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2010-08-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Tubal pregnancy (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2010-09-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2010-12-21",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2011-01-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pregnancy",
+          "canonical": "Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2011-08-08"
+        }
+      ]
+    },
+    {
+      "date": "2011-01-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2012-01-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-01-23T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-01-23T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-01-23T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2011-01-31",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-02-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2011-02-24T12:22:35Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2011-02-24T12:22:35Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "halmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2011-02-24T12:22:35Z"
+        }
+      ]
+    },
+    {
+      "date": "2011-02-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-03-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibrosis",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2011-03-17T01:19:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2011-03-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-04-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-05-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-06-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2011-06-20",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-07-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-08-01",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-08-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": []
+    },
+    {
+      "date": "2011-09-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2011-09-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2011-12-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2012-01-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-01-28T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "hala",
+          "canonical": "hala",
+          "match_method": "unmapped",
+          "outcome": "resolved 2013-01-28T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-01-28T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-01-28T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2012-02-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-02-19T12:40:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2012-02-19T12:40:14Z"
+        }
+      ]
+    },
+    {
+      "date": "2012-03-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2012-03-07T04:29:25Z"
+        }
+      ]
+    },
+    {
+      "date": "2012-06-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2012-08-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2012-09-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibrosis",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2012-09-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2012-10-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2012-10-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Fetus with chromosomal abnormality (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2012-10-29",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2013-10-24T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2012-11-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2013-01-14",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-01-14T12:56:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-01-14T12:56:39Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-01-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2013-02-11"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-02-03T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-02-03T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-02-03T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-02-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-02-11T13:31:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2013-02-11T13:31:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-03-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2013-05-26",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystic fibro",
+          "canonical": "Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2013-05-26T11:29:34Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-08-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2013-11-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2013-12-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-12-10T13:14:15Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-12-10T13:14:15Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-01-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "dorna",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-06-30T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "alfa",
+          "canonical": "alfa",
+          "match_method": "unmapped",
+          "outcome": "resolved 2014-06-30T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-06-30T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-06-30T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-06-30T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2014-06-30T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2014-03-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vancomycin",
+          "canonical": "Vancomycin | vancomycin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-03-10T08:01:13Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-06-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2014-06-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "kidney disease",
+          "canonical": "Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "disorder",
+          "canonical": "Disorder of kidney due to diabetes mellitus | Seizure disorder | Sleep disorder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "diabetes mellit",
+          "canonical": "Diabetes mellitus due to cystic fibrosis | Diabetes mellitus type 2 | Disorder of kidney due to diabetes mellitus | Microalbuminuria due to type 2 diabetes mellitus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-07-28T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-07-28T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-07-28T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-07-28T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-07-28T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-07-28T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-07-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-09-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-29T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-08-29",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2014-09-29",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-12-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-12-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-12-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-12-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-12-29T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-12-29T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-11-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2014-12-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-12-05T13:31:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-12-05T13:31:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-12-29",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-02-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-02-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-02-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-02-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-02-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-02-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2015-02-09T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-02-09T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-01-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pregnancy",
+          "canonical": "Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-08-10"
+        }
+      ]
+    },
+    {
+      "date": "2015-01-12",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-12T10:41:44Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-02-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2015-02-23"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-17T11:06:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-04-17T11:06:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-17T11:06:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-17T11:06:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-17T11:06:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-17T11:06:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-03-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-03-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2015-03-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-04-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-17T11:06:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-20T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-04-20T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-20T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-20T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-17T11:06:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-04-20T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-04-20",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-08-24T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-08-24T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-08-24T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-08-24T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-08-24T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-08-24T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-08-24T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-04-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-05-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-06-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2015-06-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-07-20",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-08-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-08-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": []
+    },
+    {
+      "date": "2015-08-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CIRCLE HEALTH URGENT CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-12-21T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-12-21T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-12-21T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-12-21T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-12-21T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-12-21T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-12-21T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-09-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2015-09-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-09-07T10:26:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-09-21",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2015-10-14",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2015-10-31",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-10-31T13:47:55Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-10-31T13:47:55Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-12-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2015-12-21",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-18T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-01-18T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-01-18T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-18T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-18T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-18T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-01-18T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-18T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-01-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-02-15T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "human",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-02-15T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-02-15T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-02-15T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-02-15T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-02-15T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-02-15T07:51:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-02-15T07:51:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-02-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "insulin isophane",
+          "canonical": "insulin isophane human",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "dornase alfa",
+          "canonical": "dornase alfa",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Pancreatin",
+          "canonical": "Pancreatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-03-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Cystic fibrosis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2016-06-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Sepsis caused by Staphylococcus aureus (disorder)",
+      "seen_at": "KINDRED HOSPICE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sepsis",
+          "canonical": "Sepsis | Sepsis caused by Staphylococcus aureus",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "St",
+          "canonical": "St",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2016-06-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "Sepsis caused by Pseudomonas (disorder)",
+      "seen_at": "ASSABET FAMILY PODIATRY  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sepsis",
+          "canonical": "Sepsis | Sepsis caused by Staphylococcus aureus",
+          "match_method": "ambiguous"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Diabetes mellitus type 2",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Loss of teeth",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Hypertriglyceridemia",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Hyperglycemia",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Metabolic syndrome X",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Leaking dental filling",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Viral sinusitis",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

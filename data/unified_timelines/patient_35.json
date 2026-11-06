@@ -1,0 +1,833 @@
+{
+  "cluster_id": "35",
+  "hospitals": [
+    "Merrimack Valley Health Network",
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "2016-03-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BEDFORD-LEXINGTON INTERNAL MEDICINE  PC",
+      "entities": []
+    },
+    {
+      "date": "2017-03-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BEDFORD-LEXINGTON INTERNAL MEDICINE  PC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-11-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-12-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-12-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-01-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-02-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-03-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-04-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BEDFORD-LEXINGTON INTERNAL MEDICINE  PC",
+      "entities": []
+    },
+    {
+      "date": "2018-04-22",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-05-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-05-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-05-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2018-05-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BAYADA HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2018-07-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-04-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BEDFORD-LEXINGTON INTERNAL MEDICINE  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "higher education",
+          "canonical": "higher education",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-04-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BEDFORD-LEXINGTON INTERNAL MEDICINE  PC",
+      "entities": []
+    },
+    {
+      "date": "2020-07-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-08-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-09-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-10-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-11-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-11-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinusitis",
+          "canonical": "Viral sinusitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2020-12-03"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-01-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-02-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-02-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-02-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BAYADA HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystitis",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-17"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sulfamethoxazole",
+          "canonical": "sulfamethoxazole",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-17T19:02:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "trimethoprim",
+          "canonical": "trimethoprim",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-17T19:02:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-09-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-10-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-10-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "second trimester",
+          "canonical": "Miscarriage in second trimester",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-10-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "uterine",
+          "canonical": "Congenital uterine anomaly",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-10-30"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Congenital uterine anomaly (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pregnancy",
+          "canonical": "Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-11-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-02-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronch",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-14"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-14T21:52:27Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-04-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-04-24"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-04-24"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-06-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "aryng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-07"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-08-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-09-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-10-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-10-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-11-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-12-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-01-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Sprain (morphologic abnormality)",
+      "seen_at": "BAYADA HOME HEALTH CARE  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-21T03:54:37Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BAYADA HOME HEALTH CARE  INC",
+      "entities": []
+    },
+    {
+      "date": "2023-02-19",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-04-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BEDFORD-LEXINGTON INTERNAL MEDICINE  PC",
+      "entities": []
+    },
+    {
+      "date": "2023-06-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-07-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-07-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-10-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-11-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-11-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-02-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-02-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-03-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-04-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-03-28T03:59:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-10-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-01-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-04-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-07-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-10-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-01-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-04-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-04-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BEDFORD-LEXINGTON INTERNAL MEDICINE  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-05-10"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-07-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Viral sinusitis",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute infective cystitis",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Miscarriage in second trimester",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Congenital uterine anomaly",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bronchitis",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

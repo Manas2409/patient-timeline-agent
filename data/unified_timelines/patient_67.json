@@ -1,0 +1,148 @@
+{
+  "cluster_id": "67",
+  "hospitals": [
+    "Norfolk County Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2004-09-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Chronic intractable migraine without aura (disorder)",
+      "seen_at": "BAYADA HOME HEALTH CARE  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "migraine",
+          "canonical": "Chronic intractable migraine without aura",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "migraine",
+          "canonical": "Chronic intractable migraine without aura",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2008-04-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PATHWAYS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2012-04-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PATHWAYS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2014-02-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "WALDEN BEHAVIORAL CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2015-04-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PATHWAYS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-04-29",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PATHWAYS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-05-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "WALDEN BEHAVIORAL CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-02",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PATHWAYS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-05-05",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PATHWAYS HEALTHCARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-05-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "WALDEN BEHAVIORAL CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-02-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "WALDEN BEHAVIORAL CARE LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-24"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "WALDEN BEHAVIORAL CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-06-03"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

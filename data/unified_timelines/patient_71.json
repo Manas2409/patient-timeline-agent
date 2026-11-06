@@ -1,0 +1,992 @@
+{
+  "cluster_id": "71",
+  "hospitals": [
+    "North Central Mass Health",
+    "North Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "1972-11-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "1988-12-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "1996-10-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyper",
+          "canonical": "Essential hypertension | Hyperglycemia | Hyperlipidemia | Hypertriglyceridemia",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "1996-11-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-10T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2004-10-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": []
+    },
+    {
+      "date": "2005-11-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Polyp of colon (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "polyp",
+          "canonical": "Polyp of colon | Recurrent rectal polyp",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "polyp",
+          "canonical": "Polyp of colon | Recurrent rectal polyp",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2006-10-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2007-07-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Osteoarthritis of knee (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2007-10-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2010-11-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2010-11-22",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2014-12-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2015-12-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-14T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-13",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2016-12-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-26T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-27T15:13:34Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2017-12-26",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-26T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2018-12-26",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-07T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-08",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": []
+    },
+    {
+      "date": "2019-10-08",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "hospice",
+      "reason": "Malignant neoplasm of colon (disorder)",
+      "seen_at": "DIGNITY HOSPICE CARE INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "neoplasm",
+          "canonical": "Malignant neoplasm of breast",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-31",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2020-01-07",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-01-06T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-14T14:29:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "BLUEBERRY HILL REHABILITATION AND HEALTHCARE CTR",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-07-15"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-15"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-07-15"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss of consciousness",
+          "canonical": "Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Concussion with loss of consciousness (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss of consciousness",
+          "canonical": "Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2021-01-06",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-18T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": []
+    },
+    {
+      "date": "2021-02-16",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": []
+    },
+    {
+      "date": "2022-01-11",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2022-01-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlip",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-18T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T14:38:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-11",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-15"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-15"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-06",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": []
+    },
+    {
+      "date": "2022-12-08",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": []
+    },
+    {
+      "date": "2022-12-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": []
+    },
+    {
+      "date": "2023-01-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-03T15:02:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2023-01-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-30T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "my",
+          "canonical": "my",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-11-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "rdial infarction",
+          "canonical": "Acute ST segment elevation myocardial infarction | Acute non-ST segment elevation myocardial infarction | History of myocardial infarction | Myocardial infarction",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-11-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "heart attack",
+          "canonical": "heart attack",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "heart attack",
+          "canonical": "heart attack",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-11-02T12:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-11-02T12:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Acute non-ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "NS",
+          "canonical": "NS",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute non-ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2023-11-06",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute non-ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2023-11-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute non-ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "heart",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Chronic congestive heart failure | Ischemic heart disease",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2024-01-30",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-29T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "BLUEBERRY HILL REHABILITATION AND HEALTHCARE CTR",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-23T12:38:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2025-01-29",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-02-10T11:58:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ESSEX COUNTY PRIMARY CARE",
+      "entities": []
+    },
+    {
+      "date": "2026-02-06",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "LAHEY HOSPITAL & MEDICAL CENTER  BURLINGTON",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "North Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "North Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Malignant neoplasm of breast",
+      "reported_by": [
+        "North Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Concussion injury of brain",
+      "reported_by": [
+        "North Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bacterial sinusitis",
+      "reported_by": [
+        "North Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Myocardial infarction",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

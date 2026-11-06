@@ -1,0 +1,31 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+GREATE-51bedd,Grisel,,Balistreri,06-15-1948,False,F,493 Schamberger Tunnel,Quincy,Massachusetts,02170,999-23-9791
+GREATE-248ede,Arnulfo,,Boyer,01/23/1995,False,M,484 Dickens Route Suite 49,Boston,Massachusetts,02116,
+GREATE-d82559,Stephine,,Christiansen,2001-05-20,False,F,,Woburn,Massachusetts,,999-30-4092
+GREATE-86daed,Dena,,Padberg,11/28/2008,False,F,1072 Rutherford Tunnel Apt 12,Boston,Massachusetts,02111,999-86-2155
+GREATE-bf30f8,Titus,,Langosh,"Feb 12, 2008",False,M,867 Becker Alley,Medford,Massachusetts,02145,
+GREATE-1e24b3,R.,,McLaughlin,1973-11-12,False,M,112 Wuckert Course Suite 5,Saugus,Massachusetts,01906,
+GREATE-79dbbe,Grady,,Davis,"Jul 29, 1981",False,M,114 Parker Junction Suite 23,Hull,Massachusetts,02045,999-76-5360
+GREATE-dcb2bd,Angelina,,West,"Apr 11, 1989",False,F,,Cambridge,Massachusetts,,
+GREATE-e8f6db,Gayle,,Zboncak,"Apr 26, 2023",False,M,,Boston,Massachusetts,,999-94-6345
+GREATE-4f96de,Nada,,Keeling,10-07-1967,False,F,,Boston,Massachusetts,,
+GREATE-861f00,T.,,Carroll,"Dec 23, 1979",False,F,616 Satterfield Key,Weymouth,Massachusetts,02191,999-96-4488
+GREATE-4bd2f2,Matilda,,Kihn,10/07/1967,True,F,634 Braun Fort,Boston,Massachusetts,02129,999-41-3433
+GREATE-87eb35,Emmanuel,Dexter,Considine,1956-10-18,False,M,319 Ondricka Flat Unit 33,Hanover,Massachusetts,00000,999-50-4092
+GREATE-ab9dcb,Angel,Elvin,Mraz,06/23/1964,False,M,127 Spencer Estate Unit 97,Boston,Massachusetts,02131,999-15-6624
+GREATE-36929c,Lance,,Padberg,06/23/1964,False,M,,Boston,Massachusetts,,999-97-3286
+GREATE-a96949,Ken,,Grant,"Jun 23, 1964",False,M,113 Runte View,Boston,Massachusetts,02109,999-55-6644
+GREATE-0304cf,Bryce,,Stoltenberg,10-04-1980,False,M,870 Doyle Ranch,Reading,Massachusetts,01801,999-71-6757
+GREATE-40a009,Benito,,Gulgowski,1980-10-04,False,M,346 Watsica Ranch Apt 49,Reading,Massachusetts,01801,999-24-5790
+GREATE-aeb5da,Julian,Johnny,Walsh,"Oct 4, 1980",False,M,102 Littel Fort,Reading,Massachusetts,01801,999-49-4084
+GREATE-e57722,Leland,,King,1930-11-06,False,M,719 Renner Ferry Unit 37,Belmont,Massachusetts,02478,999-12-4927
+GREATE-337828,B.,,Gutkowski,11-10-2001,False,F,812 VonRueden Trail,Boston,Massachusetts,02126,
+GREATE-8800fa,M.,,Frami,1981-01-08,True,M,1094 Hegmann Crossroad,Canton,Massachusetts,00000,999-56-3495
+GREATE-93c4c4,Maximo,,Pagac,2000-02-14,False,M,666 Bosco View,Arlington,Massachusetts,02474,999-85-4857
+GREATE-358e1d,T.,,Lubowitz,12-02-1984,False,M,568 Olson Dr Suite 26,Everett,Massachusetts,02149,
+GREATE-3b5a13,Angelique,,Gerhold,2006-10-30,False,F,,Marshfield Hills,Massachusetts,,999-61-5443
+GREATE-3a1793,Tabatha,,Ruecker,1961-07-02,False,F,125 Hilpert Meadow Suite 82,Watertown,Massachusetts,02472,999-47-7295
+GREATE-88cada,Thuy,May,VonRueden,07-22-1998,False,F,,Cambridge,Massachusetts,,999-37-5871
+GREATE-49cebd,Nan,,Bednar,11/17/1993,True,F,952 Hermiston Trail,Boston,Massachusetts,02124,
+GREATE-4607ed,Cole,Dario,Corwin,1944-10-11,False,M,566 Hartmann Parade,Boston,Massachusetts,02114,
+GREATE-8b88b4,G.,,Murphy,11-30-1985,False,F,410 Olson Glen Suite 72,Quincy,Massachusetts,02186,999-90-9792

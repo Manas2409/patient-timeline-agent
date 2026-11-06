@@ -1,0 +1,25 @@
+{
+  "cluster_id": "90",
+  "hospitals": [
+    "Pioneer Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2026-05-27",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HILLTOWN COMMUNITY HEALTH CENTERS INC",
+      "entities": []
+    },
+    {
+      "date": "2026-07-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HILLTOWN COMMUNITY HEALTH CENTERS INC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

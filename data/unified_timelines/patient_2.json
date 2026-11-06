@@ -1,0 +1,1495 @@
+{
+  "cluster_id": "2",
+  "hospitals": [
+    "Cape Cod & Islands Health",
+    "North Central Mass Health",
+    "South Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "1979-01-02",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": []
+    },
+    {
+      "date": "1998-01-27",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2000-11-14",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "metabolic syndrome",
+          "canonical": "Metabolic syndrome X",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "type",
+          "canonical": "type",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2000-11-23",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ferro",
+          "canonical": "ferrous sulfate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sulfate",
+          "canonical": "ferrous sulfate | morphine sulfate | protamine sulfate (USP)",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2001-11-20",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperglycemia",
+          "canonical": "Hyperglycemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "hypertriglyceridemia",
+          "canonical": "Hypertriglyceridemia",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2005-05-31",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "neuropathy",
+          "canonical": "Neuropathy due to type 2 diabetes mellitus",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "type 2 diabetes mel",
+          "canonical": "Microalbuminuria due to type 2 diabetes mellitus | Neuropathy due to type 2 diabetes mellitus | Proteinuria due to type 2 diabetes mellitus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2007-08-29",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "diabetic retinopathy",
+          "canonical": "Nonproliferative diabetic retinopathy due to type II diabetes mellitus",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "type II diabetes mel",
+          "canonical": "Nonproliferative diabetic retinopathy due to type II diabetes mellitus",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2010-01-05",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2012-01-17",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2013-01-22",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2014-10-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    },
+    {
+      "date": "2015-02-03",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2016-02-09",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anxiety",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "time",
+          "canonical": "time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-02-20"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealthy alcohol drinking",
+          "canonical": "Unhealthy alcohol drinking",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-06-14"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-14T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-14T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-09",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-09T03:32:07Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-09T03:32:07Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-14",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-13T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-13T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-01T01:55:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-13",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-20T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-20T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-20",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-06-28"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus infection",
+          "canonical": "sinus infection",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-27",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    },
+    {
+      "date": "2017-11-04",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-11-04T03:50:32Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-11-04T03:50:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-20",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-11-20T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-11-20T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-30",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-30T04:08:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-30T04:08:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-11-09",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-11-20",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-26T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-26T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-26",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-03T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-03T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-12",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-13T01:35:07Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-25",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-25T04:26:06Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-09-25T04:26:06Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "mic",
+          "canonical": "mic",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-09-25T04:26:06Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-03",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-09T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-09T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-17",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-18"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-19",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-19T04:44:27Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-19T04:44:27Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-09",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-09",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-02-22"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-11T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-11T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-13",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-04",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-14",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-14T05:03:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-14T05:03:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-11",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "CAPE REGENCY REHABILITATION & HEALTH CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-18T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-18T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-18",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "SOUTH SHORE PRIMARY AND URGENT CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-25T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-25",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "SOUTH SHORE PRIMARY AND URGENT CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2022-02-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-01T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-01T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-01",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-22T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-22T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-08",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2022-02-09"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-15",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-25"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-25"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-22",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "SOUTH SHORE PRIMARY AND URGENT CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "time",
+          "canonical": "time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-03-28"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-01T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-01T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-01",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-22T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-22T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-08",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-22",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-28T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-28T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-05",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-06T01:33:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-11",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-11T05:22:11Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-06-11T05:22:11Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "halmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-11T05:22:11Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-08",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-08T05:40:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-12-08T05:40:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "mic",
+          "canonical": "mic",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-12-08T05:40:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ischemic heart disease",
+          "canonical": "Ischemic heart disease",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-02T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-02T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-04",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2023-04-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "corona",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Disease caused by severe acute respiratory syndrome coronavirus 2 | History of coronary artery bypass grafting | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-06",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cefazolin",
+          "canonical": "cefazolin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-06T04:11:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "heparin sodium  porcine",
+          "canonical": "heparin sodium porcine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-06T04:11:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "protamine sulfate",
+          "canonical": "protamine sulfate (USP)",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-06T04:11:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "US",
+          "canonical": "US",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-06T04:11:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "insulin",
+          "canonical": "insulin isophane human | insulin regular human",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-06-06T04:14:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ondansetron",
+          "canonical": "NDA | Ondansetron",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-06-06T05:25:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Midazolam",
+          "canonical": "Midazolam",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-06T05:25:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Propofol",
+          "canonical": "Propofol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-06T05:25:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Rocuronium bromide",
+          "canonical": "Rocuronium bromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-06T05:25:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "isoflurane",
+          "canonical": "isoflurane",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-06T05:25:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-06T05:25:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-06",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of coronary artery bypass grafting (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2023-06-12",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of coronary artery bypass grafting (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2023-07-06",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-06T05:57:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Op",
+          "canonical": "Op",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-07-06T05:57:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-02",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-08T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-08T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    },
+    {
+      "date": "2024-05-31",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-31T06:14:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-31T06:14:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-27",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-27T06:33:05Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic Solution",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-27T06:33:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-08",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-14T22:51:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-14T22:51:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tropicamide",
+          "canonical": "tropicamide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-23T06:49:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ophthalmic",
+          "canonical": "ML Ophthalmic Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-23T06:49:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-09",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    },
+    {
+      "date": "2025-11-11",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "hospice",
+      "reason": "Alzheimer's disease (disorder)",
+      "seen_at": "VISITING NURSE ASSOCIATION OF CAPE COD  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "alzheimer",
+          "canonical": "Alzheimer's disease",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HYANNIS FAMILY MEDICAL CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Metformin hydrochloride",
+          "canonical": "Metformin hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "hospital": "Cape Cod & Islands Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FALMOUTH HOSPITAL ASSOCIATION INC",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Metabolic syndrome X",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Hyperglycemia",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Hypertriglyceridemia",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Neuropathy due to type 2 diabetes mellitus",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Nonproliferative diabetic retinopathy due to type II diabetes mellitus",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Severe anxiety (panic)",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "South Shore Health Alliance"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Ischemic heart disease",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Alzheimer's disease",
+      "reported_by": [
+        "Cape Cod & Islands Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

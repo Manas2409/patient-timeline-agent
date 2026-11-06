@@ -1,0 +1,419 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+9a3814bb-f5b0-05f3-f5e5-86c32271300f,NORFOL-961b76,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-f5e5-86c32271300f,NORFOL-961b76,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-b856-6d47e4b2e36e,NORFOL-961b76,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-b856-6d47e4b2e36e,NORFOL-961b76,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-4fb0-647d12ee1490,NORFOL-961b76,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-4fb0-647d12ee1490,NORFOL-961b76,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-fee0-b557bc5b1d34,NORFOL-961b76,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-fee0-b557bc5b1d34,NORFOL-961b76,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-9206-3042e7a75083,NORFOL-961b76,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-9206-3042e7a75083,NORFOL-961b76,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-652a-d61c0c19617d,NORFOL-961b76,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-652a-d61c0c19617d,NORFOL-961b76,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-5b9e-1c747c9bef10,NORFOL-961b76,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-5b9e-1c747c9bef10,NORFOL-961b76,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-b6af-12cc25dd601d,NORFOL-961b76,DIAGNOSIS,gingivitis
+9a3814bb-f5b0-05f3-b6af-12cc25dd601d,NORFOL-961b76,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-b6af-12cc25dd601d,NORFOL-961b76,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+65cbad6a-eb9d-420e-dfb3-7b7cc860ed4b,NORFOL-e82565,DIAGNOSIS,gingivitis
+65cbad6a-eb9d-420e-dfb3-7b7cc860ed4b,NORFOL-e82565,MEDICATION,lisinopril 10 MG Oral Tablet
+65cbad6a-eb9d-420e-dfb3-7b7cc860ed4b,NORFOL-e82565,MEDICATION,Alendronic acid 10 MG Oral Tablet
+65cbad6a-eb9d-420e-c6da-5cfe2ca83535,NORFOL-e82565,DIAGNOSIS,alzheimer's disease
+b50c66af-4d1c-7987-7a41-dd005c12766a,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-07c0-c6580076b163,NORFOL-f201ef,DIAGNOSIS,obesity (BMI 30+)
+b50c66af-4d1c-7987-07c0-c6580076b163,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-5156-29b236804948,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-e72f-7e20c7c80842,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-abfe-49a98999aacc,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-46e9-3c2385992fa7,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-61ab-93a8bf106b6e,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-9ef6-441e49f32707,NORFOL-f201ef,DIAGNOSIS,gum inflammation
+b50c66af-4d1c-7987-9ef6-441e49f32707,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-072f-c6995d0737b2,NORFOL-f201ef,DIAGNOSIS,gum inflammation
+b50c66af-4d1c-7987-072f-c6995d0737b2,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-1599-2d9d27baa115,NORFOL-f201ef,DIAGNOSIS,gingivitis
+b50c66af-4d1c-7987-1599-2d9d27baa115,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+b50c66af-4d1c-7987-7763-29a83b5be88e,NORFOL-f201ef,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+f30304ab-8e45-1cbd-713f-41ac56ce943e,NORFOL-23389d,DIAGNOSIS,gingivitis
+f30304ab-8e45-1cbd-f85c-947cb02cd959,NORFOL-23389d,DIAGNOSIS,gingivitis
+d21f2794-014b-c66b-3e23-ae48e51848ef,NORFOL-d8deec,DIAGNOSIS,acute infective cystitis
+d21f2794-014b-c66b-3e23-ae48e51848ef,NORFOL-d8deec,DIAGNOSIS,recurrent urinary tract infection
+d21f2794-014b-c66b-1a15-711d7eaef6c5,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-1730-cfcd88918006,NORFOL-d8deec,DIAGNOSIS,obesity (BMI 30+)
+d21f2794-014b-c66b-1730-cfcd88918006,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-d08c-3ab0c869a697,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-4581-99a6aa895d95,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-9b3d-a41c1ca3e818,NORFOL-d8deec,DIAGNOSIS,gum inflammation
+d21f2794-014b-c66b-9b3d-a41c1ca3e818,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-3d95-26bedb43f5a3,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-56a8-88f9e762c0b2,NORFOL-d8deec,DIAGNOSIS,gingivitis
+d21f2794-014b-c66b-56a8-88f9e762c0b2,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-83a0-4840e08f984b,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-69b3-29dd92edf4a2,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-c9e2-d8da34d47c57,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+d21f2794-014b-c66b-9bd4-972030964c67,NORFOL-d8deec,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+0b786670-17af-32e1-dee6-43b80e034eb6,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-dee6-43b80e034eb6,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-dee6-43b80e034eb6,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-5ae7-5c0807ba53ae,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-5ae7-5c0807ba53ae,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-5ae7-5c0807ba53ae,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-04ef-abfe34d8307e,NORFOL-4b71fa,DIAGNOSIS,gum inflammation
+0b786670-17af-32e1-04ef-abfe34d8307e,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-04ef-abfe34d8307e,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-04ef-abfe34d8307e,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-fecb-8a818d0ac2e1,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-fecb-8a818d0ac2e1,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-fecb-8a818d0ac2e1,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-9327-8bf1c1f8a45f,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-9327-8bf1c1f8a45f,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-9327-8bf1c1f8a45f,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-fe09-03b77b7e36dc,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-fe09-03b77b7e36dc,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-fe09-03b77b7e36dc,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-5780-6f8edda5f9ec,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-5780-6f8edda5f9ec,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-5780-6f8edda5f9ec,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-72bd-bfa2b8b20581,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-72bd-bfa2b8b20581,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-72bd-bfa2b8b20581,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-fbd0-d55ec68717cc,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-fbd0-d55ec68717cc,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-fbd0-d55ec68717cc,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+0b786670-17af-32e1-8319-59c6da29051b,NORFOL-4b71fa,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+0b786670-17af-32e1-8319-59c6da29051b,NORFOL-4b71fa,MEDICATION,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet
+0b786670-17af-32e1-8319-59c6da29051b,NORFOL-4b71fa,MEDICATION,amLODIPine 2.5 MG Oral Tablet
+197ec76f-0730-2587-4d98-4d24438ad448,NORFOL-a75855,DIAGNOSIS,fracture of ankle
+197ec76f-0730-2587-08d9-3c5bf0e66e27,NORFOL-a75855,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+197ec76f-0730-2587-948f-de16c095b492,NORFOL-a75855,DIAGNOSIS,a sinus infection
+197ec76f-0730-2587-948f-de16c095b492,NORFOL-a75855,DIAGNOSIS,viral sinusitis
+197ec76f-0730-2587-62a7-17ae1f234a55,NORFOL-a75855,MEDICATION,{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]
+197ec76f-0730-2587-b4dd-647b565ae74b,NORFOL-a75855,DIAGNOSIS,acute infective cystitis
+197ec76f-0730-2587-b4dd-647b565ae74b,NORFOL-a75855,MEDICATION,ciprofloxacin 250 MG Oral Tablet
+197ec76f-0730-2587-c104-a261e520014b,NORFOL-a75855,DIAGNOSIS,infection of tooth
+197ec76f-0730-2587-c104-a261e520014b,NORFOL-a75855,DIAGNOSIS,gingival disease
+197ec76f-0730-2587-df52-75b4c1ba2162,NORFOL-a75855,MEDICATION,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+c1453af6-5763-f853-a1f4-3cdfe4cfd8da,NORFOL-c0283b,DIAGNOSIS,a middle-ear infection
+c1453af6-5763-f853-a1f4-3cdfe4cfd8da,NORFOL-c0283b,DIAGNOSIS,otitis media
+c1453af6-5763-f853-a1f4-3cdfe4cfd8da,NORFOL-c0283b,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+c1453af6-5763-f853-9d5d-c939f211685c,NORFOL-c0283b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c1453af6-5763-f853-8b62-2daca046764d,NORFOL-c0283b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c1453af6-5763-f853-f430-702892ec8ab5,NORFOL-c0283b,DIAGNOSIS,gingivitis
+c1453af6-5763-f853-8dea-7e8707934ef9,NORFOL-c0283b,DIAGNOSIS,gingivitis
+c1453af6-5763-f853-8dea-7e8707934ef9,NORFOL-c0283b,DIAGNOSIS,gingival disease
+c1453af6-5763-f853-8dea-7e8707934ef9,NORFOL-c0283b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c1453af6-5763-f853-d050-dbc8994095fe,NORFOL-c0283b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c1453af6-5763-f853-205a-d6af5d96fe97,NORFOL-c0283b,DIAGNOSIS,concussion injury of brain
+c1453af6-5763-f853-205a-d6af5d96fe97,NORFOL-c0283b,DIAGNOSIS,concussion injury of brain
+c1453af6-5763-f853-205a-d6af5d96fe97,NORFOL-c0283b,DIAGNOSIS,concussion with no loss of consciousness
+c1453af6-5763-f853-5798-1ce6e7ea4027,NORFOL-c0283b,DIAGNOSIS,gum inflammation
+c1453af6-5763-f853-0dd7-ac5abe2e5806,NORFOL-c0283b,DIAGNOSIS,gum inflammation
+c1453af6-5763-f853-0dd7-ac5abe2e5806,NORFOL-c0283b,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c1453af6-5763-f853-aaea-a2b891cb94f8,NORFOL-c0283b,DIAGNOSIS,concussion with no loss of consciousness
+c1453af6-5763-f853-f0cd-242cdf0e2c42,NORFOL-c0283b,DIAGNOSIS,a sore throat
+c1453af6-5763-f853-f0cd-242cdf0e2c42,NORFOL-c0283b,DIAGNOSIS,a sore throat
+c1453af6-5763-f853-badc-0fa62b04d97b,NORFOL-c0283b,DIAGNOSIS,gum inflammation
+c1453af6-5763-f853-103f-00bf51d2ff48,NORFOL-c0283b,DIAGNOSIS,gingivitis
+5780b82b-0419-ffe6-355d-f43590e83af3,NORFOL-8a483d,DIAGNOSIS,otitis media
+5780b82b-0419-ffe6-355d-f43590e83af3,NORFOL-8a483d,DIAGNOSIS,a middle-ear infection
+5780b82b-0419-ffe6-355d-f43590e83af3,NORFOL-8a483d,MEDICATION,Amoxicillin 500 MG Oral Tablet
+5780b82b-0419-ffe6-355d-f43590e83af3,NORFOL-8a483d,MEDICATION,Ibuprofen 100 MG Oral Tablet
+5780b82b-0419-ffe6-3a29-727f8a1d52f7,NORFOL-8a483d,DIAGNOSIS,a middle-ear infection
+5780b82b-0419-ffe6-3a29-727f8a1d52f7,NORFOL-8a483d,DIAGNOSIS,a middle-ear infection
+5780b82b-0419-ffe6-3a29-727f8a1d52f7,NORFOL-8a483d,MEDICATION,Amoxicillin 500 MG Oral Tablet
+5780b82b-0419-ffe6-3a29-727f8a1d52f7,NORFOL-8a483d,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+5780b82b-0419-ffe6-96d4-9669717af917,NORFOL-8a483d,DIAGNOSIS,a middle-ear infection
+5780b82b-0419-ffe6-96d4-9669717af917,NORFOL-8a483d,DIAGNOSIS,a middle-ear infection
+5780b82b-0419-ffe6-96d4-9669717af917,NORFOL-8a483d,MEDICATION,Amoxicillin 500 MG Oral Tablet
+5780b82b-0419-ffe6-96d4-9669717af917,NORFOL-8a483d,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+5780b82b-0419-ffe6-da3e-7b489830b743,NORFOL-8a483d,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+5780b82b-0419-ffe6-59d8-b36a3805ddd0,NORFOL-8a483d,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+5780b82b-0419-ffe6-df19-b6ba65839adc,NORFOL-8a483d,DIAGNOSIS,acute bacterial sinusitis
+5780b82b-0419-ffe6-df19-b6ba65839adc,NORFOL-8a483d,DIAGNOSIS,acute bacterial sinusitis
+5780b82b-0419-ffe6-66bc-3192bd55525a,NORFOL-8a483d,DIAGNOSIS,acute bacterial sinusitis
+5780b82b-0419-ffe6-66bc-3192bd55525a,NORFOL-8a483d,DIAGNOSIS,chronic sinusitis
+5780b82b-0419-ffe6-2453-18b02c9d5f3f,NORFOL-8a483d,DIAGNOSIS,acute bacterial sinusitis
+5780b82b-0419-ffe6-ccee-7515ae1e4261,NORFOL-8a483d,DIAGNOSIS,gum disease
+5780b82b-0419-ffe6-ccee-7515ae1e4261,NORFOL-8a483d,DIAGNOSIS,primary dental caries
+887e4b4e-a3e1-b573-e5dd-fb76a003e994,NORFOL-d01758,DIAGNOSIS,wheat
+887e4b4e-a3e1-b573-4c25-13bee5319da7,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-4c25-13bee5319da7,NORFOL-d01758,MEDICATION,Fexofenadine hydrochloride 30 MG Oral Tablet
+887e4b4e-a3e1-b573-4c25-13bee5319da7,NORFOL-d01758,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+887e4b4e-a3e1-b573-4c25-13bee5319da7,NORFOL-d01758,ALLERGY,Shellfish
+887e4b4e-a3e1-b573-c1b5-84e5a5c20ac0,NORFOL-d01758,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+887e4b4e-a3e1-b573-c1b5-84e5a5c20ac0,NORFOL-d01758,DIAGNOSIS,perennial allergic rhinitis with seasonal variation
+887e4b4e-a3e1-b573-381a-3312e620787a,NORFOL-d01758,DIAGNOSIS,adolescent idiopathic scoliosis
+887e4b4e-a3e1-b573-381a-3312e620787a,NORFOL-d01758,DIAGNOSIS,adolescent idiopathic scoliosis
+887e4b4e-a3e1-b573-37f8-d9ddfc4ca8c2,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-8ba2-62f62b3abce2,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-8ba8-74039dd9615d,NORFOL-d01758,DIAGNOSIS,primary dental caries
+887e4b4e-a3e1-b573-8ba8-74039dd9615d,NORFOL-d01758,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+887e4b4e-a3e1-b573-eb96-0973acbec9f2,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-6151-25c3cd77e431,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-cf02-aa614fde76f4,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-9b18-0f809a7439b7,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-b6ea-744a85e6abd0,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-0b16-d439d5640ff4,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-6da1-147b61d6a47d,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-b607-05ca522e01e4,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-8055-e81ae2161de9,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-0740-fb2f753f597c,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-70f1-942f58324393,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-2a5b-f3e0ba8a5f88,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-955a-9aa4d44092fd,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-8035-ad28d60bfd5c,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-6d18-2319646e70b9,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-b8e9-d799fd8d055c,NORFOL-d01758,DIAGNOSIS,dental filling lost
+887e4b4e-a3e1-b573-b8e9-d799fd8d055c,NORFOL-d01758,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+887e4b4e-a3e1-b573-c934-04e9ca02e93b,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-ffdb-2a40859c2c6c,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-672c-dbdbdc6e7933,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-8e50-32915a3f73bd,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-114d-9a1e5d5abfc9,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-b6de-3a8bdeda55ec,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-522e-b5fc5c010023,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-57ec-bd6aaf6c7c5e,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-24a5-d3e55f191ffc,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-ac65-e10d715ab5f1,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-a0b6-e2c1786a31e2,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-158e-201d65a66ecd,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-00b3-f068deb69966,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-a0f4-d4a30a68cf60,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-3541-4fe167ec7354,NORFOL-d01758,DIAGNOSIS,gingivitis
+887e4b4e-a3e1-b573-05cd-736d3f42e2be,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-e1d3-4143fd2efdb7,NORFOL-d01758,DIAGNOSIS,gum inflammation
+887e4b4e-a3e1-b573-e1d3-4143fd2efdb7,NORFOL-d01758,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+887e4b4e-a3e1-b573-9f99-be15919e1598,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-6c74-e7fffc0bba68,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-8933-7b89727f1acf,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-890f-8c2d08aa757d,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-3c6f-e181bccf95a8,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-1142-af20aefaac74,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-b42e-0f33d55e6859,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-bd54-a0abacb2916c,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-f07e-86c1f01173d8,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-2d00-3ebb6a4f91bd,NORFOL-d01758,DIAGNOSIS,shellfish
+887e4b4e-a3e1-b573-4f6e-fc87d4db143a,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-6cb1-f5332594d51d,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-85b0-8d3008bc3279,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-dbfe-c056bdc4983e,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-3bd9-f5bff692151a,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-3fe6-1a6e020aa885,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-44be-ed48a7b18ecc,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-fa7c-1a7a425a0d96,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-0595-60260b959860,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-1873-4183451e52d2,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-6b44-4a47b47bd56d,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-97d6-864287813231,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-98e0-5ba1d9029f06,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-b083-edfddac18705,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-e9d7-6c17f0c96b45,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-02c0-4551fe33f49f,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-ff0a-143c306de5a4,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-9c6f-3a1d28868c7c,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-6727-f0a1c4ffe83b,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-7baf-0e6a21288faf,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-19b0-3a2e1c1f36dd,NORFOL-d01758,DIAGNOSIS,a sore throat
+887e4b4e-a3e1-b573-19b0-3a2e1c1f36dd,NORFOL-d01758,DIAGNOSIS,a sore throat
+887e4b4e-a3e1-b573-b725-d94617a922ba,NORFOL-d01758,DIAGNOSIS,allergic disposition
+887e4b4e-a3e1-b573-466d-02ddbba1d6ec,NORFOL-d01758,DIAGNOSIS,gum inflammation
+887e4b4e-a3e1-b573-ceb7-ae35c6c066b4,NORFOL-d01758,DIAGNOSIS,gingivitis
+887e4b4e-a3e1-b573-ceb7-ae35c6c066b4,NORFOL-d01758,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+887e4b4e-a3e1-b573-2d17-31936102661a,NORFOL-d01758,DIAGNOSIS,acute bronchitis
+887e4b4e-a3e1-b573-2d17-31936102661a,NORFOL-d01758,DIAGNOSIS,a chest cold
+887e4b4e-a3e1-b573-2d17-31936102661a,NORFOL-d01758,MEDICATION,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+887e4b4e-a3e1-b573-ab40-3da9f3a1e51d,NORFOL-d01758,DIAGNOSIS,sprain (morphologic abnormality)
+887e4b4e-a3e1-b573-ab40-3da9f3a1e51d,NORFOL-d01758,DIAGNOSIS,sprain (morphologic abnormality)
+887e4b4e-a3e1-b573-ab40-3da9f3a1e51d,NORFOL-d01758,DIAGNOSIS,sprain of ankle
+887e4b4e-a3e1-b573-ab40-3da9f3a1e51d,NORFOL-d01758,MEDICATION,Acetaminophen 325 MG Oral Tablet
+031ce8e2-1443-01b4-f85f-43869f746de5,NORFOL-9c5acc,DIAGNOSIS,chronic intractable migraine without aura
+031ce8e2-1443-01b4-f85f-43869f746de5,NORFOL-9c5acc,DIAGNOSIS,chronic intractable migraine without aura
+031ce8e2-1443-01b4-779d-a2b10a00b838,NORFOL-9c5acc,DIAGNOSIS,impacted molars
+031ce8e2-1443-01b4-779d-a2b10a00b838,NORFOL-9c5acc,DIAGNOSIS,impacted molars
+031ce8e2-1443-01b4-7035-a4b6c39476ac,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-7035-a4b6c39476ac,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-078b-8014a8ee8471,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-1069-fa62b19913c4,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-1069-fa62b19913c4,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-7e98-40c2a6b2e6b1,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-1b70-abc27dfc42fa,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-7227-6dbf5f68348d,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-0d3d-a1ba7e573074,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-deb4-7810a02b93bb,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-f754-0783f7b4d3f4,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-5564-1728added2ac,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-8d9d-939d3122fa0e,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-39c2-593a32abdd20,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-81c1-2aec20f002cd,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-c36b-4d356303c85d,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-f19d-a7f8f02aa9d5,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-9cc1-42cf0a524d7c,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-c9c6-342212f4c76c,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-0d8a-c88c75696624,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-8d24-110821e84d57,NORFOL-9c5acc,DIAGNOSIS,essential hypertension
+031ce8e2-1443-01b4-8d24-110821e84d57,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-8d24-110821e84d57,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-4125-9425c8efab14,NORFOL-9c5acc,DIAGNOSIS,essential hypertension
+031ce8e2-1443-01b4-4125-9425c8efab14,NORFOL-9c5acc,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+031ce8e2-1443-01b4-c5ec-65dec50d49d5,NORFOL-9c5acc,DIAGNOSIS,essential hypertension
+031ce8e2-1443-01b4-4274-772a03d422e0,NORFOL-9c5acc,DIAGNOSIS,acute viral pharyngitis
+031ce8e2-1443-01b4-4274-772a03d422e0,NORFOL-9c5acc,DIAGNOSIS,a sore throat
+031ce8e2-1443-01b4-ce72-c5b9d3b1b29c,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-c9df-40fcc8678db1,NORFOL-9c5acc,DIAGNOSIS,high blood pressure
+031ce8e2-1443-01b4-bc97-22a92fa15554,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-5dd4-519cf0038e74,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-4cdf-fd21d805b682,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-ccf4-5b3d301b2363,NORFOL-9c5acc,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+031ce8e2-1443-01b4-ccf4-5b3d301b2363,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-d3c8-8df84811e1a3,NORFOL-9c5acc,DIAGNOSIS,dental filling lost
+031ce8e2-1443-01b4-d3c8-8df84811e1a3,NORFOL-9c5acc,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+031ce8e2-1443-01b4-397a-909e34d396da,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-397a-909e34d396da,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-3781-2dfe0466e1b7,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-3781-2dfe0466e1b7,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-92dd-c201cdcd03a4,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-40b7-91aadb474091,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-e4e2-ca4a7d84a762,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-fde8-65d36a627e7c,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-9c81-9c0977186bc0,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-9c81-9c0977186bc0,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-9c81-9c0977186bc0,NORFOL-9c5acc,DIAGNOSIS,chronic low back pain
+031ce8e2-1443-01b4-9c81-9c0977186bc0,NORFOL-9c5acc,DIAGNOSIS,chronic neck pain
+031ce8e2-1443-01b4-9c81-9c0977186bc0,NORFOL-9c5acc,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+031ce8e2-1443-01b4-d152-75593a6a89c3,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-b4c7-d1dbaa5225cd,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-136f-28069ea25288,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-938c-0d8679802e3f,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-3445-bc323d772091,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-c1c9-4a8914de97e8,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-cd9e-94eea5ab92d2,NORFOL-9c5acc,DIAGNOSIS,chronic pain
+031ce8e2-1443-01b4-f36a-b5620dcc38c9,NORFOL-9c5acc,DIAGNOSIS,chronic pain
+031ce8e2-1443-01b4-7cce-ef199e39a749,NORFOL-9c5acc,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+031ce8e2-1443-01b4-7cce-ef199e39a749,NORFOL-9c5acc,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+031ce8e2-1443-01b4-7cce-ef199e39a749,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-492e-37a1490759cb,NORFOL-9c5acc,DIAGNOSIS,ongoing pain
+031ce8e2-1443-01b4-492e-37a1490759cb,NORFOL-9c5acc,MEDICATION,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+031ce8e2-1443-01b4-c593-09728b0f0b20,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-9258-1aa5a65e7489,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-48a8-b5c30f3eb40e,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-a973-dfd0203c8972,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-02cf-8c1a75d4b45c,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-be50-cdc25b8370d6,NORFOL-9c5acc,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+031ce8e2-1443-01b4-be50-cdc25b8370d6,NORFOL-9c5acc,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+031ce8e2-1443-01b4-be50-cdc25b8370d6,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-025c-2429982dd061,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-7c83-b81d8ced29c7,NORFOL-9c5acc,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+031ce8e2-1443-01b4-7c83-b81d8ced29c7,NORFOL-9c5acc,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+031ce8e2-1443-01b4-7c83-b81d8ced29c7,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-47cf-e14bb910b53d,NORFOL-9c5acc,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+031ce8e2-1443-01b4-396a-35da3d03aa8d,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-34c7-6d2b9eb5ec3f,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-6447-7d54edbd2672,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-e8af-ed46e251f495,NORFOL-9c5acc,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+031ce8e2-1443-01b4-e8af-ed46e251f495,NORFOL-9c5acc,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+031ce8e2-1443-01b4-e8af-ed46e251f495,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-4048-edf43c0a7478,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-0b49-7ecc87f12f59,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-0b8e-0067861f43b3,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-a023-b6cdfdc2a8f2,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-1a3b-d96c0d4fe480,NORFOL-9c5acc,DIAGNOSIS,dependent drug abuse
+031ce8e2-1443-01b4-780a-945fd908b466,NORFOL-9c5acc,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+031ce8e2-1443-01b4-780a-945fd908b466,NORFOL-9c5acc,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+031ce8e2-1443-01b4-780a-945fd908b466,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-f22f-f692da9cbe0b,NORFOL-9c5acc,MEDICATION,Hydrochlorothiazide 25 MG Oral Tablet
+031ce8e2-1443-01b4-f22f-f692da9cbe0b,NORFOL-9c5acc,MEDICATION,Ibuprofen 400 MG Oral Tablet [Ibu]
+031ce8e2-1443-01b4-f22f-f692da9cbe0b,NORFOL-9c5acc,MEDICATION,lisinopril 10 MG Oral Tablet
+031ce8e2-1443-01b4-a434-df8d312cea22,NORFOL-9c5acc,DIAGNOSIS,viral sinusitis
+031ce8e2-1443-01b4-a434-df8d312cea22,NORFOL-9c5acc,DIAGNOSIS,a sinus infection
+031ce8e2-1443-01b4-40d5-34fd89da922b,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-40d5-34fd89da922b,NORFOL-9c5acc,DIAGNOSIS,overdose
+031ce8e2-1443-01b4-cfba-cb13fd522858,NORFOL-9c5acc,DIAGNOSIS,overdose
+97e39468-6488-ca8f-c108-c6c05cc112ed,NORFOL-951ff0,DIAGNOSIS,shellfish
+97e39468-6488-ca8f-7b33-d33c04781ee2,NORFOL-951ff0,DIAGNOSIS,allergic disposition
+97e39468-6488-ca8f-7b33-d33c04781ee2,NORFOL-951ff0,MEDICATION,Terfenadine 60 MG Oral Tablet
+97e39468-6488-ca8f-7b33-d33c04781ee2,NORFOL-951ff0,ALLERGY,Shellfish
+97e39468-6488-ca8f-6ddc-cfa0af9f3cb2,NORFOL-951ff0,DIAGNOSIS,gingivitis
+97e39468-6488-ca8f-ac66-a8874c531ae4,NORFOL-951ff0,DIAGNOSIS,gum inflammation
+97e39468-6488-ca8f-ac66-a8874c531ae4,NORFOL-951ff0,DIAGNOSIS,primary dental caries
+97e39468-6488-ca8f-4ba8-e7495be60118,NORFOL-951ff0,DIAGNOSIS,a sinus infection
+97e39468-6488-ca8f-4ba8-e7495be60118,NORFOL-951ff0,DIAGNOSIS,viral sinusitis
+97e39468-6488-ca8f-4ba8-e7495be60118,NORFOL-951ff0,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+97e39468-6488-ca8f-a087-36def050a642,NORFOL-951ff0,DIAGNOSIS,sinusitis
+97e39468-6488-ca8f-a087-36def050a642,NORFOL-951ff0,DIAGNOSIS,sinusitis
+97e39468-6488-ca8f-7fde-19a2fad5c844,NORFOL-951ff0,DIAGNOSIS,acute infective cystitis
+97e39468-6488-ca8f-b9ae-0dc4835d9e0e,NORFOL-951ff0,DIAGNOSIS,acute infective cystitis
+97e39468-6488-ca8f-b9ae-0dc4835d9e0e,NORFOL-951ff0,MEDICATION,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet
+97e39468-6488-ca8f-95f6-cdb27974993f,NORFOL-951ff0,DIAGNOSIS,osteoarthritis of knee
+97e39468-6488-ca8f-95f6-cdb27974993f,NORFOL-951ff0,DIAGNOSIS,osteoarthritis of knee
+97e39468-6488-ca8f-95f6-cdb27974993f,NORFOL-951ff0,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+31f368d9-3fdc-a15f-f6a9-0606e12a1440,NORFOL-e876cb,DIAGNOSIS,shellfish
+31f368d9-3fdc-a15f-3b69-efb1c562bd7d,NORFOL-e876cb,DIAGNOSIS,allergic disposition
+31f368d9-3fdc-a15f-3b69-efb1c562bd7d,NORFOL-e876cb,MEDICATION,Astemizole 10 MG Oral Tablet
+31f368d9-3fdc-a15f-3b69-efb1c562bd7d,NORFOL-e876cb,ALLERGY,Shellfish
+31f368d9-3fdc-a15f-5cac-5b3314aa0ca9,NORFOL-e876cb,DIAGNOSIS,sinusitis
+31f368d9-3fdc-a15f-5cac-5b3314aa0ca9,NORFOL-e876cb,DIAGNOSIS,chronic sinusitis
+31f368d9-3fdc-a15f-ec3d-3b6d52a00907,NORFOL-e876cb,DIAGNOSIS,chronic intractable migraine without aura
+31f368d9-3fdc-a15f-ec3d-3b6d52a00907,NORFOL-e876cb,DIAGNOSIS,chronic intractable migraine without aura
+31f368d9-3fdc-a15f-e51d-5198dfee06c9,NORFOL-e876cb,DIAGNOSIS,impacted molars
+31f368d9-3fdc-a15f-e51d-5198dfee06c9,NORFOL-e876cb,DIAGNOSIS,impacted molars
+31f368d9-3fdc-a15f-369b-ce0768a202fa,NORFOL-e876cb,DIAGNOSIS,chronic pain
+31f368d9-3fdc-a15f-369b-ce0768a202fa,NORFOL-e876cb,DIAGNOSIS,chronic pain
+31f368d9-3fdc-a15f-e2a3-f17cb3ad7381,NORFOL-e876cb,DIAGNOSIS,loss of teeth
+31f368d9-3fdc-a15f-e2a3-f17cb3ad7381,NORFOL-e876cb,DIAGNOSIS,loss of teeth
+31f368d9-3fdc-a15f-52f3-ff9dafd6e631,NORFOL-e876cb,DIAGNOSIS,overdose
+31f368d9-3fdc-a15f-5ff9-f190d17b5fc6,NORFOL-e876cb,DIAGNOSIS,traumatic dislocation of temporomandibular joint
+31f368d9-3fdc-a15f-5ff9-f190d17b5fc6,NORFOL-e876cb,DIAGNOSIS,traumatic dislocation of temporomandibular joint
+31f368d9-3fdc-a15f-5ff9-f190d17b5fc6,NORFOL-e876cb,MEDICATION,Ibuprofen 200 MG Oral Tablet
+31f368d9-3fdc-a15f-bd08-3364cba08c6b,NORFOL-e876cb,DIAGNOSIS,overdose
+31f368d9-3fdc-a15f-bd08-3364cba08c6b,NORFOL-e876cb,DIAGNOSIS,overdose
+31f368d9-3fdc-a15f-440a-98c9a5a4121d,NORFOL-e876cb,DIAGNOSIS,fracture of bone
+31f368d9-3fdc-a15f-440a-98c9a5a4121d,NORFOL-e876cb,DIAGNOSIS,fracture of bone
+31f368d9-3fdc-a15f-440a-98c9a5a4121d,NORFOL-e876cb,DIAGNOSIS,fracture subluxation of wrist
+31f368d9-3fdc-a15f-440a-98c9a5a4121d,NORFOL-e876cb,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+31f368d9-3fdc-a15f-983c-364acd5b9e4d,NORFOL-e876cb,DIAGNOSIS,overdose
+31f368d9-3fdc-a15f-983c-364acd5b9e4d,NORFOL-e876cb,DIAGNOSIS,overdose
+35f80d0e-eaad-ef68-a696-d68e420fca4c,NORFOL-e26be4,DIAGNOSIS,gum inflammation
+35f80d0e-eaad-ef68-a696-d68e420fca4c,NORFOL-e26be4,DIAGNOSIS,gingival disease
+35f80d0e-eaad-ef68-a696-d68e420fca4c,NORFOL-e26be4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+35f80d0e-eaad-ef68-693f-23ad8256f0a1,NORFOL-e26be4,DIAGNOSIS,gingivitis
+35f80d0e-eaad-ef68-31af-4a513c586746,NORFOL-e26be4,DIAGNOSIS,a sore throat
+35f80d0e-eaad-ef68-31af-4a513c586746,NORFOL-e26be4,DIAGNOSIS,acute viral pharyngitis
+35f80d0e-eaad-ef68-088a-488e466abff0,NORFOL-e26be4,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+35f80d0e-eaad-ef68-5102-acbf462409bc,NORFOL-e26be4,DIAGNOSIS,concussion with no loss of consciousness
+35f80d0e-eaad-ef68-5102-acbf462409bc,NORFOL-e26be4,DIAGNOSIS,acute infective cystitis
+35f80d0e-eaad-ef68-2228-401c5da8a442,NORFOL-e26be4,DIAGNOSIS,acute infective cystitis
+35f80d0e-eaad-ef68-2228-401c5da8a442,NORFOL-e26be4,MEDICATION,ciprofloxacin 500 MG Oral Tablet
+35f80d0e-eaad-ef68-fb03-ec4fb9f55ffe,NORFOL-e26be4,DIAGNOSIS,a sore throat
+35f80d0e-eaad-ef68-fb03-ec4fb9f55ffe,NORFOL-e26be4,DIAGNOSIS,a sore throat
+f6359fe4-4340-2820-7308-9148b78f5446,NORFOL-cd0813,DIAGNOSIS,gingivitis
+f6359fe4-4340-2820-0332-06e985d0febc,NORFOL-cd0813,DIAGNOSIS,fracture of bone
+f6359fe4-4340-2820-0332-06e985d0febc,NORFOL-cd0813,DIAGNOSIS,fracture of bone
+f6359fe4-4340-2820-0332-06e985d0febc,NORFOL-cd0813,DIAGNOSIS,fracture of ankle
+f6359fe4-4340-2820-0332-06e985d0febc,NORFOL-cd0813,MEDICATION,Ibuprofen 100 MG Oral Tablet
+f6359fe4-4340-2820-130d-fcf71f6026f0,NORFOL-cd0813,DIAGNOSIS,fracture of bone
+f6359fe4-4340-2820-130d-fcf71f6026f0,NORFOL-cd0813,DIAGNOSIS,fracture of bone
+f6359fe4-4340-2820-130d-fcf71f6026f0,NORFOL-cd0813,DIAGNOSIS,fracture of forearm
+f6359fe4-4340-2820-130d-fcf71f6026f0,NORFOL-cd0813,MEDICATION,Acetaminophen 325 MG Oral Tablet
+f6359fe4-4340-2820-2f2c-34b14f98e226,NORFOL-cd0813,MEDICATION,tramadol hydrochloride 50 MG Oral Tablet
+f6359fe4-4340-2820-2470-5338d34995a3,NORFOL-cd0813,DIAGNOSIS,normal pregnancy
+f6359fe4-4340-2820-fed6-c36b23d56f1b,NORFOL-cd0813,DIAGNOSIS,acute infective cystitis
+f6359fe4-4340-2820-fed6-c36b23d56f1b,NORFOL-cd0813,MEDICATION,nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule
+f6359fe4-4340-2820-237d-34e2e7358471,NORFOL-cd0813,MEDICATION,72 HR Fentanyl 0.025 MG/HR Transdermal System
+f6359fe4-4340-2820-237d-34e2e7358471,NORFOL-cd0813,MEDICATION,tramadol hydrochloride 50 MG Oral Tablet
+f6359fe4-4340-2820-237d-34e2e7358471,NORFOL-cd0813,MEDICATION,12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+f67eaca3-2366-7ee2-0c19-e7100ba0010c,NORFOL-45e46b,DIAGNOSIS,chronic intractable migraine without aura
+f67eaca3-2366-7ee2-0c19-e7100ba0010c,NORFOL-45e46b,DIAGNOSIS,chronic intractable migraine without aura
+f67eaca3-2366-7ee2-cc5c-cff15dec09b3,NORFOL-45e46b,DIAGNOSIS,borderline blood sugar
+f67eaca3-2366-7ee2-a734-84fcd0caec04,NORFOL-45e46b,DIAGNOSIS,chronic pain
+f67eaca3-2366-7ee2-a734-84fcd0caec04,NORFOL-45e46b,DIAGNOSIS,chronic pain
+f67eaca3-2366-7ee2-a734-84fcd0caec04,NORFOL-45e46b,DIAGNOSIS,chronic low back pain
+f67eaca3-2366-7ee2-a734-84fcd0caec04,NORFOL-45e46b,DIAGNOSIS,chronic neck pain
+f67eaca3-2366-7ee2-3799-4acf1a1de18e,NORFOL-45e46b,DIAGNOSIS,a low blood count
+f67eaca3-2366-7ee2-b442-d111ca4856ce,NORFOL-45e46b,DIAGNOSIS,gingivitis
+f67eaca3-2366-7ee2-2413-da64226ebcb7,NORFOL-45e46b,DIAGNOSIS,gum inflammation
+f67eaca3-2366-7ee2-d47e-0bb88333ecb7,NORFOL-45e46b,DIAGNOSIS,a sore throat
+f67eaca3-2366-7ee2-d47e-0bb88333ecb7,NORFOL-45e46b,DIAGNOSIS,acute viral pharyngitis
+f67eaca3-2366-7ee2-1a60-2279df6a6a3e,NORFOL-45e46b,DIAGNOSIS,acute viral pharyngitis
+f67eaca3-2366-7ee2-1a60-2279df6a6a3e,NORFOL-45e46b,DIAGNOSIS,a sore throat
+c823813e-2588-4814-85cf-39c61bc99db3,NORFOL-92880a,DIAGNOSIS,normal pregnancy

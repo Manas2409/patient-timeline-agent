@@ -1,0 +1,10 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+PIONEE-2c833f,Guillermo,,VonRueden,"Jan 16, 1978",True,M,733 Boehm Ville,North Brookfield,Massachusetts,01535,
+PIONEE-004af5,Germán,,Collado,03-10-2018,False,M,273 Rodriguez Haven,Southwick,Massachusetts,00000,999-40-7579
+PIONEE-13d3b6,Dallas,,Graham,01/02/2024,False,M,332 Schultz Extension Suite 26,Southwick,Massachusetts,00000,
+PIONEE-a5051b,D.,,Grimes,2017-03-25,False,M,324 Turcotte Mews,Holyoke,Massachusetts,01040,
+PIONEE-629a68,Boyce,,Nolan,1980-01-13,False,M,,Springfield,Massachusetts,,
+PIONEE-dd32dc,Marquitta,,Hickle,10-18-2010,True,F,571 Schoen Port,Chicopee,Massachusetts,01022,999-89-7774
+PIONEE-fbc37b,Martha,Gilma,Wiegand,"Mar 25, 2023",False,F,763 Kihn Arcade Apt 9,Springfield,Massachusetts,01013,
+PIONEE-cb82ef,Stanton,Antony,Schimmel,05-27-2026,False,M,,Granby,Massachusetts,,
+PIONEE-a22169,Basilia,,Hagenes,1968-09-24,False,F,1057 Barrows Ferry,Belchertown,Massachusetts,01007,999-18-7703

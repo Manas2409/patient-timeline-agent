@@ -1,0 +1,195 @@
+{
+  "cluster_id": "89",
+  "hospitals": [
+    "Pioneer Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2023-03-25",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2023-04-29",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2023-07-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2023-09-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2023-12-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2024-03-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2024-03-09",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-04-03"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-04-03"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-31",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2025-02-15",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-02-27"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2025-07-06",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-08-02"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-08-02T21:24:18Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-08-02T21:24:18Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-30",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    },
+    {
+      "date": "2025-11-09",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Cefuroxime",
+          "canonical": "Cefuroxime",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-23T17:24:18Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-11-23T17:24:18Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-28",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "GROVE HILL MEDICAL CENTER PC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

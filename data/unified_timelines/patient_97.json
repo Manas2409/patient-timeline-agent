@@ -1,0 +1,423 @@
+{
+  "cluster_id": "97",
+  "hospitals": [
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "2018-05-07",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2018-06-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2018-08-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2018-10-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2019-01-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2019-04-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2019-07-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2019-10-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-27",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "otitis",
+          "canonical": "Otitis media",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-10"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-04-10"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-04-10T06:48:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-10T06:48:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2020-08-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "streptococcal",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-08"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "strept",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-08"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-09-08"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-08T16:48:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-19",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2021-08-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-10-11"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-08-17T06:48:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-08-17T06:48:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2022-04-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2022-04-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-18T10:20:04Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "emergency",
+      "reason": "Gunshot wound (disorder)",
+      "seen_at": "CLIFTON REHABILITATION NURSING CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-01T10:20:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "CATHOLIC MEMORIAL HOME",
+      "entities": []
+    },
+    {
+      "date": "2022-07-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Bullet wound (disorder)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2023-04-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2023-04-24",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": []
+    },
+    {
+      "date": "2023-11-27",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-05"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-22",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2025-04-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2025-05-05",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-05T08:54:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-11"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-11"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Injury of tendon of the rotator cuff of shoulder (disorder)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Injury of tendon of the rotator cuff of shoulder (disorder)",
+      "seen_at": "SOUTHCOAST HOSPITALS GROUP INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

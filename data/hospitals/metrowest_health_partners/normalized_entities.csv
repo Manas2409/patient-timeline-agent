@@ -1,0 +1,535 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,ENTITY_TEXT,CANONICAL,MATCH_METHOD,MATCH_SCORE
+355cd402-8f45-353f-9d86-7796def9af0c,METROW-c247fb,DIAGNOSIS,viral sinus,Viral sinusitis,fuzzy,1.0
+355cd402-8f45-353f-9d86-7796def9af0c,METROW-c247fb,DIAGNOSIS,viral sinusitis,Viral sinusitis,exact_synonym,1.0
+355cd402-8f45-353f-75fa-51b846024d8b,METROW-c247fb,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+355cd402-8f45-353f-75fa-51b846024d8b,METROW-c247fb,DIAGNOSIS,Unhealthy alcohol,Unhealthy alcohol,unmapped,0.0
+355cd402-8f45-353f-7d81-41419abc0b3e,METROW-c247fb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,DIAGNOSIS,primary osteoarthritis,Localized  primary osteoarthritis of the hand,fuzzy,1.0
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,DIAGNOSIS,osteoarthritis,Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee,ambiguous,1.0
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,MEDICATION,Meperidine Hydrochloride,Meperidine Hydrochloride,fuzzy,1.0
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+355cd402-8f45-353f-45f4-97121ef38e7d,METROW-c247fb,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+355cd402-8f45-353f-45f4-97121ef38e7d,METROW-c247fb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+355cd402-8f45-353f-0d67-50a419bea3f6,METROW-c247fb,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+355cd402-8f45-353f-7da6-0154208efe61,METROW-c247fb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,DIAGNOSIS,otitis,Otitis media,fuzzy,1.0
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,MEDICATION,Cefuroxime,Cefuroxime,fuzzy,1.0
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+c38b96b6-90ae-fabe-091c-8ae0e55d3dbd,METROW-a11d75,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+c38b96b6-90ae-fabe-4102-0d19042d8ab5,METROW-a11d75,SYMPTOM,sore,sore,unmapped,0.0
+c38b96b6-90ae-fabe-4102-0d19042d8ab5,METROW-a11d75,SYMPTOM,sore,sore,unmapped,0.0
+c38b96b6-90ae-fabe-f7fd-9703bd58a092,METROW-a11d75,SYMPTOM,sore,sore,unmapped,0.0
+6095681c-dfc1-8f20-8f68-46114938e66c,METROW-9d727d,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+6095681c-dfc1-8f20-a48f-991f7259a03e,METROW-9d727d,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+6095681c-dfc1-8f20-a48f-991f7259a03e,METROW-9d727d,DIAGNOSIS,Educated,Educated,unmapped,0.0
+6095681c-dfc1-8f20-a48f-991f7259a03e,METROW-9d727d,DIAGNOSIS,high school,high school,unmapped,0.0
+6095681c-dfc1-8f20-a48f-991f7259a03e,METROW-9d727d,DIAGNOSIS,Full-time employment,Full-time employment,unmapped,0.0
+6095681c-dfc1-8f20-a48f-991f7259a03e,METROW-9d727d,DIAGNOSIS,Limited social,Limited social,unmapped,0.0
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,DIAGNOSIS,lace,lace,unmapped,0.0
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,DIAGNOSIS,laceration,Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm,ambiguous,1.0
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,DIAGNOSIS,injury,Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,SYMPTOM,laceration of foot,Laceration of foot,fuzzy,1.0
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+6095681c-dfc1-8f20-4d96-923c1d00521b,METROW-9d727d,DIAGNOSIS,violence,violence,unmapped,0.0
+3c0e60c4-176e-2c4c-89b0-2da3613a18cf,METROW-61630f,SYMPTOM,loss,loss,unmapped,0.0
+3c0e60c4-176e-2c4c-89b0-2da3613a18cf,METROW-61630f,SYMPTOM,teeth,Loss of teeth,fuzzy,1.0
+3c0e60c4-176e-2c4c-89b0-2da3613a18cf,METROW-61630f,SYMPTOM,loss,loss,unmapped,0.0
+3c0e60c4-176e-2c4c-7cd0-9e0584fa68ab,METROW-61630f,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,DIAGNOSIS,osteoarthritis,Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee,ambiguous,1.0
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,DIAGNOSIS,osteoarthritis,Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee,ambiguous,1.0
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+3c0e60c4-176e-2c4c-9290-555edae2b6a7,METROW-61630f,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-9290-555edae2b6a7,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-e394-eeb9d703e40d,METROW-61630f,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-e394-eeb9d703e40d,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-fb53-5a9856fe20d5,METROW-61630f,DIAGNOSIS,viral phary,Acute viral pharyngitis,fuzzy,1.0
+3c0e60c4-176e-2c4c-fb53-5a9856fe20d5,METROW-61630f,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+3c0e60c4-176e-2c4c-fb53-5a9856fe20d5,METROW-61630f,DIAGNOSIS,ng,ng,unmapped,0.0
+3c0e60c4-176e-2c4c-49b1-d513537f62e7,METROW-61630f,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-49b1-d513537f62e7,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-333a-c75799536233,METROW-61630f,SYMPTOM,hyper,Essential hypertension | Hyperglycemia | Hyperlipidemia | Hypertriglyceridemia,ambiguous,1.0
+3c0e60c4-176e-2c4c-333a-c75799536233,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-bcae-2a639da493e7,METROW-61630f,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-bcae-2a639da493e7,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-b91f-cb8d6177d6a9,METROW-61630f,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-b91f-cb8d6177d6a9,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-6aa1-03dd4a17d88e,METROW-61630f,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-6aa1-03dd4a17d88e,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-4df8-d88514239bcc,METROW-61630f,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3c0e60c4-176e-2c4c-20b3-6ebba68ec2c8,METROW-61630f,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3c0e60c4-176e-2c4c-36ec-501b2fc57a1e,METROW-61630f,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-36ec-501b2fc57a1e,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-3834-9c4ca57dc13b,METROW-61630f,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+3c0e60c4-176e-2c4c-3834-9c4ca57dc13b,METROW-61630f,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+3c0e60c4-176e-2c4c-41c8-abfe8088439b,METROW-61630f,SYMPTOM,hyperlip,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-41c8-abfe8088439b,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-036f-f2713a09f04a,METROW-61630f,SYMPTOM,loss,loss,unmapped,0.0
+3c0e60c4-176e-2c4c-036f-f2713a09f04a,METROW-61630f,SYMPTOM,teeth,Loss of teeth,fuzzy,1.0
+3c0e60c4-176e-2c4c-9acb-5ba82605ff70,METROW-61630f,SYMPTOM,loss,loss,unmapped,0.0
+3c0e60c4-176e-2c4c-4573-67ed3d149c72,METROW-61630f,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-4573-67ed3d149c72,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-9480-ecfef183377b,METROW-61630f,SYMPTOM,cold,cold,unmapped,0.0
+3c0e60c4-176e-2c4c-9480-ecfef183377b,METROW-61630f,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3c0e60c4-176e-2c4c-43af-4d3a19c17f1b,METROW-61630f,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-43af-4d3a19c17f1b,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-0cd6-7dee0afd0de0,METROW-61630f,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3c0e60c4-176e-2c4c-0cd6-7dee0afd0de0,METROW-61630f,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3c0e60c4-176e-2c4c-1c9f-5d5d4a94d9f1,METROW-61630f,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+3c0e60c4-176e-2c4c-d2da-eaaf4d8bea0b,METROW-61630f,SYMPTOM,poly,poly,unmapped,0.0
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,DIAGNOSIS,corona,Abnormal findings diagnostic imaging heart+coronary circulat | Disease caused by severe acute respiratory syndrome coronavirus 2 | History of coronary artery bypass grafting | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,MEDICATION,Clopidogrel,Clopidogrel | clopidogrel,ambiguous,1.0
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,MEDICATION,metoprolol succinate,metoprolol succinate,fuzzy,1.0
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,MEDICATION,Nitroglycerin,Nitroglycerin | nitroglycerin,ambiguous,1.0
+a45aa142-d1e9-d944-e39f-b8f466633d48,METROW-1f35d4,DIAGNOSIS,sleep,Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder,ambiguous,1.0
+a45aa142-d1e9-d944-291c-8797ce950b0e,METROW-1f35d4,DIAGNOSIS,sleep,Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder,ambiguous,1.0
+a45aa142-d1e9-d944-291c-8797ce950b0e,METROW-1f35d4,DIAGNOSIS,sleep,Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder,ambiguous,1.0
+a45aa142-d1e9-d944-91d9-2413ee3789f5,METROW-1f35d4,DIAGNOSIS,Unhealth,Unhealth,unmapped,0.0
+a45aa142-d1e9-d944-ed7d-1e0377f962ec,METROW-1f35d4,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+a45aa142-d1e9-d944-ed7d-1e0377f962ec,METROW-1f35d4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+a45aa142-d1e9-d944-ded5-611103e0a346,METROW-1f35d4,SYMPTOM,hyper,Essential hypertension | Hyperglycemia | Hyperlipidemia | Hypertriglyceridemia,ambiguous,1.0
+a45aa142-d1e9-d944-4071-97dbb86a8d2d,METROW-1f35d4,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+a45aa142-d1e9-d944-4071-97dbb86a8d2d,METROW-1f35d4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+a45aa142-d1e9-d944-aa98-b70ca2fc5f35,METROW-1f35d4,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+a45aa142-d1e9-d944-aa98-b70ca2fc5f35,METROW-1f35d4,SYMPTOM,sin,sin,unmapped,0.0
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,DIAGNOSIS,cca,cca,unmapped,0.0
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,SYMPTOM,sore,sore,unmapped,0.0
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,SYMPTOM,sore,sore,unmapped,0.0
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,MEDICATION,Potassium,Penicillin V Potassium | losartan potassium,ambiguous,1.0
+a45aa142-d1e9-d944-51d4-2e5d04159791,METROW-1f35d4,SYMPTOM,violence,violence,unmapped,0.0
+a45aa142-d1e9-d944-d065-dde88e630ee1,METROW-1f35d4,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+a45aa142-d1e9-d944-d065-dde88e630ee1,METROW-1f35d4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+a45aa142-d1e9-d944-983c-90c905f05db1,METROW-1f35d4,SYMPTOM,poly,poly,unmapped,0.0
+a45aa142-d1e9-d944-4a46-1c797c62a8c3,METROW-1f35d4,SYMPTOM,anxiety,Severe anxiety (panic),fuzzy,1.0
+a45aa142-d1e9-d944-4a46-1c797c62a8c3,METROW-1f35d4,SYMPTOM,panic,Severe anxiety (panic),fuzzy,1.0
+a45aa142-d1e9-d944-a228-0106691a1bb0,METROW-1f35d4,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+a45aa142-d1e9-d944-a228-0106691a1bb0,METROW-1f35d4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,SYMPTOM,cold,cold,unmapped,0.0
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,MEDICATION,Dextromethorphan Hydrobromide,Dextromethorphan Hydrobromide,fuzzy,1.0
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,MEDICATION,doxylamine succinate,doxylamine succinate,fuzzy,1.0
+a45aa142-d1e9-d944-4bfa-2ffea1ce169d,METROW-1f35d4,SYMPTOM,Stress,Acute respiratory distress syndrome | Respiratory distress,ambiguous,1.0
+a45aa142-d1e9-d944-3234-e3eacf9f600b,METROW-1f35d4,SYMPTOM,hyperlip,Hyperlipidemia,fuzzy,1.0
+a45aa142-d1e9-d944-3234-e3eacf9f600b,METROW-1f35d4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+a45aa142-d1e9-d944-c94a-c45e4a329489,METROW-1f35d4,SYMPTOM,polyp,Polyp of colon | Recurrent rectal polyp,ambiguous,1.0
+a45aa142-d1e9-d944-a7ea-d10d0512d7a7,METROW-1f35d4,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+a45aa142-d1e9-d944-a7ea-d10d0512d7a7,METROW-1f35d4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,DIAGNOSIS,burn injury,Burn injury (morphologic abnormality),fuzzy,1.0
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,DIAGNOSIS,burn injury,Burn injury (morphologic abnormality),fuzzy,1.0
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,SYMPTOM,burn,burn,unmapped,0.0
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,MEDICATION,Acetaminoph,Acetaminophen,fuzzy,1.0
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,DIAGNOSIS,burn injury,Burn injury (morphologic abnormality),fuzzy,1.0
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,DIAGNOSIS,burn injury,Burn injury (morphologic abnormality),fuzzy,1.0
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,SYMPTOM,burn,burn,unmapped,0.0
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,DIAGNOSIS,cystic fibrosis,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-6b26-cb71a9b167ac,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-6b26-cb71a9b167ac,METROW-2549bd,DIAGNOSIS,infection,Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection,ambiguous,1.0
+2211f478-b7b4-7711-6b26-cb71a9b167ac,METROW-2549bd,DIAGNOSIS,Staphyl,Infection caused by Staphylococcus aureus | Sepsis caused by Staphylococcus aureus,ambiguous,1.0
+2211f478-b7b4-7711-6b26-cb71a9b167ac,METROW-2549bd,DIAGNOSIS,ccus,ccus,unmapped,0.0
+2211f478-b7b4-7711-eb3c-f0216cea8c5b,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-eb3c-f0216cea8c5b,METROW-2549bd,DIAGNOSIS,diabetes mellitus,Diabetes mellitus due to cystic fibrosis | Diabetes mellitus type 2 | Disorder of kidney due to diabetes mellitus | Microalbuminuria due to type 2 diabetes mellitus,ambiguous,1.0
+2211f478-b7b4-7711-eb3c-f0216cea8c5b,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-cee1-6c5024df8f66,METROW-2549bd,DIAGNOSIS,type 2 diabetes,Diabetes mellitus type 2,exact_synonym,1.0
+2211f478-b7b4-7711-0d1a-2addda7cf5b4,METROW-2549bd,SYMPTOM,loss of teeth,Loss of teeth,fuzzy,1.0
+2211f478-b7b4-7711-0d1a-2addda7cf5b4,METROW-2549bd,SYMPTOM,loss,loss,unmapped,0.0
+2211f478-b7b4-7711-1f7c-7e222c111eff,METROW-2549bd,SYMPTOM,hypertri,Hypertriglyceridemia,fuzzy,1.0
+2211f478-b7b4-7711-424d-0aead9d41920,METROW-2549bd,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+2211f478-b7b4-7711-38c9-65a91b8fff2e,METROW-2549bd,DIAGNOSIS,hyperglycemia,Hyperglycemia,fuzzy,1.0
+2211f478-b7b4-7711-38c9-65a91b8fff2e,METROW-2549bd,DIAGNOSIS,metabolic syndrome,Metabolic syndrome X,fuzzy,1.0
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-7b72-8cc2987161cb,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-7b72-8cc2987161cb,METROW-2549bd,MEDICATION,Op,Op,unmapped,0.0
+2211f478-b7b4-7711-7b72-8cc2987161cb,METROW-2549bd,MEDICATION,halmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-b3d5-8f1d0d2f677c,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-6682-401fa8f2ecb2,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,MEDICATION,dorna,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,MEDICATION,alfa,alfa,unmapped,0.0
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,MEDICATION,hala,hala,unmapped,0.0
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-cbd4-35945012f033,METROW-2549bd,DIAGNOSIS,sepsis,Sepsis | Sepsis caused by Staphylococcus aureus,ambiguous,1.0
+2211f478-b7b4-7711-cbd4-35945012f033,METROW-2549bd,DIAGNOSIS,St,St,unmapped,0.0
+2211f478-b7b4-7711-cbd4-35945012f033,METROW-2549bd,DIAGNOSIS,sep,sep,unmapped,0.0
+2211f478-b7b4-7711-0814-69f276decac7,METROW-2549bd,DIAGNOSIS,cystic fibrosis,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-0814-69f276decac7,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-d968-8e765bd9024a,METROW-2549bd,SYMPTOM,leaking,Leaking dental filling,fuzzy,1.0
+2211f478-b7b4-7711-d968-8e765bd9024a,METROW-2549bd,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2211f478-b7b4-7711-7671-7ca49166a6f0,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-7671-7ca49166a6f0,METROW-2549bd,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-0596-38765041ba1a,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-939f-60126e4c6086,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-939f-60126e4c6086,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-a743-1084a98dd7fd,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-2444-c1144b33a54e,METROW-2549bd,DIAGNOSIS,cystic fibrosis,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-7e96-47a81c3e5a11,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-7e96-47a81c3e5a11,METROW-2549bd,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-c896-9c2353a506e0,METROW-2549bd,DIAGNOSIS,cystic fibrosis,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-c896-9c2353a506e0,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-c2ed-bb1d859e720c,METROW-2549bd,MEDICATION,nor,nor,unmapped,0.0
+2211f478-b7b4-7711-c2ed-bb1d859e720c,METROW-2549bd,MEDICATION,Jo,Jo,unmapped,0.0
+2211f478-b7b4-7711-c2ed-bb1d859e720c,METROW-2549bd,MEDICATION,vet,vet,unmapped,0.0
+2211f478-b7b4-7711-f0e6-a2c0a7920fd7,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-c047-865f024bccf4,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,MEDICATION,hala,hala,unmapped,0.0
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-80b3-ca71df6d1777,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-5540-46998776c701,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-5540-46998776c701,METROW-2549bd,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-5286-ed9bcec7601a,METROW-2549bd,DIAGNOSIS,cystic fibrosis,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-5286-ed9bcec7601a,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-45c0-a077fcee214f,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-fdb0-87475e198805,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-7911-f5dd641a72d4,METROW-2549bd,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-3d91-6277ab70ab95,METROW-2549bd,DIAGNOSIS,viral sinusitis,Viral sinusitis,exact_synonym,1.0
+2211f478-b7b4-7711-bc82-50e1f21e0a54,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-bc82-50e1f21e0a54,METROW-2549bd,MEDICATION,Ophthalmic Solution,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-6d4e-7b90001efb45,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-7125-651af6fba98e,METROW-2549bd,DIAGNOSIS,cystic fibrosis,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-7125-651af6fba98e,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-b73b-8f7b01b8e915,METROW-2549bd,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+2211f478-b7b4-7711-6ea3-bce29d2e70ba,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-1b89-679bddcc3487,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-ea15-db6bf7f13879,METROW-2549bd,DIAGNOSIS,pregnancy,Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy,ambiguous,1.0
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-3bb1-b8b2584defb8,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-3bb1-b8b2584defb8,METROW-2549bd,MEDICATION,Op,Op,unmapped,0.0
+2211f478-b7b4-7711-3bb1-b8b2584defb8,METROW-2549bd,MEDICATION,halmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-9769-cd5077160508,METROW-2549bd,DIAGNOSIS,cystic fibrosis,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-9769-cd5077160508,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-7f4a-ca15661d8e7e,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-010e-5198d251bb4f,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-de5b-5b27cc9e354f,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,MEDICATION,hala,hala,unmapped,0.0
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-bee5-c65b677b76ed,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-bee5-c65b677b76ed,METROW-2549bd,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-c78a-e3544d5a4be9,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-c78a-e3544d5a4be9,METROW-2549bd,DIAGNOSIS,bro,bro,unmapped,0.0
+2211f478-b7b4-7711-c78a-e3544d5a4be9,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-57b8-468a7353018b,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-9fb5-cbda1710a710,METROW-2549bd,DIAGNOSIS,cystic fibrosis,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-2398-52847bf74ade,METROW-2549bd,SYMPTOM,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+2211f478-b7b4-7711-a1a6-21b5c1b18f9a,METROW-2549bd,MEDICATION,nor,nor,unmapped,0.0
+2211f478-b7b4-7711-39fa-4b0f00505ac7,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-b1ba-e776d81ea9c0,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-b1ba-e776d81ea9c0,METROW-2549bd,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,SYMPTOM,infection,Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection,ambiguous,1.0
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,MEDICATION,Gel,Gel,unmapped,0.0
+2211f478-b7b4-7711-4ae6-488183665a3a,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-3c3e-1bf56eae4737,METROW-2549bd,DIAGNOSIS,cystic fibro,Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+2211f478-b7b4-7711-3c3e-1bf56eae4737,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-611b-6ea39999fa8d,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-b75a-dc656f9493ec,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-40dc-3a4fb8756274,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-40dc-3a4fb8756274,METROW-2549bd,MEDICATION,Ophthalmic Solution,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-2a9d-fe5a2d5ff9bf,METROW-2549bd,SYMPTOM,loss,loss,unmapped,0.0
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,MEDICATION,dorna,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,MEDICATION,alfa,alfa,unmapped,0.0
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-4eff-bcfd918bbfd3,METROW-2549bd,SYMPTOM,loss of teeth,Loss of teeth,fuzzy,1.0
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,SYMPTOM,pain,pain,unmapped,0.0
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,SYMPTOM,pain,pain,unmapped,0.0
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,MEDICATION,Tylen,Tylen,unmapped,0.0
+2211f478-b7b4-7711-5f64-70378ffc8d79,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-5f64-70378ffc8d79,METROW-2549bd,DIAGNOSIS,bro,bro,unmapped,0.0
+2211f478-b7b4-7711-5f64-70378ffc8d79,METROW-2549bd,MEDICATION,Vancomycin,Vancomycin | vancomycin,ambiguous,1.0
+2211f478-b7b4-7711-fc4a-a0f109556700,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,DIAGNOSIS,kidney disease,Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4,ambiguous,1.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,SYMPTOM,disorder,Disorder of kidney due to diabetes mellitus | Seizure disorder | Sleep disorder,ambiguous,1.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,DIAGNOSIS,diabetes mellit,Diabetes mellitus due to cystic fibrosis | Diabetes mellitus type 2 | Disorder of kidney due to diabetes mellitus | Microalbuminuria due to type 2 diabetes mellitus,ambiguous,1.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-b8e2-c251ed7b67c4,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-1e30-320546271ef6,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-c023-bcd4752dd9ef,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-c023-bcd4752dd9ef,METROW-2549bd,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,Ty,Ty,unmapped,0.0
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-70ee-fcd7706eb5d2,METROW-2549bd,DIAGNOSIS,pregnancy,Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy,ambiguous,1.0
+2211f478-b7b4-7711-188c-4b8f6ee8d72d,METROW-2549bd,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-75f5-200ac43e1a13,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-d05d-99dd37f126f9,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-4024-4057ec28784c,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-8566-706271053729,METROW-2549bd,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+2211f478-b7b4-7711-8566-706271053729,METROW-2549bd,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2211f478-b7b4-7711-952b-3c8f09c8df1d,METROW-2549bd,MEDICATION,nor,nor,unmapped,0.0
+2211f478-b7b4-7711-f810-a21f7d451ee4,METROW-2549bd,MEDICATION,tropicamide,tropicamide,fuzzy,1.0
+2211f478-b7b4-7711-f810-a21f7d451ee4,METROW-2549bd,MEDICATION,Ophthalmic,ML Ophthalmic Solution,fuzzy,1.0
+2211f478-b7b4-7711-a1fe-9005c0b64fbb,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,Ty,Ty,unmapped,0.0
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,Ty,Ty,unmapped,0.0
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-e0ef-6d8e77230e72,METROW-2549bd,DIAGNOSIS,cy,cy,unmapped,0.0
+2211f478-b7b4-7711-6ac4-d082185e9b20,METROW-2549bd,SYMPTOM,sepsis,Sepsis | Sepsis caused by Staphylococcus aureus,ambiguous,1.0
+2211f478-b7b4-7711-6ac4-d082185e9b20,METROW-2549bd,DIAGNOSIS,St,St,unmapped,0.0
+2211f478-b7b4-7711-c3cf-c260af366446,METROW-2549bd,SYMPTOM,sepsis,Sepsis | Sepsis caused by Staphylococcus aureus,ambiguous,1.0
+e503e9b3-d149-653b-7280-07d85636cde6,METROW-f81d19,SYMPTOM,sc,sc,unmapped,0.0
+e503e9b3-d149-653b-7280-07d85636cde6,METROW-f81d19,SYMPTOM,sc,sc,unmapped,0.0
+e503e9b3-d149-653b-a536-cca0cbc06b1e,METROW-f81d19,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+e503e9b3-d149-653b-3ffa-062b5ac17d65,METROW-f81d19,MEDICATION,ferrous sulfate,ferrous sulfate,fuzzy,1.0
+e503e9b3-d149-653b-ed8f-c1687b5e6edf,METROW-f81d19,MEDICATION,et,et,unmapped,0.0
+e503e9b3-d149-653b-ed8f-c1687b5e6edf,METROW-f81d19,MEDICATION,iol,iol,unmapped,0.0
+e503e9b3-d149-653b-ed8f-c1687b5e6edf,METROW-f81d19,MEDICATION,iol,iol,unmapped,0.0
+e503e9b3-d149-653b-ed8f-c1687b5e6edf,METROW-f81d19,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+e503e9b3-d149-653b-4eaf-0a52c9f697ba,METROW-f81d19,MEDICATION,Ethinyl Estradiol,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+e503e9b3-d149-653b-4eaf-0a52c9f697ba,METROW-f81d19,MEDICATION,norelgestromin,norelgestromin,fuzzy,1.0
+e503e9b3-d149-653b-8321-58d6fa829d64,METROW-f81d19,MEDICATION,Etonogestrel,Etonogestrel | etonogestrel,ambiguous,1.0
+e503e9b3-d149-653b-b175-98a10da01e84,METROW-f81d19,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+e503e9b3-d149-653b-e7bc-a85f5bcdd9b1,METROW-f81d19,DIAGNOSIS,viral sin,Viral sinusitis,fuzzy,1.0
+e503e9b3-d149-653b-0562-c4421221e644,METROW-f81d19,MEDICATION,et,et,unmapped,0.0
+e503e9b3-d149-653b-0562-c4421221e644,METROW-f81d19,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+e503e9b3-d149-653b-f55a-fd8dabbfc570,METROW-f81d19,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+e503e9b3-d149-653b-f55a-fd8dabbfc570,METROW-f81d19,MEDICATION,Gel,Gel,unmapped,0.0
+e503e9b3-d149-653b-0e17-773b22b5d8e7,METROW-f81d19,MEDICATION,die,die,unmapped,0.0
+e503e9b3-d149-653b-0e17-773b22b5d8e7,METROW-f81d19,MEDICATION,est,est,unmapped,0.0
+e503e9b3-d149-653b-0e17-773b22b5d8e7,METROW-f81d19,MEDICATION,die,die,unmapped,0.0
+e503e9b3-d149-653b-0e17-773b22b5d8e7,METROW-f81d19,MEDICATION,Nat,Nat,unmapped,0.0
+82623afe-e51c-e02e-0cb3-b28c7cac5886,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-0cb3-b28c7cac5886,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-951b-742e3d75b81a,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-951b-742e3d75b81a,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,DIAGNOSIS,time,time,unmapped,0.0
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,MEDICATION,hala,hala,unmapped,0.0
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,MEDICATION,Inhala,ML Inhalation Solution | ML Inhalation Suspension,ambiguous,1.0
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,MEDICATION,Suspension,ML Inhalation Suspension | ML Injectable Suspension | ML Oral Suspension,ambiguous,1.0
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,MEDICATION,hala,hala,unmapped,0.0
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,DIAGNOSIS,Unemployed,Unemployed,unmapped,0.0
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,SYMPTOM,inflammation,inflammation,unmapped,0.0
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,budesonide,budesonide,fuzzy,1.0
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,MEDICATION,albuterol,albuterol,fuzzy,1.0
+1426480f-ccc7-2393-b622-87ea0962cdd4,METROW-f498eb,SYMPTOM,allergic rhinitis,Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+1426480f-ccc7-2393-b622-87ea0962cdd4,METROW-f498eb,MEDICATION,diphenhydrAMINE Hydrochloride,diphenhydrAMINE Hydrochloride,fuzzy,1.0
+1426480f-ccc7-2393-56c7-2d4bb4f6e93b,METROW-f498eb,SYMPTOM,allergy to Allergic,allergy to Allergic,unmapped,0.0
+1426480f-ccc7-2393-56c7-2d4bb4f6e93b,METROW-f498eb,ALLERGY,Allergic disposition,Allergic disposition,fuzzy,1.0
+1426480f-ccc7-2393-c230-9e7b9072c674,METROW-f498eb,DIAGNOSIS,Educated,Educated,unmapped,0.0
+1426480f-ccc7-2393-d1fe-b9f14b909cb8,METROW-f498eb,SYMPTOM,weight,weight,unmapped,0.0
+1426480f-ccc7-2393-e0a0-a3c4f3ca7908,METROW-f498eb,DIAGNOSIS,sep,sep,unmapped,0.0
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,MEDICATION,Hydrocodone Bitartrate,HYDROcodone Bitartrate | Hydrocodone Bitartrate,ambiguous,1.0
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,MEDICATION,Bitartrate,HYDROcodone Bitartrate | Hydrocodone Bitartrate,ambiguous,1.0
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+1426480f-ccc7-2393-d287-fad18b41007d,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-d287-fad18b41007d,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,MEDICATION,Hydrocodone Bitartrate,HYDROcodone Bitartrate | Hydrocodone Bitartrate,ambiguous,1.0
+1426480f-ccc7-2393-ef8d-1395aba0059c,METROW-f498eb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,DIAGNOSIS,coronary artery disease,Ischemic heart disease,exact_synonym,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,SYMPTOM,anxiety,Severe anxiety (panic),fuzzy,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,SYMPTOM,panic,Severe anxiety (panic),fuzzy,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Hydrocodone Bitartrate,HYDROcodone Bitartrate | Hydrocodone Bitartrate,ambiguous,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Clopidogrel,Clopidogrel | clopidogrel,ambiguous,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,metoprolol succinate,metoprolol succinate,fuzzy,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Nitroglycerin,Nitroglycerin | nitroglycerin,ambiguous,1.0
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,MEDICATION,Mucosal,ACTUAT Mucosal Spray,fuzzy,1.0
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,MEDICATION,Hydrocodone Bitartrate,HYDROcodone Bitartrate | Hydrocodone Bitartrate,ambiguous,1.0
+1426480f-ccc7-2393-eaf9-8fd9f528351a,METROW-f498eb,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+1426480f-ccc7-2393-eaf9-8fd9f528351a,METROW-f498eb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,SYMPTOM,lace,lace,unmapped,0.0
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,SYMPTOM,lace,lace,unmapped,0.0
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,SYMPTOM,lace,lace,unmapped,0.0
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,MEDICATION,Hydrocodone,HYDROcodone Bitartrate | Hydrocodone Bitartrate,ambiguous,1.0
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,SYMPTOM,laceration,Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm,ambiguous,1.0
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,SYMPTOM,lace,lace,unmapped,0.0
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,SYMPTOM,laceration,Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm,ambiguous,1.0
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-9eb2-14cfef2023ba,METROW-f498eb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+1426480f-ccc7-2393-b0b5-966fe4aad8ee,METROW-f498eb,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+1426480f-ccc7-2393-b0b5-966fe4aad8ee,METROW-f498eb,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+1426480f-ccc7-2393-1dff-3d15e6fd3ea6,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-1dff-3d15e6fd3ea6,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,MEDICATION,Hydrocodone Bitartrate,HYDROcodone Bitartrate | Hydrocodone Bitartrate,ambiguous,1.0
+1426480f-ccc7-2393-0803-4519355e891a,METROW-f498eb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+1426480f-ccc7-2393-0803-4519355e891a,METROW-f498eb,MEDICATION,Gel,Gel,unmapped,0.0
+1426480f-ccc7-2393-7eab-22ee566b8fd8,METROW-f498eb,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+1426480f-ccc7-2393-7eab-22ee566b8fd8,METROW-f498eb,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1426480f-ccc7-2393-0b9e-1f2847df7759,METROW-f498eb,DIAGNOSIS,gum,gum,unmapped,0.0
+1426480f-ccc7-2393-0b9e-1f2847df7759,METROW-f498eb,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+1426480f-ccc7-2393-0b9e-1f2847df7759,METROW-f498eb,MEDICATION,Gel,Gel,unmapped,0.0
+afb99eee-0bd5-8853-3805-cd952ecc5205,METROW-1bc0a3,SYMPTOM,Risk,Risk,unmapped,0.0
+afb99eee-0bd5-8853-0faa-17a3365a3087,METROW-1bc0a3,DIAGNOSIS,Educated,Educated,unmapped,0.0
+46fcc34a-97a1-f038-cdd8-cc9cb065766b,METROW-c414c1,DIAGNOSIS,education,education,unmapped,0.0
+46fcc34a-97a1-f038-e100-75afc3eb2b59,METROW-c414c1,DIAGNOSIS,violence,violence,unmapped,0.0
+46fcc34a-97a1-f038-e100-75afc3eb2b59,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-e100-75afc3eb2b59,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-3e3d-e5681d587a20,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-3e3d-e5681d587a20,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-b5bb-442ce514d044,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-b5bb-442ce514d044,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-d193-226822c2b206,METROW-c414c1,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+46fcc34a-97a1-f038-d193-226822c2b206,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-d193-226822c2b206,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-94de-709570a0e6ad,METROW-c414c1,DIAGNOSIS,gi,gi,unmapped,0.0
+46fcc34a-97a1-f038-94de-709570a0e6ad,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-94de-709570a0e6ad,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-6bcf-83aaefd136d9,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-6bcf-83aaefd136d9,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-ea5f-befb62c6a10d,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-ea5f-befb62c6a10d,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-440f-d5968d40d953,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-440f-d5968d40d953,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-d625-857794e18e71,METROW-c414c1,DIAGNOSIS,time,time,unmapped,0.0
+46fcc34a-97a1-f038-d625-857794e18e71,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-d625-857794e18e71,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-f0c2-bbc4ad58eb48,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-f0c2-bbc4ad58eb48,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+46fcc34a-97a1-f038-7ddb-8f7b34964e31,METROW-c414c1,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+46fcc34a-97a1-f038-7ddb-8f7b34964e31,METROW-c414c1,MEDICATION,Oxycodone Hydrochloride,Oxycodone Hydrochloride | oxyCODONE Hydrochloride,ambiguous,1.0
+6c4283c9-228b-2774-2eb7-5438fa1a67bf,METROW-c330ba,DIAGNOSIS,bacterial sinus,Acute bacterial sinusitis,fuzzy,1.0
+6c4283c9-228b-2774-2eb7-5438fa1a67bf,METROW-c330ba,DIAGNOSIS,sinus infection,sinus infection,unmapped,0.0
+6c4283c9-228b-2774-6722-5d93ecde9b63,METROW-c330ba,SYMPTOM,obese,Body mass index 40+ - severely obese,fuzzy,1.0
+6c4283c9-228b-2774-33eb-9530ace867be,METROW-c330ba,SYMPTOM,sore,sore,unmapped,0.0
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,DIAGNOSIS,borderline blood sugar,Prediabetes,exact_synonym,1.0
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,DIAGNOSIS,an,an,unmapped,0.0
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,DIAGNOSIS,",",",",unmapped,0.0
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,DIAGNOSIS,Full-time,Full-time,unmapped,0.0
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,MEDICATION,ferrous sulfate,ferrous sulfate,fuzzy,1.0
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,MEDICATION,Vitamin B12,Vitamin B,fuzzy,1.0
+6c4283c9-228b-2774-120c-a8dad592b537,METROW-c330ba,DIAGNOSIS,gingival,Gingival disease,fuzzy,1.0
+9c26986a-d81d-62f0-ecce-961c5addb697,METROW-d2f872,SYMPTOM,Risk,Risk,unmapped,0.0
+9c26986a-d81d-62f0-9319-d9ec7c28f0dd,METROW-d2f872,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+9c26986a-d81d-62f0-b5da-a7003996997d,METROW-d2f872,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0

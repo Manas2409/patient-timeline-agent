@@ -1,0 +1,750 @@
+{
+  "cluster_id": "80",
+  "hospitals": [
+    "North Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "1995-12-31",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sin",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "1998-12-30",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Perennial allergic rhinitis with seasonal variation (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Loratadine",
+          "canonical": "Loratadine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1999-01-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Allergic disposition",
+          "canonical": "Allergic disposition",
+          "match_method": "fuzzy",
+          "reaction": "",
+          "severity": ""
+        }
+      ]
+    },
+    {
+      "date": "2013-07-06",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LYNN COMMUNITY HEALTH",
+      "entities": []
+    },
+    {
+      "date": "2014-07-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LYNN COMMUNITY HEALTH",
+      "entities": []
+    },
+    {
+      "date": "2016-01-26",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-01-20T01:38:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LYNN COMMUNITY HEALTH",
+      "entities": []
+    },
+    {
+      "date": "2018-01-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cystitis",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-31"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-01-10T01:38:24Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-10T01:38:24Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-31",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "LIFE CARE CENTER OF THE NORTH SHORE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cephalexin",
+          "canonical": "cephalexin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-08-31T06:06:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-05-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ary",
+          "canonical": "ary",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-05-30"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-05-30"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyPROGESTERone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-12-30T01:53:58Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-07-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LYNN COMMUNITY HEALTH",
+      "entities": []
+    },
+    {
+      "date": "2020-07-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-10-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-01-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-04-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-07-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-08-21",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-10-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-12-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-20T02:09:15Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-04-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-07-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-10-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "LYNN URGENT CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-10-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-10-29",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-11-14"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-14"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-14T01:59:20Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-11-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-11-12"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-12T07:21:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-19T19:00:06Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-02-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-02-11",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "LIFE CARE CENTER OF THE NORTH SHORE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-01T01:53:01Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-06",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-07-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LYNN COMMUNITY HEALTH",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anxiety",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-11-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-12-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-12-13T19:00:06Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-12-13T19:00:06Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-12-13T19:00:06Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-13T19:00:06Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-05-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-08-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-11-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-11-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-01"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-05-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-08-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-09-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-10-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-11-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-12-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-01-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-02-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-03-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-04-11",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-04-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-05-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "LIFE CARE CENTER OF THE NORTH SHORE",
+      "entities": []
+    },
+    {
+      "date": "2026-06-13",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2026-07-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LYNN COMMUNITY HEALTH",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2026-08-08"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "WHITTIER REHABILTATION HOSPITAL",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

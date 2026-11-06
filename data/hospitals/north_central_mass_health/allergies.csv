@@ -1,0 +1,10 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+NORTH_-6c70d0,1983-05-07,Allergic disposition (finding),,
+NORTH_-1cbba8,2002-02-07,Allergic disposition (finding),,
+NORTH_-1cbba8,2002-02-07,Mold (organism),Cutaneous hypersensitivity (disorder),MILD
+NORTH_-1cbba8,2002-02-07,House dust mite (organism),,
+NORTH_-1cbba8,2002-02-07,Animal dander (substance),Rhinoconjunctivitis (disorder),MODERATE
+NORTH_-1cbba8,2002-02-07,Grass pollen (substance),,
+NORTH_-1cbba8,2002-02-07,Tree pollen (substance),,
+NORTH_-1cbba8,2002-02-07,Lisinopril,Dyspnea (finding),MODERATE
+NORTH_-1cbba8,2002-02-07,Aspirin,,

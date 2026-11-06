@@ -1,0 +1,7 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+PIONEE-a5051b,2020-03-07,Allergic disposition (finding),,
+PIONEE-a5051b,2020-03-07,Mold (organism),,
+PIONEE-a5051b,2020-03-07,House dust mite (organism),,
+PIONEE-a5051b,2020-03-07,Animal dander (substance),Rhinoconjunctivitis (disorder),MODERATE
+PIONEE-a5051b,2020-03-07,Grass pollen (substance),,
+PIONEE-a5051b,2020-03-07,Tree pollen (substance),,

@@ -1,0 +1,755 @@
+{
+  "cluster_id": "102",
+  "hospitals": [
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1989-04-11",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "1993-04-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "1996-04-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anemia",
+          "canonical": "Anemia",
+          "match_method": "exact_synonym"
+        }
+      ]
+    },
+    {
+      "date": "2002-04-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2008-02-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2008-05-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2015-03-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-03-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-03-21",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-21T23:46:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-03-21T23:46:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-06"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-06T00:34:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-03-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Alveolitis of jaw (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "alveolitis",
+          "canonical": "Alveolitis of jaw",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-19"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "alveolitis",
+          "canonical": "Alveolitis of jaw",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-19"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Torus palatinus (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-04-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "strept",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-12-27"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "strept",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-27T14:18:15Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-03-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-27T00:08:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-11-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2022-02-22",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2022-04-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Sprain (morphologic abnormality)",
+      "seen_at": "GOOD SHEPHERD COMMUNITY CARE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-02-12"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-02-12T01:44:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-28",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-03-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "panic attacks",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "exact_synonym"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-03-11",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-07-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-23"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-23"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-11-22",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-12-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-12-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-03-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinus",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ENHANCED MEDICAL CARE  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-21",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-04-11",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-05-02",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-05-12",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": []
+    },
+    {
+      "date": "2026-05-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": []
+    },
+    {
+      "date": "2026-05-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-06-02",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronch",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-20"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-20T21:35:18Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-10T01:06:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-06-10T01:06:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-06-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "PATRIOT URGENT CARE PROFESSIONALS PC",
+      "entities": []
+    },
+    {
+      "date": "2026-07-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-08T00:08:30Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

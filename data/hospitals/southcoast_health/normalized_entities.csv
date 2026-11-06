@@ -1,0 +1,339 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,ENTITY_TEXT,CANONICAL,MATCH_METHOD,MATCH_SCORE
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,MEDICATION,cetirizine hydrochloride,cetirizine hydrochloride,fuzzy,1.0
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,MEDICATION,Epinephrine,HR | norepinephrine,ambiguous,1.0
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,ALLERGY,Tree nut,Tree nut,fuzzy,1.0
+9a3814bb-f5b0-05f3-8607-12bcd1ea3eba,SOUTHC-ac561e,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-8607-12bcd1ea3eba,SOUTHC-ac561e,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-e0dc-309e11331886,SOUTHC-ac561e,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-e0dc-309e11331886,SOUTHC-ac561e,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-230f-6985db10794d,SOUTHC-ac561e,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+9a3814bb-f5b0-05f3-2250-ae200a0ef6f1,SOUTHC-ac561e,DIAGNOSIS,bacterial sinus,Acute bacterial sinusitis,fuzzy,1.0
+9a3814bb-f5b0-05f3-2250-ae200a0ef6f1,SOUTHC-ac561e,DIAGNOSIS,bacterial sin,Acute bacterial sinusitis,fuzzy,1.0
+9a3814bb-f5b0-05f3-a43f-3241e9cb896f,SOUTHC-ac561e,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+9a3814bb-f5b0-05f3-dc32-28cb99d5b416,SOUTHC-ac561e,DIAGNOSIS,bacterial sinus,Acute bacterial sinusitis,fuzzy,1.0
+9a3814bb-f5b0-05f3-4909-86e1cbc82d22,SOUTHC-ac561e,DIAGNOSIS,allergic rhinitis,Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+9a3814bb-f5b0-05f3-4909-86e1cbc82d22,SOUTHC-ac561e,DIAGNOSIS,allergic rhinitis,Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,DIAGNOSIS,cca,cca,unmapped,0.0
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,SYMPTOM,sore,sore,unmapped,0.0
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,DIAGNOSIS,cca,cca,unmapped,0.0
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,SYMPTOM,sore,sore,unmapped,0.0
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,MEDICATION,Potassium,Penicillin V Potassium | losartan potassium,ambiguous,1.0
+9a3814bb-f5b0-05f3-f853-69d65aca1542,SOUTHC-ac561e,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,MEDICATION,ACTUAT fluticasone propionate,ACTUAT | Fluticasone propionate | fluticasone propionate,ambiguous,1.0
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,MEDICATION,albuterol,albuterol,fuzzy,1.0
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,MEDICATION,Inhala,ML Inhalation Solution | ML Inhalation Suspension,ambiguous,1.0
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+9a3814bb-f5b0-05f3-e4d0-1f4e3f48d49e,SOUTHC-ac561e,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+9a3814bb-f5b0-05f3-e4d0-1f4e3f48d49e,SOUTHC-ac561e,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,SYMPTOM,strept,Streptococcal sore throat,fuzzy,1.0
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,DIAGNOSIS,cca,cca,unmapped,0.0
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,SYMPTOM,sore,sore,unmapped,0.0
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,SYMPTOM,strept,Streptococcal sore throat,fuzzy,1.0
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,SYMPTOM,cca,cca,unmapped,0.0
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,SYMPTOM,sore,sore,unmapped,0.0
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,DIAGNOSIS,ot,ot,unmapped,0.0
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,DIAGNOSIS,cca,cca,unmapped,0.0
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,SYMPTOM,sore,sore,unmapped,0.0
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,SYMPTOM,sore,sore,unmapped,0.0
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+f30304ab-8e45-1cbd-0d13-378caf6b943b,SOUTHC-9ae386,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+f30304ab-8e45-1cbd-0d13-378caf6b943b,SOUTHC-9ae386,MEDICATION,Gel,Gel,unmapped,0.0
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,DIAGNOSIS,ot,ot,unmapped,0.0
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+f30304ab-8e45-1cbd-b3df-26028bc9bb51,SOUTHC-9ae386,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,SYMPTOM,sinus,Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis,ambiguous,1.0
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,DIAGNOSIS,sinus infection,sinus infection,unmapped,0.0
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,DIAGNOSIS,ccal,ccal,unmapped,0.0
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,SYMPTOM,sore,sore,unmapped,0.0
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,SYMPTOM,strept,Streptococcal sore throat,fuzzy,1.0
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,SYMPTOM,sore,sore,unmapped,0.0
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+f30304ab-8e45-1cbd-7040-1a04104db872,SOUTHC-9ae386,SYMPTOM,sore,sore,unmapped,0.0
+f30304ab-8e45-1cbd-7040-1a04104db872,SOUTHC-9ae386,SYMPTOM,sore,sore,unmapped,0.0
+f30304ab-8e45-1cbd-7040-1a04104db872,SOUTHC-9ae386,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+e34a6a5e-1d77-508d-d5b0-c8501f3ec0e2,SOUTHC-5aa69b,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+e34a6a5e-1d77-508d-d5b0-c8501f3ec0e2,SOUTHC-5aa69b,DIAGNOSIS,gingival,Gingival disease,fuzzy,1.0
+e34a6a5e-1d77-508d-d5b0-c8501f3ec0e2,SOUTHC-5aa69b,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+e34a6a5e-1d77-508d-5ccb-6650ff7a6211,SOUTHC-5aa69b,MEDICATION,Ethinyl Estradiol,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+e34a6a5e-1d77-508d-5ccb-6650ff7a6211,SOUTHC-5aa69b,MEDICATION,norelgestromin,norelgestromin,fuzzy,1.0
+e34a6a5e-1d77-508d-7a77-e15f104d697e,SOUTHC-5aa69b,SYMPTOM,anxiety,Severe anxiety (panic),fuzzy,1.0
+e34a6a5e-1d77-508d-7a77-e15f104d697e,SOUTHC-5aa69b,SYMPTOM,panic,Severe anxiety (panic),fuzzy,1.0
+e34a6a5e-1d77-508d-9f39-137908c0c841,SOUTHC-5aa69b,DIAGNOSIS,coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+e34a6a5e-1d77-508d-9f39-137908c0c841,SOUTHC-5aa69b,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,DIAGNOSIS,coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,SYMPTOM,d,d,unmapped,0.0
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,SYMPTOM,p,p,unmapped,0.0
+e34a6a5e-1d77-508d-20c5-f49607a46f9a,SOUTHC-5aa69b,MEDICATION,ciprofloxacin,ciprofloxacin,fuzzy,1.0
+e34a6a5e-1d77-508d-0c1c-ac0a39473576,SOUTHC-5aa69b,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+e34a6a5e-1d77-508d-044d-372a89f08d28,SOUTHC-5aa69b,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+e34a6a5e-1d77-508d-8a2c-76b0b324d33a,SOUTHC-5aa69b,MEDICATION,et,et,unmapped,0.0
+e34a6a5e-1d77-508d-8a2c-76b0b324d33a,SOUTHC-5aa69b,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+e34a6a5e-1d77-508d-e4e8-00aacb1f2de9,SOUTHC-5aa69b,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+e34a6a5e-1d77-508d-e4e8-00aacb1f2de9,SOUTHC-5aa69b,MEDICATION,Gel,Gel,unmapped,0.0
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,SYMPTOM,us,us,unmapped,0.0
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,DIAGNOSIS,sin,sin,unmapped,0.0
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+e34a6a5e-1d77-508d-9ae5-50132dd0d519,SOUTHC-5aa69b,MEDICATION,ethinyl estradiol,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+e34a6a5e-1d77-508d-9ae5-50132dd0d519,SOUTHC-5aa69b,MEDICATION,etonogestrel,Etonogestrel | etonogestrel,ambiguous,1.0
+e34a6a5e-1d77-508d-ba7b-1b257533ebca,SOUTHC-5aa69b,MEDICATION,et,et,unmapped,0.0
+e34a6a5e-1d77-508d-ba7b-1b257533ebca,SOUTHC-5aa69b,MEDICATION,et,et,unmapped,0.0
+e34a6a5e-1d77-508d-ba7b-1b257533ebca,SOUTHC-5aa69b,MEDICATION,est,est,unmapped,0.0
+e34a6a5e-1d77-508d-ba7b-1b257533ebca,SOUTHC-5aa69b,MEDICATION,iol,iol,unmapped,0.0
+e34a6a5e-1d77-508d-ba7b-1b257533ebca,SOUTHC-5aa69b,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+4af53267-820e-7687-efdd-05535f115b82,SOUTHC-748765,SYMPTOM,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,DIAGNOSIS,ot,ot,unmapped,0.0
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+4af53267-820e-7687-aeff-58b01699b5d7,SOUTHC-748765,SYMPTOM,lace,lace,unmapped,0.0
+4af53267-820e-7687-aeff-58b01699b5d7,SOUTHC-748765,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+4af53267-820e-7687-0d4a-4cb55cc3f6b9,SOUTHC-748765,DIAGNOSIS,bronchitis,Acute bronchitis,fuzzy,1.0
+4af53267-820e-7687-0d4a-4cb55cc3f6b9,SOUTHC-748765,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+4af53267-820e-7687-b6e8-1f8e36f03db8,SOUTHC-748765,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+4af53267-820e-7687-b6e8-1f8e36f03db8,SOUTHC-748765,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,DIAGNOSIS,otitis,Otitis media,fuzzy,1.0
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+4af53267-820e-7687-8b04-81f74e0a75a1,SOUTHC-748765,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+4af53267-820e-7687-8b04-81f74e0a75a1,SOUTHC-748765,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+4af53267-820e-7687-2f5d-9d4612f17306,SOUTHC-748765,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+4af53267-820e-7687-2f5d-9d4612f17306,SOUTHC-748765,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+4af53267-820e-7687-d35f-41940515cb96,SOUTHC-748765,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+4af53267-820e-7687-d35f-41940515cb96,SOUTHC-748765,MEDICATION,Gel,Gel,unmapped,0.0
+4af53267-820e-7687-a686-a5876353f831,SOUTHC-748765,DIAGNOSIS,pharyng,Acute viral pharyngitis,fuzzy,1.0
+4af53267-820e-7687-a686-a5876353f831,SOUTHC-748765,SYMPTOM,sore throat,Sore throat | Streptococcal sore throat,ambiguous,1.0
+4af53267-820e-7687-b510-47d4dc6b8c9c,SOUTHC-748765,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+8ece28c6-f931-b0e0-896d-e0b1f1b04096,SOUTHC-ede5b7,DIAGNOSIS,intimate,intimate,unmapped,0.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,DIAGNOSIS,coronary artery disease,Ischemic heart disease,exact_synonym,1.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,SYMPTOM,anxiety,Severe anxiety (panic),fuzzy,1.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,SYMPTOM,panic,Severe anxiety (panic),fuzzy,1.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Clopidogrel,Clopidogrel | clopidogrel,ambiguous,1.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,metoprolol succinate,metoprolol succinate,fuzzy,1.0
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,MEDICATION,Nitroglycerin,Nitroglycerin | nitroglycerin,ambiguous,1.0
+8ece28c6-f931-b0e0-1150-c3970bfce3e4,SOUTHC-ede5b7,DIAGNOSIS,dental caries,Primary dental caries,fuzzy,1.0
+8ece28c6-f931-b0e0-1150-c3970bfce3e4,SOUTHC-ede5b7,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+8ece28c6-f931-b0e0-09ba-f35679165318,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-09ba-f35679165318,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-505a-d00a6c0ce72d,SOUTHC-ede5b7,SYMPTOM,sore,sore,unmapped,0.0
+8ece28c6-f931-b0e0-505a-d00a6c0ce72d,SOUTHC-ede5b7,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+8ece28c6-f931-b0e0-7e64-8a67114567b3,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-7e64-8a67114567b3,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-a2fc-625d9ab8471c,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-a2fc-625d9ab8471c,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-d6a7-5d016fabc380,SOUTHC-ede5b7,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+8ece28c6-f931-b0e0-d6a7-5d016fabc380,SOUTHC-ede5b7,MEDICATION,Gel,Gel,unmapped,0.0
+8ece28c6-f931-b0e0-ac7a-190e12763c8d,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-ac7a-190e12763c8d,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-1657-76ea6a17c20c,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-1657-76ea6a17c20c,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-129b-d9fc3267ad8b,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-129b-d9fc3267ad8b,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-4da7-3be24086a224,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-4da7-3be24086a224,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-5870-cda02b8d71fe,SOUTHC-ede5b7,DIAGNOSIS,pharyng,Acute viral pharyngitis,fuzzy,1.0
+8ece28c6-f931-b0e0-5870-cda02b8d71fe,SOUTHC-ede5b7,DIAGNOSIS,ph,ph,unmapped,0.0
+8ece28c6-f931-b0e0-5870-cda02b8d71fe,SOUTHC-ede5b7,DIAGNOSIS,ng,ng,unmapped,0.0
+8ece28c6-f931-b0e0-b284-105a73d139fa,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-b284-105a73d139fa,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-0665-4317289e5ba4,SOUTHC-ede5b7,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+8ece28c6-f931-b0e0-0665-4317289e5ba4,SOUTHC-ede5b7,MEDICATION,Gel,Gel,unmapped,0.0
+8ece28c6-f931-b0e0-e15e-f120e984198e,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-e15e-f120e984198e,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-1775-8f401a2c6f78,SOUTHC-ede5b7,MEDICATION,Naproxen,Naproxen | Naproxen sodium,ambiguous,1.0
+8ece28c6-f931-b0e0-1775-8f401a2c6f78,SOUTHC-ede5b7,MEDICATION,Allopurinol,Allopurinol,fuzzy,1.0
+8ece28c6-f931-b0e0-759b-fd032d795588,SOUTHC-ede5b7,DIAGNOSIS,Part-time employment,Part-time employment,unmapped,0.0
+8ece28c6-f931-b0e0-759b-fd032d795588,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-759b-fd032d795588,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-3d4d-e37ad4b472f0,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-3d4d-e37ad4b472f0,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-b43e-9b7f3b9b74eb,SOUTHC-ede5b7,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+8ece28c6-f931-b0e0-b43e-9b7f3b9b74eb,SOUTHC-ede5b7,MEDICATION,Alendronic acid,Alendronic acid,fuzzy,1.0
+8ece28c6-f931-b0e0-2fd7-cdf53c8d48c2,SOUTHC-ede5b7,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+197ec76f-0730-2587-3b15-0bac5d16c0d4,SOUTHC-ec63bd,SYMPTOM,panic,Severe anxiety (panic),fuzzy,1.0
+197ec76f-0730-2587-673e-70c01b4cb343,SOUTHC-ec63bd,DIAGNOSIS,infective cystitis,Acute infective cystitis,fuzzy,1.0
+197ec76f-0730-2587-9f22-96ceea1e58d8,SOUTHC-ec63bd,DIAGNOSIS,Educated,Educated,unmapped,0.0
+197ec76f-0730-2587-9f22-96ceea1e58d8,SOUTHC-ec63bd,DIAGNOSIS,high school,high school,unmapped,0.0
+adec1419-cf81-6640-ca48-e157e556a90b,SOUTHC-b970b5,DIAGNOSIS,bacterial,Acute bacterial sinusitis,fuzzy,1.0
+adec1419-cf81-6640-5b13-5c5dc26d52fe,SOUTHC-b970b5,DIAGNOSIS,app,app,unmapped,0.0
+adec1419-cf81-6640-5b13-5c5dc26d52fe,SOUTHC-b970b5,DIAGNOSIS,ici,ici,unmapped,0.0
+adec1419-cf81-6640-5b13-5c5dc26d52fe,SOUTHC-b970b5,DIAGNOSIS,app,app,unmapped,0.0
+adec1419-cf81-6640-db7e-444b27362fc7,SOUTHC-b970b5,SYMPTOM,weight,weight,unmapped,0.0
+adec1419-cf81-6640-461a-aab35fa16657,SOUTHC-b970b5,DIAGNOSIS,gout,gout,unmapped,0.0
+adec1419-cf81-6640-a305-482d20d5f967,SOUTHC-b970b5,SYMPTOM,loss of teeth,Loss of teeth,fuzzy,1.0
+adec1419-cf81-6640-a305-482d20d5f967,SOUTHC-b970b5,SYMPTOM,loss of teeth,Loss of teeth,fuzzy,1.0
+adec1419-cf81-6640-49d9-90c3415555f1,SOUTHC-b970b5,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,SYMPTOM,sin,sin,unmapped,0.0
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,DIAGNOSIS,sin,sin,unmapped,0.0
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+adec1419-cf81-6640-6cec-6eac8a6019c7,SOUTHC-b970b5,DIAGNOSIS,time,time,unmapped,0.0
+adec1419-cf81-6640-88b1-f9c1d971e11b,SOUTHC-b970b5,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+adec1419-cf81-6640-88b1-f9c1d971e11b,SOUTHC-b970b5,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+adec1419-cf81-6640-e511-9242926b8050,SOUTHC-b970b5,SYMPTOM,loss,loss,unmapped,0.0
+adec1419-cf81-6640-cbed-68436847f9b0,SOUTHC-b970b5,SYMPTOM,sleep,Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder,ambiguous,1.0
+adec1419-cf81-6640-38e6-96474eb27726,SOUTHC-b970b5,DIAGNOSIS,sleep,Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder,ambiguous,1.0
+adec1419-cf81-6640-0e04-1bd67f0589d2,SOUTHC-b970b5,DIAGNOSIS,infective cy,Acute infective cystitis,fuzzy,1.0
+adec1419-cf81-6640-f2b2-526546936cd5,SOUTHC-b970b5,DIAGNOSIS,cysti,Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+adec1419-cf81-6640-f2b2-526546936cd5,SOUTHC-b970b5,MEDICATION,sulfamethoxazole,sulfamethoxazole,fuzzy,1.0
+adec1419-cf81-6640-f2b2-526546936cd5,SOUTHC-b970b5,MEDICATION,trimethoprim,trimethoprim,fuzzy,1.0
+adec1419-cf81-6640-557f-c299ad621dc4,SOUTHC-b970b5,DIAGNOSIS,Part-time employment,Part-time employment,unmapped,0.0
+adec1419-cf81-6640-557f-c299ad621dc4,SOUTHC-b970b5,DIAGNOSIS,violence,violence,unmapped,0.0
+adec1419-cf81-6640-6a36-9e7a6f5f75cc,SOUTHC-b970b5,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+adec1419-cf81-6640-ca88-24dea7690ef7,SOUTHC-b970b5,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+adec1419-cf81-6640-ca88-24dea7690ef7,SOUTHC-b970b5,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+adec1419-cf81-6640-119c-d6c95ecf57b9,SOUTHC-b970b5,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+adec1419-cf81-6640-709f-fe2067c85415,SOUTHC-b970b5,DIAGNOSIS,bro,bro,unmapped,0.0
+adec1419-cf81-6640-709f-fe2067c85415,SOUTHC-b970b5,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+adec1419-cf81-6640-fa85-cc03ee636a06,SOUTHC-b970b5,DIAGNOSIS,Part-time,Part-time,unmapped,0.0
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,SYMPTOM,lace,lace,unmapped,0.0
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,SYMPTOM,lace,lace,unmapped,0.0
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,SYMPTOM,laceration,Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm,ambiguous,1.0
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+adec1419-cf81-6640-68af-3301b5fafada,SOUTHC-b970b5,DIAGNOSIS,violence,violence,unmapped,0.0
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,DIAGNOSIS,seizure,History of seizure | Seizure disorder,ambiguous,1.0
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,DIAGNOSIS,seizure,History of seizure | Seizure disorder,ambiguous,1.0
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,MEDICATION,clonazePAM,clonazePAM,fuzzy,1.0
+30889246-5f7d-9305-890d-e32a05fcef38,SOUTHC-a9fb35,MEDICATION,carbamazepine,carbamazepine,fuzzy,1.0
+30889246-5f7d-9305-890d-e32a05fcef38,SOUTHC-a9fb35,MEDICATION,Te,Te,unmapped,0.0
+30889246-5f7d-9305-cdc7-c5a7ce794dbf,SOUTHC-a9fb35,MEDICATION,carbamazepine,carbamazepine,fuzzy,1.0
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,DIAGNOSIS,otitis,Otitis media,fuzzy,1.0
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,DIAGNOSIS,ot,ot,unmapped,0.0
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,DIAGNOSIS,streptococcal,Streptococcal sore throat,fuzzy,1.0
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,SYMPTOM,sore,sore,unmapped,0.0
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,DIAGNOSIS,strept,Streptococcal sore throat,fuzzy,1.0
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,DIAGNOSIS,cca,cca,unmapped,0.0
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,SYMPTOM,sore,sore,unmapped,0.0
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,DIAGNOSIS,ot,ot,unmapped,0.0
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+1dabc422-e007-d5ee-e5c3-99c5cde95736,SOUTHC-932357,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+1dabc422-e007-d5ee-6aa6-8b44a027df8b,SOUTHC-932357,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+1dabc422-e007-d5ee-bb02-414ecad9934f,SOUTHC-932357,DIAGNOSIS,pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+1dabc422-e007-d5ee-bb02-414ecad9934f,SOUTHC-932357,SYMPTOM,sore,sore,unmapped,0.0
+1dabc422-e007-d5ee-6ed0-a0f80627124d,SOUTHC-932357,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+1dabc422-e007-d5ee-d3a4-159aad9323a6,SOUTHC-932357,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+1dabc422-e007-d5ee-d3a4-159aad9323a6,SOUTHC-932357,DIAGNOSIS,viral pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+1dabc422-e007-d5ee-9fe8-f0a90cc9a3f1,SOUTHC-932357,SYMPTOM,injury,Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+1dabc422-e007-d5ee-9fe8-f0a90cc9a3f1,SOUTHC-932357,SYMPTOM,injury,Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+1dabc422-e007-d5ee-747f-8f639a19ff30,SOUTHC-932357,DIAGNOSIS,injury,Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+3732fde5-efc6-d57a-79bf-e3e04b39e22e,SOUTHC-3375af,DIAGNOSIS,Educated,Educated,unmapped,0.0
+3732fde5-efc6-d57a-0793-f144f041af74,SOUTHC-3375af,DIAGNOSIS,osteoarthritis,Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee,ambiguous,1.0
+3732fde5-efc6-d57a-0793-f144f041af74,SOUTHC-3375af,DIAGNOSIS,osteoarthritis,Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee,ambiguous,1.0
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,DIAGNOSIS,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-0520-6184d092114d,SOUTHC-3375af,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-0520-6184d092114d,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-2ad1-50b9e41abf46,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-2ad1-50b9e41abf46,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-2ad1-50b9e41abf46,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-ddc3-4358f4d15145,SOUTHC-3375af,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+3732fde5-efc6-d57a-e54f-bb5e158fe3d0,SOUTHC-3375af,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-e54f-bb5e158fe3d0,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-0c0f-5258ae49bf4e,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-0c0f-5258ae49bf4e,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-0c0f-5258ae49bf4e,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-82f0-65485cba9875,SOUTHC-3375af,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-82f0-65485cba9875,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-105c-58e6664f3efa,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-105c-58e6664f3efa,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-105c-58e6664f3efa,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-7773-b123991c509a,SOUTHC-3375af,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-7773-b123991c509a,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-36a1-6c3ebef58fe0,SOUTHC-3375af,DIAGNOSIS,infective cysti,Acute infective cystitis,fuzzy,1.0
+3732fde5-efc6-d57a-36a1-6c3ebef58fe0,SOUTHC-3375af,MEDICATION,ciprofloxacin,ciprofloxacin,fuzzy,1.0
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-aafc-3ee4323a41c3,SOUTHC-3375af,DIAGNOSIS,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-aafc-3ee4323a41c3,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-1386-f506588b63cb,SOUTHC-3375af,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+3732fde5-efc6-d57a-1386-f506588b63cb,SOUTHC-3375af,DIAGNOSIS,coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,DIAGNOSIS,coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,SYMPTOM,d,d,unmapped,0.0
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,SYMPTOM,p,p,unmapped,0.0
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,SYMPTOM,w,w,unmapped,0.0
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,DIAGNOSIS,respiratory syndrome coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,DIAGNOSIS,acute respiratory syndrome coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,SYMPTOM,hypox,Hypoxemia,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Enoxaparin,Enoxaparin sodium,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,N,N,unmapped,0.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Albuterol,albuterol,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Enoxaparin,Enoxaparin sodium,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Albuterol,albuterol,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Enoxaparin,Enoxaparin sodium,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Albuterol,albuterol,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Enoxaparin,Enoxaparin sodium,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Albuterol,albuterol,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Enoxaparin,Enoxaparin sodium,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Albuterol,albuterol,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Enoxaparin sodium,Enoxaparin sodium,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Albuterol,albuterol,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Enoxaparin,Enoxaparin sodium,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,N,N,unmapped,0.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Albuterol,albuterol,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Enoxaparin,Enoxaparin sodium,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Albuterol,albuterol,fuzzy,1.0
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+3732fde5-efc6-d57a-1c15-0f3aac2481f1,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-1c15-0f3aac2481f1,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-1c15-0f3aac2481f1,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-a710-2eb0a64c6eef,SOUTHC-3375af,SYMPTOM,hyperlipide,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-a710-2eb0a64c6eef,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-4290-bac0578594c4,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-4290-bac0578594c4,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-4290-bac0578594c4,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-656a-45cd54c64340,SOUTHC-3375af,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-656a-45cd54c64340,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-8cc4-c12fde87e9b0,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-8cc4-c12fde87e9b0,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-8cc4-c12fde87e9b0,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-fd13-1f02a1221868,SOUTHC-3375af,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-fd13-1f02a1221868,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-65e5-dceafa38ca2f,SOUTHC-3375af,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+3732fde5-efc6-d57a-65e5-dceafa38ca2f,SOUTHC-3375af,MEDICATION,Gel,Gel,unmapped,0.0
+3732fde5-efc6-d57a-f3e3-ed3ea674f94e,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-f3e3-ed3ea674f94e,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-f3e3-ed3ea674f94e,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-ddea-4bd3c30a6eaf,SOUTHC-3375af,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-ddea-4bd3c30a6eaf,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-14d2-1a5bfba44ffe,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-14d2-1a5bfba44ffe,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-14d2-1a5bfba44ffe,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-ce46-cee24523c019,SOUTHC-3375af,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-ce46-cee24523c019,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,SYMPTOM,inflammation,inflammation,unmapped,0.0
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+3732fde5-efc6-d57a-0be1-1dfc33a723af,SOUTHC-3375af,SYMPTOM,hyperlipidemia,Hyperlipidemia,fuzzy,1.0
+3732fde5-efc6-d57a-0be1-1dfc33a723af,SOUTHC-3375af,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0

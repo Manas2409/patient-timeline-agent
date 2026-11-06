@@ -1,0 +1,370 @@
+{
+  "cluster_id": "85",
+  "hospitals": [
+    "Pioneer Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2018-03-10",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-04-14",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-05-11",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-05-25"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ary",
+          "canonical": "ary",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-05-25"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-05-25"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-16",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-08-18",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-11-17",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-02-16",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-05-18",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-17",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-11-30",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "otitis",
+          "canonical": "Otitis media",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-15"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "otitis",
+          "canonical": "Otitis media",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-15"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-14T02:50:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-15",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-08-15",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-08-22",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-22T05:42:26Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-13",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-30",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinusitis",
+          "canonical": "Viral sinusitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2021-07-19"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-14",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-11-04",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "MEMORY SUPPORT OF HERITAGE HALL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-01T03:08:13Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-21",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2022-02-12",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-02-19",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dental caries",
+          "canonical": "Primary dental caries",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-19"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-18",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-03-04",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-18T20:50:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-24",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-03-07",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PRIMARY CARE MEDICINE AND PEDIATRICS  LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-03-14",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "BAYSTATE NOBLE HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "streptococcal",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "strept",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

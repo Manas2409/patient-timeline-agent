@@ -1,0 +1,260 @@
+{
+  "cluster_id": "53",
+  "hospitals": [
+    "MetroWest Health Partners",
+    "Worcester Regional Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2013-11-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": []
+    },
+    {
+      "date": "2015-11-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Risk",
+          "canonical": "Risk",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Educated",
+          "canonical": "Educated",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Fracture of bone (disorder)",
+      "seen_at": "LYDIA TAFT HOUSE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-06-05T10:26:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of rib (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-01-13"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-22T11:23:28Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-13",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "LYDIA TAFT HOUSE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cy",
+          "canonical": "cy",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sulfamethoxazole",
+          "canonical": "sulfamethoxazole",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-13T12:58:33Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "trimethoprim",
+          "canonical": "trimethoprim",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-13T12:58:33Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-12-25",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2023-12-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "PALMER FAMILY SERVICES LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-04-06",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Concussion injury of brain (disorder)",
+      "seen_at": "LYDIA TAFT HOUSE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-16"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion injury",
+          "canonical": "Concussion injury of brain",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-16"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-05-16"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-16",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Concussion with loss of consciousness (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "concussion",
+          "canonical": "Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MILFORD REGIONAL MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-03-04"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Concussion injury of brain",
+      "reported_by": [
+        "Worcester Regional Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

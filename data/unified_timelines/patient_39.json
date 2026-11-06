@@ -1,0 +1,636 @@
+{
+  "cluster_id": "39",
+  "hospitals": [
+    "Merrimack Valley Health Network",
+    "MetroWest Health Partners",
+    "North Central Mass Health"
+  ],
+  "timeline": [
+    {
+      "date": "1981-11-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "1982-11-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "1991-12-04",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2007-10-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2009-10-14",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "corona",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Disease caused by severe acute respiratory syndrome coronavirus 2 | History of coronary artery bypass grafting | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2009-10-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "abnormal findings",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2010-09-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Sleep disorder (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sleep",
+          "canonical": "Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2010-10-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "inpatient",
+      "reason": "Sleep disorder (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sleep",
+          "canonical": "Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sleep",
+          "canonical": "Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2011-10-19",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealth",
+          "canonical": "Unhealth",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-10-18"
+        }
+      ]
+    },
+    {
+      "date": "2015-10-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-10-12",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-11-01",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2018-10-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2018-10-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-10-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-11-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-13T17:33:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-04",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2021-04-07",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2021-11-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyper",
+          "canonical": "Essential hypertension | Hyperglycemia | Hyperlipidemia | Hypertriglyceridemia",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-01",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "virtual",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-12-10T14:32:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-01-24"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CIRCLE HEALTH URGENT CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-06-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-07-03"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-03T23:32:41Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Potassium",
+          "canonical": "Penicillin V Potassium | losartan potassium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-07-03T23:32:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-16",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-01",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-01T14:32:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "poly",
+          "canonical": "poly",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anxiety",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-01",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-11-30T14:32:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-22T01:37:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-22T01:37:43Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-22T01:37:43Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Stress",
+          "canonical": "Acute respiratory distress syndrome | Respiratory distress",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlip",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-12-10T14:32:41Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Polyp of colon (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "polyp",
+          "canonical": "Polyp of colon | Recurrent rectal polyp",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2025-12-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "COMPASSIONATE CARE INTERNAL MEDICINE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-12-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-12-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "SYMPTOM",
+      "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Severe anxiety (panic)",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

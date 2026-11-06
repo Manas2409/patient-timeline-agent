@@ -1,0 +1,645 @@
+{
+  "cluster_id": "70",
+  "hospitals": [
+    "North Central Mass Health"
+  ],
+  "timeline": [
+    {
+      "date": "1983-05-03",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Perennial allergic rhinitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhini",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "diphenhydrAMINE Hydrochloride",
+          "canonical": "diphenhydrAMINE Hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1983-05-07",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "ergy",
+          "canonical": "ergy",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "Allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Allergic disposition",
+          "canonical": "Allergic disposition",
+          "match_method": "fuzzy",
+          "reaction": "",
+          "severity": ""
+        }
+      ]
+    },
+    {
+      "date": "1997-12-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Educated",
+          "canonical": "Educated",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2002-01-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "obe",
+          "canonical": "obe",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2008-01-15",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": []
+    },
+    {
+      "date": "2011-01-18",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": []
+    },
+    {
+      "date": "2014-01-21",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": []
+    },
+    {
+      "date": "2014-02-06",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2014-04-06",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2016-02-02",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-02-07"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-07T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-07T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-07T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-11-11",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2017-02-07",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unemployed",
+          "canonical": "Unemployed",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-25"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-13T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-13T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-13T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-19T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-19T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-19T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2018-06-23",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-07-13"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-07-13T11:16:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Dextromethorphan Hydrobromide",
+          "canonical": "Dextromethorphan Hydrobromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-07-13T11:16:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "doxylamine succinate",
+          "canonical": "doxylamine succinate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-07-13T11:16:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-19",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-25T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-25T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-25T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-02T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-02T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-02T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Injury of neck (disorder)",
+      "seen_at": "HEALTH ALLIANCE HOME HEALTH AND HOSPICE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-08T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "LIFE CARE CENTER OF LEOMINSTER",
+      "entities": []
+    },
+    {
+      "date": "2021-03-02",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-08T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-08T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-08T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-14T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-14T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-14T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-14",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-28"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-19T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-19T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-19T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    },
+    {
+      "date": "2024-03-19",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-03-25"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-25T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-25T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-25T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-02",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-02T16:59:13Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-04-02T16:59:13Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-03-31T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-03-31T13:57:29Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-03-31T13:57:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-08T16:29:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUN MEDICAL CLINIC  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Codeine Phosphate",
+          "canonical": "Codeine Phosphate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

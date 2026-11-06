@@ -1,0 +1,989 @@
+{
+  "cluster_id": "76",
+  "hospitals": [
+    "North Central Mass Health",
+    "Pioneer Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "1997-03-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "1998-03-08",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2002-03-17",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2008-03-23",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2015-06-16",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "reactive airway disease",
+          "canonical": "Asthma",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2015-06-28",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-07-03",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-07-09T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-07-09T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-07-09T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "NDA021457",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-07-09T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT albuterol",
+          "canonical": "ACTUAT | albuterol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-07-09T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-07-09T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-09",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-07-15T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-07-15T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-07-15T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "NDA021457 200 ACTUAT albuterol",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-07-15T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-07-15T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-23",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-07-23T04:51:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-15",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-07-21T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-07-21T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-07-21T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "NDA021457 200 ACTUAT albuterol",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-07-21T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-07-21T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-26",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2019-07-21",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-26T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-26T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-26T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "NDA021457 200 ACTUAT albuterol",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-07-26T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-07-26T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-22",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Asthma (disorder)",
+      "seen_at": "BEACON HOSPICE  AN AMYEDISYS COMPANY",
+      "entities": []
+    },
+    {
+      "date": "2019-11-24",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2020-03-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "myocardial infarction",
+          "canonical": "Myocardial infarction",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2020-03-14"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "rdial infarction",
+          "canonical": "Acute ST segment elevation myocardial infarction | Acute non-ST segment elevation myocardial infarction | History of myocardial infarction | Myocardial infarction",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-03-14"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-13T02:44:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-03-13T02:44:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "morphine",
+          "canonical": "morphine sulfate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-13T02:44:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Acute non-ST segment elevation myocardial infarction (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "heart",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | Chronic congestive heart failure | Ischemic heart disease",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "heparin sodium  porcine",
+          "canonical": "heparin sodium porcine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-13T04:01:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-03-14T10:51:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "aspirin",
+          "canonical": "aspirin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol tartrate",
+          "canonical": "metoprolol tartrate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "rosuvastatin calcium",
+          "canonical": "rosuvastatin calcium",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "prasugrel",
+          "canonical": "prasugrel",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-22",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2020-07-26",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-08-01T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-08-01T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-08-01T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-08-01T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-08-01T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-08-01T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-04",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2021-04-25",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2021-08-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-07T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-07T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-07T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-08-07T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUA",
+          "canonical": "ACTUAT | ACTUAT Dry Powder Inhaler | ACTUAT Metered Dose Inhaler | ACTUAT Mucosal Spray",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-08-07T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-07T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-08-07T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-12",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Asthma (disorder)",
+      "seen_at": "BEACON HOSPICE  AN AMYEDISYS COMPANY",
+      "entities": []
+    },
+    {
+      "date": "2022-05-14",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2022-08-07",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-13T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-13T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-13T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-08-13T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-13T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-08-13T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-21",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cystitis",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-21"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-19",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "BEACON HOSPICE  AN AMYEDISYS COMPANY",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sulfamethoxazole",
+          "canonical": "sulfamethoxazole",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-20T22:10:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "trimethoprim",
+          "canonical": "trimethoprim",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-20T22:10:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-20",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infect",
+          "canonical": "Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cephalexin",
+          "canonical": "cephalexin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-21T21:39:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-13",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "prediabet",
+          "canonical": "Prediabetes",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "an",
+          "canonical": "an",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-18T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-18T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-18T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "NDA021457 200 ACTUAT albuterol",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-08-18T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-08-18T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-20",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2024-06-13",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Injury of neck (disorder)",
+      "seen_at": "BEACON HOSPICE  AN AMYEDISYS COMPANY",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "whiplash",
+          "canonical": "Whiplash injury to neck",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-22"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-22T03:48:47Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "snf",
+      "reason": "Patient transfer to skilled nursing facility (procedure)",
+      "seen_at": "CHICOPEE REHABILITATION AND NURSING CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-18",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-08-24T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-08-24T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-08-24T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-08-24T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUA",
+          "canonical": "ACTUAT | ACTUAT Dry Powder Inhaler | ACTUAT Metered Dose Inhaler | ACTUAT Mucosal Spray",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-08-24T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-08-24T02:32:19Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-08-24T02:32:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-30",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2025-04-28",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2025-08-24",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "RIVER'S EDGE PRIMARY CARE LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "budesonide",
+          "canonical": "budesonide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "N",
+          "canonical": "N",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUA",
+          "canonical": "ACTUAT | ACTUAT Dry Powder Inhaler | ACTUAT Metered Dose Inhaler | ACTUAT Mucosal Spray",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Asthma (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "Pioneer Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Asthma",
+      "reported_by": [
+        "Pioneer Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Myocardial infarction",
+      "reported_by": [
+        "North Central Mass Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute infective cystitis",
+      "reported_by": [
+        "Pioneer Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Prediabetes",
+      "reported_by": [
+        "Pioneer Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Whiplash injury to neck",
+      "reported_by": [
+        "Pioneer Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

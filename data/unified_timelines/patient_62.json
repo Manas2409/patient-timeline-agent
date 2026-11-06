@@ -1,0 +1,314 @@
+{
+  "cluster_id": "62",
+  "hospitals": [
+    "Norfolk County Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2019-10-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-11-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-01-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-06-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-07-29",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "otitis",
+          "canonical": "Otitis media",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-10"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-08-12T10:43:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-12T10:43:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-12-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-12-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-12-31T10:43:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-31T10:43:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-08-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-08-22T10:43:16Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-08-22T10:43:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-09-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-09-08",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-09-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-15T13:36:11Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-09-07",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-09-14",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-09-14T13:29:59Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-12",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-02-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinus",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-09"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinusitis",
+          "canonical": "Acute bacterial sinusitis | Sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-07-09"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sinus",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2025-04-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": []
+    },
+    {
+      "date": "2025-04-24",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "STEWARD ST. ANNES HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum",
+          "canonical": "gum",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "ACTIVATED BY WELLNESS LLC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

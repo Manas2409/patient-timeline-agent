@@ -1,0 +1,812 @@
+{
+  "cluster_id": "12",
+  "hospitals": [
+    "Greater Boston Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2007-08-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2008-09-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2011-06-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Sepsis (disorder)",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sep",
+          "canonical": "sep",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sepsis",
+          "canonical": "Sepsis | Sepsis caused by Staphylococcus aureus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2013-06-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Vitamin B12",
+          "canonical": "Vitamin B",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2014-09-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2016-01-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Complete miscarriage (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "mis",
+          "canonical": "mis",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2016-02-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-02-09T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-02-09T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nat",
+          "canonical": "Nat",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-02-09T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-07T14:19:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Intrauterine System",
+          "canonical": "HR Intrauterine System",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-07T14:19:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2017-09-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2017-09-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-26"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-27T00:13:10Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-09-27T00:13:10Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-09-15"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-04-01T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-04-01T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2019-05-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-05-22"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Blighted ovum (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "blight",
+          "canonical": "Blighted ovum",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2020-09-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-10-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-11-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2020-12-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-01-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-02-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-03-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-04-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-04-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-04-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-05-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": []
+    },
+    {
+      "date": "2021-06-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-08-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-09-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2021-11-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-20T23:17:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "MEDFORD REHABILITATION AND NURSING CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT Fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "salmeter",
+          "canonical": "salmeterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Powder",
+          "canonical": "ACTUAT Dry Powder Inhaler",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUA",
+          "canonical": "ACTUAT | ACTUAT Dry Powder Inhaler | ACTUAT Metered Dose Inhaler | ACTUAT Mucosal Spray",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fluticasone propionate",
+          "canonical": "Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "salmeter",
+          "canonical": "salmeterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Powder",
+          "canonical": "ACTUAT Dry Powder Inhaler",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-11-23T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-06T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Inhala",
+          "canonical": "ML Inhalation Solution | ML Inhalation Suspension",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-06T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-06T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT Fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-06T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "salmeter",
+          "canonical": "salmeterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-06T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Powder",
+          "canonical": "ACTUAT Dry Powder Inhaler",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-06T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-18"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "drospirenone",
+          "canonical": "drospirenone",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-12T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-06-12T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "yl estradiol",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-06-12T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2022-12-20"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-12T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Inhalation Solution",
+          "canonical": "ML Inhalation Solution",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-12T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT Fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-12-12T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "salmeterol",
+          "canonical": "salmeterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-12T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2023-06-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-06-06T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-06-06T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-17T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Inhala",
+          "canonical": "ML Inhalation Solution | ML Inhalation Suspension",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-17T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-17T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT Fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-17T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "salmeter",
+          "canonical": "salmeterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-17T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Powder",
+          "canonical": "ACTUAT Dry Powder Inhaler",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-17T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2024-06-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "inpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    },
+    {
+      "date": "2024-12-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-12-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Inhala",
+          "canonical": "ML Inhalation Solution | ML Inhalation Suspension",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-12-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-12-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT Fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-12-23T19:09:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "salmeterol",
+          "canonical": "salmeterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-12-23T19:09:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-12-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DAVIS SQUARE FAMILY PRACTICE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Inhala",
+          "canonical": "ML Inhalation Solution | ML Inhalation Suspension",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT Fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "salmeterol",
+          "canonical": "salmeterol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "CAMBRIDGE PUBLIC HEALTH COMMISSION",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

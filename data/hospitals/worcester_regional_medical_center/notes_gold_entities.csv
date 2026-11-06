@@ -1,0 +1,301 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+cc3eac4a-34a7-9a15-94b5-26ac8c6c7134,WORCES-390062,DIAGNOSIS,prediabetes
+cc3eac4a-34a7-9a15-94b5-26ac8c6c7134,WORCES-390062,DIAGNOSIS,a low blood count
+cc3eac4a-34a7-9a15-94b5-26ac8c6c7134,WORCES-390062,DIAGNOSIS,significant weight gain
+a406f356-c8b4-54ad-ca7c-9561dbdd9ed9,WORCES-3330be,DIAGNOSIS,eggs (edible)
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,DIAGNOSIS,allergic disposition
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,MEDICATION,Loratadine 5 MG Chewable Tablet
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,ALLERGY,Eggs (edible)
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,DIAGNOSIS,laceration - injury
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,DIAGNOSIS,laceration - injury
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,DIAGNOSIS,laceration of hand
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+a406f356-c8b4-54ad-9d1b-6ee03f89f93e,WORCES-3330be,DIAGNOSIS,acute bacterial sinusitis
+a406f356-c8b4-54ad-9d1b-6ee03f89f93e,WORCES-3330be,DIAGNOSIS,acute bacterial sinusitis
+a406f356-c8b4-54ad-7a07-bb8616684a01,WORCES-3330be,DIAGNOSIS,acute bacterial sinusitis
+a406f356-c8b4-54ad-7a07-bb8616684a01,WORCES-3330be,DIAGNOSIS,long-standing sinus infection
+a406f356-c8b4-54ad-ad37-f72a5994d5fc,WORCES-3330be,DIAGNOSIS,acute viral pharyngitis
+a406f356-c8b4-54ad-ad37-f72a5994d5fc,WORCES-3330be,DIAGNOSIS,acute viral pharyngitis
+a406f356-c8b4-54ad-5d7b-f3ed98482704,WORCES-3330be,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+edb5a2e3-a981-d33c-3db0-5427687709d1,WORCES-edee44,DIAGNOSIS,childhood asthma
+edb5a2e3-a981-d33c-3db0-5427687709d1,WORCES-edee44,DIAGNOSIS,childhood asthma
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,DIAGNOSIS,gum inflammation
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-aeca-529a1b69325c,WORCES-edee44,DIAGNOSIS,gum inflammation
+edb5a2e3-a981-d33c-aeca-529a1b69325c,WORCES-edee44,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+edb5a2e3-a981-d33c-9f02-8f942274699f,WORCES-edee44,DIAGNOSIS,childhood asthma
+edb5a2e3-a981-d33c-7761-2de1eacea0a1,WORCES-edee44,DIAGNOSIS,adolescent idiopathic scoliosis
+edb5a2e3-a981-d33c-7761-2de1eacea0a1,WORCES-edee44,DIAGNOSIS,adolescent idiopathic scoliosis
+edb5a2e3-a981-d33c-91e4-e5f8bfdb9ee1,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-91e4-e5f8bfdb9ee1,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,DIAGNOSIS,gum inflammation
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-36ed-248cba604e6b,WORCES-edee44,DIAGNOSIS,gum inflammation
+edb5a2e3-a981-d33c-36ed-248cba604e6b,WORCES-edee44,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,DIAGNOSIS,gingivitis
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-ead4-704926882bab,WORCES-edee44,DIAGNOSIS,gingivitis
+edb5a2e3-a981-d33c-ead4-704926882bab,WORCES-edee44,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+edb5a2e3-a981-d33c-0a4a-eefa8e77bd28,WORCES-edee44,DIAGNOSIS,acute viral pharyngitis
+edb5a2e3-a981-d33c-0a4a-eefa8e77bd28,WORCES-edee44,DIAGNOSIS,a sore throat
+edb5a2e3-a981-d33c-806b-630c57c14a2c,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-806b-630c57c14a2c,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-d006-debf19a0c75e,WORCES-edee44,DIAGNOSIS,pediatric asthma
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-fc3b-e5ab9c052779,WORCES-edee44,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+edb5a2e3-a981-d33c-5aaf-e3ccc1ddb874,WORCES-edee44,DIAGNOSIS,childhood asthma
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,DIAGNOSIS,gum inflammation
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-56c3-f49aad719878,WORCES-edee44,DIAGNOSIS,viral sinusitis
+edb5a2e3-a981-d33c-56c3-f49aad719878,WORCES-edee44,DIAGNOSIS,viral sinusitis
+edb5a2e3-a981-d33c-1550-69d7cf0e97ef,WORCES-edee44,DIAGNOSIS,gum inflammation
+edb5a2e3-a981-d33c-1550-69d7cf0e97ef,WORCES-edee44,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+edb5a2e3-a981-d33c-867c-3521ae84caea,WORCES-edee44,DIAGNOSIS,pediatric asthma
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,DIAGNOSIS,gum inflammation
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-1415-1eeb1ba4d9b0,WORCES-edee44,DIAGNOSIS,gingivitis
+edb5a2e3-a981-d33c-1415-1eeb1ba4d9b0,WORCES-edee44,DIAGNOSIS,gingival disease
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-a7a5-045eb7c68d3a,WORCES-edee44,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+edb5a2e3-a981-d33c-0abd-d93e42d5f097,WORCES-edee44,MEDICATION,1 ML medroxyprogesterone acetate 150 MG/ML Injection
+edb5a2e3-a981-d33c-e4bd-ec6af8a21173,WORCES-edee44,MEDICATION,budesonide 0.25 MG/ML Inhalation Suspension
+edb5a2e3-a981-d33c-e4bd-ec6af8a21173,WORCES-edee44,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+edb5a2e3-a981-d33c-be28-4776a00da782,WORCES-edee44,DIAGNOSIS,fractured dental filling
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,DIAGNOSIS,fracture of bone
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,DIAGNOSIS,fracture of bone
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,DIAGNOSIS,fracture of rib
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,MEDICATION,Ibuprofen 200 MG Oral Tablet
+afb99eee-0bd5-8853-1bb6-bb3c78ebf071,WORCES-1a6cdb,DIAGNOSIS,fracture of rib
+afb99eee-0bd5-8853-df9b-b6c8b98e761f,WORCES-1a6cdb,DIAGNOSIS,acute infective cystitis
+afb99eee-0bd5-8853-df9b-b6c8b98e761f,WORCES-1a6cdb,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+afb99eee-0bd5-8853-85b9-38c13bae933e,WORCES-1a6cdb,DIAGNOSIS,acute infective cystitis
+afb99eee-0bd5-8853-85b9-38c13bae933e,WORCES-1a6cdb,MEDICATION,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet
+afb99eee-0bd5-8853-9ec5-71ff3ce88930,WORCES-1a6cdb,DIAGNOSIS,gingivitis
+afb99eee-0bd5-8853-4f69-7ce79ea777ff,WORCES-1a6cdb,DIAGNOSIS,concussion injury of brain
+afb99eee-0bd5-8853-4f69-7ce79ea777ff,WORCES-1a6cdb,DIAGNOSIS,concussion injury of brain
+afb99eee-0bd5-8853-4f69-7ce79ea777ff,WORCES-1a6cdb,DIAGNOSIS,concussion with loss of consciousness
+afb99eee-0bd5-8853-7a30-582aeea4aaa9,WORCES-1a6cdb,DIAGNOSIS,concussion with loss of consciousness
+afb99eee-0bd5-8853-bcdd-40e5c43edcd6,WORCES-1a6cdb,DIAGNOSIS,a sinus infection
+afb99eee-0bd5-8853-bcdd-40e5c43edcd6,WORCES-1a6cdb,DIAGNOSIS,viral sinusitis
+46fcc34a-97a1-f038-ce5a-a68dbde9c1b7,WORCES-c121ad,DIAGNOSIS,seasonal allergic rhinitis
+46fcc34a-97a1-f038-ce5a-a68dbde9c1b7,WORCES-c121ad,MEDICATION,Terfenadine 60 MG Oral Tablet
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,DIAGNOSIS,allergic disposition
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,ALLERGY,Tree pollen
+46fcc34a-97a1-f038-5fa6-f301ae898671,WORCES-c121ad,DIAGNOSIS,complete miscarriage
+46fcc34a-97a1-f038-5fa6-f301ae898671,WORCES-c121ad,DIAGNOSIS,past pregnancy history of miscarriage
+46fcc34a-97a1-f038-2013-a1445cc983b6,WORCES-c121ad,DIAGNOSIS,ongoing pain
+46fcc34a-97a1-f038-2013-a1445cc983b6,WORCES-c121ad,DIAGNOSIS,ongoing pain
+46fcc34a-97a1-f038-2013-a1445cc983b6,WORCES-c121ad,DIAGNOSIS,chronic low back pain
+46fcc34a-97a1-f038-2013-a1445cc983b6,WORCES-c121ad,DIAGNOSIS,fibromyalgia
+46fcc34a-97a1-f038-3016-022093fe87df,WORCES-c121ad,DIAGNOSIS,ongoing pain
+46fcc34a-97a1-f038-426b-3a0f8a44dfd7,WORCES-c121ad,DIAGNOSIS,normal pregnancy
+46fcc34a-97a1-f038-426b-3a0f8a44dfd7,WORCES-c121ad,DIAGNOSIS,normal pregnancy
+46fcc34a-97a1-f038-4f9e-dd80bd7b8b1c,WORCES-c121ad,DIAGNOSIS,normal pregnancy
+46fcc34a-97a1-f038-b630-3ffe3455a7da,WORCES-c121ad,DIAGNOSIS,normal pregnancy
+46fcc34a-97a1-f038-e968-203ac44b060f,WORCES-c121ad,DIAGNOSIS,normal pregnancy
+46fcc34a-97a1-f038-1e7a-8285f098736d,WORCES-c121ad,DIAGNOSIS,gum inflammation
+46fcc34a-97a1-f038-1e7a-8285f098736d,WORCES-c121ad,DIAGNOSIS,gingival disease
+46fcc34a-97a1-f038-a123-d4747d8d1080,WORCES-c121ad,DIAGNOSIS,gum inflammation
+46fcc34a-97a1-f038-a123-d4747d8d1080,WORCES-c121ad,DIAGNOSIS,gingival disease
+46fcc34a-97a1-f038-8c70-e6130a71adab,WORCES-c121ad,MEDICATION,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]
+46fcc34a-97a1-f038-37c4-96e01dab3dbd,WORCES-c121ad,DIAGNOSIS,gum inflammation
+46fcc34a-97a1-f038-37c4-96e01dab3dbd,WORCES-c121ad,DIAGNOSIS,primary dental caries
+46fcc34a-97a1-f038-eb4d-396682727acc,WORCES-c121ad,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,MEDICATION,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]
+46fcc34a-97a1-f038-6407-6e95fa1328c5,WORCES-c121ad,DIAGNOSIS,viral sinusitis
+46fcc34a-97a1-f038-6407-6e95fa1328c5,WORCES-c121ad,DIAGNOSIS,viral sinusitis
+46fcc34a-97a1-f038-e16b-fcc656d95b8d,WORCES-c121ad,DIAGNOSIS,primary dental caries
+46fcc34a-97a1-f038-e16b-fcc656d95b8d,WORCES-c121ad,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+46fcc34a-97a1-f038-0d91-706248ffcf2b,WORCES-c121ad,MEDICATION,Etonogestrel 68 MG Drug Implant
+46fcc34a-97a1-f038-bd44-289b75cb8bea,WORCES-c121ad,MEDICATION,levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]
+46fcc34a-97a1-f038-e122-e77d0b78d268,WORCES-c121ad,DIAGNOSIS,gingivitis
+46fcc34a-97a1-f038-e122-e77d0b78d268,WORCES-c121ad,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+46fcc34a-97a1-f038-dc38-aec4048893e4,WORCES-c121ad,MEDICATION,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]
+46fcc34a-97a1-f038-c2bb-a19436b83a5a,WORCES-c121ad,DIAGNOSIS,gingivitis
+46fcc34a-97a1-f038-c2bb-a19436b83a5a,WORCES-c121ad,DIAGNOSIS,gum disease
+46fcc34a-97a1-f038-eef3-961f5ab34eed,WORCES-c121ad,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,DIAGNOSIS,gingivitis
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,DIAGNOSIS,gingival disease
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+46fcc34a-97a1-f038-771f-2a8271a9c2ed,WORCES-c121ad,MEDICATION,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]
+3314e296-2326-2826-84ae-cbecec394f05,WORCES-c3dcd8,DIAGNOSIS,obesity (BMI 30+)
+3314e296-2326-2826-f230-98843387c8fd,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-f230-98843387c8fd,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-80a8-6594eda82a06,WORCES-c3dcd8,DIAGNOSIS,otitis media
+3314e296-2326-2826-80a8-6594eda82a06,WORCES-c3dcd8,DIAGNOSIS,a middle-ear infection
+3314e296-2326-2826-c0c5-70199ff5b42e,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-514a-df81e2b2efe9,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-de50-88eef0eedd62,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-01d1-e841f6c95319,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-18d7-9b733123f995,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-18d7-9b733123f995,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-3f0a-fee30f544c37,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-3689-50199400a19e,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-06f8-e7f6da57c226,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-75ea-9936d72cff1e,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-183c-0e63c9c2c345,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-6d12-6d823c28995b,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-e66e-ff31d38c5cc3,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-d84d-a800b444f908,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-d6a1-c8ef73dae655,WORCES-c3dcd8,MEDICATION,levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]
+3314e296-2326-2826-2998-3800d9b1a634,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-2998-3800d9b1a634,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-5ed7-b3580a06600e,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-e96a-0b6b52a5847b,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-dffc-510aac833ff9,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-dffc-510aac833ff9,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-a776-1057a2123a9e,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-3154-bc9e58a9f907,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-d44f-c1305b45e833,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-d44f-c1305b45e833,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-d44f-c1305b45e833,WORCES-c3dcd8,DIAGNOSIS,anemia
+3314e296-2326-2826-6afd-96fa701c1bf1,WORCES-c3dcd8,DIAGNOSIS,anemia
+3314e296-2326-2826-e5fb-7aaef795e591,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-ffb0-3a9819c95da4,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-fbe3-1babc46942fb,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-aba8-78b0d8f1dc85,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-29fc-7672b21f61a8,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-1bbb-44b70cac9ddc,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-092b-0bde0b1f8d77,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-2d6e-19d563aa9381,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-27b4-e77cccbfe199,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-a051-443743d49209,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-a051-443743d49209,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-1cae-e3335014fb50,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-1354-51293fdc8d6e,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-e1fc-a0c07f24d9df,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-e1fc-a0c07f24d9df,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-c9c1-359e1d1d8c17,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-0325-a20e52eb57ca,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-f534-ec694f48da01,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-bb42-56acd916125b,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-6a24-b5094e644399,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-5023-c694147e4852,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-5023-c694147e4852,WORCES-c3dcd8,DIAGNOSIS,pre-eclampsia
+3314e296-2326-2826-d0f3-428ca737aaf1,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-fb11-a0c52ce7e816,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-cda6-7aef235792f5,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-dade-9f840e05f82a,WORCES-c3dcd8,DIAGNOSIS,normal pregnancy
+3314e296-2326-2826-1b3d-57d3f292f8f9,WORCES-c3dcd8,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,DIAGNOSIS,fracture of bone
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,DIAGNOSIS,fracture of bone
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,DIAGNOSIS,fracture of forearm
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,MEDICATION,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,MEDICATION,Ibuprofen 200 MG Oral Tablet
+3314e296-2326-2826-4605-8665a9e0c1f4,WORCES-c3dcd8,DIAGNOSIS,fracture of forearm
+3314e296-2326-2826-df3a-1d13586a59f0,WORCES-c3dcd8,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+3eec36b2-71cc-13c4-2522-946a5cb53deb,WORCES-992abe,DIAGNOSIS,chronic pain
+3eec36b2-71cc-13c4-2522-946a5cb53deb,WORCES-992abe,DIAGNOSIS,ongoing pain
+3eec36b2-71cc-13c4-2522-946a5cb53deb,WORCES-992abe,DIAGNOSIS,chronic low back pain
+3eec36b2-71cc-13c4-4f65-af02ae1e3c0c,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-7c3c-b0eb332d661d,WORCES-992abe,MEDICATION,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+3eec36b2-71cc-13c4-19f3-4977ac4717b5,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-c215-47acb6449985,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,DIAGNOSIS,acute infective cystitis
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,DIAGNOSIS,acute infective cystitis
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,MEDICATION,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet
+3eec36b2-71cc-13c4-8bde-14e97bced69d,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-8bde-14e97bced69d,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-1beb-e73ce2ae4dd6,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-208f-92a973a3d7ed,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-da67-3e61882561ea,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-da67-3e61882561ea,WORCES-992abe,DIAGNOSIS,recurrent urinary tract infection
+3eec36b2-71cc-13c4-da67-3e61882561ea,WORCES-992abe,DIAGNOSIS,acute infective cystitis
+3eec36b2-71cc-13c4-6142-5c6f0e3cd1d4,WORCES-992abe,DIAGNOSIS,acute infective cystitis
+3eec36b2-71cc-13c4-6142-5c6f0e3cd1d4,WORCES-992abe,MEDICATION,nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule
+3eec36b2-71cc-13c4-3656-3bf7232843bb,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-63ac-3af6b50645eb,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-4add-f5c485ed2fd2,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-8c0b-46d44df6bae5,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-5375-cba693886b80,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-50f3-3200ac83c10d,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-823d-0a4b7a15b575,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,DIAGNOSIS,gingival disease
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,DIAGNOSIS,suspected disease caused by Severe acute respiratory coronavirus 2
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,DIAGNOSIS,cough
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,DIAGNOSIS,fever
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,DIAGNOSIS,loss of taste
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,DIAGNOSIS,disease caused by severe acute respiratory syndrome coronavirus 2
+3eec36b2-71cc-13c4-4451-3c4ca4feb03e,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-4451-3c4ca4feb03e,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-4755-d866b74c015c,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-c1dd-27aa86e29ae9,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,DIAGNOSIS,gum inflammation
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-7948-ae8ba9939c14,WORCES-992abe,DIAGNOSIS,gum inflammation
+3eec36b2-71cc-13c4-7948-ae8ba9939c14,WORCES-992abe,DIAGNOSIS,primary dental caries
+3eec36b2-71cc-13c4-7948-ae8ba9939c14,WORCES-992abe,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+3eec36b2-71cc-13c4-4393-31f36dea142a,WORCES-992abe,DIAGNOSIS,acute viral pharyngitis
+3eec36b2-71cc-13c4-4393-31f36dea142a,WORCES-992abe,DIAGNOSIS,acute viral pharyngitis
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,DIAGNOSIS,fracture of bone
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,DIAGNOSIS,fracture of bone
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,DIAGNOSIS,fracture of ankle
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,MEDICATION,Ibuprofen 200 MG Oral Tablet
+3eec36b2-71cc-13c4-8962-9d2cb102a467,WORCES-992abe,DIAGNOSIS,fracture of ankle
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,DIAGNOSIS,prediabetes
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,DIAGNOSIS,anemia
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-a7d7-364bd2a4c771,WORCES-992abe,DIAGNOSIS,a low blood count
+3eec36b2-71cc-13c4-2b66-f2b4422c060e,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-3303-086fa59fbf12,WORCES-992abe,DIAGNOSIS,a sinus infection
+3eec36b2-71cc-13c4-3303-086fa59fbf12,WORCES-992abe,DIAGNOSIS,a sinus infection
+3eec36b2-71cc-13c4-3303-086fa59fbf12,WORCES-992abe,MEDICATION,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+3eec36b2-71cc-13c4-3181-2dd4a5dcda70,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-f5d7-8a4cb3f0c478,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-f5d7-8a4cb3f0c478,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-33bb-79dfc4794e4e,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-3f97-116e4177f319,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-5b3f-9021c7c8ebd7,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-0c4c-1f5ffc9de949,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-c8d1-98f94f25febc,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-2ab5-bea25535fb1f,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-8f24-9ad9be498969,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-7e94-3a07e79c8009,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-87fc-9ed5e82cee33,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-f940-f7f7e0157a12,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-f798-fe0a3f5f5177,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-f798-fe0a3f5f5177,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-1ecc-89abac96523e,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-7b3d-ae78c4872056,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-25b6-044025c11441,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-23ef-eb0646a2c6aa,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-2818-02d940132710,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-daeb-4d66a65d7ed9,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-e642-370583bdf285,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-4a4b-5d59cd9f75f1,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,DIAGNOSIS,gum inflammation
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-65c4-fe0da3d676ce,WORCES-992abe,DIAGNOSIS,gum inflammation
+3eec36b2-71cc-13c4-53ea-2ff2a8e7fa83,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-53ea-2ff2a8e7fa83,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-ba1b-ca0854634316,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-adaa-c22f6c5e9bb1,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-7909-525d7ec9a1f2,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-7909-525d7ec9a1f2,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-69e5-a342dfb25e60,WORCES-992abe,MEDICATION,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+3eec36b2-71cc-13c4-f789-c4fcf7fff4c4,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-4763-5a64b2fe51a3,WORCES-992abe,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+3eec36b2-71cc-13c4-597d-3caea598dfc8,WORCES-992abe,DIAGNOSIS,normal pregnancy
+3eec36b2-71cc-13c4-597d-3caea598dfc8,WORCES-992abe,DIAGNOSIS,miscarriage in second trimester
+3eec36b2-71cc-13c4-597d-3caea598dfc8,WORCES-992abe,DIAGNOSIS,fetus with chromosomal abnormality
+3eec36b2-71cc-13c4-4fca-05129da5acd7,WORCES-992abe,DIAGNOSIS,fetus with chromosomal abnormality
+3eec36b2-71cc-13c4-4fca-05129da5acd7,WORCES-992abe,DIAGNOSIS,past pregnancy history of miscarriage
+3eec36b2-71cc-13c4-3db5-a0cb7107a12c,WORCES-992abe,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]

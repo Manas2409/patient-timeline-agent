@@ -1,0 +1,564 @@
+{
+  "cluster_id": "99",
+  "hospitals": [
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1987-06-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Educated",
+          "canonical": "Educated",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "school",
+          "canonical": "school",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1989-12-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Complete miscarriage (disorder)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": []
+    },
+    {
+      "date": "2011-05-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2011-06-14",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Impacted molars (disorder)",
+      "seen_at": "GOOD SHEPHERD COMMUNITY CARE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "impacted",
+          "canonical": "Impacted molars",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "impacted",
+          "canonical": "Impacted molars",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2013-05-10",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "2015-05-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "2015-12-14",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-11T19:34:13Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Intrauterine System",
+          "canonical": "HR Intrauterine System",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-11T19:34:13Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-11",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Etonogestrel",
+          "canonical": "Etonogestrel | etonogestrel",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-12-06T20:00:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2017-03-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Appendicitis (disorder)",
+      "seen_at": "GOOD SHEPHERD COMMUNITY CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-03-04"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ici",
+          "canonical": "ici",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-03-04"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "inpatient",
+      "reason": "Appendicitis (disorder)",
+      "seen_at": "CHILDREN'S HOSPITAL CORPORATION",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2017-05-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "2017-12-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-12-01T20:00:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-11-26T20:00:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-26",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "2019-05-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": []
+    },
+    {
+      "date": "2019-12-06",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "MOUNT AUBURN HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-05-01",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2020-05-16"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-05-08"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-15",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": []
+    },
+    {
+      "date": "2021-05-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronavirus 2",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-05-11"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-10",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-05-26"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "d",
+          "canonical": "d",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "p",
+          "canonical": "p",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "acute respiratory syndrome coronavirus",
+          "canonical": "Disease caused by severe acute respiratory syndrome coronavirus 2",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-05-26"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": []
+    },
+    {
+      "date": "2022-05-27",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-28T02:00:07Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "essential hypertension",
+          "canonical": "Essential hypertension",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-05-19T23:31:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-05-19T23:31:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-02",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": []
+    },
+    {
+      "date": "2023-06-18",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-05-24T23:31:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": []
+    },
+    {
+      "date": "2023-10-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": []
+    },
+    {
+      "date": "2024-05-03",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": []
+    },
+    {
+      "date": "2024-05-24",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2024-06-08"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-30T23:31:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-30T23:31:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-07",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": []
+    },
+    {
+      "date": "2025-05-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-05T23:31:00Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-05T23:31:00Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-13",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-06-14T02:05:30Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-06-14T02:05:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "STANFORD HEALTH CARE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-20T02:14:39Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-06-20T02:14:39Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

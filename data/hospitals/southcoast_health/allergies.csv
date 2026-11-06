@@ -1,0 +1,8 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+SOUTHC-ac561e,2016-04-13,Allergic disposition (finding),,
+SOUTHC-ac561e,2016-04-13,Mold (organism),Nasal discharge present (situation),MILD
+SOUTHC-ac561e,2016-04-13,House dust mite (organism),,
+SOUTHC-ac561e,2016-04-13,Animal dander (substance),Cough (finding),MODERATE
+SOUTHC-ac561e,2016-04-13,Grass pollen (substance),,
+SOUTHC-ac561e,2016-04-13,Tree pollen (substance),,
+SOUTHC-ac561e,2016-04-13,Tree nut (substance),Anaphylaxis (disorder),SEVERE

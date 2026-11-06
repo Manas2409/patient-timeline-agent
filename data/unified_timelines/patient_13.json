@@ -1,0 +1,272 @@
+{
+  "cluster_id": "13",
+  "hospitals": [
+    "Greater Boston Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2023-04-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2023-05-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2023-08-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2023-10-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2023-10-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Acute allergic reaction (disorder)",
+      "seen_at": "BOSTONIAN NURSING CARE & REHABILITATION CTR  THE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic reaction",
+          "canonical": "Acute allergic reaction",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "allergic reaction",
+          "canonical": "Acute allergic reaction",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "predniSONE",
+          "canonical": "predniSONE",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-10-23T14:07:09Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Cow's milk (substance)",
+      "seen_at": "CARNEY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-11-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "CARNEY HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cetirizine hydrochloride",
+          "canonical": "cetirizine hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "allergy to",
+          "canonical": "allergy to",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Eggs",
+          "canonical": "Eggs",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Eggs (edible)",
+          "canonical": "Eggs (edible)",
+          "match_method": "fuzzy",
+          "reaction": "",
+          "severity": ""
+        }
+      ]
+    },
+    {
+      "date": "2023-12-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Atopic dermatitis (disorder)",
+      "seen_at": "CARNEY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-01-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2024-01-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Atopic dermatitis (disorder)",
+      "seen_at": "CARNEY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-03-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "BOSTONIAN NURSING CARE & REHABILITATION CTR  THE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-10T11:08:59Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2024-04-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "CARNEY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ot",
+          "canonical": "ot",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-07-03"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-04-10T11:08:59Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2024-10-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2025-04-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2025-10-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2026-04-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HARBOR HEALTH SERVICES INC",
+      "entities": []
+    },
+    {
+      "date": "2026-04-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "CARNEY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-08T14:13:50Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

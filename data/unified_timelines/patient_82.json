@@ -1,0 +1,1238 @@
+{
+  "cluster_id": "82",
+  "hospitals": [
+    "North Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "2004-12-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2005-11-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Cow's milk (substance)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2005-11-11",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Loratadine",
+          "canonical": "Loratadine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Cow's milk",
+          "canonical": "Cow's milk",
+          "match_method": "fuzzy",
+          "reaction": "",
+          "severity": ""
+        }
+      ]
+    },
+    {
+      "date": "2007-10-13",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Atopic dermatitis (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2007-12-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Perennial allergic rhinitis with seasonal variation (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-10-17"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2015-10-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-11-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-09-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Cow's milk (substance)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-11-07",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Risk",
+          "canonical": "Risk",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-30",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-02-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-03-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic disposition",
+          "canonical": "allergic disposition",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-04-29",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-05-26",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-06-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-07-13",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic disposition",
+          "canonical": "allergic disposition",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-09-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-11-13",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-11-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-01-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-03-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-04-07",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-04-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-07-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-26",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-10-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-11-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-03"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival",
+          "canonical": "Gingival disease",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-03"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-03T21:16:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-02-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-02-29",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-07-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-07-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-08-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-16",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-09-26T16:32:35Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-09-26T16:32:35Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-07",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-11-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-11-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-11-29",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-01-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Atopic dermatitis (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrocortisone",
+          "canonical": "Hydrocortisone",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-17T18:32:35Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-04-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-11",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-08-07",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-01",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-10-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-11-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-11-30",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-12-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-14T19:11:33Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-06",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-12-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2022-12-20"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SKIN WELLNESS PHYSICIANS LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-04-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-04-30",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-05-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-06-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-07-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-08-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-09-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-10-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "eclampsia",
+          "canonical": "Eclampsia in pregnancy | Pre-eclampsia",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-11-05"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "pregnancy",
+          "canonical": "Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-11-05"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-29",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-11-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BLUEBERRY HILL REHABILITATION AND HEALTHCARE CTR",
+      "entities": []
+    },
+    {
+      "date": "2024-12-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-12-24",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-12-19T16:32:35Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-12-19T16:32:35Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "URGENT CARE OPERATIONS PC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-11",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-03-27"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-27T16:36:45Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-25",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infect",
+          "canonical": "Acute infective cystitis | Infection caused by Staphylococcus aureus | Infection of tooth | Infectious mediastinitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-05-18"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sti",
+          "canonical": "sti",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-05-18"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-03-25T18:41:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-03-25T18:41:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-16",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cysti",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ciprofloxacin",
+          "canonical": "ciprofloxacin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-18T10:53:45Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-04-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-05-26",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-07-21",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "NORTH SHORE MEDICAL CENTER INC",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

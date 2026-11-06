@@ -1,0 +1,2678 @@
+{
+  "cluster_id": "18",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Norfolk County Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "1982-08-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "DIMOCK COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Serving",
+          "canonical": "Serving",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1992-12-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency syndrome",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1993-01-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2004-11-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2005-11-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight",
+          "canonical": "weight",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2008-12-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "kidney disease",
+          "canonical": "Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "disorder",
+          "canonical": "Disorder of kidney due to diabetes mellitus | Seizure disorder | Sleep disorder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "diabetes",
+          "canonical": "Diabetes mellitus due to cystic fibrosis | Diabetes mellitus type 2 | Disorder of kidney due to diabetes mellitus | Microalbuminuria due to type 2 diabetes mellitus",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2010-12-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "kidney disease",
+          "canonical": "Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "microalbuminuria",
+          "canonical": "Microalbuminuria due to type 2 diabetes mellitus",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "type 2 diabetes",
+          "canonical": "Diabetes mellitus type 2",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2013-01-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2013-05-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "efavirenz",
+          "canonical": "efavirenz",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-09-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-09-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2013-09-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2013-09-10T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-09-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2015-01-07"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2014-01-08"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "efavirenz",
+          "canonical": "efavirenz",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-01-07T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-01-07T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-01-07T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-01-07T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2013-09-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2014-01-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "efavirenz",
+          "canonical": "efavirenz",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-09-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-09-30T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-01-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2014-05-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2014-06-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2014-09-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2014-09-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "aryng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-10-01"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2014-09-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "DIMOCK COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "efavirenz",
+          "canonical": "efavirenz",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-10-07T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-10-07T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-10-07T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-10-07T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-10-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "DIMOCK COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "efavirenz",
+          "canonical": "efavirenz",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-11-04T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-11-04T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2014-11-04T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2014-11-04T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-11-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "efavirenz",
+          "canonical": "efavirenz",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-01-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-06T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2014-11-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2015-01-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2015-01-21"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "efavirenz",
+          "canonical": "efavirenz",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-13T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-13T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2015-01-13T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-13T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-01-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "efavirenz",
+          "canonical": "efavirenz",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-28T00:16:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-01-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-28T00:16:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-01-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2015-01-21T02:04:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-01-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-01-19T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2015-06-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2015-11-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2016-01-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full",
+          "canonical": "Full",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-01-31"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-01-25"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-01-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-01-24T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-03-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2016-08-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2017-01-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-21T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-21T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-21T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-21T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-02-21T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-02-21T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-03-28T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-08T02:18:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-01-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-01-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-01-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-01-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-01-30T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-04-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2017-04-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Sprain (morphologic abnormality)",
+      "seen_at": "DIMOCK COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-22T00:12:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2018-02-14"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part-time employment",
+          "canonical": "Part-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-02-28"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-27T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-27T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-27T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-27T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-27T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-02-27T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2018-02-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-20T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-20T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-20T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-20T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-20T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-03-20T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-05T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-05T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-05T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-05T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-02-05T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2018-06-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-09-10T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2019-03-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2019-08-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-05T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-05T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-05T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-05T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-11-05T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-05",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-12T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-12T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-12T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-12T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-12T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-11-12T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "DIMOCK COMMUNITY HEALTH CENTER  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-19T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-11-19T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-19",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-26T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-26T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-26T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-26T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-26T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-11-26T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-03T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-03T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-03T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-03T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-03T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-10T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-10T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-17T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-17T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-17T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-17T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-17T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-24T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-12-24T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-02-11T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-12T23:45:33Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-01-08T02:40:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-10-06T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2020-05-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-21"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-02-16T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-02-16T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-02-16T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-02-16T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-02-16T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2021-02-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-22T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-22T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-22T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-22T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-02-22T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loose",
+          "canonical": "Loose dental filling",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "filling",
+          "canonical": "Dental filling lost | Fractured dental filling | Leaking dental filling | Loose dental filling",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2021-11-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2021-11-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-09T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-09T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-09T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-09T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-09T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-08-09T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-16T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-16T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-16T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-16T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-08-16T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-23T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-23T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-23T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-23T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-08-23T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-30T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-08-30T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-30",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-06T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-09-06T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-04T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-04T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-04T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-04T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-04T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-10-04T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-09-14T03:26:16Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-27",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2022-10-04",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-10-11T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-10-11T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-02-28T23:29:08Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-02-28T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cobicistat",
+          "canonical": "cobicistat",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "elvitegravir",
+          "canonical": "elvitegravir",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "emtricitabine",
+          "canonical": "emtricitabine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tenofovir disoproxil fumarate",
+          "canonical": "tenofovir disoproxil fumarate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "hospice",
+      "reason": "",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": []
+    },
+    {
+      "date": "2023-08-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "Acquired immune deficiency syndrome (disorder)",
+      "seen_at": "VA Boston Healthcare System  Jamaica Plain Campus",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "acquired immune deficiency",
+          "canonical": "Acquired immune deficiency syndrome",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acquired immune deficiency syndrome",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Microalbuminuria due to type 2 diabetes mellitus",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Diabetes mellitus type 2",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Loose dental filling",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Severe anxiety (panic)",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

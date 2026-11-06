@@ -1,0 +1,221 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,PHRASE
+9a3814bb-f5b0-05f3-5b77-adbaaf993479,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-5b77-adbaaf993479,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-64ee-20a4a3ba6c0c,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-64ee-20a4a3ba6c0c,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-074a-f57f8d982676,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-074a-f57f8d982676,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-a55a-498bd0064bd9,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-a55a-498bd0064bd9,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-d39e-cf2100cb0ab9,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-d39e-cf2100cb0ab9,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-1a49-bec247006f2e,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-1a49-bec247006f2e,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-42c4-51d4baaa898c,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-42c4-51d4baaa898c,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-08d8-ff809fb6a22c,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-08d8-ff809fb6a22c,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-d4fc-a488cd5ae1ea,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-d4fc-a488cd5ae1ea,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-a210-1453648ef3bc,SOUTH_-876f47,DIAGNOSIS,laceration - injury
+9a3814bb-f5b0-05f3-a210-1453648ef3bc,SOUTH_-876f47,DIAGNOSIS,laceration - injury
+9a3814bb-f5b0-05f3-a210-1453648ef3bc,SOUTH_-876f47,DIAGNOSIS,laceration of thigh
+9a3814bb-f5b0-05f3-a210-1453648ef3bc,SOUTH_-876f47,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+9a3814bb-f5b0-05f3-ed8d-715fba402558,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-ed8d-715fba402558,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+9a3814bb-f5b0-05f3-9d73-dcb9860d8bda,SOUTH_-876f47,DIAGNOSIS,pediatric asthma
+9a3814bb-f5b0-05f3-f546-8c0f5c6fe803,SOUTH_-876f47,DIAGNOSIS,gingivitis
+9a3814bb-f5b0-05f3-f546-8c0f5c6fe803,SOUTH_-876f47,MEDICATION,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]
+9a3814bb-f5b0-05f3-f546-8c0f5c6fe803,SOUTH_-876f47,MEDICATION,albuterol 0.83 MG/ML Inhalation Solution
+7af6b271-f16d-21e1-ff78-ca4e771c7285,SOUTH_-a1fb3a,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-ff78-ca4e771c7285,SOUTH_-a1fb3a,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-e86a-4d1d571af6e6,SOUTH_-a1fb3a,DIAGNOSIS,gingivitis
+7af6b271-f16d-21e1-e86a-4d1d571af6e6,SOUTH_-a1fb3a,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-e86a-4d1d571af6e6,SOUTH_-a1fb3a,MEDICATION,lisinopril 10 MG Oral Tablet
+7af6b271-f16d-21e1-4328-278fe7ff7719,SOUTH_-a1fb3a,MEDICATION,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+7af6b271-f16d-21e1-4328-278fe7ff7719,SOUTH_-a1fb3a,MEDICATION,lisinopril 10 MG Oral Tablet
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,DIAGNOSIS,sprain (morphologic abnormality)
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,DIAGNOSIS,sprain (morphologic abnormality)
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,DIAGNOSIS,sprain of ankle
+f30304ab-8e45-1cbd-24e1-16cdf70f8e33,SOUTH_-35094a,MEDICATION,Ibuprofen 100 MG Oral Tablet
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,DIAGNOSIS,sprain (morphologic abnormality)
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,DIAGNOSIS,sprain (morphologic abnormality)
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,DIAGNOSIS,sprain of ankle
+f30304ab-8e45-1cbd-ed6d-1fb3f9b169db,SOUTH_-35094a,MEDICATION,Ibuprofen 100 MG Oral Tablet
+d21f2794-014b-c66b-f5e6-f297b9e9e24c,SOUTH_-394788,DIAGNOSIS,gingivitis
+d21f2794-014b-c66b-f5e6-f297b9e9e24c,SOUTH_-394788,MEDICATION,Acetaminophen 325 MG Oral Tablet [Tylenol]
+355a4d50-2628-aa65-f854-03969552e0ad,SOUTH_-a09a50,DIAGNOSIS,borderline blood sugar
+355a4d50-2628-aa65-f854-03969552e0ad,SOUTH_-a09a50,DIAGNOSIS,a low blood count
+355a4d50-2628-aa65-c7b4-bfba7a5c752a,SOUTH_-a09a50,DIAGNOSIS,type 2 diabetes
+355a4d50-2628-aa65-a85e-042665c2ed87,SOUTH_-a09a50,DIAGNOSIS,hypertriglyceridemia
+355a4d50-2628-aa65-a85e-042665c2ed87,SOUTH_-a09a50,DIAGNOSIS,metabolic syndrome X
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,DIAGNOSIS,coronary artery disease
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,MEDICATION,Clopidogrel 75 MG Oral Tablet
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,MEDICATION,Simvastatin 20 MG Oral Tablet
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,MEDICATION,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+355a4d50-2628-aa65-b89f-83b67c34eba8,SOUTH_-a09a50,MEDICATION,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+355a4d50-2628-aa65-5c0a-c559d00196d1,SOUTH_-a09a50,DIAGNOSIS,gingivitis
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,DIAGNOSIS,fracture of bone
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,DIAGNOSIS,fracture of bone
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,DIAGNOSIS,fracture of clavicle
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,DIAGNOSIS,osteoporotic fracture of bone
+355a4d50-2628-aa65-8060-eb8f9fd09d8e,SOUTH_-a09a50,MEDICATION,Ibuprofen 200 MG Oral Tablet
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,DIAGNOSIS,chronic kidney disease stage 1
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,DIAGNOSIS,disorder of kidney due to diabetes mellitus
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,DIAGNOSIS,gingivitis
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-b356-bc930f7495d6,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-6752-40c50a7a5346,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-c029-34da5af5888d,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-31a5-3b7c9838a55c,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-f3d4-94cbee9bbf7c,SOUTH_-a09a50,DIAGNOSIS,gum inflammation
+355a4d50-2628-aa65-f3d4-94cbee9bbf7c,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-10ed-d96a69189fc2,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-af97-e76a6cb513eb,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-49fa-9ae21ee5aa26,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-c421-e246c3a0307d,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-b6ba-b89162e4da88,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-a05e-7f2327cba6f9,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-af36-c5f6e47850b4,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-0361-6091de617d40,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-9995-88336b4e8544,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-a637-d6ecf07f5218,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-ebe9-5b8f3bdbf7dd,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-9296-000ec60f8ce9,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-7edc-4afa28cf7a61,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-78c1-60e459a327e0,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-50c8-12f9bf5733e4,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-1e6e-0bc55feca2ce,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-31ac-59da17933968,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-77e1-59a402455737,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-9a3f-d517b8ea73dd,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-8cd4-d9bc4aae8ebf,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-76a6-d67500741021,SOUTH_-a09a50,DIAGNOSIS,gum inflammation
+355a4d50-2628-aa65-76a6-d67500741021,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-426c-09e5b97b79fa,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-5273-5bfb6e0aaa0b,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-38a2-bdafc6e30f1d,SOUTH_-a09a50,DIAGNOSIS,gingivitis
+355a4d50-2628-aa65-38a2-bdafc6e30f1d,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-e535-ccbef967d6a9,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-6108-01a11cffd463,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-592c-2ac4436aca50,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-84d2-2b8f727b5545,SOUTH_-a09a50,DIAGNOSIS,gingivitis
+355a4d50-2628-aa65-84d2-2b8f727b5545,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-697b-6d2d7f9070e5,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-b28c-06a3f99a7835,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-358c-c4585b3fc863,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-f8e9-30b54d1c36d6,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-d8e6-5dba7871bac6,SOUTH_-a09a50,DIAGNOSIS,gingivitis
+355a4d50-2628-aa65-d8e6-5dba7871bac6,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-e20a-7f9a69a0e538,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-b168-a21fffaf00bf,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+355a4d50-2628-aa65-22b5-d6fae3dd23f7,SOUTH_-a09a50,MEDICATION,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,DIAGNOSIS,fracture of bone
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,DIAGNOSIS,fracture of bone
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,DIAGNOSIS,fracture of ankle
+197ec76f-0730-2587-33db-8131d0caad63,SOUTH_-29ef9d,MEDICATION,Acetaminophen 325 MG Oral Tablet
+8704c44c-8b97-e35a-2e79-0ad7e7723971,SOUTH_-8d7313,MEDICATION,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+35f80d0e-eaad-ef68-5241-e492de7c6e31,SOUTH_-0a9f25,DIAGNOSIS,borderline blood sugar
+35f80d0e-eaad-ef68-5241-e492de7c6e31,SOUTH_-0a9f25,DIAGNOSIS,anemia
+35f80d0e-eaad-ef68-3d94-cb3381a98bdd,SOUTH_-0a9f25,DIAGNOSIS,gingivitis
+35f80d0e-eaad-ef68-706b-b45f4ac01d89,SOUTH_-0a9f25,DIAGNOSIS,gingivitis
+35f80d0e-eaad-ef68-917b-3dc6baf1455f,SOUTH_-0a9f25,DIAGNOSIS,obesity (BMI 30+)
+35f80d0e-eaad-ef68-1edb-7769f06f0926,SOUTH_-0a9f25,DIAGNOSIS,concussion injury of brain
+35f80d0e-eaad-ef68-1edb-7769f06f0926,SOUTH_-0a9f25,DIAGNOSIS,concussion injury of brain
+35f80d0e-eaad-ef68-1edb-7769f06f0926,SOUTH_-0a9f25,DIAGNOSIS,concussion with no loss of consciousness
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,DIAGNOSIS,high blood pressure
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,DIAGNOSIS,metabolic syndrome X
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,MEDICATION,lisinopril 10 MG Oral Tablet
+35f80d0e-eaad-ef68-60a0-b3f9fb295f95,SOUTH_-0a9f25,MEDICATION,lisinopril 10 MG Oral Tablet
+5dae1e9e-46fb-5537-161a-b77ab7c2bea5,SOUTH_-f82c25,DIAGNOSIS,a sore throat
+5dae1e9e-46fb-5537-161a-b77ab7c2bea5,SOUTH_-f82c25,DIAGNOSIS,a sore throat
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,DIAGNOSIS,laceration - injury
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,DIAGNOSIS,laceration - injury
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,DIAGNOSIS,laceration of foot
+5dae1e9e-46fb-5537-fbc7-4636187e7856,SOUTH_-f82c25,MEDICATION,Naproxen sodium 220 MG Oral Tablet
+5dae1e9e-46fb-5537-74b8-9549758ccc22,SOUTH_-f82c25,DIAGNOSIS,viral sinusitis
+5dae1e9e-46fb-5537-74b8-9549758ccc22,SOUTH_-f82c25,DIAGNOSIS,viral sinusitis
+5dae1e9e-46fb-5537-74b8-9549758ccc22,SOUTH_-f82c25,DIAGNOSIS,acute infective cystitis
+5dae1e9e-46fb-5537-9c47-dda3e0853bf8,SOUTH_-f82c25,DIAGNOSIS,acute infective cystitis
+5dae1e9e-46fb-5537-9c47-dda3e0853bf8,SOUTH_-f82c25,MEDICATION,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet
+5dae1e9e-46fb-5537-6709-cde62031ab8b,SOUTH_-f82c25,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+5dae1e9e-46fb-5537-7169-c9cc4970ff02,SOUTH_-f82c25,DIAGNOSIS,a sore throat
+5dae1e9e-46fb-5537-7169-c9cc4970ff02,SOUTH_-f82c25,DIAGNOSIS,acute viral pharyngitis
+5dae1e9e-46fb-5537-dce8-72bf16a56bed,SOUTH_-f82c25,DIAGNOSIS,sprain (morphologic abnormality)
+5dae1e9e-46fb-5537-dce8-72bf16a56bed,SOUTH_-f82c25,DIAGNOSIS,sprain (morphologic abnormality)
+5dae1e9e-46fb-5537-dce8-72bf16a56bed,SOUTH_-f82c25,DIAGNOSIS,sprain of wrist
+5dae1e9e-46fb-5537-dce8-72bf16a56bed,SOUTH_-f82c25,MEDICATION,Acetaminophen 325 MG Oral Tablet
+5dae1e9e-46fb-5537-afa8-0390702661fe,SOUTH_-f82c25,DIAGNOSIS,a sore throat
+5dae1e9e-46fb-5537-afa8-0390702661fe,SOUTH_-f82c25,DIAGNOSIS,acute viral pharyngitis
+3099d813-4f5c-fc43-846a-95fbb4ee5d9b,SOUTH_-977c95,DIAGNOSIS,a middle-ear infection
+3099d813-4f5c-fc43-846a-95fbb4ee5d9b,SOUTH_-977c95,DIAGNOSIS,a middle-ear infection
+3099d813-4f5c-fc43-846a-95fbb4ee5d9b,SOUTH_-977c95,MEDICATION,Cefuroxime 250 MG Oral Tablet
+3099d813-4f5c-fc43-846a-95fbb4ee5d9b,SOUTH_-977c95,MEDICATION,Ibuprofen 100 MG Oral Tablet
+3099d813-4f5c-fc43-cc30-07914d40936a,SOUTH_-977c95,DIAGNOSIS,acute allergic reaction
+3099d813-4f5c-fc43-cc30-07914d40936a,SOUTH_-977c95,DIAGNOSIS,acute allergic reaction
+3099d813-4f5c-fc43-cc30-07914d40936a,SOUTH_-977c95,MEDICATION,predniSONE 5 MG Oral Tablet
+3099d813-4f5c-fc43-01e4-7a4eb27e62a5,SOUTH_-977c95,DIAGNOSIS,shellfish
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,DIAGNOSIS,allergic disposition
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,MEDICATION,cetirizine hydrochloride 5 MG Oral Tablet
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,MEDICATION,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+3099d813-4f5c-fc43-bf68-21f59f159c3c,SOUTH_-977c95,ALLERGY,Shellfish
+3099d813-4f5c-fc43-bc03-6bb1010effde,SOUTH_-977c95,DIAGNOSIS,a middle-ear infection
+3099d813-4f5c-fc43-bc03-6bb1010effde,SOUTH_-977c95,DIAGNOSIS,a middle-ear infection
+3099d813-4f5c-fc43-bc03-6bb1010effde,SOUTH_-977c95,MEDICATION,Azithromycin 250 MG Oral Capsule
+3099d813-4f5c-fc43-bc03-6bb1010effde,SOUTH_-977c95,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+3099d813-4f5c-fc43-394d-169428a6f882,SOUTH_-977c95,DIAGNOSIS,shellfish
+3099d813-4f5c-fc43-4a15-561a3681b9ce,SOUTH_-977c95,DIAGNOSIS,acute bacterial sinusitis
+3099d813-4f5c-fc43-4a15-561a3681b9ce,SOUTH_-977c95,DIAGNOSIS,acute bacterial sinusitis
+3099d813-4f5c-fc43-d784-37ae33060ba3,SOUTH_-977c95,DIAGNOSIS,acute bacterial sinusitis
+3099d813-4f5c-fc43-d784-37ae33060ba3,SOUTH_-977c95,DIAGNOSIS,long-standing sinus infection
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,DIAGNOSIS,otitis media
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,DIAGNOSIS,a middle-ear infection
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,MEDICATION,Azithromycin 250 MG Oral Capsule
+3099d813-4f5c-fc43-0b25-7b129fb4f421,SOUTH_-977c95,MEDICATION,Ibuprofen 100 MG Oral Tablet
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,DIAGNOSIS,a middle-ear infection
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,DIAGNOSIS,otitis media
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,MEDICATION,Cefuroxime 250 MG Oral Tablet
+3099d813-4f5c-fc43-8a72-1fa052f9fb0e,SOUTH_-977c95,MEDICATION,Acetaminophen 160 MG Chewable Tablet
+3099d813-4f5c-fc43-e2d5-5e61f429467d,SOUTH_-977c95,DIAGNOSIS,primary dental caries
+c823813e-2588-4814-385d-56222a63bfa5,SOUTH_-04256a,DIAGNOSIS,congenital uterine anomaly
+c823813e-2588-4814-385d-56222a63bfa5,SOUTH_-04256a,DIAGNOSIS,past pregnancy history of miscarriage
+c823813e-2588-4814-c4da-ebf24360eb12,SOUTH_-04256a,DIAGNOSIS,acute bacterial sinusitis
+c823813e-2588-4814-c4da-ebf24360eb12,SOUTH_-04256a,DIAGNOSIS,chronic sinusitis
+c823813e-2588-4814-0eca-cb798a035f29,SOUTH_-04256a,MEDICATION,{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]
+c823813e-2588-4814-e73f-2e543ed46910,SOUTH_-04256a,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+c823813e-2588-4814-a330-6e596b8fd9ae,SOUTH_-04256a,DIAGNOSIS,borderline blood sugar
+c823813e-2588-4814-a330-6e596b8fd9ae,SOUTH_-04256a,DIAGNOSIS,significant weight gain
+c823813e-2588-4814-f9cb-440519258100,SOUTH_-04256a,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]
+c823813e-2588-4814-90c1-24c32b687832,SOUTH_-04256a,DIAGNOSIS,anemia
+c823813e-2588-4814-cde6-89d98eaef607,SOUTH_-04256a,DIAGNOSIS,a low blood count
+c823813e-2588-4814-a3a9-ec257a69996d,SOUTH_-04256a,DIAGNOSIS,viral sinusitis
+c823813e-2588-4814-a3a9-ec257a69996d,SOUTH_-04256a,DIAGNOSIS,a sinus infection
+c823813e-2588-4814-5a92-2c6c027e320c,SOUTH_-04256a,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,DIAGNOSIS,acute bronchitis
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,DIAGNOSIS,acute bronchitis
+c823813e-2588-4814-bb94-52f50480192f,SOUTH_-04256a,MEDICATION,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+c823813e-2588-4814-6928-d41adf860d40,SOUTH_-04256a,MEDICATION,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]
+c823813e-2588-4814-681f-97fa27b0438b,SOUTH_-04256a,DIAGNOSIS,sinusitis
+c823813e-2588-4814-681f-97fa27b0438b,SOUTH_-04256a,DIAGNOSIS,sinusitis
+c823813e-2588-4814-02f8-0184ab858af7,SOUTH_-04256a,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+c823813e-2588-4814-7064-75bfa95793ba,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-7064-75bfa95793ba,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-ad24-5d8d0cfb1668,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-0729-8642b9c07086,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-d222-5fbbb07aa897,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-79d7-86cd8187c4c0,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-4e9f-8dc1e802cdec,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-fb93-08b0ad05abaa,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-8de7-614607d78af9,SOUTH_-04256a,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+c823813e-2588-4814-0475-82b02101f39d,SOUTH_-04256a,MEDICATION,sodium fluoride 0.0272 MG/MG Oral Gel
+c823813e-2588-4814-c3a7-ca9146dced54,SOUTH_-04256a,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]
+c823813e-2588-4814-66dc-ae5c78587bea,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-66dc-ae5c78587bea,SOUTH_-04256a,DIAGNOSIS,normal pregnancy
+c823813e-2588-4814-66dc-ae5c78587bea,SOUTH_-04256a,DIAGNOSIS,miscarriage in first trimester
+c823813e-2588-4814-66dc-ae5c78587bea,SOUTH_-04256a,DIAGNOSIS,tubal pregnancy
+c823813e-2588-4814-88cb-7024843fe0be,SOUTH_-04256a,DIAGNOSIS,tubal pregnancy
+c823813e-2588-4814-4dd4-4b63085c2e39,SOUTH_-04256a,DIAGNOSIS,tubal pregnancy
+c823813e-2588-4814-b1d5-3186a0a5a350,SOUTH_-04256a,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]
+c823813e-2588-4814-4ea2-c944b2e637d2,SOUTH_-04256a,DIAGNOSIS,viral sinusitis
+c823813e-2588-4814-4ea2-c944b2e637d2,SOUTH_-04256a,DIAGNOSIS,viral sinusitis
+c823813e-2588-4814-0c00-67d3cf42a62d,SOUTH_-04256a,MEDICATION,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]

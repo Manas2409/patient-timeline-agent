@@ -1,0 +1,383 @@
+{
+  "cluster_id": "87",
+  "hospitals": [
+    "Pioneer Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2017-03-25",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-04-29",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-09-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-03-03",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-06-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-08-20",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "ccal",
+          "canonical": "ccal",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-09-02"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-02T03:08:14Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-01",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-11-17",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-11-24"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-11-24T19:26:34Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-21",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-01-14"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-02",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-31",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-11-10",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Otitis media (disorder)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-11-24T21:08:14Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-22",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Perennial allergic rhinitis with seasonal variation (disorder)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cetirizine hydrochloride",
+          "canonical": "cetirizine hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-29",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-07",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "NDA020800 0.3 ML Epinephrine",
+          "canonical": "NDA",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Allergy",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Tree pollen",
+          "canonical": "Tree pollen",
+          "match_method": "fuzzy",
+          "reaction": "",
+          "severity": ""
+        }
+      ]
+    },
+    {
+      "date": "2020-03-14",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "dental caries",
+          "canonical": "Primary dental caries",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-15"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-15T00:02:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-29",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-27",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-05",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2023-03-11",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-03-16",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2024-03-23",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": []
+    },
+    {
+      "date": "2025-03-22",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2025-03-29",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MERCY MEDICAL CTR",
+      "entities": []
+    },
+    {
+      "date": "2026-03-28",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLYOKE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-05-04",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Sprain (morphologic abnormality)",
+      "seen_at": "MONT MARIE REHABILITATION & HEALTHCARE CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sprain",
+          "canonical": "Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-06-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-09T21:08:14Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

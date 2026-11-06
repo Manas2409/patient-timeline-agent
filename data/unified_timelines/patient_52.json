@@ -1,0 +1,1162 @@
+{
+  "cluster_id": "52",
+  "hospitals": [
+    "MetroWest Health Partners",
+    "North Central Mass Health",
+    "West Suburban Boston Health"
+  ],
+  "timeline": [
+    {
+      "date": "1973-11-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "1981-01-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "1982-12-30",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "1984-01-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "1997-08-25",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "NEWTON WELLESLEY CENTER FOR ALZHEIMER'S CARE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2000-02-26",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Congenital uterine anomaly (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2004-11-11",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2007-10-26",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Osteoarthritis of knee (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2008-11-20",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2008-12-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-10T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2012-11-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2015-12-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-12-09T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-08-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral phary",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-08-28"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-08-28"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ng",
+          "canonical": "ng",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-08-28"
+        }
+      ]
+    },
+    {
+      "date": "2016-11-17",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Un",
+          "canonical": "Un",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-11-23"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "lth",
+          "canonical": "lth",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-11-23"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-09T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-23",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyper",
+          "canonical": "Essential hypertension | Hyperglycemia | Hyperlipidemia | Hypertriglyceridemia",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-09T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-11-29",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part-time employment",
+          "canonical": "Part-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-12-16"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealthy alcohol",
+          "canonical": "Unhealthy alcohol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-12-22"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-12-09T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-05",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-17T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-10",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-10T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-12-10T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-17T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-01-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-16T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-12-16T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-25",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-04-15",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-04-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-05-09",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-11-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "NEWTON WELLESLEY CENTER FOR ALZHEIMER'S CARE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-12-13"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-12-13T18:59:10Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-16",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-22T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-22T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-22T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-29T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": []
+    },
+    {
+      "date": "2022-10-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-11-08"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-11-08"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-22",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anxiety",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-28T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-12-28T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-12-28T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-29",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlip",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-11T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-31",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-21",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-28",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "coronary",
+          "canonical": "Abnormal findings diagnostic imaging heart+coronary circulat | History of coronary artery bypass grafting",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-09-12T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-09-12T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-09-12T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clopidogrel",
+          "canonical": "Clopidogrel | clopidogrel",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "metoprolol succinate",
+          "canonical": "metoprolol succinate",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nitroglycerin",
+          "canonical": "Nitroglycerin | nitroglycerin",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-04",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2024-01-06",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Ischemic heart disease (disorder)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2024-01-07",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "cefazolin",
+          "canonical": "cefazolin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-07T15:52:37Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "heparin sodium  porcine",
+          "canonical": "heparin sodium porcine",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-07T15:52:37Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "protamine sulfate",
+          "canonical": "protamine sulfate (USP)",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-07T15:52:37Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "US",
+          "canonical": "US",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-01-07T15:52:37Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ondansetron",
+          "canonical": "NDA | Ondansetron",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-01-07T16:58:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Midazolam",
+          "canonical": "Midazolam",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-07T16:58:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Propofol",
+          "canonical": "Propofol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-07T16:58:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Rocuronium bromide",
+          "canonical": "Rocuronium bromide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-07T16:58:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "isoflurane",
+          "canonical": "isoflurane",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-07T16:58:22Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Alfentanil",
+          "canonical": "Alfentanil",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-07T16:58:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-07",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of coronary artery bypass grafting (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2024-01-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of coronary artery bypass grafting (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2024-01-11",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "hyperlipide",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-10T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-22",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "inpatient",
+      "reason": "History of coronary artery bypass grafting (situation)",
+      "seen_at": "Fitchburg Outpatient Clinic",
+      "entities": []
+    },
+    {
+      "date": "2024-09-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "cold",
+          "canonical": "cold",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-09-20T10:24:15Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-12",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-02T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-01-02T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-01-02T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-02",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-08T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-08T18:39:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-01-08T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-10T18:39:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "hospital": "West Suburban Boston Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WESTON PRIMARY CARE  PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "amLODIPine",
+          "canonical": "ML | amLODIPine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-10",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Hyperlipidemia (disorder)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "hyperlipidemia",
+          "canonical": "Hyperlipidemia",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Simvastatin",
+          "canonical": "Simvastatin",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-01-22T21:46:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "poly",
+          "canonical": "poly",
+          "match_method": "unmapped"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "SYMPTOM",
+      "canonical": "Loss of teeth",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Hyperlipidemia",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Severe anxiety (panic)",
+      "reported_by": [
+        "West Suburban Boston Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

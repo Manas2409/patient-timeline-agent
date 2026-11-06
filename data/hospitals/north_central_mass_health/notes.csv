@@ -1,0 +1,292 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+65cbad6a-eb9d-420e-7096-68be1f0875eb,NORTH_-74af15,2019-11-05,Presenting complaint: ischemic heart disease. Medication list unchanged.
+65cbad6a-eb9d-420e-fcf5-197afc1cd1d8,NORTH_-74af15,2019-11-09,Patient was evaluated for coronary artery disease. Patient continues to be followed for abnormal findings diagnostic imaging heart+coronary circulat.
+65cbad6a-eb9d-420e-8b03-3cb4fe1dea67,NORTH_-74af15,2019-11-12,Patient presents today with coronary artery disease. Medication list unchanged.
+1be83f06-48ef-7bac-8755-ef7707745eec,NORTH_-98cdc1,1983-09-15,Follow-up visit regarding pediatric asthma. No new medications prescribed at this time.
+1be83f06-48ef-7bac-db5d-b5140afd8ae8,NORTH_-98cdc1,1996-12-24,Patient seen for a scheduled wellness encounter. Social history noted: Risk activity involvement.
+1be83f06-48ef-7bac-8498-ddda6d0ec77c,NORTH_-98cdc1,1997-12-30,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Educated to high school level. No new medications prescribed at this time."
+1be83f06-48ef-7bac-18cb-89c388178e5f,NORTH_-98cdc1,2000-01-11,Patient continues to be followed for reactive airway disease.
+1be83f06-48ef-7bac-9872-3232c74bd73d,NORTH_-98cdc1,2013-03-26,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Stress."
+1be83f06-48ef-7bac-7f7d-ca207c764faf,NORTH_-98cdc1,2013-08-20,"Routine outpatient visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment."
+1be83f06-48ef-7bac-85c1-824445636520,NORTH_-98cdc1,2015-04-07,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. No new medications prescribed at this time.
+1be83f06-48ef-7bac-8db2-3aee574565ff,NORTH_-98cdc1,2015-04-28,Presenting complaint: loss of teeth. New findings on exam include loss of teeth.
+1be83f06-48ef-7bac-08a7-81af371e9c35,NORTH_-98cdc1,2016-04-12,New findings on exam include significant weight gain. Care-coordination note: Social isolation. Plan: initiate NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension.
+1be83f06-48ef-7bac-4dc4-3336b677389e,NORTH_-98cdc1,2016-11-02,Presenting complaint: reactive airway disease.
+1be83f06-48ef-7bac-c0a1-77d0bbf953ba,NORTH_-98cdc1,2016-11-05,Follow-up visit regarding reactive airway disease. No new medications prescribed at this time.
+1be83f06-48ef-7bac-423e-24cd46dbee72,NORTH_-98cdc1,2016-12-09,Seen in clinic for fracture of bone. Diagnosed with fracture of bone and fracture of clavicle at this visit. Patient given Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet and Ibuprofen 200 MG Oral Tablet during this encounter.
+1be83f06-48ef-7bac-e439-b0ba60b65183,NORTH_-98cdc1,2017-01-10,Presenting complaint: fracture of clavicle. Medication list unchanged.
+1be83f06-48ef-7bac-ec67-3cad4602add4,NORTH_-98cdc1,2017-04-18,Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment and Limited social contact. Started on NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension.
+1be83f06-48ef-7bac-3b8c-8b98ce6ed0f9,NORTH_-98cdc1,2017-05-04,Patient was evaluated for reactive airway disease. Medication list unchanged.
+1be83f06-48ef-7bac-6556-ddefd3c3c345,NORTH_-98cdc1,2017-06-24,Follow-up visit regarding viral sinusitis. Assessment: viral sinusitis.
+1be83f06-48ef-7bac-2b3e-8863b3e4d42f,NORTH_-98cdc1,2017-10-31,Patient was evaluated for reactive airway disease.
+1be83f06-48ef-7bac-ec98-46e19490d597,NORTH_-98cdc1,2018-04-24,Assessment: gum inflammation. Social history noted: Full-time employment. Patient given NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension during this encounter.
+1be83f06-48ef-7bac-1fc8-2d91f1b4d675,NORTH_-98cdc1,2018-05-08,Patient reports symptoms consistent with gingivitis. Diagnosed with loose dental filling at this visit. Medication list unchanged.
+1be83f06-48ef-7bac-8001-6423279b4adc,NORTH_-98cdc1,2019-04-30,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. Plan: initiate NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension."
+1be83f06-48ef-7bac-4daf-9852466d456c,NORTH_-98cdc1,2020-05-05,"New findings on exam include gingivitis. Care-coordination note: Not in labor force, Stress, and Unhealthy alcohol drinking behavior. Medications prescribed today: NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension."
+1be83f06-48ef-7bac-8b1d-d7513998805a,NORTH_-98cdc1,2020-05-19,Follow-up visit regarding gingivitis. Patient continues to be followed for gum disease and dental filling lost. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+1be83f06-48ef-7bac-d981-0e55664aef4c,NORTH_-98cdc1,2021-04-13,"Routine outpatient visit, no acute complaints voiced at check-in."
+1be83f06-48ef-7bac-46ea-e3003b55094c,NORTH_-98cdc1,2021-05-04,Patient seen for a scheduled outpatient encounter.
+1be83f06-48ef-7bac-c2cc-37d84abf66d3,NORTH_-98cdc1,2021-05-11,Diagnosed with prediabetes at this visit. Social history noted: Full-time employment. Medications prescribed today: NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension.
+1be83f06-48ef-7bac-57fc-3e3927b09ccd,NORTH_-98cdc1,2022-05-17,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due. Started on NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension.
+1be83f06-48ef-7bac-c157-fd41dcd63a22,NORTH_-98cdc1,2022-10-05,Patient presents today with reactive airway disease.
+1be83f06-48ef-7bac-d7c2-918ba4dfac8c,NORTH_-98cdc1,2023-05-23,Diagnosed with a low blood count at this visit. Social history noted: Social isolation and Reports of violence in the environment. Plan: initiate NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension.
+1be83f06-48ef-7bac-c87d-c2e803079bfb,NORTH_-98cdc1,2023-05-30,Patient presents today with loss of teeth. Medication list unchanged.
+1be83f06-48ef-7bac-cf5e-86efacc237ad,NORTH_-98cdc1,2023-06-06,Patient reports symptoms consistent with anemia. Started on ferrous sulfate 325 MG Oral Tablet.
+1be83f06-48ef-7bac-d446-a4a57a4d98e2,NORTH_-98cdc1,2023-06-10,Patient presents today with a sinus infection. Diagnosed with viral sinusitis at this visit. No new medications prescribed at this time.
+1be83f06-48ef-7bac-f22d-e92fce73ce1a,NORTH_-98cdc1,2023-06-20,Outpatient visit for general evaluation. Social history noted: Part-time employment. Started on NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension.
+1be83f06-48ef-7bac-90aa-9162b8306c56,NORTH_-98cdc1,2023-06-27,New findings on exam include gingival disease.
+1be83f06-48ef-7bac-7734-781f512d7591,NORTH_-98cdc1,2023-07-04,Seen in clinic for loss of teeth.
+1be83f06-48ef-7bac-ace1-bf22327cab4e,NORTH_-98cdc1,2024-05-28,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment and Stress. Patient given NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin] and budesonide 0.25 MG/ML Inhalation Suspension during this encounter."
+1be83f06-48ef-7bac-53b2-6c500b11b534,NORTH_-98cdc1,2025-06-03,"New findings on exam include metabolic syndrome X and type 2 diabetes. Care-coordination note: Medication review due, Part-time employment, and Limited social contact. Started on NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin], budesonide 0.25 MG/ML Inhalation Suspension, and 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet."
+1be83f06-48ef-7bac-0d66-91b9f6a9283f,NORTH_-98cdc1,2025-06-24,Patient reports symptoms consistent with type 2 diabetes mellitus. Patient given tropicamide 5 MG/ML Ophthalmic Solution during this encounter.
+1be83f06-48ef-7bac-9bb6-aefe6979aeaa,NORTH_-98cdc1,2026-05-12,Patient was evaluated for a severe heart attack. No new medications prescribed at this time.
+06476266-59b1-ded7-0b28-5f2bea992e2c,NORTH_-6c70d0,1983-05-03,Presenting complaint: perennial allergic rhinitis. Patient given diphenhydrAMINE Hydrochloride 25 MG Oral Tablet during this encounter.
+06476266-59b1-ded7-ff06-6b60ea5a5119,NORTH_-6c70d0,1983-05-07,Presenting complaint: allergic disposition. Medication list unchanged. Nursing staff flagged an allergy to Allergic disposition prior to any new prescriptions.
+06476266-59b1-ded7-177d-3c1525fb618e,NORTH_-6c70d0,1997-12-30,Patient seen for a scheduled wellness encounter. Social history noted: Educated to high school level.
+06476266-59b1-ded7-b379-bb6fbc4d2462,NORTH_-6c70d0,2002-01-08,Clinical impression: body mass index 40+ - severely obese.
+06476266-59b1-ded7-7150-3cf74ea2c77b,NORTH_-6c70d0,2008-01-15,Assessment: significant weight gain.
+06476266-59b1-ded7-760a-e2c18c07743a,NORTH_-6c70d0,2011-01-18,Wellness visit for general evaluation. Social history noted: Medication review due.
+06476266-59b1-ded7-ad3d-b715a847a506,NORTH_-6c70d0,2014-01-21,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Full-time employment."
+06476266-59b1-ded7-ffd2-055949b361b4,NORTH_-6c70d0,2014-02-06,"Presenting complaint: chronic pain. Assessment: chronic pain, chronic low back pain, and chronic neck pain."
+06476266-59b1-ded7-55ab-40446be409aa,NORTH_-6c70d0,2014-04-06,Patient presents today with chronic pain. No new medications prescribed at this time.
+06476266-59b1-ded7-1b35-912d3dc9df5e,NORTH_-6c70d0,2016-02-02,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Victim of intimate partner abuse. Started on Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System."
+06476266-59b1-ded7-40c2-4ba9d2d9955b,NORTH_-6c70d0,2016-11-11,Patient reports symptoms consistent with a sinus infection. New findings on exam include viral sinusitis.
+06476266-59b1-ded7-fe56-5f6a4b572a72,NORTH_-6c70d0,2017-02-07,Patient seen for a scheduled wellness encounter. Social history noted: Unemployed and Stress. Patient given Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System during this encounter.
+06476266-59b1-ded7-426e-cd3846e73d52,NORTH_-6c70d0,2018-02-13,Patient continues to be followed for gum inflammation. Medications prescribed today: Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System.
+06476266-59b1-ded7-eb2b-bfd70bb75214,NORTH_-6c70d0,2018-02-27,Follow-up visit regarding gingivitis.
+06476266-59b1-ded7-2e7a-e9d1fd7e26a8,NORTH_-6c70d0,2018-06-23,Presenting complaint: acute bronchitis. Assessment: a chest cold. Medications prescribed today: Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution.
+06476266-59b1-ded7-1632-5a8222cbdbf9,NORTH_-6c70d0,2019-02-19,Wellness visit for general evaluation. Social history noted: Medication review due. Plan: initiate Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System.
+06476266-59b1-ded7-800e-b2b5727da596,NORTH_-6c70d0,2020-02-25,Wellness visit for general evaluation. Social history noted: Part-time employment and Social isolation. Patient given Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System during this encounter.
+06476266-59b1-ded7-130c-1ccc8f23fa73,NORTH_-6c70d0,2020-09-08,Patient reports symptoms consistent with injury of neck. Assessment: injury of neck and whiplash injury to neck. Started on Acetaminophen 325 MG Oral Tablet.
+06476266-59b1-ded7-bd44-58709f74bf0d,NORTH_-6c70d0,2020-09-08,Snf visit for general evaluation. Medication list unchanged.
+06476266-59b1-ded7-ea06-e413dce407dd,NORTH_-6c70d0,2021-03-02,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due. Plan: initiate Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System.
+06476266-59b1-ded7-35b8-1cc0eecd628a,NORTH_-6c70d0,2022-03-08,Wellness visit for general evaluation. Social history noted: Medication review due and Full-time employment. Medications prescribed today: Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System.
+06476266-59b1-ded7-b2a3-d75371861b8b,NORTH_-6c70d0,2023-03-14,Clinical impression: gingivitis. Patient given Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System during this encounter.
+06476266-59b1-ded7-49a1-2b2d0d5840e4,NORTH_-6c70d0,2023-03-28,Patient was evaluated for gum inflammation. Assessment: infection of tooth.
+06476266-59b1-ded7-3117-200c77824bce,NORTH_-6c70d0,2024-03-19,Patient seen for a scheduled wellness encounter. Care-coordination note: Victim of intimate partner abuse. Patient given Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System during this encounter.
+06476266-59b1-ded7-c098-9de4e4342322,NORTH_-6c70d0,2024-04-02,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+06476266-59b1-ded7-df7e-f5e2761c1fee,NORTH_-6c70d0,2025-03-25,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Unemployed. Medications prescribed today: Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System."
+06476266-59b1-ded7-f21c-7b412112021f,NORTH_-6c70d0,2025-04-08,Ambulatory visit for general evaluation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+06476266-59b1-ded7-813c-a596b961126c,NORTH_-6c70d0,2026-03-31,New findings on exam include gingivitis. Care-coordination note: Full-time employment and Stress. Started on Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet and 72 HR Fentanyl 0.025 MG/HR Transdermal System.
+06476266-59b1-ded7-6bdb-6662552845dc,NORTH_-6c70d0,2026-04-14,Patient was evaluated for gum inflammation.
+3c0e60c4-176e-2c4c-6b0b-7ed2f4cd7eed,NORTH_-7fe6a1,2024-01-04,Seen in clinic for ischemic heart disease.
+3c0e60c4-176e-2c4c-a163-ad3586d59f5d,NORTH_-7fe6a1,2024-01-06,Seen in clinic for coronary artery disease. Assessment: abnormal findings diagnostic imaging heart+coronary circulat.
+3c0e60c4-176e-2c4c-7362-774178171ee6,NORTH_-7fe6a1,2024-01-07,"Patient was evaluated for abnormal findings diagnostic imaging heart+coronary circulat. New findings on exam include history of coronary artery bypass grafting. Started on cefazolin 2000 MG Injection, 1 ML heparin sodium  porcine 5000 UNT/ML Injection, 25 ML protamine sulfate (USP) 10 MG/ML Injection, 2 ML Ondansetron 2 MG/ML Injection, Midazolam 1 MG/ML Injectable Solution, 100 ML Propofol 10 MG/ML Injection, Rocuronium bromide 10 MG/ML Injectable Solution, isoflurane 999 MG/ML Inhalation Solution, and 10 ML Alfentanil 0.5 MG/ML Injection."
+3c0e60c4-176e-2c4c-ecce-35e921cb2d2c,NORTH_-7fe6a1,2024-01-07,Presenting complaint: history of coronary artery bypass grafting.
+3c0e60c4-176e-2c4c-d4b7-576959c57f62,NORTH_-7fe6a1,2024-01-09,Patient presents today with history of coronary artery bypass grafting. No new medications prescribed at this time.
+3c0e60c4-176e-2c4c-9fbd-48221c12578b,NORTH_-7fe6a1,2024-01-22,Seen in clinic for history of coronary artery bypass grafting.
+a45aa142-d1e9-d944-f8e1-db94c15a84f6,NORTH_-509b05,2009-10-27,Seen in clinic for ischemic heart disease. Diagnosed with abnormal findings diagnostic imaging heart+coronary circulat at this visit.
+7af6b271-f16d-21e1-c8ea-56cb51c4ca36,NORTH_-caa471,2023-04-04,Seen in clinic for ischemic heart disease.
+7af6b271-f16d-21e1-8591-898bdad53004,NORTH_-caa471,2023-04-09,Presenting complaint: coronary artery disease. Assessment: abnormal findings diagnostic imaging heart+coronary circulat. No new medications prescribed at this time.
+7af6b271-f16d-21e1-ba0c-7b1e1de8eef9,NORTH_-caa471,2023-05-13,Patient presents today with abnormal findings diagnostic imaging heart+coronary circulat. No new medications prescribed at this time.
+7af6b271-f16d-21e1-136d-ed1eeab5ac4c,NORTH_-caa471,2023-06-06,"Patient reports symptoms consistent with abnormal findings diagnostic imaging heart+coronary circulat. Assessment: history of coronary artery bypass grafting. Plan: initiate cefazolin 2000 MG Injection, 1 ML heparin sodium  porcine 5000 UNT/ML Injection, 25 ML protamine sulfate (USP) 10 MG/ML Injection, insulin  regular  human 100 UNT/ML Injectable Solution, 2 ML Ondansetron 2 MG/ML Injection, Midazolam 1 MG/ML Injectable Solution, 100 ML Propofol 10 MG/ML Injection, Rocuronium bromide 10 MG/ML Injectable Solution, isoflurane 999 MG/ML Inhalation Solution, and 10 ML Fentanyl 0.05 MG/ML Injection."
+7af6b271-f16d-21e1-77e8-d6fc78fd025a,NORTH_-caa471,2023-06-06,Follow-up visit regarding history of coronary artery bypass grafting. Medication list unchanged.
+7af6b271-f16d-21e1-4264-5a1a76bca96f,NORTH_-caa471,2023-06-12,Presenting complaint: history of coronary artery bypass grafting.
+fb56f051-a2cd-ac10-3049-48136cc82ea6,NORTH_-8728e5,1989-07-14,Seen in clinic for chronic congestive heart failure. New findings on exam include chronic congestive heart failure. No new medications prescribed at this time.
+fb56f051-a2cd-ac10-aca6-d050c68e3b0f,NORTH_-8728e5,1989-08-01,"Patient reports symptoms consistent with chronic congestive heart failure. Diagnosed with acute infective cystitis at this visit. Medications prescribed today: Furosemide 40 MG Oral Tablet, carvedilol 25 MG Oral Tablet, and losartan potassium 50 MG Oral Tablet."
+fb56f051-a2cd-ac10-b841-bbca5c9e6bc9,NORTH_-8728e5,1990-01-28,Follow-up visit regarding chronic congestive heart failure. Medications prescribed today: lisinopril 20 MG Oral Tablet.
+fb56f051-a2cd-ac10-9f71-ae441c6f7e45,NORTH_-8728e5,1990-07-27,Patient presents today with chronic congestive heart failure.
+fb56f051-a2cd-ac10-76ef-13959deae12a,NORTH_-8728e5,1990-07-27,"Patient reports symptoms consistent with chronic congestive heart failure. Patient given 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, and 10 ML Furosemide 10 MG/ML Injection during this encounter."
+fb56f051-a2cd-ac10-6296-d84faf79da1a,NORTH_-8728e5,1991-02-10,Patient reports symptoms consistent with chronic congestive heart failure.
+1d63466e-0cfd-eb12-eb4c-0142ed96d40b,NORTH_-a98c79,2010-11-22,Seen in clinic for ischemic heart disease. Diagnosed with abnormal findings diagnostic imaging heart+coronary circulat at this visit.
+1d63466e-0cfd-eb12-a6bf-3fc00f5b700c,NORTH_-a98c79,2023-11-02,Patient reports symptoms consistent with myocardial infarction. Assessment: a heart attack and a mild heart attack. Started on aspirin 325 MG Oral Tablet and nitroglycerin 0.4 MG Sublingual Tablet.
+1d63466e-0cfd-eb12-0618-368296563a90,NORTH_-a98c79,2023-11-02,Patient reports symptoms consistent with a non-ST-elevation myocardial infarction (NSTEMI).
+1d63466e-0cfd-eb12-0ced-e0bb01f8059c,NORTH_-a98c79,2023-11-02,Patient was evaluated for a mild heart attack.
+1d63466e-0cfd-eb12-e4d0-24567692b436,NORTH_-a98c79,2023-11-06,Patient was evaluated for a mild heart attack.
+1d63466e-0cfd-eb12-45eb-bf95ad35f4cc,NORTH_-a98c79,2023-11-09,Patient was evaluated for a mild heart attack. Diagnosed with a prior myocardial infarction at this visit.
+355a4d50-2628-aa65-c29e-b23dbc1ce593,NORTH_-16b9d4,2004-12-05,Follow-up visit regarding a heart attack. Diagnosed with an acute ST-elevation myocardial infarction (STEMI) at this visit.
+355a4d50-2628-aa65-2a32-3893104517aa,NORTH_-16b9d4,2004-12-05,"Patient presents today with an acute ST-elevation myocardial infarction (STEMI). Diagnosed with a prior myocardial infarction at this visit. Patient given aspirin 81 MG Oral Tablet, 24 HR metoprolol succinate 50 MG Extended Release Oral Tablet, atorvastatin 20 MG Oral Tablet, and lisinopril 10 MG Oral Tablet during this encounter."
+355a4d50-2628-aa65-e677-355cd76c4c67,NORTH_-16b9d4,2016-12-22,Patient reports symptoms consistent with ischemic heart disease. No new medications prescribed at this time.
+355a4d50-2628-aa65-9015-8f41a325dc43,NORTH_-16b9d4,2016-12-24,Patient reports symptoms consistent with ischemic heart disease. Clinical impression: abnormal findings diagnostic imaging heart+coronary circulat.
+355a4d50-2628-aa65-526c-69e4fddc8acf,NORTH_-16b9d4,2016-12-25,"Follow-up visit regarding abnormal findings diagnostic imaging heart+coronary circulat. Clinical impression: history of coronary artery bypass grafting. Plan: initiate cefazolin 2000 MG Injection, 1 ML heparin sodium  porcine 5000 UNT/ML Injection, 25 ML protamine sulfate (USP) 10 MG/ML Injection, insulin  regular  human 100 UNT/ML Injectable Solution, 2 ML Ondansetron 2 MG/ML Injection, Midazolam 1 MG/ML Injectable Solution, 100 ML Propofol 10 MG/ML Injection, Rocuronium bromide 10 MG/ML Injectable Solution, isoflurane 999 MG/ML Inhalation Solution, and 10 ML Alfentanil 0.5 MG/ML Injection."
+355a4d50-2628-aa65-d093-994cb4394b77,NORTH_-16b9d4,2016-12-25,Seen in clinic for history of coronary artery bypass grafting.
+355a4d50-2628-aa65-8b77-e50003f414d3,NORTH_-16b9d4,2016-12-26,Seen in clinic for history of coronary artery bypass grafting.
+f6745f8a-8107-443e-c1dc-62ba144f1c72,NORTH_-a0b98d,2006-10-31,Follow-up visit regarding myocardial infarction. Assessment: preinfarction syndrome.
+f6745f8a-8107-443e-c807-0b0c7cee0c78,NORTH_-a0b98d,2006-10-31,"Follow-up visit regarding preinfarction syndrome. Diagnosed with a previous heart attack at this visit. Medications prescribed today: aspirin 81 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, rosuvastatin calcium 10 MG Oral Tablet, losartan potassium 50 MG Oral Tablet, and prasugrel 10 MG Oral Tablet."
+00bcbfc6-c7b9-bd0e-0c7a-bfa7c60525a3,NORTH_-f24575,1999-03-16,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Educated to high school level."
+00bcbfc6-c7b9-bd0e-3c9c-04c7c31d4e70,NORTH_-f24575,2006-03-28,Assessment: prediabetes and anemia.
+00bcbfc6-c7b9-bd0e-bd6c-67a2c4630b2a,NORTH_-f24575,2012-04-03,Assessment: high blood pressure.
+00bcbfc6-c7b9-bd0e-a616-fd9cb0db9328,NORTH_-f24575,2013-04-09,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+00bcbfc6-c7b9-bd0e-b3e0-fded30c067fb,NORTH_-f24575,2016-04-26,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Part-time employment. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet."
+00bcbfc6-c7b9-bd0e-5508-fed429d48fda,NORTH_-f24575,2017-04-25,Patient seen for a scheduled outpatient encounter.
+00bcbfc6-c7b9-bd0e-9492-f3f5df2feff3,NORTH_-f24575,2017-05-09,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Not in labor force. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter."
+00bcbfc6-c7b9-bd0e-d4a2-6d081b2d5302,NORTH_-f24575,2017-06-13,Patient presents today with normal pregnancy. Assessment: normal pregnancy.
+00bcbfc6-c7b9-bd0e-fbed-dbb2ed31ce69,NORTH_-f24575,2017-07-07,Patient was evaluated for acute viral pharyngitis. Patient continues to be followed for acute viral pharyngitis. No new medications prescribed at this time.
+00bcbfc6-c7b9-bd0e-d509-3138062c5530,NORTH_-f24575,2017-07-11,Seen in clinic for normal pregnancy.
+00bcbfc6-c7b9-bd0e-a6aa-732b910e0bf3,NORTH_-f24575,2017-08-08,Patient was evaluated for normal pregnancy.
+00bcbfc6-c7b9-bd0e-e505-81492e4842af,NORTH_-f24575,2017-09-05,Follow-up visit regarding normal pregnancy.
+00bcbfc6-c7b9-bd0e-596e-681a0d6f0014,NORTH_-f24575,2017-10-03,Patient reports symptoms consistent with normal pregnancy.
+00bcbfc6-c7b9-bd0e-7809-47336c0224cf,NORTH_-f24575,2017-10-31,Patient presents today with normal pregnancy. No new medications prescribed at this time.
+00bcbfc6-c7b9-bd0e-4160-05741d5cf15a,NORTH_-f24575,2017-11-28,Patient was evaluated for normal pregnancy.
+00bcbfc6-c7b9-bd0e-0c46-877b804c3c45,NORTH_-f24575,2017-12-26,Follow-up visit regarding normal pregnancy. New findings on exam include eclampsia in pregnancy. Medication list unchanged.
+00bcbfc6-c7b9-bd0e-177c-d01407b67077,NORTH_-f24575,2018-01-09,Patient presents today with normal pregnancy.
+00bcbfc6-c7b9-bd0e-5810-fffdf61d8ce3,NORTH_-f24575,2018-01-16,Patient reports symptoms consistent with normal pregnancy.
+00bcbfc6-c7b9-bd0e-2aac-7992d71c83d5,NORTH_-f24575,2018-01-23,Seen in clinic for normal pregnancy.
+00bcbfc6-c7b9-bd0e-eb8c-5a5fd719de83,NORTH_-f24575,2018-01-30,Patient presents today with normal pregnancy. Medication list unchanged.
+00bcbfc6-c7b9-bd0e-9ef1-12cd72be4c0a,NORTH_-f24575,2018-03-13,"Routine ambulatory visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-54c2-cb7f7bf9fc06,NORTH_-f24575,2018-03-20,Patient seen for a scheduled outpatient encounter. Patient given {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] during this encounter.
+00bcbfc6-c7b9-bd0e-cb53-57b9c908a61c,NORTH_-f24575,2018-03-20,Seen in clinic for streptococcal sore throat. New findings on exam include streptococcal sore throat. Medications prescribed today: Penicillin V Potassium 500 MG Oral Tablet.
+00bcbfc6-c7b9-bd0e-99de-ba933408d2b0,NORTH_-f24575,2018-03-27,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Full-time employment and Stress. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet."
+00bcbfc6-c7b9-bd0e-1c1e-c72a7208dbd4,NORTH_-f24575,2018-05-15,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due. Medications prescribed today: Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+00bcbfc6-c7b9-bd0e-6ab7-1fba82e68e0a,NORTH_-f24575,2019-03-15,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate 1 ML medroxyprogesterone acetate 150 MG/ML Injection."
+00bcbfc6-c7b9-bd0e-8123-84ca497122bf,NORTH_-f24575,2019-05-21,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Stress. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet."
+00bcbfc6-c7b9-bd0e-0e23-491fd22a9f45,NORTH_-f24575,2019-06-25,"Routine outpatient visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-cbab-c787d377c8e7,NORTH_-f24575,2019-09-24,Patient seen for a scheduled outpatient encounter.
+00bcbfc6-c7b9-bd0e-2d0c-20e806dab77b,NORTH_-f24575,2019-12-24,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-3430-9260777bbb1e,NORTH_-f24575,2020-03-09,Outpatient visit for general evaluation. Started on {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day].
+00bcbfc6-c7b9-bd0e-f2d7-f5c6867f856a,NORTH_-f24575,2020-03-24,Patient seen for a scheduled outpatient encounter.
+00bcbfc6-c7b9-bd0e-0fe2-db4de2617b51,NORTH_-f24575,2020-05-26,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+00bcbfc6-c7b9-bd0e-1eb6-01a55a11128e,NORTH_-f24575,2020-06-23,"Routine outpatient visit, no acute complaints voiced at check-in. Medication list unchanged."
+00bcbfc6-c7b9-bd0e-7397-57b36365172c,NORTH_-f24575,2020-07-18,Patient was evaluated for viral sinusitis. Patient continues to be followed for a sinus infection.
+00bcbfc6-c7b9-bd0e-f99a-404440f1b916,NORTH_-f24575,2020-09-22,Patient seen for a scheduled outpatient encounter.
+00bcbfc6-c7b9-bd0e-3f2c-486e46627a7c,NORTH_-f24575,2020-10-18,Patient was evaluated for a sore throat. Diagnosed with a sore throat at this visit.
+00bcbfc6-c7b9-bd0e-91c8-b5051310a011,NORTH_-f24575,2020-10-27,"Routine outpatient visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Reports of violence in the environment. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet."
+00bcbfc6-c7b9-bd0e-1835-4e6d6b528627,NORTH_-f24575,2020-12-22,Patient seen for a scheduled outpatient encounter.
+00bcbfc6-c7b9-bd0e-bff5-bdc89997b948,NORTH_-f24575,2021-03-04,Outpatient visit for general evaluation. Plan: initiate {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day].
+00bcbfc6-c7b9-bd0e-1350-4ea1bb0ead1a,NORTH_-f24575,2021-03-23,"Routine outpatient visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-8348-0d1533af3cc7,NORTH_-f24575,2021-06-01,Patient seen for a scheduled wellness encounter. Social history noted: Stress. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+00bcbfc6-c7b9-bd0e-7ffe-1b0b0df0ae0a,NORTH_-f24575,2021-06-15,Diagnosed with fractured dental filling at this visit. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+00bcbfc6-c7b9-bd0e-71ca-7c871210cd38,NORTH_-f24575,2021-06-29,"Routine outpatient visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-6ef9-3c00856b78ab,NORTH_-f24575,2021-09-28,"Routine outpatient visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-8605-16705bab64a3,NORTH_-f24575,2021-10-19,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-c330-49dd1f43b79a,NORTH_-f24575,2021-11-09,"Routine outpatient visit, no acute complaints voiced at check-in. Medication list unchanged."
+00bcbfc6-c7b9-bd0e-cc60-0198b36abda2,NORTH_-f24575,2021-12-28,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-2f04-c0c63a8fa23d,NORTH_-f24575,2022-03-29,"Routine outpatient visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-c14c-b2f26d70771b,NORTH_-f24575,2022-06-07,Wellness visit for general evaluation. Social history noted: Part-time employment. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+00bcbfc6-c7b9-bd0e-724b-392ca6361209,NORTH_-f24575,2022-06-28,Patient seen for a scheduled outpatient encounter.
+00bcbfc6-c7b9-bd0e-b96d-0469db6a39d3,NORTH_-f24575,2022-09-27,Patient seen for a scheduled outpatient encounter.
+00bcbfc6-c7b9-bd0e-3820-2d312dae2246,NORTH_-f24575,2022-12-27,Outpatient visit for general evaluation. Medication list unchanged.
+00bcbfc6-c7b9-bd0e-5865-c56b4c256eb2,NORTH_-f24575,2023-02-22,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]."
+00bcbfc6-c7b9-bd0e-9fb9-1b97fbb07fe1,NORTH_-f24575,2023-02-26,"Routine outpatient visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-c5e6-bed4a9061917,NORTH_-f24575,2023-03-28,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-6913-8eaabfdacaa6,NORTH_-f24575,2023-06-13,Wellness visit for general evaluation. Social history noted: Social isolation and Has a criminal record. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+00bcbfc6-c7b9-bd0e-2ecb-7242ca80fba4,NORTH_-f24575,2023-06-27,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-a4b2-fc7f1f97ca1a,NORTH_-f24575,2023-09-26,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-2604-68d53476f85b,NORTH_-f24575,2023-12-26,Patient seen for a scheduled outpatient encounter.
+00bcbfc6-c7b9-bd0e-f3a0-1d7c45ebd5a2,NORTH_-f24575,2024-05-14,"Patient was evaluated for normal pregnancy. Patient continues to be followed for normal pregnancy, miscarriage in first trimester, and complete miscarriage."
+00bcbfc6-c7b9-bd0e-7cd3-5733dc64a235,NORTH_-f24575,2024-06-01,Patient was evaluated for complete miscarriage. New findings on exam include past pregnancy history of miscarriage.
+00bcbfc6-c7b9-bd0e-f7ab-56a70d17135b,NORTH_-f24575,2024-06-18,Patient seen for a scheduled wellness encounter. Social history noted: Full-time employment. Started on Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+00bcbfc6-c7b9-bd0e-4d28-3b301e37881f,NORTH_-f24575,2025-02-15,Patient seen for a scheduled outpatient encounter. Patient given 1 ML medroxyprogesterone acetate 150 MG/ML Injection during this encounter.
+00bcbfc6-c7b9-bd0e-cb85-3ceacf68462e,NORTH_-f24575,2025-05-27,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-2ca3-dc72c56e2fcc,NORTH_-f24575,2025-06-24,Diagnosed with gum inflammation at this visit. Care-coordination note: Limited social contact and Stress. Patient given Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet during this encounter.
+00bcbfc6-c7b9-bd0e-247d-329bbd6e05b2,NORTH_-f24575,2025-07-08,Patient reports symptoms consistent with gingivitis. Assessment: gingival disease. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+00bcbfc6-c7b9-bd0e-805b-401d5166f60e,NORTH_-f24575,2025-08-26,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-d695-d11c977fe359,NORTH_-f24575,2025-11-25,Outpatient visit for general evaluation.
+00bcbfc6-c7b9-bd0e-4687-136f91737416,NORTH_-f24575,2026-02-10,"Routine outpatient visit, no acute complaints voiced at check-in. Started on {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]."
+00bcbfc6-c7b9-bd0e-102b-07fdd1da61a5,NORTH_-f24575,2026-02-24,"Routine outpatient visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-9a3b-89b3e95765d8,NORTH_-f24575,2026-05-26,"Routine outpatient visit, no acute complaints voiced at check-in."
+00bcbfc6-c7b9-bd0e-cc12-fd233979708a,NORTH_-f24575,2026-06-30,Wellness visit for general evaluation. Care-coordination note: Medication review due. Plan: initiate Hydrochlorothiazide 25 MG Oral Tablet and lisinopril 10 MG Oral Tablet.
+8ece28c6-f931-b0e0-f998-a7b84d812c59,NORTH_-da7dc3,2015-02-10,Presenting complaint: a heart attack. New findings on exam include a severe heart attack.
+8ece28c6-f931-b0e0-a88e-e7a9b5a04b46,NORTH_-da7dc3,2015-02-10,"Seen in clinic for an acute ST-elevation myocardial infarction (STEMI). Assessment: a prior myocardial infarction. Started on aspirin 81 MG Oral Tablet, metoprolol tartrate 100 MG Oral Tablet, and pravastatin sodium 40 MG Oral Tablet."
+8ece28c6-f931-b0e0-083b-f21018d32066,NORTH_-da7dc3,2016-08-27,Patient was evaluated for ischemic heart disease. Medication list unchanged.
+8ece28c6-f931-b0e0-8ebe-2b450699fab6,NORTH_-da7dc3,2016-08-28,Patient reports symptoms consistent with ischemic heart disease. Diagnosed with abnormal findings diagnostic imaging heart+coronary circulat at this visit.
+8ece28c6-f931-b0e0-7c06-50c66075ad8c,NORTH_-da7dc3,2016-09-17,Patient reports symptoms consistent with ischemic heart disease. Medication list unchanged.
+1e32a1a3-3638-cb8c-5787-7cf71d3f820f,NORTH_-0dce8b,2017-07-23,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+1e32a1a3-3638-cb8c-1274-fda233b661b9,NORTH_-0dce8b,2018-07-02,Patient presents today with a sore throat. Clinical impression: a sore throat. No new medications prescribed at this time.
+1e32a1a3-3638-cb8c-6db1-474aa7cbc240,NORTH_-0dce8b,2018-07-29,"Routine wellness visit, no acute complaints voiced at check-in."
+1e32a1a3-3638-cb8c-3bf3-e25cb03c3c51,NORTH_-0dce8b,2018-08-05,Ambulatory visit for general evaluation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+1e32a1a3-3638-cb8c-991a-1c67a5b8417b,NORTH_-0dce8b,2018-08-17,Patient presents today with viral sinusitis. New findings on exam include a sinus infection. Plan: initiate Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+1e32a1a3-3638-cb8c-b17e-bc6eedcd36ff,NORTH_-0dce8b,2019-08-04,Wellness visit for general evaluation. Care-coordination note: Medication review due.
+1e32a1a3-3638-cb8c-de71-1a3764835653,NORTH_-0dce8b,2019-08-11,Presenting complaint: a sinus infection. Diagnosed with viral sinusitis at this visit. Started on Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+1e32a1a3-3638-cb8c-9246-e1d48a9360d0,NORTH_-0dce8b,2020-08-09,Wellness visit for general evaluation. Care-coordination note: Medication review due. No new medications prescribed at this time.
+1e32a1a3-3638-cb8c-9e34-1718b69faaba,NORTH_-0dce8b,2021-03-29,Follow-up visit regarding viral sinusitis. New findings on exam include a sinus infection.
+1e32a1a3-3638-cb8c-768d-c05bef427754,NORTH_-0dce8b,2021-08-15,Wellness visit for general evaluation.
+1e32a1a3-3638-cb8c-f45a-e036a6fd0936,NORTH_-0dce8b,2022-08-21,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due."
+1e32a1a3-3638-cb8c-c959-1a5efa8a5b13,NORTH_-0dce8b,2023-08-15,Presenting complaint: a sinus infection. Patient continues to be followed for a sinus infection.
+1e32a1a3-3638-cb8c-8333-1b9a103db7c6,NORTH_-0dce8b,2023-08-27,Diagnosed with gingivitis at this visit. Social history noted: Medication review due.
+1e32a1a3-3638-cb8c-18c8-22a2678d59df,NORTH_-0dce8b,2023-09-03,Presenting complaint: gingivitis.
+1e32a1a3-3638-cb8c-d864-c5d4fee1904e,NORTH_-0dce8b,2024-03-16,Seen in clinic for acute viral pharyngitis. Clinical impression: acute viral pharyngitis.
+1e32a1a3-3638-cb8c-85b0-6807baa6a927,NORTH_-0dce8b,2024-08-25,Outpatient visit for general evaluation.
+1e32a1a3-3638-cb8c-3a45-d683923b4572,NORTH_-0dce8b,2024-09-01,Patient seen for a scheduled wellness encounter. Social history noted: Risk activity involvement. Medication list unchanged.
+1e32a1a3-3638-cb8c-5eac-aba6dfeb8cf4,NORTH_-0dce8b,2024-09-15,Outpatient visit for general evaluation. No new medications prescribed at this time.
+1e32a1a3-3638-cb8c-2e82-7a7f53df174c,NORTH_-0dce8b,2025-09-07,Wellness visit for general evaluation. Care-coordination note: Medication review due. Medication list unchanged.
+1e32a1a3-3638-cb8c-ced1-520547e8458e,NORTH_-0dce8b,2025-09-21,"Routine ambulatory visit, no acute complaints voiced at check-in."
+8d91c36a-1f7e-3842-f5b7-782497615051,NORTH_-53d91c,2013-03-30,Seen in clinic for chronic congestive heart failure. Patient continues to be followed for chronic congestive heart failure.
+8d91c36a-1f7e-3842-575d-65a3e0886eae,NORTH_-53d91c,2013-04-14,"Seen in clinic for chronic congestive heart failure. Started on Furosemide 40 MG Oral Tablet, carvedilol 25 MG Oral Tablet, and losartan potassium 50 MG Oral Tablet."
+8d91c36a-1f7e-3842-70a0-84aec9185843,NORTH_-53d91c,2013-10-11,Patient presents today with chronic congestive heart failure. Plan: initiate lisinopril 20 MG Oral Tablet.
+8d91c36a-1f7e-3842-9702-3fc00670c71b,NORTH_-53d91c,2014-04-09,Patient presents today with chronic congestive heart failure.
+8d91c36a-1f7e-3842-d307-5261e3640dcd,NORTH_-53d91c,2014-04-09,"Patient reports symptoms consistent with chronic congestive heart failure. Plan: initiate 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, and 10 ML Furosemide 10 MG/ML Injection."
+8d91c36a-1f7e-3842-51df-a078dbcc6054,NORTH_-53d91c,2014-04-20,Presenting complaint: chronic congestive heart failure. No new medications prescribed at this time.
+8d91c36a-1f7e-3842-81be-5a06e5ecd05e,NORTH_-53d91c,2014-04-24,Seen in clinic for chronic congestive heart failure.
+8d91c36a-1f7e-3842-66df-4e55eed9316d,NORTH_-53d91c,2014-05-10,Seen in clinic for chronic congestive heart failure.
+8d91c36a-1f7e-3842-b558-0eb18f54cf68,NORTH_-53d91c,2014-05-11,Follow-up visit regarding chronic congestive heart failure.
+8d91c36a-1f7e-3842-99d0-cd6c962f654a,NORTH_-53d91c,2014-05-12,Patient presents today with chronic congestive heart failure.
+8d91c36a-1f7e-3842-184a-13b3e3d80788,NORTH_-53d91c,2014-05-13,Seen in clinic for chronic congestive heart failure.
+8d91c36a-1f7e-3842-733c-237d7965af54,NORTH_-53d91c,2014-05-14,Presenting complaint: chronic congestive heart failure.
+8d91c36a-1f7e-3842-97f3-523a17a8350a,NORTH_-53d91c,2014-05-16,Follow-up visit regarding chronic congestive heart failure. No new medications prescribed at this time.
+8d91c36a-1f7e-3842-9953-92c953636d21,NORTH_-53d91c,2014-05-17,Follow-up visit regarding chronic congestive heart failure. No new medications prescribed at this time.
+8d91c36a-1f7e-3842-b043-9c5d2143f6eb,NORTH_-53d91c,2014-05-18,Patient reports symptoms consistent with chronic congestive heart failure.
+8d91c36a-1f7e-3842-000a-0a1878539b91,NORTH_-53d91c,2014-05-19,Presenting complaint: chronic congestive heart failure.
+8d91c36a-1f7e-3842-22d2-d732bf48847b,NORTH_-53d91c,2014-05-21,Patient presents today with chronic congestive heart failure.
+8d91c36a-1f7e-3842-d7eb-2e5b76200bcc,NORTH_-53d91c,2014-05-22,Patient was evaluated for chronic congestive heart failure.
+8d91c36a-1f7e-3842-13b6-028e93336a42,NORTH_-53d91c,2014-05-24,Patient was evaluated for chronic congestive heart failure.
+8d91c36a-1f7e-3842-5f00-bbf82da74762,NORTH_-53d91c,2014-05-25,Patient presents today with chronic congestive heart failure. No new medications prescribed at this time.
+8d91c36a-1f7e-3842-ccf9-404986ea1941,NORTH_-53d91c,2014-05-26,Seen in clinic for chronic congestive heart failure.
+8d91c36a-1f7e-3842-6b24-f77d56662970,NORTH_-53d91c,2014-05-27,Patient reports symptoms consistent with chronic congestive heart failure.
+8d91c36a-1f7e-3842-1ea9-e670f17555b5,NORTH_-53d91c,2014-05-28,Seen in clinic for chronic congestive heart failure.
+8d91c36a-1f7e-3842-6df3-3edb7c6a9575,NORTH_-53d91c,2014-05-28,"Follow-up visit regarding chronic congestive heart failure. Medications prescribed today: 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, and 10 ML Furosemide 10 MG/ML Injection."
+8d91c36a-1f7e-3842-cbc3-901e9cda29d4,NORTH_-53d91c,2014-11-27,Seen in clinic for chronic congestive heart failure.
+8d91c36a-1f7e-3842-7f3d-db5ca00f4d98,NORTH_-53d91c,2014-11-27,"Patient was evaluated for chronic congestive heart failure. Plan: initiate 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, 10 ML Furosemide 10 MG/ML Injection, and 10 ML Furosemide 10 MG/ML Injection."
+8d91c36a-1f7e-3842-1b80-351adcb13ca0,NORTH_-53d91c,2015-06-06,Seen in clinic for chronic congestive heart failure. Started on sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto].
+0f3d04a2-f42e-1429-275d-20b863697320,NORTH_-9cc709,2001-03-08,Patient presents today with a heart attack. Patient continues to be followed for a non-ST-elevation myocardial infarction (NSTEMI).
+0f3d04a2-f42e-1429-31ab-a453909d4cea,NORTH_-9cc709,2001-03-08,"Seen in clinic for a non-ST-elevation myocardial infarction (NSTEMI). New findings on exam include a previous heart attack. Plan: initiate aspirin 81 MG Oral Tablet, metoprolol tartrate 50 MG Oral Tablet, atorvastatin 40 MG Oral Tablet, and prasugrel 10 MG Oral Tablet."
+0f3d04a2-f42e-1429-f8e2-f3bd0023c312,NORTH_-9cc709,2004-03-30,Patient was evaluated for coronary artery disease. Patient continues to be followed for abnormal findings diagnostic imaging heart+coronary circulat. No new medications prescribed at this time.
+0f3d04a2-f42e-1429-95ea-ce99d8f7baa0,NORTH_-9cc709,2004-10-18,Patient presents today with aortic valve stenosis. Clinical impression: aortic valve stenosis. No new medications prescribed at this time.
+0f3d04a2-f42e-1429-5974-f732ee853973,NORTH_-9cc709,2005-04-27,Seen in clinic for aortic valve stenosis.
+0f3d04a2-f42e-1429-c076-e3eaf1484a87,NORTH_-9cc709,2005-06-25,Patient presents today with aortic valve stenosis. New findings on exam include history of aortic valve replacement.
+0f3d04a2-f42e-1429-6f6f-befd89fe1eef,NORTH_-9cc709,2021-05-12,Patient was evaluated for cerebrovascular accident. Clinical impression: cerebrovascular accident. Medications prescribed today: Alteplase 100 MG Injection.
+9c5b16dc-8a47-896c-674f-539ca55b7fc3,NORTH_-6ec9f7,2020-03-13,"Patient was evaluated for a heart attack. Patient continues to be followed for myocardial infarction and a non-ST-elevation myocardial infarction (NSTEMI). Medications prescribed today: aspirin 325 MG Oral Tablet, nitroglycerin 0.4 MG Sublingual Tablet, and 2 ML morphine sulfate 1 MG/ML Injection."
+9c5b16dc-8a47-896c-15ea-3f405d645b94,NORTH_-6ec9f7,2020-03-13,"Patient presents today with a mild heart attack. New findings on exam include a previous heart attack. Started on heparin sodium  porcine 100 UNT/ML Injectable Solution, clopidogrel 300 MG Oral Tablet, aspirin 81 MG Oral Tablet, metoprolol tartrate 25 MG Oral Tablet, rosuvastatin calcium 20 MG Oral Tablet, and prasugrel 10 MG Oral Tablet."
+f870c432-0887-125e-1dad-ee364c46cb2d,NORTH_-f51a07,2013-09-12,Patient reports symptoms consistent with coronary artery disease. Clinical impression: abnormal findings diagnostic imaging heart+coronary circulat. No new medications prescribed at this time.
+1426480f-ccc7-2393-b2e0-6c25022ef803,NORTH_-7f12e2,2020-03-16,Seen in clinic for ischemic heart disease.
+1426480f-ccc7-2393-bb3b-d7b47d2927b1,NORTH_-7f12e2,2020-03-20,Patient was evaluated for coronary artery disease. Diagnosed with abnormal findings diagnostic imaging heart+coronary circulat at this visit. Medication list unchanged.
+1426480f-ccc7-2393-4fff-f9d7b47c51a6,NORTH_-7f12e2,2020-03-23,Seen in clinic for ischemic heart disease. Medication list unchanged.
+23da8e71-dfb9-9773-40b5-e1ff37f81944,NORTH_-266ee7,2011-05-04,Presenting complaint: ischemic heart disease. Diagnosed with abnormal findings diagnostic imaging heart+coronary circulat at this visit. No new medications prescribed at this time.
+23da8e71-dfb9-9773-0523-fb834d1a9462,NORTH_-266ee7,2011-05-27,Presenting complaint: abnormal findings diagnostic imaging heart+coronary circulat. Patient continues to be followed for history of coronary artery bypass grafting. Medication list unchanged.
+2fb99851-6f31-04a6-b68b-40facb0688ee,NORTH_-7cca4c,2016-04-25,Presenting complaint: aortic valve stenosis. Assessment: aortic valve stenosis. No new medications prescribed at this time.
+2fb99851-6f31-04a6-2253-acf007a91710,NORTH_-7cca4c,2017-12-10,Follow-up visit regarding aortic valve stenosis.
+2fb99851-6f31-04a6-bed7-087479477279,NORTH_-7cca4c,2019-02-24,Follow-up visit regarding aortic valve stenosis.
+2fb99851-6f31-04a6-7ac7-16c96f2b492e,NORTH_-7cca4c,2020-05-07,Follow-up visit regarding aortic valve stenosis. Medication list unchanged.
+2fb99851-6f31-04a6-c9a6-2396adbaf3f5,NORTH_-7cca4c,2020-12-12,Patient reports symptoms consistent with aortic valve stenosis.
+2fb99851-6f31-04a6-0f84-4b050d6f7a6a,NORTH_-7cca4c,2021-11-26,Presenting complaint: aortic valve stenosis. Medication list unchanged.
+2fb99851-6f31-04a6-dbd2-c0496d1c6149,NORTH_-7cca4c,2021-11-26,Patient presents today with aortic valve stenosis.
+2fb99851-6f31-04a6-f276-296736180c50,NORTH_-7cca4c,2021-11-30,Presenting complaint: aortic valve stenosis.
+2fb99851-6f31-04a6-235b-a55a4086b77f,NORTH_-7cca4c,2021-12-15,Patient reports symptoms consistent with aortic valve stenosis.
+2fb99851-6f31-04a6-4f8d-d21893f31461,NORTH_-7cca4c,2022-01-25,"Follow-up visit regarding aortic valve stenosis. Patient continues to be followed for history of aortic valve replacement. Plan: initiate cefazolin 2000 MG Injection, heparin sodium  porcine 1000 UNT/ML Injectable Solution, 25 ML protamine sulfate (USP) 10 MG/ML Injection, 2 ML Ondansetron 2 MG/ML Injection, Midazolam 1 MG/ML Injectable Solution, 100 ML Propofol 10 MG/ML Injection, Rocuronium bromide 10 MG/ML Injectable Solution, desflurane 1000 MG/ML Inhalation Solution, and remifentanil 2 MG Injection."
+2fb99851-6f31-04a6-c0b0-4fb0f129519a,NORTH_-7cca4c,2022-01-25,Follow-up visit regarding history of aortic valve replacement. Clinical impression: infectious mediastinitis. No new medications prescribed at this time.
+2fb99851-6f31-04a6-0acd-2c26255c94f2,NORTH_-7cca4c,2022-01-26,Follow-up visit regarding history of aortic valve replacement. Started on aspirin 81 MG Oral Capsule [Vazalore].
+9c26986a-d81d-62f0-7f4f-20589bb87ae1,NORTH_-1cbba8,2002-02-07,Presenting complaint: allergic disposition. Plan: initiate Loratadine 5 MG Chewable Tablet and NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Nursing staff flagged an allergy to Aspirin prior to any new prescriptions.
+9c26986a-d81d-62f0-3acc-f267aad55165,NORTH_-1cbba8,2004-02-23,Patient presents today with perennial allergic rhinitis. Clinical impression: perennial allergic rhinitis.
+9c26986a-d81d-62f0-b3dd-a21618256466,NORTH_-1cbba8,2017-01-15,Outpatient visit for general evaluation. Plan: initiate {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day].
+9c26986a-d81d-62f0-837e-41247aafa520,NORTH_-1cbba8,2017-04-26,Presenting complaint: gum inflammation. New findings on exam include gingival disease.
+9c26986a-d81d-62f0-ad5e-0c501c79f99e,NORTH_-1cbba8,2019-04-24,Outpatient visit for general evaluation. Care-coordination note: Medication review due and Full-time employment. No new medications prescribed at this time.
+9c26986a-d81d-62f0-7cf9-1e754f9bb456,NORTH_-1cbba8,2019-05-01,Presenting complaint: a chest cold. Diagnosed with a chest cold at this visit. Medications prescribed today: Acetaminophen 325 MG Oral Tablet.
+9c26986a-d81d-62f0-4fc0-85ee118a4984,NORTH_-1cbba8,2019-05-08,Assessment: fractured dental filling.
+9c26986a-d81d-62f0-05b4-ee2afba1632d,NORTH_-1cbba8,2019-09-18,Patient was evaluated for normal pregnancy. Diagnosed with normal pregnancy at this visit.
+9c26986a-d81d-62f0-3834-12511f3d0b94,NORTH_-1cbba8,2019-09-29,Patient was evaluated for normal pregnancy. No new medications prescribed at this time.
+9c26986a-d81d-62f0-e247-c0d35418ddfc,NORTH_-1cbba8,2019-10-19,Patient was evaluated for normal pregnancy. Medication list unchanged.
+9c26986a-d81d-62f0-557e-2c7942e13188,NORTH_-1cbba8,2019-12-31,Patient seen for a scheduled outpatient encounter. Medications prescribed today: {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day].
+9c26986a-d81d-62f0-6065-2b6c53da9520,NORTH_-1cbba8,2020-04-29,Presenting complaint: gum inflammation. Assessment: primary dental caries. Medication list unchanged.
+9c26986a-d81d-62f0-918d-6b46712cdd3a,NORTH_-1cbba8,2020-12-25,Outpatient visit for general evaluation. Patient given {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] during this encounter.
+9c26986a-d81d-62f0-1c72-3b3ee7ad0b68,NORTH_-1cbba8,2021-12-20,Patient seen for a scheduled outpatient encounter. Plan: initiate levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena].
+9c26986a-d81d-62f0-ca41-8ec3860f96c5,NORTH_-1cbba8,2021-12-22,Outpatient visit for general evaluation. Medication list unchanged.
+9c26986a-d81d-62f0-d498-efdd0bd5da64,NORTH_-1cbba8,2022-09-03,Patient was evaluated for acute bronchitis. Clinical impression: a chest cold. Patient given Acetaminophen 325 MG Oral Tablet during this encounter.
+9c26986a-d81d-62f0-9f36-bb02bc07d618,NORTH_-1cbba8,2022-12-17,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] during this encounter."
+9c26986a-d81d-62f0-bd02-e439c95535e9,NORTH_-1cbba8,2023-05-03,"Routine ambulatory visit, no acute complaints voiced at check-in. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter."
+9c26986a-d81d-62f0-ad79-874285a24b04,NORTH_-1cbba8,2023-12-12,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena] during this encounter."
+9c26986a-d81d-62f0-cb39-4accde3011b3,NORTH_-1cbba8,2023-12-17,"Routine outpatient visit, no acute complaints voiced at check-in. Medication list unchanged."
+9c26986a-d81d-62f0-ceff-42ed450e0134,NORTH_-1cbba8,2025-02-05,Outpatient visit for general evaluation. No new medications prescribed at this time.
+9c26986a-d81d-62f0-7b0c-51d777c9d1b0,NORTH_-1cbba8,2025-03-26,Patient was evaluated for normal pregnancy. Patient continues to be followed for normal pregnancy.
+9c26986a-d81d-62f0-db81-1a020fc48dcc,NORTH_-1cbba8,2025-04-04,Patient was evaluated for normal pregnancy.
+9c26986a-d81d-62f0-ef38-f18f32356885,NORTH_-1cbba8,2025-04-19,Patient presents today with normal pregnancy. Medication list unchanged.
+9c26986a-d81d-62f0-6c40-988a427636f7,NORTH_-1cbba8,2026-05-06,Patient reports symptoms consistent with gum inflammation. Assessment: gingival disease.
+bca1691f-8839-1d66-06a7-e4691d5fb42a,NORTH_-59ed7e,2005-01-30,Patient presents today with ischemic heart disease. New findings on exam include abnormal findings diagnostic imaging heart+coronary circulat.
+bca1691f-8839-1d66-8797-e2ac7c1260e1,NORTH_-59ed7e,2005-02-16,Patient was evaluated for abnormal findings diagnostic imaging heart+coronary circulat. Clinical impression: history of coronary artery bypass grafting. No new medications prescribed at this time.
+bca1691f-8839-1d66-232b-0945d370fbf8,NORTH_-59ed7e,2014-09-04,Patient reports symptoms consistent with myocardial infarction. New findings on exam include a mild heart attack.
+bca1691f-8839-1d66-fecb-582d94c29205,NORTH_-59ed7e,2014-09-09,Patient was evaluated for a mild heart attack. Diagnosed with a prior myocardial infarction at this visit. No new medications prescribed at this time.
+5693c080-f485-91e7-ee89-ee891923049a,NORTH_-c315c6,2023-09-06,Patient was evaluated for ischemic heart disease.
+5693c080-f485-91e7-45ca-f636f29f0e96,NORTH_-c315c6,2023-09-08,Patient was evaluated for ischemic heart disease. Clinical impression: abnormal findings diagnostic imaging heart+coronary circulat.
+5693c080-f485-91e7-24f7-6e1c832c46ae,NORTH_-c315c6,2023-10-08,Patient was evaluated for abnormal findings diagnostic imaging heart+coronary circulat.
+5693c080-f485-91e7-f0fc-68890a930c92,NORTH_-c315c6,2023-11-20,"Seen in clinic for abnormal findings diagnostic imaging heart+coronary circulat. New findings on exam include history of coronary artery bypass grafting. Started on cefazolin 2000 MG Injection, 1 ML heparin sodium  porcine 5000 UNT/ML Injection, 25 ML protamine sulfate (USP) 10 MG/ML Injection, 2 ML Ondansetron 2 MG/ML Injection, Midazolam 1 MG/ML Injectable Solution, 100 ML Propofol 10 MG/ML Injection, Rocuronium bromide 10 MG/ML Injectable Solution, isoflurane 999 MG/ML Inhalation Solution, and remifentanil 2 MG Injection."
+5693c080-f485-91e7-df4a-bdb8522d08d3,NORTH_-c315c6,2023-11-20,Patient presents today with history of coronary artery bypass grafting.
+5693c080-f485-91e7-1975-f9417601db78,NORTH_-c315c6,2023-11-27,Patient reports symptoms consistent with history of coronary artery bypass grafting.

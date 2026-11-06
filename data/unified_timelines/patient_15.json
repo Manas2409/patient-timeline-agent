@@ -1,0 +1,624 @@
+{
+  "cluster_id": "15",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Norfolk County Health Network",
+    "South Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "1996-06-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "emergency",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "SOUTHWOOD AT NORWELL NURSING CTR",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cystitis",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1998-02-15",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2005-12-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "inpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": []
+    },
+    {
+      "date": "2014-02-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": []
+    },
+    {
+      "date": "2016-02-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-05T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-03-05T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-05",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-11T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-11T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-11",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-17T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-03-17T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-17",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-22T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-03-22T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-31T04:52:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-22",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-28T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-28T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gi",
+          "canonical": "gi",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-05T05:27:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-04-05T05:27:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-28",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-03T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": []
+    },
+    {
+      "date": "2021-09-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": []
+    },
+    {
+      "date": "2021-10-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": []
+    },
+    {
+      "date": "2022-04-03",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-26T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-06-26T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-17T05:02:05Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-22"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-26",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "HANOVER FAMILY HEALTH & URGENT CARE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-09T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-04-09T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-07-20"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2022-07-10"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-09",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-14T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-04-14T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-14",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-09-28"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Limited social",
+          "canonical": "Limited social",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-04-20"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": ",",
+          "canonical": ",",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-20T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "len",
+          "canonical": "len",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-04-20T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-28T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-09-28T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-10-06"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-10-06"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-10-06T12:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-26T01:56:54Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-04-26T01:56:54Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DANA FARBER CANCER INSTITUTE",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-26",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CIRCLE OF LIFE FAMILY MEDICINE PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute infective cystitis",
+      "reported_by": [
+        "Norfolk County Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "Norfolk County Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

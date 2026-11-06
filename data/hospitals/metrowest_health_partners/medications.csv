@@ -1,0 +1,242 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,DESCRIPTION,REASONDESCRIPTION
+355cd402-8f45-353f-7d81-41419abc0b3e,METROW-c247fb,2020-09-13T22:40:40Z,2020-09-13T22:40:40Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,2021-09-06T20:03:49Z,,Naproxen sodium 220 MG Oral Tablet,Localized  primary osteoarthritis of the hand (disorder)
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,2022-02-16T22:56:44Z,2022-03-02T20:03:49Z,Meperidine Hydrochloride 50 MG Oral Tablet,
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,2022-02-16T22:56:44Z,2022-04-02T23:13:27Z,Acetaminophen 325 MG Oral Tablet,
+355cd402-8f45-353f-45f4-97121ef38e7d,METROW-c247fb,2022-02-27T22:34:03Z,2022-02-27T22:34:03Z,sodium fluoride 0.0272 MG/MG Oral Gel,Fracture of mandible (disorder)
+355cd402-8f45-353f-7da6-0154208efe61,METROW-c247fb,2026-07-05T23:19:55Z,2026-07-05T23:19:55Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,2019-02-28T17:44:55Z,2019-03-14T17:44:55Z,Cefuroxime 250 MG Oral Tablet,
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,2019-02-28T17:44:55Z,2019-03-14T17:44:55Z,Ibuprofen 100 MG Oral Tablet,
+c38b96b6-90ae-fabe-091c-8ae0e55d3dbd,METROW-a11d75,2020-04-19T20:49:26Z,2020-04-19T20:49:26Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+6095681c-dfc1-8f20-8f68-46114938e66c,METROW-9d727d,2018-06-14T04:25:22Z,2018-07-07T04:25:22Z,Naproxen sodium 220 MG Oral Tablet,
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,2024-07-20T04:54:39Z,2024-08-16T04:54:39Z,Ibuprofen 200 MG Oral Tablet,
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,2007-10-26T18:39:12Z,,Naproxen sodium 220 MG Oral Tablet,Osteoarthritis of knee (disorder)
+3c0e60c4-176e-2c4c-9290-555edae2b6a7,METROW-61630f,2008-12-11T18:39:12Z,2026-01-10T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-e394-eeb9d703e40d,METROW-61630f,2015-12-10T18:39:12Z,2016-12-09T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-49b1-d513537f62e7,METROW-61630f,2016-12-09T18:39:12Z,2017-12-09T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-333a-c75799536233,METROW-61630f,2017-12-09T18:39:12Z,2018-12-09T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-bcae-2a639da493e7,METROW-61630f,2018-12-09T18:39:12Z,2019-12-09T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-b91f-cb8d6177d6a9,METROW-61630f,2019-12-09T18:39:12Z,2020-12-17T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-6aa1-03dd4a17d88e,METROW-61630f,2020-12-17T18:39:12Z,2021-12-17T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-4df8-d88514239bcc,METROW-61630f,2021-01-09T18:39:12Z,2021-12-16T18:39:12Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-20b3-6ebba68ec2c8,METROW-61630f,2021-03-10T18:39:12Z,2021-12-16T18:39:12Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-36ec-501b2fc57a1e,METROW-61630f,2021-12-17T18:39:12Z,2022-12-29T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-41c8-abfe8088439b,METROW-61630f,2022-12-29T18:39:12Z,2024-01-11T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-4573-67ed3d149c72,METROW-61630f,2024-01-11T18:39:12Z,2025-01-10T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-9480-ecfef183377b,METROW-61630f,2024-09-02T10:24:15Z,2024-09-20T10:24:15Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,2024-09-12T18:39:12Z,2025-01-02T18:39:12Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,2024-09-12T18:39:12Z,2025-01-02T18:39:12Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,2024-09-12T18:39:12Z,2025-01-02T18:39:12Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+3c0e60c4-176e-2c4c-43af-4d3a19c17f1b,METROW-61630f,2025-01-10T18:39:12Z,2026-01-10T18:39:12Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-0cd6-7dee0afd0de0,METROW-61630f,2026-01-10T18:39:12Z,,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+3c0e60c4-176e-2c4c-1c9f-5d5d4a94d9f1,METROW-61630f,2026-01-22T21:46:19Z,2026-01-22T21:46:19Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,2009-10-21T14:32:41Z,,Clopidogrel 75 MG Oral Tablet,
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,2009-10-21T14:32:41Z,,Simvastatin 20 MG Oral Tablet,
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,2009-10-21T14:32:41Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,2009-10-21T14:32:41Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+a45aa142-d1e9-d944-ed7d-1e0377f962ec,METROW-1f35d4,2019-11-13T17:33:51Z,2019-11-13T17:33:51Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+a45aa142-d1e9-d944-4071-97dbb86a8d2d,METROW-1f35d4,2021-12-01T14:32:41Z,2025-12-10T14:32:41Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,2022-06-22T14:32:41Z,2022-07-03T23:32:41Z,Penicillin V Potassium 500 MG Oral Tablet,Streptococcal sore throat (disorder)
+a45aa142-d1e9-d944-d065-dde88e630ee1,METROW-1f35d4,2022-12-01T14:32:41Z,2023-12-01T14:32:41Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+a45aa142-d1e9-d944-a228-0106691a1bb0,METROW-1f35d4,2023-12-01T14:32:41Z,2024-11-30T14:32:41Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,2024-03-06T01:37:43Z,2024-03-22T01:37:43Z,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,Acute bronchitis (disorder)
+a45aa142-d1e9-d944-3234-e3eacf9f600b,METROW-1f35d4,2024-11-30T14:32:41Z,2025-12-10T14:32:41Z,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+a45aa142-d1e9-d944-a7ea-d10d0512d7a7,METROW-1f35d4,2025-12-10T14:32:41Z,,Simvastatin 10 MG Oral Tablet,Hyperlipidemia (disorder)
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,2024-06-17T16:49:02Z,2024-08-17T16:49:02Z,Acetaminophen 325 MG Oral Tablet,
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,2025-10-05T16:49:02Z,2025-11-25T16:49:02Z,Ibuprofen 200 MG Oral Tablet,
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,2005-12-19T07:51:22Z,2006-12-25T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,2005-12-19T07:51:22Z,2006-12-25T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,2005-12-19T07:51:22Z,2006-12-25T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-7b72-8cc2987161cb,METROW-2549bd,2006-06-20T10:56:40Z,2006-06-20T10:56:40Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,2006-12-25T07:51:22Z,2007-04-02T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,2006-12-25T07:51:22Z,2007-04-02T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,2006-12-25T07:51:22Z,2007-04-02T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-0814-69f276decac7,METROW-2549bd,2007-04-16T08:00:44Z,2007-04-16T08:00:44Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-d968-8e765bd9024a,METROW-2549bd,2007-04-23T10:16:28Z,2007-04-23T10:16:28Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+2211f478-b7b4-7711-7671-7ca49166a6f0,METROW-2549bd,2007-05-16T11:14:42Z,2007-05-16T11:14:42Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-939f-60126e4c6086,METROW-2549bd,2007-10-08T09:18:13Z,2007-10-08T09:18:13Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,2007-12-31T07:51:22Z,2009-01-05T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,2007-12-31T07:51:22Z,2009-01-05T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,2007-12-31T07:51:22Z,2009-01-05T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-7e96-47a81c3e5a11,METROW-2549bd,2008-05-10T11:30:55Z,2008-05-10T11:30:55Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-c896-9c2353a506e0,METROW-2549bd,2008-07-07T10:58:20Z,2008-07-07T10:58:20Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-c2ed-bb1d859e720c,METROW-2549bd,2008-09-14T07:51:22Z,2009-09-09T07:51:22Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,2009-01-05T07:51:22Z,2010-01-11T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,2009-01-05T07:51:22Z,2010-01-11T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,2009-01-05T07:51:22Z,2010-01-11T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-5540-46998776c701,METROW-2549bd,2009-05-05T11:47:46Z,2009-05-05T11:47:46Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-5286-ed9bcec7601a,METROW-2549bd,2009-06-23T16:59:54Z,2009-06-23T16:59:54Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,2010-01-11T07:51:22Z,2010-03-08T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,2010-01-11T07:51:22Z,2010-03-08T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,2010-01-11T07:51:22Z,2010-03-08T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,2010-03-08T07:51:22Z,2011-01-17T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,2010-03-08T07:51:22Z,2011-01-17T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,2010-03-08T07:51:22Z,2011-01-17T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-bc82-50e1f21e0a54,METROW-2549bd,2010-03-31T12:04:24Z,2010-03-31T12:04:24Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-7125-651af6fba98e,METROW-2549bd,2010-06-24T19:55:57Z,2010-06-24T19:55:57Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,2011-01-17T07:51:22Z,2012-01-23T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,2011-01-17T07:51:22Z,2012-01-23T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,2011-01-17T07:51:22Z,2012-01-23T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-3bb1-b8b2584defb8,METROW-2549bd,2011-02-24T12:22:35Z,2011-02-24T12:22:35Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-9769-cd5077160508,METROW-2549bd,2011-03-17T01:19:09Z,2011-03-17T01:19:09Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,2012-01-23T07:51:22Z,2013-01-28T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,2012-01-23T07:51:22Z,2013-01-28T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,2012-01-23T07:51:22Z,2013-01-28T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-bee5-c65b677b76ed,METROW-2549bd,2012-02-19T12:40:14Z,2012-02-19T12:40:14Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-c78a-e3544d5a4be9,METROW-2549bd,2012-03-07T04:29:25Z,2012-03-07T04:29:25Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-a1a6-21b5c1b18f9a,METROW-2549bd,2012-10-29T07:51:22Z,2013-10-24T07:51:22Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+2211f478-b7b4-7711-b1ba-e776d81ea9c0,METROW-2549bd,2013-01-14T12:56:39Z,2013-01-14T12:56:39Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,2013-01-28T07:51:22Z,2014-02-03T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,2013-01-28T07:51:22Z,2014-02-03T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,2013-01-28T07:51:22Z,2014-02-03T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,2013-02-11T13:31:29Z,2013-02-11T13:31:29Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+2211f478-b7b4-7711-3c3e-1bf56eae4737,METROW-2549bd,2013-05-26T11:29:34Z,2013-05-26T11:29:34Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-40dc-3a4fb8756274,METROW-2549bd,2013-12-10T13:14:15Z,2013-12-10T13:14:15Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,2014-02-03T07:51:22Z,2014-06-30T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,2014-02-03T07:51:22Z,2014-06-30T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,2014-02-03T07:51:22Z,2014-06-30T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,2014-02-17T07:51:22Z,2014-06-30T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-5f64-70378ffc8d79,METROW-2549bd,2014-03-10T08:01:13Z,2014-03-10T08:01:13Z,Vancomycin 50 MG/ML Injectable Solution,Infection caused by Staphylococcus aureus (disorder)
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,2014-06-30T07:51:22Z,2014-07-28T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,2014-06-30T07:51:22Z,2014-07-28T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,2014-06-30T07:51:22Z,2014-07-28T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,2014-06-30T07:51:22Z,2014-07-28T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,2014-06-30T07:51:22Z,2014-07-28T07:51:22Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,2014-07-28T07:51:22Z,2014-09-29T07:51:22Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,2014-07-28T07:51:22Z,2014-09-29T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,2014-07-28T07:51:22Z,2014-09-29T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,2014-07-28T07:51:22Z,2014-09-29T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,2014-07-28T07:51:22Z,2014-09-29T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,2014-09-29T07:51:22Z,2014-12-29T07:51:22Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,2014-09-29T07:51:22Z,2014-12-29T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,2014-09-29T07:51:22Z,2014-12-29T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,2014-09-29T07:51:22Z,2014-12-29T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,2014-09-29T07:51:22Z,2014-12-29T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-c023-bcd4752dd9ef,METROW-2549bd,2014-12-05T13:31:00Z,2014-12-05T13:31:00Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,2014-12-29T07:51:22Z,2015-02-09T07:51:22Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,2014-12-29T07:51:22Z,2015-02-09T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,2014-12-29T07:51:22Z,2015-02-09T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,2014-12-29T07:51:22Z,2015-02-09T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,2014-12-29T07:51:22Z,2015-02-09T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-188c-4b8f6ee8d72d,METROW-2549bd,2015-01-12T10:41:44Z,2015-01-12T10:41:44Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,2015-02-09T07:51:22Z,2015-04-17T11:06:24Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,2015-02-09T07:51:22Z,2015-04-17T11:06:24Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,2015-02-09T07:51:22Z,2015-04-17T11:06:24Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,2015-02-09T07:51:22Z,2015-04-17T11:06:24Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,2015-02-09T07:51:22Z,2015-04-17T11:06:24Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,2015-04-10T11:06:24Z,2015-04-17T11:06:24Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,2015-04-17T11:06:24Z,2015-04-20T07:51:22Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,2015-04-17T11:06:24Z,2015-04-20T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,2015-04-17T11:06:24Z,2015-04-20T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,2015-04-17T11:06:24Z,2015-04-20T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,2015-04-17T11:06:24Z,2015-04-20T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,2015-04-20T07:51:22Z,2015-08-24T07:51:22Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,2015-04-20T07:51:22Z,2015-08-24T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,2015-04-20T07:51:22Z,2015-08-24T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,2015-04-20T07:51:22Z,2015-08-24T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,2015-04-20T07:51:22Z,2015-08-24T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-8566-706271053729,METROW-2549bd,2015-09-07T10:26:09Z,2015-09-07T10:26:09Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+2211f478-b7b4-7711-952b-3c8f09c8df1d,METROW-2549bd,2015-10-14T07:51:22Z,,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+2211f478-b7b4-7711-f810-a21f7d451ee4,METROW-2549bd,2015-10-31T13:47:55Z,2015-10-31T13:47:55Z,tropicamide 5 MG/ML Ophthalmic Solution,
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,2015-12-21T07:51:22Z,2016-01-18T07:51:22Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,2015-12-21T07:51:22Z,2016-01-18T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,2015-12-21T07:51:22Z,2016-01-18T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,2015-12-21T07:51:22Z,2016-01-18T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,2015-12-21T07:51:22Z,2016-01-18T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,2016-01-18T07:51:22Z,2016-02-15T07:51:22Z,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,2016-01-18T07:51:22Z,2016-02-15T07:51:22Z,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,2016-01-18T07:51:22Z,2016-02-15T07:51:22Z,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,2016-01-18T07:51:22Z,2016-02-15T07:51:22Z,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,2016-01-18T07:51:22Z,2016-02-15T07:51:22Z,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,2016-02-15T07:51:22Z,,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],Diabetes mellitus type 2 (disorder)
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,2016-02-15T07:51:22Z,,dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme],Cystic fibrosis (disorder)
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,2016-02-15T07:51:22Z,,Pancreatin 600 MG Oral Tablet,Cystic fibrosis (disorder)
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,2016-02-15T07:51:22Z,,Acetaminophen 325 MG Oral Tablet [Tylenol],
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,2016-02-15T07:51:22Z,,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Diabetes mellitus type 2 (disorder)
+e503e9b3-d149-653b-3ffa-062b5ac17d65,METROW-f81d19,2009-11-02T08:57:13Z,,ferrous sulfate 325 MG Oral Tablet,
+e503e9b3-d149-653b-ed8f-c1687b5e6edf,METROW-f81d19,2016-07-30T08:23:17Z,2017-07-25T08:23:17Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+e503e9b3-d149-653b-4eaf-0a52c9f697ba,METROW-f81d19,2017-07-25T08:23:17Z,2018-07-20T08:23:17Z,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,
+e503e9b3-d149-653b-8321-58d6fa829d64,METROW-f81d19,2018-07-20T08:23:17Z,2019-07-15T08:58:17Z,Etonogestrel 68 MG Drug Implant,
+e503e9b3-d149-653b-b175-98a10da01e84,METROW-f81d19,2020-07-09T08:58:17Z,2021-07-06T18:53:19Z,levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena],
+e503e9b3-d149-653b-0562-c4421221e644,METROW-f81d19,2022-11-21T07:51:22Z,2023-11-16T07:51:22Z,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],
+e503e9b3-d149-653b-c81b-1f4212b8780c,METROW-f81d19,2023-11-16T07:51:22Z,2024-11-10T07:51:22Z,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day],
+e503e9b3-d149-653b-f55a-fd8dabbfc570,METROW-f81d19,2024-10-28T11:11:46Z,2024-10-28T11:11:46Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+e503e9b3-d149-653b-0e17-773b22b5d8e7,METROW-f81d19,2025-11-05T07:51:22Z,,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day],
+82623afe-e51c-e02e-0cb3-b28c7cac5886,METROW-0fe329,2015-12-20T00:32:02Z,2016-12-25T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-0cb3-b28c7cac5886,METROW-0fe329,2015-12-20T00:32:02Z,2016-12-25T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-951b-742e3d75b81a,METROW-0fe329,2016-12-25T00:32:02Z,2017-12-31T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-951b-742e3d75b81a,METROW-0fe329,2016-12-25T00:32:02Z,2017-12-31T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,2017-12-31T00:32:02Z,2019-01-06T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,2017-12-31T00:32:02Z,2019-01-06T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,2019-01-06T00:32:02Z,2020-01-12T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,2019-01-06T00:32:02Z,2020-01-12T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,2020-01-12T00:32:02Z,2021-01-17T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,2020-01-12T00:32:02Z,2021-01-17T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,2020-12-16T02:41:57Z,2020-12-30T02:41:57Z,Naproxen sodium 220 MG Oral Tablet,
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,2021-01-17T00:32:02Z,2022-01-23T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,2021-01-17T00:32:02Z,2022-01-23T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,2022-01-23T00:32:02Z,2023-01-29T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,2022-01-23T00:32:02Z,2023-01-29T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,2023-01-29T00:32:02Z,2024-02-04T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,2023-01-29T00:32:02Z,2024-02-04T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,2024-02-04T00:32:02Z,2025-02-09T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,2024-02-04T00:32:02Z,2025-02-09T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,2024-02-04T00:32:02Z,2025-02-09T00:32:02Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,2025-02-09T00:32:02Z,2026-02-15T00:32:02Z,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,2025-02-09T00:32:02Z,2026-02-15T00:32:02Z,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,2025-02-09T00:32:02Z,2026-02-15T00:32:02Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,2025-02-09T00:32:02Z,2026-02-15T00:32:02Z,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,2025-02-09T00:32:02Z,2026-02-15T00:32:02Z,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,2026-02-15T00:32:02Z,,budesonide 0.25 MG/ML Inhalation Suspension,Childhood asthma (disorder)
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,2026-02-15T00:32:02Z,,Hydrochlorothiazide 25 MG Oral Tablet,Essential hypertension (disorder)
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,2026-02-15T00:32:02Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,2026-02-15T00:32:02Z,,amLODIPine 2.5 MG Oral Tablet,Essential hypertension (disorder)
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,2026-02-15T00:32:02Z,,albuterol 0.21 MG/ML Inhalation Solution,Childhood asthma (disorder)
+1426480f-ccc7-2393-b622-87ea0962cdd4,METROW-f498eb,1965-09-18T05:58:50Z,,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,2016-02-15T05:58:50Z,2017-02-20T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,2016-02-15T05:58:50Z,2017-02-20T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,2017-02-20T05:58:50Z,2018-02-26T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,2017-02-20T05:58:50Z,2018-02-26T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,2017-09-12T15:58:50Z,2017-09-27T15:58:50Z,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Viral sinusitis (disorder)
+1426480f-ccc7-2393-d287-fad18b41007d,METROW-f498eb,2018-02-26T05:58:50Z,2019-03-04T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-d287-fad18b41007d,METROW-f498eb,2018-02-26T05:58:50Z,2019-03-04T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,2019-03-04T05:58:50Z,2020-03-09T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,2019-03-04T05:58:50Z,2020-03-09T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-ef8d-1395aba0059c,METROW-f498eb,2019-03-18T08:57:48Z,2019-03-18T08:57:48Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,2020-03-09T05:58:50Z,2021-03-15T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,2020-03-09T05:58:50Z,2021-03-15T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,2020-03-16T05:58:50Z,,Clopidogrel 75 MG Oral Tablet,
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,2020-03-16T05:58:50Z,,Simvastatin 20 MG Oral Tablet,
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,2020-03-16T05:58:50Z,,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,2020-03-16T05:58:50Z,,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,2021-03-15T05:58:50Z,2022-03-21T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,2021-03-15T05:58:50Z,2022-03-21T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-eaf9-8fd9f528351a,METROW-f498eb,2021-03-29T08:43:25Z,2021-03-29T08:43:25Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,2022-02-11T06:13:33Z,2022-02-26T06:13:33Z,Naproxen sodium 220 MG Oral Tablet,
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,2022-03-21T05:58:50Z,2023-03-27T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,2022-03-21T05:58:50Z,2023-03-27T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,2023-02-18T06:43:21Z,2023-03-10T06:43:21Z,Naproxen sodium 220 MG Oral Tablet,
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,2023-03-27T05:58:50Z,2024-04-01T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,2023-03-27T05:58:50Z,2024-04-01T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-9eb2-14cfef2023ba,METROW-f498eb,2023-04-10T08:56:50Z,2023-04-10T08:56:50Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+1426480f-ccc7-2393-1dff-3d15e6fd3ea6,METROW-f498eb,2024-04-01T05:58:50Z,2025-04-07T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-1dff-3d15e6fd3ea6,METROW-f498eb,2024-04-01T05:58:50Z,2025-04-07T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,2025-04-07T05:58:50Z,2026-04-13T05:58:50Z,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,2025-04-07T05:58:50Z,2026-04-13T05:58:50Z,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-0803-4519355e891a,METROW-f498eb,2025-04-21T09:07:17Z,2025-04-21T09:07:17Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+1426480f-ccc7-2393-7eab-22ee566b8fd8,METROW-f498eb,2026-04-13T05:58:50Z,,lisinopril 10 MG Oral Tablet,Essential hypertension (disorder)
+1426480f-ccc7-2393-7eab-22ee566b8fd8,METROW-f498eb,2026-04-13T05:58:50Z,,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,
+1426480f-ccc7-2393-0b9e-1f2847df7759,METROW-f498eb,2026-04-27T10:50:17Z,2026-04-27T10:50:17Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+46fcc34a-97a1-f038-e100-75afc3eb2b59,METROW-c414c1,2015-09-02T02:56:05Z,2016-09-07T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-3e3d-e5681d587a20,METROW-c414c1,2016-09-07T02:56:05Z,2017-09-13T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-b5bb-442ce514d044,METROW-c414c1,2017-09-13T02:56:05Z,2018-09-19T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-d193-226822c2b206,METROW-c414c1,2018-09-19T02:56:05Z,2019-09-25T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-94de-709570a0e6ad,METROW-c414c1,2019-09-25T02:56:05Z,2019-12-04T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-6bcf-83aaefd136d9,METROW-c414c1,2020-09-30T02:56:05Z,2021-10-06T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-ea5f-befb62c6a10d,METROW-c414c1,2021-10-06T02:56:05Z,2022-10-12T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-440f-d5968d40d953,METROW-c414c1,2022-10-12T02:56:05Z,2023-10-18T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-d625-857794e18e71,METROW-c414c1,2023-10-18T02:56:05Z,2024-10-23T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-f0c2-bbc4ad58eb48,METROW-c414c1,2024-10-23T02:56:05Z,2025-10-29T02:56:05Z,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+46fcc34a-97a1-f038-7ddb-8f7b34964e31,METROW-c414c1,2025-10-29T02:56:05Z,,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,2020-02-22T18:31:50Z,,ferrous sulfate 325 MG Oral Tablet,
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,2020-02-22T18:31:50Z,,Vitamin B12 5 MG/ML Injectable Solution,

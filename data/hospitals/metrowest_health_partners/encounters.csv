@@ -1,0 +1,416 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,ENCOUNTERCLASS,DESCRIPTION,REASONDESCRIPTION,SEEN_AT
+355cd402-8f45-353f-9e4f-7fb45f1a02d0,METROW-c247fb,2004-08-08T20:03:49Z,2004-08-08T21:02:20Z,wellness,General examination of patient (procedure),,MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC
+355cd402-8f45-353f-4ca1-6bc923aa32d3,METROW-c247fb,2014-08-24T20:03:49Z,2014-08-24T20:39:46Z,wellness,General examination of patient (procedure),,MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC
+355cd402-8f45-353f-5189-d4a08215b463,METROW-c247fb,2017-08-27T20:03:49Z,2017-08-27T20:58:59Z,wellness,General examination of patient (procedure),,MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC
+355cd402-8f45-353f-ddcf-9fc3195844fe,METROW-c247fb,2018-05-27T20:03:49Z,2018-05-27T20:57:12Z,outpatient,Encounter for check up (procedure),,MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-9d86-7796def9af0c,METROW-c247fb,2018-05-28T11:03:49Z,2018-05-28T11:18:49Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-75fa-51b846024d8b,METROW-c247fb,2020-08-30T20:03:49Z,2020-08-30T20:39:13Z,wellness,General examination of patient (procedure),,MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC
+355cd402-8f45-353f-7d81-41419abc0b3e,METROW-c247fb,2020-09-13T20:03:49Z,2020-09-13T23:17:14Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-b0a4-509225aaf371,METROW-c247fb,2021-05-02T20:03:49Z,2021-05-02T20:18:49Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-5e3e-1b23228a7c5e,METROW-c247fb,2021-05-23T20:03:49Z,2021-05-23T20:18:49Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-1912-e967f1c137e0,METROW-c247fb,2021-09-06T20:03:49Z,2021-09-06T20:18:49Z,ambulatory,Encounter for problem (procedure),Localized  primary osteoarthritis of the hand (disorder),MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-6f7d-c8d267f69b15,METROW-c247fb,2022-02-16T20:44:43Z,2022-02-16T22:56:44Z,emergency,Emergency room admission (procedure),Fracture of mandible (disorder),BAYADA HOME HEALTH CARE  INC
+355cd402-8f45-353f-45f4-97121ef38e7d,METROW-c247fb,2022-02-27T20:03:49Z,2022-02-27T23:24:11Z,ambulatory,Encounter for check up (procedure),Fracture of mandible (disorder),MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-0d67-50a419bea3f6,METROW-c247fb,2022-04-02T22:56:44Z,2022-04-02T23:13:27Z,ambulatory,Encounter for check up (procedure),Fracture of mandible (disorder),MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-b5fe-ab995e860b84,METROW-c247fb,2023-09-03T20:03:49Z,2023-09-03T20:41:04Z,wellness,General examination of patient (procedure),,MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC
+355cd402-8f45-353f-c5f2-148b79f46d17,METROW-c247fb,2023-09-17T20:03:49Z,2023-09-17T23:25:16Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+355cd402-8f45-353f-2a6b-d8b5e297465f,METROW-c247fb,2026-06-21T20:03:49Z,2026-06-21T20:53:19Z,wellness,General examination of patient (procedure),,MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC
+355cd402-8f45-353f-7da6-0154208efe61,METROW-c247fb,2026-07-05T20:03:49Z,2026-07-05T23:59:02Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARLBOROUGH HOSPITAL CORP
+c38b96b6-90ae-fabe-2c56-75d1741c477b,METROW-a11d75,2017-11-05T17:44:55Z,2017-11-05T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-3d03-a93c7e8343a4,METROW-a11d75,2017-12-10T17:44:55Z,2017-12-10T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-d6a4-25370ca04317,METROW-a11d75,2018-02-11T17:44:55Z,2018-02-11T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-fae5-f0f8a269a787,METROW-a11d75,2018-04-15T17:44:55Z,2018-04-15T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-64e7-49c11c4bf08f,METROW-a11d75,2018-07-15T17:44:55Z,2018-07-15T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-6e64-9de049421c74,METROW-a11d75,2018-10-14T17:44:55Z,2018-10-14T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-f809-d9fa5cd639c4,METROW-a11d75,2019-01-13T17:44:55Z,2019-01-13T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-40c0-eab8b78b0a5a,METROW-a11d75,2019-02-28T17:44:55Z,2019-02-28T17:59:55Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+c38b96b6-90ae-fabe-e13b-42cc19a4ab62,METROW-a11d75,2019-04-14T17:44:55Z,2019-04-14T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-f38e-e4b4185331c6,METROW-a11d75,2019-10-13T17:44:55Z,2019-10-13T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-5899-77a0ebf2b9d0,METROW-a11d75,2020-04-12T17:44:55Z,2020-04-12T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-091c-8ae0e55d3dbd,METROW-a11d75,2020-04-19T17:44:55Z,2020-04-19T21:39:35Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+c38b96b6-90ae-fabe-defb-706a164f1112,METROW-a11d75,2020-10-11T17:44:55Z,2020-10-11T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-3eea-1a9a07175b52,METROW-a11d75,2020-10-18T17:44:55Z,2020-10-18T20:17:33Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+c38b96b6-90ae-fabe-4102-0d19042d8ab5,METROW-a11d75,2020-12-24T07:44:55Z,2020-12-24T07:59:55Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+c38b96b6-90ae-fabe-6d09-5cf2454e20bb,METROW-a11d75,2021-04-11T17:44:55Z,2021-04-11T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-dfc8-e8435121130c,METROW-a11d75,2021-10-10T17:44:55Z,2021-10-10T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-afe6-2f45be988ae3,METROW-a11d75,2021-10-17T17:44:55Z,2021-10-17T20:12:08Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+c38b96b6-90ae-fabe-7109-0a038369cde2,METROW-a11d75,2022-10-16T17:44:55Z,2022-10-16T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-ece3-4ee00e1d8da8,METROW-a11d75,2022-10-23T17:44:55Z,2022-10-23T20:47:55Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+c38b96b6-90ae-fabe-ae39-ec5e6e73429c,METROW-a11d75,2023-10-22T17:44:55Z,2023-10-22T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-3807-0b4e110e9828,METROW-a11d75,2024-10-27T17:44:55Z,2024-10-27T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-0ab4-bd5e913e1311,METROW-a11d75,2025-11-02T17:44:55Z,2025-11-02T17:59:55Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+c38b96b6-90ae-fabe-f7fd-9703bd58a092,METROW-a11d75,2026-05-10T19:44:55Z,2026-05-10T19:59:55Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+6095681c-dfc1-8f20-0814-7b85dc934ede,METROW-9d727d,2015-10-25T02:29:57Z,2015-10-25T02:54:00Z,wellness,Well child visit (procedure),,INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+6095681c-dfc1-8f20-72cb-02f8a4eda6f0,METROW-9d727d,2016-10-30T02:29:57Z,2016-10-30T02:57:44Z,wellness,Well child visit (procedure),,INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+6095681c-dfc1-8f20-50de-c6dd78c0ccfd,METROW-9d727d,2017-11-05T02:29:57Z,2017-11-05T02:44:57Z,wellness,Well child visit (procedure),,INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+6095681c-dfc1-8f20-8f68-46114938e66c,METROW-9d727d,2018-06-14T04:06:57Z,2018-06-14T05:06:57Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),LIFE CARE CENTER OF ACTON
+6095681c-dfc1-8f20-a48f-991f7259a03e,METROW-9d727d,2018-11-11T02:29:57Z,2018-11-11T03:01:30Z,wellness,General examination of patient (procedure),,INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+6095681c-dfc1-8f20-e1d1-43f99f699c54,METROW-9d727d,2019-11-17T02:29:57Z,2019-11-17T03:22:21Z,wellness,General examination of patient (procedure),,INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+6095681c-dfc1-8f20-dbf7-f6f6f0f630f0,METROW-9d727d,2022-11-20T02:29:57Z,2022-11-20T03:29:24Z,wellness,General examination of patient (procedure),,INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+6095681c-dfc1-8f20-a893-758fcd6eca5a,METROW-9d727d,2024-07-20T04:25:22Z,2024-07-20T05:25:22Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),LIFE CARE CENTER OF ACTON
+6095681c-dfc1-8f20-4d96-923c1d00521b,METROW-9d727d,2025-11-23T02:29:57Z,2025-11-23T03:03:41Z,wellness,General examination of patient (procedure),,INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+3c0e60c4-176e-2c4c-89b0-2da3613a18cf,METROW-61630f,1981-01-08T18:39:12Z,1981-01-08T19:48:49Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-7cd0-9e0584fa68ab,METROW-61630f,2000-02-26T19:51:34Z,2000-02-26T20:06:34Z,ambulatory,Prenatal visit (regime/therapy),Congenital uterine anomaly (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-822e-7a3fc11a526b,METROW-61630f,2007-10-26T18:39:12Z,2007-10-26T18:54:12Z,ambulatory,Encounter for problem (procedure),Osteoarthritis of knee (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-9290-555edae2b6a7,METROW-61630f,2008-12-11T18:39:12Z,2008-12-11T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-e394-eeb9d703e40d,METROW-61630f,2015-12-10T18:39:12Z,2015-12-10T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-fb53-5a9856fe20d5,METROW-61630f,2016-08-18T13:39:12Z,2016-08-18T13:54:12Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-49b1-d513537f62e7,METROW-61630f,2016-12-09T18:39:12Z,2016-12-09T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-333a-c75799536233,METROW-61630f,2017-12-09T18:39:12Z,2017-12-09T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-bcae-2a639da493e7,METROW-61630f,2018-12-09T18:39:12Z,2018-12-09T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-b91f-cb8d6177d6a9,METROW-61630f,2019-12-09T18:39:12Z,2019-12-09T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-6aa1-03dd4a17d88e,METROW-61630f,2020-12-17T18:39:12Z,2020-12-17T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-1829-ed730e314e9b,METROW-61630f,2020-12-24T18:39:12Z,2020-12-25T00:42:42Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-4df8-d88514239bcc,METROW-61630f,2021-01-09T18:39:12Z,2021-01-09T18:54:12Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-20b3-6ebba68ec2c8,METROW-61630f,2021-03-10T18:39:12Z,2021-03-10T18:54:12Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-0a32-35af09b6bb78,METROW-61630f,2021-03-25T18:39:12Z,2021-03-25T18:54:12Z,outpatient,Administration of vaccine to produce active immunity (procedure),,VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-b586-cd94e00b52a6,METROW-61630f,2021-04-15T18:39:12Z,2021-04-15T18:54:12Z,outpatient,Administration of vaccine to produce active immunity (procedure),,VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-e22b-8b0dee3dec05,METROW-61630f,2021-04-18T19:43:44Z,2021-04-18T20:23:55Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-17e6-60368f3cfcec,METROW-61630f,2021-05-09T18:39:12Z,2021-05-09T18:54:12Z,ambulatory,Follow-up encounter (procedure),Essential hypertension (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-36ec-501b2fc57a1e,METROW-61630f,2021-12-17T18:39:12Z,2021-12-17T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-0c32-44bc43b0ab46,METROW-61630f,2022-08-28T11:39:12Z,2022-08-28T11:54:12Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-3834-9c4ca57dc13b,METROW-61630f,2022-10-18T12:39:12Z,2022-10-18T12:54:12Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-41c8-abfe8088439b,METROW-61630f,2022-12-29T18:39:12Z,2022-12-29T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-036f-f2713a09f04a,METROW-61630f,2023-03-31T03:35:02Z,2023-03-31T04:33:41Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-9acb-5ba82605ff70,METROW-61630f,2023-04-21T04:33:41Z,2023-04-21T05:27:12Z,ambulatory,Follow-up encounter (procedure),Loss of teeth (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-4573-67ed3d149c72,METROW-61630f,2024-01-11T18:39:12Z,2024-01-11T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-9480-ecfef183377b,METROW-61630f,2024-09-02T10:02:04Z,2024-09-02T10:24:15Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-a5d4-97996f2a6181,METROW-61630f,2024-09-12T18:39:12Z,2024-09-12T19:26:44Z,outpatient,Encounter for check up (procedure),,VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-43af-4d3a19c17f1b,METROW-61630f,2025-01-10T18:39:12Z,2025-01-10T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-0cd6-7dee0afd0de0,METROW-61630f,2026-01-10T18:39:12Z,2026-01-10T18:54:12Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-1c9f-5d5d4a94d9f1,METROW-61630f,2026-01-22T18:39:12Z,2026-01-22T22:38:13Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+3c0e60c4-176e-2c4c-d2da-eaaf4d8bea0b,METROW-61630f,2026-04-18T20:23:55Z,2026-04-18T21:18:46Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),VHS ACQUISITION SUBSIDIARY NUMBER 9  INC.
+a45aa142-d1e9-d944-c1f4-f6668098bff3,METROW-1f35d4,1981-11-18T14:32:41Z,1981-11-18T15:29:30Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-1e9f-167d15a41321,METROW-1f35d4,1982-11-24T14:32:41Z,1982-11-24T15:19:00Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-ee8b-fd10ca5036b8,METROW-1f35d4,1991-12-04T14:32:41Z,1991-12-04T15:05:05Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-8162-3eedfb0c66f1,METROW-1f35d4,2007-10-10T14:32:41Z,2007-10-10T15:24:56Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-0601-bb545ffb2640,METROW-1f35d4,2009-10-14T14:32:41Z,2009-10-14T15:22:01Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-e39f-b8f466633d48,METROW-1f35d4,2010-09-13T14:32:41Z,2010-09-13T15:21:53Z,ambulatory,Encounter for symptom (procedure),Sleep disorder (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-291c-8797ce950b0e,METROW-1f35d4,2010-10-03T16:13:01Z,2010-10-04T16:13:01Z,inpatient,Encounter for problem (procedure),Sleep disorder (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-91d9-2413ee3789f5,METROW-1f35d4,2011-10-19T14:32:41Z,2011-10-19T15:21:21Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-0d51-b6ad385c0257,METROW-1f35d4,2015-10-07T14:32:41Z,2015-10-07T15:31:57Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-1961-bd25a5604c86,METROW-1f35d4,2016-10-12T14:32:41Z,2016-10-12T15:22:22Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-b3be-f203a1133324,METROW-1f35d4,2017-10-18T14:32:41Z,2017-10-18T15:09:49Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-dbae-274bab32c2d4,METROW-1f35d4,2017-11-01T14:32:41Z,2017-11-01T18:22:23Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-ca8b-662adb59f254,METROW-1f35d4,2018-10-02T15:04:15Z,2018-10-02T15:39:31Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-7d94-b7a4727ee9e0,METROW-1f35d4,2018-10-24T14:32:41Z,2018-10-24T15:04:40Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-9b79-ed050c5c437e,METROW-1f35d4,2019-10-30T14:32:41Z,2019-10-30T15:17:09Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-ed7d-1e0377f962ec,METROW-1f35d4,2019-11-13T14:32:41Z,2019-11-13T18:24:38Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-468b-95737be878ee,METROW-1f35d4,2020-11-04T14:32:41Z,2020-11-04T15:11:39Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-e0ac-ae992466d750,METROW-1f35d4,2021-03-17T14:32:41Z,2021-03-17T14:47:41Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-4db6-82315b2aae4b,METROW-1f35d4,2021-04-07T14:32:41Z,2021-04-07T14:47:41Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-ded5-611103e0a346,METROW-1f35d4,2021-11-10T14:32:41Z,2021-11-10T15:09:18Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-4071-97dbb86a8d2d,METROW-1f35d4,2021-12-01T14:32:41Z,2021-12-01T14:47:41Z,virtual,Follow-up encounter (procedure),Hyperlipidemia (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-aa98-b70ca2fc5f35,METROW-1f35d4,2022-01-08T23:32:41Z,2022-01-08T23:47:41Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-02cd-ef5d957c7191,METROW-1f35d4,2022-06-22T14:32:41Z,2022-06-22T14:47:41Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-51d4-2e5d04159791,METROW-1f35d4,2022-11-16T14:32:41Z,2022-11-16T15:14:22Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-d065-dde88e630ee1,METROW-1f35d4,2022-12-01T14:32:41Z,2022-12-01T14:47:41Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-983c-90c905f05db1,METROW-1f35d4,2023-10-02T15:39:31Z,2023-10-02T16:29:00Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-4a46-1c797c62a8c3,METROW-1f35d4,2023-11-22T14:32:41Z,2023-11-22T15:32:34Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-a228-0106691a1bb0,METROW-1f35d4,2023-12-01T14:32:41Z,2023-12-01T14:47:41Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-3ca4-47497accd8c4,METROW-1f35d4,2024-03-06T01:32:41Z,2024-03-06T01:47:41Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-4bfa-2ffea1ce169d,METROW-1f35d4,2024-11-27T14:32:41Z,2024-11-27T15:05:44Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-3234-e3eacf9f600b,METROW-1f35d4,2024-11-30T14:32:41Z,2024-11-30T14:47:41Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-c94a-c45e4a329489,METROW-1f35d4,2024-12-10T16:14:00Z,2024-12-10T16:39:03Z,ambulatory,Encounter for check up (procedure),Polyp of colon (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-e32e-ce20a780c782,METROW-1f35d4,2024-12-11T14:32:41Z,2024-12-11T17:23:07Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-2e10-b448a239a958,METROW-1f35d4,2025-12-03T14:32:41Z,2025-12-03T15:31:27Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+a45aa142-d1e9-d944-a7ea-d10d0512d7a7,METROW-1f35d4,2025-12-10T14:32:41Z,2025-12-10T14:47:41Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),MARLBOROUGH HOSPITAL CORP
+a45aa142-d1e9-d944-6ccd-4a576d315ecb,METROW-1f35d4,2025-12-17T14:32:41Z,2025-12-17T17:21:48Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+029c95e2-d252-d8d3-22a0-9ffcfaa62a10,METROW-d2cc11,2024-06-17T16:49:02Z,2024-06-17T17:49:02Z,emergency,Emergency room admission (procedure),Burn injury (morphologic abnormality),LIFE CARE CENTER OF ACTON
+029c95e2-d252-d8d3-a200-5c4a0ef8b2df,METROW-d2cc11,2025-10-05T16:49:02Z,2025-10-05T17:49:02Z,emergency,Emergency room admission (procedure),Burn injury (morphologic abnormality),LIFE CARE CENTER OF ACTON
+2211f478-b7b4-7711-f161-ef6763f2d40a,METROW-2549bd,1984-10-15T07:51:22Z,1984-10-16T07:51:22Z,inpatient,Cystic fibrosis  prenatal detection (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-5c72-dc0d0db7fff7,METROW-2549bd,1986-04-19T15:13:14Z,1986-04-19T16:46:58Z,emergency,Emergency room admission (procedure),Acute respiratory failure (disorder),KINDRED HOSPICE
+2211f478-b7b4-7711-6b26-cb71a9b167ac,METROW-2549bd,1994-06-02T14:47:05Z,1994-06-02T15:33:14Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-eb3c-f0216cea8c5b,METROW-2549bd,1995-11-14T21:17:55Z,1995-11-15T01:20:12Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-cee1-6c5024df8f66,METROW-2549bd,1996-10-28T07:51:22Z,1996-10-28T08:06:22Z,wellness,Well child visit (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-0d1a-2addda7cf5b4,METROW-2549bd,1996-11-18T07:51:22Z,1996-11-18T09:08:23Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-1f7c-7e222c111eff,METROW-2549bd,1997-11-03T07:51:22Z,1997-11-03T08:06:22Z,wellness,Well child visit (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-bfd4-4a8941cc2cde,METROW-2549bd,2002-12-02T07:51:22Z,2002-12-02T08:41:47Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-424d-0aead9d41920,METROW-2549bd,2004-12-13T07:51:22Z,2004-12-13T08:32:58Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-38c9-65a91b8fff2e,METROW-2549bd,2005-03-14T07:51:22Z,2005-03-14T08:51:22Z,emergency,Emergency room admission (procedure),,KINDRED HOSPICE
+2211f478-b7b4-7711-199c-76ffbea4ca28,METROW-2549bd,2005-12-19T07:51:22Z,2005-12-19T08:45:59Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-2d4c-731ea3435800,METROW-2549bd,2006-01-09T07:51:22Z,2006-01-09T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-7b72-8cc2987161cb,METROW-2549bd,2006-06-20T10:52:40Z,2006-06-20T11:36:40Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-5d72-ab3f2ba2c479,METROW-2549bd,2006-06-26T07:51:22Z,2006-06-26T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b3d5-8f1d0d2f677c,METROW-2549bd,2006-07-16T07:32:01Z,2006-07-16T11:53:17Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-4394-f54450ff8356,METROW-2549bd,2006-07-24T07:51:22Z,2006-07-24T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-0e31-b3f10b9f63de,METROW-2549bd,2006-08-07T07:51:22Z,2006-08-07T08:51:22Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),KINDRED HOSPICE
+2211f478-b7b4-7711-1ee4-47415d47506e,METROW-2549bd,2006-09-18T07:51:22Z,2006-09-18T08:06:22Z,ambulatory,Postnatal visit (regime/therapy),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-6682-401fa8f2ecb2,METROW-2549bd,2006-10-21T11:53:17Z,2006-10-21T12:24:59Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-74f8-d530d825b069,METROW-2549bd,2006-12-25T07:51:22Z,2006-12-25T08:29:15Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-cbd4-35945012f033,METROW-2549bd,2007-01-20T12:24:59Z,2007-01-20T15:27:30Z,emergency,Emergency room admission (procedure),Sepsis caused by Staphylococcus aureus (disorder),KINDRED HOSPICE
+2211f478-b7b4-7711-0814-69f276decac7,METROW-2549bd,2007-04-16T07:51:22Z,2007-04-16T08:17:08Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-d968-8e765bd9024a,METROW-2549bd,2007-04-23T07:51:22Z,2007-04-23T11:00:54Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-5aca-e4edf829a480,METROW-2549bd,2007-04-30T07:51:22Z,2007-04-30T08:06:22Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-7671-7ca49166a6f0,METROW-2549bd,2007-05-16T11:10:42Z,2007-05-16T11:54:42Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-0596-38765041ba1a,METROW-2549bd,2007-07-10T08:17:08Z,2007-07-10T09:03:57Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-939f-60126e4c6086,METROW-2549bd,2007-10-08T09:03:57Z,2007-10-08T09:35:52Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-7e7e-b020f6cf5120,METROW-2549bd,2007-12-10T07:51:22Z,2007-12-10T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-af6b-270fb441c6c2,METROW-2549bd,2007-12-31T07:51:22Z,2007-12-31T08:37:56Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-a6e7-7b98fbebf83d,METROW-2549bd,2008-01-07T07:51:22Z,2008-01-07T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-a743-1084a98dd7fd,METROW-2549bd,2008-01-12T09:35:52Z,2008-01-12T10:05:55Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-05ef-f7d59fd44f10,METROW-2549bd,2008-02-04T07:51:22Z,2008-02-04T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-9426-a65e78ce184f,METROW-2549bd,2008-03-03T07:51:22Z,2008-03-03T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-44cf-229e74f617a0,METROW-2549bd,2008-03-31T07:51:22Z,2008-03-31T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-2444-c1144b33a54e,METROW-2549bd,2008-04-05T10:05:55Z,2008-04-05T10:53:08Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-d28c-85bfbeabafc6,METROW-2549bd,2008-04-28T07:51:22Z,2008-04-28T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-7e96-47a81c3e5a11,METROW-2549bd,2008-05-10T11:26:55Z,2008-05-10T12:10:55Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-11ec-78476a47fd80,METROW-2549bd,2008-05-26T07:51:22Z,2008-05-26T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-fcf0-16628190903e,METROW-2549bd,2008-06-23T07:51:22Z,2008-06-23T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-58a4-63c2870204bf,METROW-2549bd,2008-07-07T07:51:22Z,2008-07-07T08:51:22Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),KINDRED HOSPICE
+2211f478-b7b4-7711-c896-9c2353a506e0,METROW-2549bd,2008-07-07T10:53:08Z,2008-07-07T11:35:38Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-6d73-e522e5431242,METROW-2549bd,2008-08-18T07:51:22Z,2008-08-18T08:06:22Z,ambulatory,Postnatal visit (regime/therapy),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-c2ed-bb1d859e720c,METROW-2549bd,2008-09-14T07:51:22Z,2008-09-14T08:06:22Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-f0e6-a2c0a7920fd7,METROW-2549bd,2008-09-30T11:35:38Z,2008-09-30T15:24:36Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-c047-865f024bccf4,METROW-2549bd,2008-12-27T15:24:36Z,2008-12-27T16:10:56Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-fb3b-3b9132e8339b,METROW-2549bd,2009-01-05T07:51:22Z,2009-01-05T08:42:58Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-ee6f-f98f4b7dd072,METROW-2549bd,2009-01-19T07:51:22Z,2009-01-19T10:34:00Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-80b3-ca71df6d1777,METROW-2549bd,2009-03-26T16:10:56Z,2009-03-26T16:45:35Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-5540-46998776c701,METROW-2549bd,2009-05-05T11:43:46Z,2009-05-05T12:27:46Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-5286-ed9bcec7601a,METROW-2549bd,2009-06-23T16:45:35Z,2009-06-23T17:34:44Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-45c0-a077fcee214f,METROW-2549bd,2009-09-26T17:34:44Z,2009-09-26T18:12:38Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-fdb0-87475e198805,METROW-2549bd,2009-12-30T18:12:38Z,2009-12-30T18:47:40Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-6f8a-677b40c8851a,METROW-2549bd,2010-01-11T07:51:22Z,2010-01-11T08:27:50Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-7911-f5dd641a72d4,METROW-2549bd,2010-01-25T07:51:22Z,2010-01-25T13:31:58Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-d136-4be07b4d41e2,METROW-2549bd,2010-03-08T07:51:22Z,2010-03-08T08:39:52Z,outpatient,Encounter for check up (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-3d91-6277ab70ab95,METROW-2549bd,2010-03-15T07:51:22Z,2010-03-15T08:06:22Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-bc82-50e1f21e0a54,METROW-2549bd,2010-03-31T12:00:24Z,2010-03-31T12:44:24Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-6d4e-7b90001efb45,METROW-2549bd,2010-03-31T18:47:40Z,2010-03-31T19:42:41Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-7125-651af6fba98e,METROW-2549bd,2010-06-24T19:42:41Z,2010-06-24T20:31:12Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-e507-4d939dc6e4ba,METROW-2549bd,2010-07-26T07:51:22Z,2010-07-26T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-bb60-19cff13017d7,METROW-2549bd,2010-08-15T07:51:22Z,2010-08-20T00:51:22Z,inpatient,Admission to surgical department (procedure),Tubal pregnancy (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b73b-8f7b01b8e915,METROW-2549bd,2010-08-28T00:51:22Z,2010-08-28T01:06:22Z,ambulatory,Prenatal visit (regime/therapy),Tubal pregnancy (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-6ea3-bce29d2e70ba,METROW-2549bd,2010-09-22T20:31:12Z,2010-09-22T21:19:10Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-1b89-679bddcc3487,METROW-2549bd,2010-12-21T21:19:10Z,2010-12-22T01:05:26Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-ea15-db6bf7f13879,METROW-2549bd,2011-01-03T07:51:22Z,2011-01-03T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-4129-6932f2d0b918,METROW-2549bd,2011-01-17T07:51:22Z,2011-01-17T08:29:34Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-0cd6-e5c7c90a89bc,METROW-2549bd,2011-01-31T07:51:22Z,2011-01-31T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-3bb1-b8b2584defb8,METROW-2549bd,2011-02-24T12:18:35Z,2011-02-24T13:02:35Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-dc1c-d9688d722926,METROW-2549bd,2011-02-28T07:51:22Z,2011-02-28T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-9769-cd5077160508,METROW-2549bd,2011-03-17T01:05:26Z,2011-03-17T02:00:19Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-3fcf-4501242318cb,METROW-2549bd,2011-03-28T07:51:22Z,2011-03-28T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-c4f7-98604b7b61af,METROW-2549bd,2011-04-25T07:51:22Z,2011-04-25T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-048b-0117d7d85ba3,METROW-2549bd,2011-05-23T07:51:22Z,2011-05-23T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-7f4a-ca15661d8e7e,METROW-2549bd,2011-06-13T02:00:19Z,2011-06-13T02:42:57Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-084e-08833242da6f,METROW-2549bd,2011-06-20T07:51:22Z,2011-06-20T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-cf77-9778515964ab,METROW-2549bd,2011-07-18T07:51:22Z,2011-07-18T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-d1f7-d81fee071b7d,METROW-2549bd,2011-08-01T07:51:22Z,2011-08-01T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b810-61d2a2c9fb1c,METROW-2549bd,2011-08-08T07:51:22Z,2011-08-08T08:51:22Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),KINDRED HOSPICE
+2211f478-b7b4-7711-010e-5198d251bb4f,METROW-2549bd,2011-09-09T02:42:57Z,2011-09-09T03:38:57Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-1409-32b990ee4a50,METROW-2549bd,2011-09-19T07:51:22Z,2011-09-19T08:06:22Z,ambulatory,Postnatal visit (regime/therapy),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-de5b-5b27cc9e354f,METROW-2549bd,2011-12-06T03:38:57Z,2011-12-06T04:23:58Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-9acb-16c85379d22f,METROW-2549bd,2012-01-23T07:51:22Z,2012-01-23T08:34:12Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-bee5-c65b677b76ed,METROW-2549bd,2012-02-19T12:36:14Z,2012-02-19T13:20:14Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-c78a-e3544d5a4be9,METROW-2549bd,2012-03-07T04:23:58Z,2012-03-07T05:09:23Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-57b8-468a7353018b,METROW-2549bd,2012-06-05T05:09:23Z,2012-06-05T05:48:11Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-82c8-754570a1a1ef,METROW-2549bd,2012-08-13T07:51:22Z,2012-08-13T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-9fb5-cbda1710a710,METROW-2549bd,2012-09-02T05:48:11Z,2012-09-02T06:30:03Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-8331-6cddcdc6bb1d,METROW-2549bd,2012-09-10T07:51:22Z,2012-09-10T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-2398-52847bf74ade,METROW-2549bd,2012-10-08T07:51:22Z,2012-10-08T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-6053-e855f580196a,METROW-2549bd,2012-10-19T07:51:22Z,2012-10-19T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Fetus with chromosomal abnormality (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-a1a6-21b5c1b18f9a,METROW-2549bd,2012-10-29T07:51:22Z,2012-10-29T08:06:22Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-39fa-4b0f00505ac7,METROW-2549bd,2012-11-25T06:30:03Z,2012-11-25T07:15:21Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b1ba-e776d81ea9c0,METROW-2549bd,2013-01-14T12:52:39Z,2013-01-14T13:36:39Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b8e3-956ad9157646,METROW-2549bd,2013-01-28T07:51:22Z,2013-01-28T08:48:30Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-c37a-ef2ed90fa3e7,METROW-2549bd,2013-02-11T07:51:22Z,2013-02-11T14:05:41Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-4ae6-488183665a3a,METROW-2549bd,2013-03-02T07:15:21Z,2013-03-02T11:21:38Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-3c3e-1bf56eae4737,METROW-2549bd,2013-05-26T11:21:38Z,2013-05-26T12:01:29Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-611b-6ea39999fa8d,METROW-2549bd,2013-08-28T12:01:29Z,2013-08-28T12:32:30Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b75a-dc656f9493ec,METROW-2549bd,2013-11-22T12:32:30Z,2013-11-22T13:10:33Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-40dc-3a4fb8756274,METROW-2549bd,2013-12-10T13:10:15Z,2013-12-10T13:54:15Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-2a9d-fe5a2d5ff9bf,METROW-2549bd,2014-01-09T10:17:33Z,2014-01-09T11:13:09Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-4729-3c3ea1094040,METROW-2549bd,2014-02-03T07:51:22Z,2014-02-03T08:31:33Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-4eff-bcfd918bbfd3,METROW-2549bd,2014-02-10T07:51:22Z,2014-02-10T08:47:59Z,ambulatory,Follow-up encounter (procedure),Loss of teeth (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-ee3d-74fbb870d7e9,METROW-2549bd,2014-02-17T07:51:22Z,2014-02-17T08:06:22Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-1a5e-200b3098abec,METROW-2549bd,2014-02-24T07:51:22Z,2014-02-24T10:53:28Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-5f64-70378ffc8d79,METROW-2549bd,2014-03-10T07:51:22Z,2014-03-10T08:22:34Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-fc4a-a0f109556700,METROW-2549bd,2014-06-03T08:22:34Z,2014-06-03T09:09:23Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-8bfd-c18d5b859d93,METROW-2549bd,2014-06-30T07:51:22Z,2014-06-30T08:29:31Z,outpatient,Encounter for check up (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-7173-adf041057e94,METROW-2549bd,2014-07-28T07:51:22Z,2014-07-28T08:34:55Z,outpatient,Encounter for check up (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b8e2-c251ed7b67c4,METROW-2549bd,2014-08-29T09:09:23Z,2014-08-29T09:53:19Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-d64d-12b6fd298306,METROW-2549bd,2014-09-29T07:51:22Z,2014-09-29T08:31:08Z,outpatient,Encounter for check up (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-1e30-320546271ef6,METROW-2549bd,2014-11-22T09:53:19Z,2014-11-22T10:27:16Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-c023-bcd4752dd9ef,METROW-2549bd,2014-12-05T13:27:00Z,2014-12-05T14:11:00Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-7465-b3111af6bf18,METROW-2549bd,2014-12-29T07:51:22Z,2014-12-29T08:45:17Z,outpatient,Encounter for check up (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-70ee-fcd7706eb5d2,METROW-2549bd,2015-01-05T07:51:22Z,2015-01-05T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-188c-4b8f6ee8d72d,METROW-2549bd,2015-01-12T07:51:22Z,2015-01-12T11:30:33Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-5f4f-53029cc199d9,METROW-2549bd,2015-02-02T07:51:22Z,2015-02-02T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-0e1c-edf30feb952b,METROW-2549bd,2015-02-09T07:51:22Z,2015-02-09T08:30:17Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-af05-589edbc73de3,METROW-2549bd,2015-02-23T07:51:22Z,2015-02-23T10:46:53Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-5aab-520829825c8c,METROW-2549bd,2015-03-02T07:51:22Z,2015-03-02T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-75f5-200ac43e1a13,METROW-2549bd,2015-03-09T07:51:22Z,2015-03-09T13:01:22Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-52f2-dd226e1f859f,METROW-2549bd,2015-03-30T07:51:22Z,2015-03-30T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-1499-08ae31eefef8,METROW-2549bd,2015-04-10T10:51:22Z,2015-04-10T11:06:24Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b69c-25962b2e7aea,METROW-2549bd,2015-04-20T07:51:22Z,2015-04-20T08:51:22Z,emergency,Emergency room admission (procedure),,KINDRED HOSPICE
+2211f478-b7b4-7711-fce6-94bbf2d7e19c,METROW-2549bd,2015-04-27T07:51:22Z,2015-04-27T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-620d-8fa20650e9f2,METROW-2549bd,2015-05-25T07:51:22Z,2015-05-25T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-d05d-99dd37f126f9,METROW-2549bd,2015-06-06T13:01:22Z,2015-06-06T13:29:09Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-561a-963c0835620c,METROW-2549bd,2015-06-22T07:51:22Z,2015-06-22T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-8383-96f6b347ce5d,METROW-2549bd,2015-07-20T07:51:22Z,2015-07-20T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-fb90-03f8c7f7e73d,METROW-2549bd,2015-08-03T07:51:22Z,2015-08-03T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-1a26-b9f15d8f463c,METROW-2549bd,2015-08-10T07:51:22Z,2015-08-10T08:51:22Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),KINDRED HOSPICE
+2211f478-b7b4-7711-4024-4057ec28784c,METROW-2549bd,2015-09-02T13:29:09Z,2015-09-02T14:01:14Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-8566-706271053729,METROW-2549bd,2015-09-07T07:51:22Z,2015-09-07T11:01:10Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-33ca-7c8263068148,METROW-2549bd,2015-09-21T07:51:22Z,2015-09-21T08:06:22Z,ambulatory,Postnatal visit (regime/therapy),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-952b-3c8f09c8df1d,METROW-2549bd,2015-10-14T07:51:22Z,2015-10-14T08:06:22Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-f810-a21f7d451ee4,METROW-2549bd,2015-10-31T13:43:55Z,2015-10-31T14:27:55Z,ambulatory,Ophthalmic examination and evaluation (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-a1fe-9005c0b64fbb,METROW-2549bd,2015-12-02T14:01:14Z,2015-12-02T14:44:19Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-e11c-09f63123f310,METROW-2549bd,2015-12-21T07:51:22Z,2015-12-21T08:22:50Z,outpatient,Encounter for check up (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-b65e-38f39b85367f,METROW-2549bd,2016-01-18T07:51:22Z,2016-01-18T08:50:23Z,outpatient,Encounter for check up (procedure),,MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-f442-6813692e1397,METROW-2549bd,2016-02-15T07:51:22Z,2016-02-15T08:44:09Z,wellness,General examination of patient (procedure),,ASSABET FAMILY PODIATRY  INC
+2211f478-b7b4-7711-e0ef-6d8e77230e72,METROW-2549bd,2016-03-02T14:44:19Z,2016-03-02T15:32:10Z,ambulatory,Encounter for check up (procedure),Cystic fibrosis (disorder),MARLBOROUGH HOSPITAL CORP
+2211f478-b7b4-7711-6ac4-d082185e9b20,METROW-2549bd,2016-06-03T15:32:10Z,2016-06-03T17:41:28Z,emergency,Emergency room admission (procedure),Sepsis caused by Staphylococcus aureus (disorder),KINDRED HOSPICE
+2211f478-b7b4-7711-c3cf-c260af366446,METROW-2549bd,2016-06-13T07:51:22Z,2016-06-13T08:06:22Z,wellness,Death Certification,Sepsis caused by Pseudomonas (disorder),ASSABET FAMILY PODIATRY  INC
+e503e9b3-d149-653b-7280-07d85636cde6,METROW-f81d19,1995-11-15T23:39:51Z,1995-11-15T23:57:27Z,ambulatory,Follow-up encounter (procedure),Adolescent idiopathic scoliosis (disorder),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-263d-d83b3d9020a2,METROW-f81d19,2001-10-08T07:51:22Z,2001-10-08T08:06:22Z,wellness,Well child visit (procedure),,DR. HE'S PRIMARY CARE FOR ADULTS INC
+e503e9b3-d149-653b-ac32-eda69f4d42c1,METROW-f81d19,2002-10-14T07:51:22Z,2002-10-14T08:26:25Z,wellness,General examination of patient (procedure),,DR. HE'S PRIMARY CARE FOR ADULTS INC
+e503e9b3-d149-653b-a536-cca0cbc06b1e,METROW-f81d19,2007-03-12T07:51:22Z,2007-03-12T08:06:22Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-ac10-e39d4b9ec777,METROW-f81d19,2009-10-26T07:51:22Z,2009-10-26T08:23:14Z,wellness,General examination of patient (procedure),,DR. HE'S PRIMARY CARE FOR ADULTS INC
+e503e9b3-d149-653b-3ffa-062b5ac17d65,METROW-f81d19,2009-11-02T07:51:22Z,2009-11-02T08:57:13Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-ac5d-46444e967cb2,METROW-f81d19,2014-10-13T07:51:22Z,2014-10-13T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-6a3a-59b59eb91605,METROW-f81d19,2014-12-29T07:51:22Z,2014-12-29T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Fetus with chromosomal abnormality (disorder),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-bf5c-a70a46442f0f,METROW-f81d19,2015-11-02T07:51:22Z,2015-11-02T08:41:39Z,wellness,General examination of patient (procedure),,DR. HE'S PRIMARY CARE FOR ADULTS INC
+e503e9b3-d149-653b-ed8f-c1687b5e6edf,METROW-f81d19,2016-07-30T08:23:17Z,2016-07-30T08:38:17Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-7b61-31b21a173c16,METROW-f81d19,2016-11-14T07:51:22Z,2016-11-14T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-4387-a11bebf38b92,METROW-f81d19,2017-02-13T07:51:22Z,2017-02-13T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-ac80-b9b48cd67d89,METROW-f81d19,2017-05-15T07:51:22Z,2017-05-15T08:11:21Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-4eaf-0a52c9f697ba,METROW-f81d19,2017-07-25T08:23:17Z,2017-07-25T08:38:17Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-7e3d-cca237d357a5,METROW-f81d19,2017-08-14T07:51:22Z,2017-08-14T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-dbf4-3f426462f811,METROW-f81d19,2017-11-13T07:51:22Z,2017-11-13T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-2760-c1deba2a297a,METROW-f81d19,2018-02-12T07:51:22Z,2018-02-12T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-1ca0-0bf8f83371da,METROW-f81d19,2018-05-14T07:51:22Z,2018-05-14T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-8321-58d6fa829d64,METROW-f81d19,2018-07-20T08:23:17Z,2018-07-20T08:58:17Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-adf5-1b9304644d5f,METROW-f81d19,2018-08-13T07:51:22Z,2018-08-13T08:10:24Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-3cb3-3bca83381510,METROW-f81d19,2018-11-05T07:51:22Z,2018-11-05T08:27:25Z,wellness,General examination of patient (procedure),,DR. HE'S PRIMARY CARE FOR ADULTS INC
+e503e9b3-d149-653b-1569-2b477bbd3224,METROW-f81d19,2018-11-12T07:51:22Z,2018-11-12T08:07:48Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-5fb3-e1213db51c2e,METROW-f81d19,2018-11-19T07:51:22Z,2018-11-19T10:42:15Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-0d4e-b23edd3d34be,METROW-f81d19,2019-02-11T07:51:22Z,2019-02-11T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-0f65-9acbc493a971,METROW-f81d19,2019-05-13T07:51:22Z,2019-05-13T08:11:01Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-af25-7352fa22f187,METROW-f81d19,2019-08-12T07:51:22Z,2019-08-12T08:07:40Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-66d0-25729677c5ab,METROW-f81d19,2019-11-11T07:51:22Z,2019-11-11T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-5b1b-525a141e756e,METROW-f81d19,2020-02-10T07:51:22Z,2020-02-10T08:09:34Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-1f6e-7bfc3c14600f,METROW-f81d19,2020-05-11T07:51:22Z,2020-05-11T08:10:01Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-b175-98a10da01e84,METROW-f81d19,2020-07-09T08:58:17Z,2020-07-09T09:13:17Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-c8e5-799cd251064c,METROW-f81d19,2020-07-11T17:58:17Z,2020-07-11T18:53:19Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-3136-f48a7caaad79,METROW-f81d19,2020-08-10T07:51:22Z,2020-08-10T08:06:22Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-6399-4ebb4d5877a0,METROW-f81d19,2020-11-09T07:51:22Z,2020-11-09T08:10:21Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-5aa4-1b7b1df7b606,METROW-f81d19,2021-02-08T07:51:22Z,2021-02-08T08:07:17Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-5245-4e6dc1fb9c36,METROW-f81d19,2021-05-10T07:51:22Z,2021-05-10T08:07:59Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-e7bc-a85f5bcdd9b1,METROW-f81d19,2021-06-04T01:51:22Z,2021-06-04T02:06:22Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-8ffa-eb6415477b0e,METROW-f81d19,2021-08-09T07:51:22Z,2021-08-09T08:06:22Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-f301-4409f0ffa260,METROW-f81d19,2021-08-09T07:51:22Z,2021-08-09T08:07:24Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-f31a-683cdadda409,METROW-f81d19,2021-08-30T07:51:22Z,2021-08-30T08:06:22Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-1226-7d518d871b57,METROW-f81d19,2021-11-08T07:51:22Z,2021-11-08T08:37:21Z,wellness,General examination of patient (procedure),,DR. HE'S PRIMARY CARE FOR ADULTS INC
+e503e9b3-d149-653b-260a-20d324a07795,METROW-f81d19,2021-11-15T07:51:22Z,2021-11-15T08:08:47Z,outpatient,Patient encounter procedure (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-e95c-303764da10c1,METROW-f81d19,2022-02-21T07:51:22Z,2022-02-21T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-28a2-4286144bf89f,METROW-f81d19,2022-03-21T07:51:22Z,2022-03-21T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-6ca7-8a42a97884c4,METROW-f81d19,2022-04-18T07:51:22Z,2022-04-18T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-5b70-6c3104d96e51,METROW-f81d19,2022-05-16T07:51:22Z,2022-05-16T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-0a52-22852df56ee3,METROW-f81d19,2022-06-13T07:51:22Z,2022-06-13T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-2836-8b63ed1bd51e,METROW-f81d19,2022-07-11T07:51:22Z,2022-07-11T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-43b1-e79e55e7db37,METROW-f81d19,2022-08-08T07:51:22Z,2022-08-08T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-5487-835fdc2bdc53,METROW-f81d19,2022-09-05T07:51:22Z,2022-09-05T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-fe8d-ef7576ef58e5,METROW-f81d19,2022-09-19T07:51:22Z,2022-09-19T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-2f5d-1ef79dff1811,METROW-f81d19,2022-09-26T07:51:22Z,2022-09-26T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-cf9b-960ad1d1a27e,METROW-f81d19,2022-10-03T07:51:22Z,2022-10-03T08:51:22Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),KINDRED HOSPICE
+e503e9b3-d149-653b-d53d-0533bd94c8a9,METROW-f81d19,2022-11-14T07:51:22Z,2022-11-14T08:06:22Z,ambulatory,Postnatal visit (regime/therapy),,MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-0562-c4421221e644,METROW-f81d19,2022-11-21T07:51:22Z,2022-11-21T08:06:22Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-c81b-1f4212b8780c,METROW-f81d19,2023-11-16T07:51:22Z,2023-11-16T08:06:22Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-a01b-9241bfd8b58d,METROW-f81d19,2024-10-14T07:51:22Z,2024-10-14T08:43:15Z,wellness,General examination of patient (procedure),,DR. HE'S PRIMARY CARE FOR ADULTS INC
+e503e9b3-d149-653b-f55a-fd8dabbfc570,METROW-f81d19,2024-10-28T07:51:22Z,2024-10-28T11:39:15Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-9dee-6592fd4713b5,METROW-f81d19,2025-01-13T07:51:22Z,2025-01-13T08:06:22Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-f4c7-19dfe6ddcb8f,METROW-f81d19,2025-02-10T07:51:22Z,2025-02-10T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-9ffb-42e0388d1112,METROW-f81d19,2025-03-10T07:51:22Z,2025-03-10T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-190d-7fe4ee0432df,METROW-f81d19,2025-04-07T07:51:22Z,2025-04-07T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-6d73-b9c040acdcab,METROW-f81d19,2025-05-05T07:51:22Z,2025-05-05T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-a3c6-d23e37df685f,METROW-f81d19,2025-06-02T07:51:22Z,2025-06-02T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-4b90-bf909239a1d8,METROW-f81d19,2025-06-30T07:51:22Z,2025-06-30T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-3020-60ffbfbb70d0,METROW-f81d19,2025-07-28T07:51:22Z,2025-07-28T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-edcd-d49f8b17df7d,METROW-f81d19,2025-08-11T07:51:22Z,2025-08-11T08:06:22Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-3594-7286bed2eb1e,METROW-f81d19,2025-08-18T07:51:22Z,2025-08-18T08:51:22Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),KINDRED HOSPICE
+e503e9b3-d149-653b-7e76-110b2caf7ab0,METROW-f81d19,2025-09-29T07:51:22Z,2025-09-29T08:06:22Z,ambulatory,Postnatal visit (regime/therapy),,MARLBOROUGH HOSPITAL CORP
+e503e9b3-d149-653b-0e17-773b22b5d8e7,METROW-f81d19,2025-11-05T07:51:22Z,2025-11-05T08:06:22Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),MARLBOROUGH HOSPITAL CORP
+82623afe-e51c-e02e-0cb3-b28c7cac5886,METROW-0fe329,2015-12-20T00:32:02Z,2015-12-20T00:47:02Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-951b-742e3d75b81a,METROW-0fe329,2016-12-25T00:32:02Z,2016-12-25T00:47:02Z,wellness,Well child visit (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-c81f-82e3d0155690,METROW-0fe329,2017-12-31T00:32:02Z,2017-12-31T01:21:14Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-57e8-10a8b750cac9,METROW-0fe329,2019-01-06T00:32:02Z,2019-01-06T01:02:19Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-6ba4-526e6f5ed82d,METROW-0fe329,2020-01-12T00:32:02Z,2020-01-12T01:06:38Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-a8c6-d9d6018d74ef,METROW-0fe329,2020-12-16T02:41:57Z,2020-12-16T03:41:57Z,emergency,Emergency room admission (procedure),Sprain (morphologic abnormality),LIFE CARE CENTER OF ACTON
+82623afe-e51c-e02e-265d-7e24a56c65a7,METROW-0fe329,2021-01-17T00:32:02Z,2021-01-17T01:25:28Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-cbd9-11ba59c70bb8,METROW-0fe329,2022-01-23T00:32:02Z,2022-01-23T01:25:06Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-23d8-5e4116a153bb,METROW-0fe329,2022-11-06T00:32:02Z,2022-11-06T01:32:02Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),LIFE CARE CENTER OF ACTON
+82623afe-e51c-e02e-1670-3b9a7c76e22f,METROW-0fe329,2023-01-29T00:32:02Z,2023-01-29T01:17:07Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-1036-158a3bf7a88f,METROW-0fe329,2024-02-04T00:32:02Z,2024-02-04T01:20:04Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-d700-e0e85f508954,METROW-0fe329,2025-02-09T00:32:02Z,2025-02-09T01:20:24Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+82623afe-e51c-e02e-d36f-650f95794f9f,METROW-0fe329,2025-06-22T00:32:02Z,2025-06-22T01:32:02Z,emergency,Obstetric emergency hospital admission (procedure),Normal pregnancy (finding),LIFE CARE CENTER OF ACTON
+82623afe-e51c-e02e-32af-9f11d587a9ee,METROW-0fe329,2026-02-15T00:32:02Z,2026-02-15T01:23:02Z,wellness,General examination of patient (procedure),,CONCORD INTERNAL MEDICINE ASSOCIATES  P.C.
+1426480f-ccc7-2393-b622-87ea0962cdd4,METROW-f498eb,1965-09-18T05:58:50Z,1965-09-18T06:13:50Z,ambulatory,Encounter for symptom (procedure),Perennial allergic rhinitis with seasonal variation (disorder),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-56c7-2d4bb4f6e93b,METROW-f498eb,1965-09-24T22:58:50Z,1965-09-24T23:13:50Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-c230-9e7b9072c674,METROW-f498eb,1980-02-11T05:58:50Z,1980-02-11T06:28:55Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-d1fe-b9f14b909cb8,METROW-f498eb,1990-02-26T05:58:50Z,1990-02-26T06:45:45Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-e0a0-a3c4f3ca7908,METROW-f498eb,2003-04-14T05:58:50Z,2003-04-21T21:58:50Z,emergency,Encounter for problem (procedure),Sepsis (disorder),ALLIANCE HEALTH AT MARIE ESTHER
+1426480f-ccc7-2393-662a-d1309441af5c,METROW-f498eb,2010-01-11T05:58:50Z,2010-01-11T06:58:05Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-1f8a-f356e4233b45,METROW-f498eb,2014-02-05T05:58:50Z,2014-02-05T06:13:50Z,outpatient,Encounter for problem (procedure),Chronic pain (finding),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-8bf6-8bf5565e5fc7,METROW-f498eb,2015-02-09T05:58:50Z,2015-02-09T06:30:34Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-77e6-157bb2075514,METROW-f498eb,2016-02-15T05:58:50Z,2016-02-15T06:52:31Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-e2c0-24a100d0e046,METROW-f498eb,2017-02-20T05:58:50Z,2017-02-20T06:29:34Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-33b2-7b9e82a87eca,METROW-f498eb,2017-09-12T15:58:50Z,2017-09-12T16:13:50Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-d287-fad18b41007d,METROW-f498eb,2018-02-26T05:58:50Z,2018-02-26T06:33:33Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-d275-c5b3612bc472,METROW-f498eb,2019-03-04T05:58:50Z,2019-03-04T06:58:35Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-ef8d-1395aba0059c,METROW-f498eb,2019-03-18T05:58:50Z,2019-03-18T09:43:15Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-c85f-8f256eec6720,METROW-f498eb,2020-03-09T05:58:50Z,2020-03-09T06:50:47Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-072d-afa1df03bc87,METROW-f498eb,2020-08-17T16:58:50Z,2020-08-17T17:13:50Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-4b64-c63016abef5b,METROW-f498eb,2021-03-15T05:58:50Z,2021-03-15T06:56:49Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-eaf9-8fd9f528351a,METROW-f498eb,2021-03-29T05:58:50Z,2021-03-29T09:36:44Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-3df7-451685bc150f,METROW-f498eb,2021-05-24T05:58:50Z,2021-05-24T06:13:50Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-097f-5ebb68644759,METROW-f498eb,2021-06-21T05:58:50Z,2021-06-21T06:13:50Z,outpatient,Administration of vaccine to produce active immunity (procedure),,MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-582c-57668e872b0f,METROW-f498eb,2022-02-11T05:58:50Z,2022-02-11T06:58:50Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),ALLIANCE HEALTH AT MARIE ESTHER
+1426480f-ccc7-2393-a2ee-9878083f565f,METROW-f498eb,2022-03-21T05:58:50Z,2022-03-21T06:36:31Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-e8f1-dd91b7a7513f,METROW-f498eb,2023-02-18T06:13:33Z,2023-02-18T07:13:33Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),ALLIANCE HEALTH AT MARIE ESTHER
+1426480f-ccc7-2393-068e-54c212a08bc3,METROW-f498eb,2023-03-27T05:58:50Z,2023-03-27T06:44:02Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-9eb2-14cfef2023ba,METROW-f498eb,2023-04-10T05:58:50Z,2023-04-10T09:32:55Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-b0b5-966fe4aad8ee,METROW-f498eb,2024-01-13T22:58:50Z,2024-01-13T23:13:50Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-1dff-3d15e6fd3ea6,METROW-f498eb,2024-04-01T05:58:50Z,2024-04-01T06:33:02Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-4f6a-d16cd09105e1,METROW-f498eb,2025-04-07T05:58:50Z,2025-04-07T06:45:29Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-0803-4519355e891a,METROW-f498eb,2025-04-21T05:58:50Z,2025-04-21T09:50:14Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARLBOROUGH HOSPITAL CORP
+1426480f-ccc7-2393-7eab-22ee566b8fd8,METROW-f498eb,2026-04-13T05:58:50Z,2026-04-13T06:35:11Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+1426480f-ccc7-2393-0b9e-1f2847df7759,METROW-f498eb,2026-04-27T05:58:50Z,2026-04-27T11:36:12Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),MARLBOROUGH HOSPITAL CORP
+afb99eee-0bd5-8853-15a5-2be3e2e32e77,METROW-1bc0a3,2013-11-15T08:46:09Z,2013-11-15T09:01:09Z,wellness,Well child visit (procedure),,PALMER FAMILY SERVICES LLC
+afb99eee-0bd5-8853-3805-cd952ecc5205,METROW-1bc0a3,2015-11-27T08:46:09Z,2015-11-27T09:01:09Z,wellness,Well child visit (procedure),,PALMER FAMILY SERVICES LLC
+afb99eee-0bd5-8853-0faa-17a3365a3087,METROW-1bc0a3,2016-12-02T08:46:09Z,2016-12-02T09:28:38Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+afb99eee-0bd5-8853-90d1-e852cf94376a,METROW-1bc0a3,2017-12-08T08:46:09Z,2017-12-08T09:39:34Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+afb99eee-0bd5-8853-f8a5-482b91ef8676,METROW-1bc0a3,2020-12-11T08:46:09Z,2020-12-11T09:32:58Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+afb99eee-0bd5-8853-09c5-6851ed87cd4f,METROW-1bc0a3,2023-12-15T08:46:09Z,2023-12-15T09:43:03Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-b4bb-0a4d9109b5fc,METROW-c414c1,2001-07-25T02:56:05Z,2001-07-25T03:12:32Z,wellness,Well child visit (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-cdd8-cc9cb065766b,METROW-c414c1,2003-08-06T02:56:05Z,2003-08-06T03:30:08Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-e100-75afc3eb2b59,METROW-c414c1,2015-09-02T02:56:05Z,2015-09-02T03:50:07Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-3e3d-e5681d587a20,METROW-c414c1,2016-09-07T02:56:05Z,2016-09-07T03:54:44Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-b5bb-442ce514d044,METROW-c414c1,2017-09-13T02:56:05Z,2017-09-13T03:31:31Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-d193-226822c2b206,METROW-c414c1,2018-09-19T02:56:05Z,2018-09-19T03:52:42Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-94de-709570a0e6ad,METROW-c414c1,2019-09-25T02:56:05Z,2019-09-25T03:55:38Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-6bcf-83aaefd136d9,METROW-c414c1,2020-09-30T02:56:05Z,2020-09-30T03:54:37Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-ea5f-befb62c6a10d,METROW-c414c1,2021-10-06T02:56:05Z,2021-10-06T03:41:35Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-440f-d5968d40d953,METROW-c414c1,2022-10-12T02:56:05Z,2022-10-12T03:30:09Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-d625-857794e18e71,METROW-c414c1,2023-10-18T02:56:05Z,2023-10-18T03:43:53Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-f0c2-bbc4ad58eb48,METROW-c414c1,2024-10-23T02:56:05Z,2024-10-23T03:40:18Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+46fcc34a-97a1-f038-7ddb-8f7b34964e31,METROW-c414c1,2025-10-29T02:56:05Z,2025-10-29T03:47:21Z,wellness,General examination of patient (procedure),,PALMER FAMILY SERVICES LLC
+6c4283c9-228b-2774-2eb7-5438fa1a67bf,METROW-c330ba,2002-10-10T09:23:55Z,2002-10-10T09:38:55Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+6c4283c9-228b-2774-ea88-056fbac733c7,METROW-c330ba,2004-01-24T17:23:55Z,2004-01-24T18:17:31Z,wellness,General examination of patient (procedure),,APPLE MEDICAL CLINIC MA INC
+6c4283c9-228b-2774-6722-5d93ecde9b63,METROW-c330ba,2008-02-02T17:23:55Z,2008-02-02T18:01:07Z,wellness,General examination of patient (procedure),,APPLE MEDICAL CLINIC MA INC
+6c4283c9-228b-2774-a411-ef7ccbed7d33,METROW-c330ba,2014-02-08T17:23:55Z,2014-02-08T18:09:55Z,wellness,General examination of patient (procedure),,APPLE MEDICAL CLINIC MA INC
+6c4283c9-228b-2774-3553-acf37271f642,METROW-c330ba,2017-02-11T17:23:55Z,2017-02-11T17:54:48Z,wellness,General examination of patient (procedure),,APPLE MEDICAL CLINIC MA INC
+6c4283c9-228b-2774-aba6-52c67258b141,METROW-c330ba,2017-02-25T17:23:55Z,2017-02-25T20:40:37Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+6c4283c9-228b-2774-33eb-9530ace867be,METROW-c330ba,2019-10-17T20:23:55Z,2019-10-17T20:38:55Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+6c4283c9-228b-2774-ce5b-e47a6bcb6b58,METROW-c330ba,2020-02-15T17:23:55Z,2020-02-15T17:59:43Z,wellness,General examination of patient (procedure),,APPLE MEDICAL CLINIC MA INC
+6c4283c9-228b-2774-fc3f-930a19118264,METROW-c330ba,2020-02-22T17:23:55Z,2020-02-22T18:31:50Z,ambulatory,Encounter for problem (procedure),Anemia (disorder),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+6c4283c9-228b-2774-120c-a8dad592b537,METROW-c330ba,2020-03-07T17:23:55Z,2020-03-07T23:35:20Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+6c4283c9-228b-2774-2ecd-23605fbffc3a,METROW-c330ba,2021-02-06T17:23:55Z,2021-02-06T17:38:55Z,outpatient,Administration of vaccine to produce active immunity (procedure),,ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+6c4283c9-228b-2774-4c2e-5f297d1a47b2,METROW-c330ba,2021-02-27T17:23:55Z,2021-02-27T17:38:55Z,outpatient,Administration of vaccine to produce active immunity (procedure),,ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+6c4283c9-228b-2774-b59d-cebb9b8ac5f2,METROW-c330ba,2023-02-18T17:23:55Z,2023-02-18T18:03:56Z,wellness,General examination of patient (procedure),,APPLE MEDICAL CLINIC MA INC
+6c4283c9-228b-2774-aa27-8bdbb87a9904,METROW-c330ba,2025-12-06T17:23:55Z,2025-12-06T18:06:04Z,wellness,General examination of patient (procedure),,APPLE MEDICAL CLINIC MA INC
+9c26986a-d81d-62f0-ecce-961c5addb697,METROW-d2f872,2014-03-26T01:34:42Z,2014-03-26T02:01:20Z,wellness,Well child visit (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+9c26986a-d81d-62f0-6c15-a006bccb0aa7,METROW-d2f872,2016-04-06T01:34:42Z,2016-04-06T02:11:10Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+9c26986a-d81d-62f0-9319-d9ec7c28f0dd,METROW-d2f872,2017-04-12T01:34:42Z,2017-04-12T02:32:29Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+9c26986a-d81d-62f0-ced6-1fdd19ea1a7d,METROW-d2f872,2020-04-15T01:34:42Z,2020-04-15T02:33:59Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+9c26986a-d81d-62f0-8bdd-28220c4b3d21,METROW-d2f872,2023-04-19T01:34:42Z,2023-04-19T02:23:49Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC
+9c26986a-d81d-62f0-b5da-a7003996997d,METROW-d2f872,2026-04-22T01:34:42Z,2026-04-22T02:07:24Z,wellness,General examination of patient (procedure),,COMPASSIONATE CARE INTERNAL MEDICINE  LLC

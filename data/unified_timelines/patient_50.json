@@ -1,0 +1,300 @@
+{
+  "cluster_id": "50",
+  "hospitals": [
+    "MetroWest Health Partners",
+    "Worcester Regional Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2004-08-08",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC",
+      "entities": []
+    },
+    {
+      "date": "2014-08-24",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC",
+      "entities": []
+    },
+    {
+      "date": "2016-05-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CAREWELL URGENT CARE CENTERS OF MA  PC",
+      "entities": []
+    },
+    {
+      "date": "2017-08-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC",
+      "entities": []
+    },
+    {
+      "date": "2018-05-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2018-05-28",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinus",
+          "canonical": "Viral sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-20"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinusitis",
+          "canonical": "Viral sinusitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2018-06-20"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-30",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-13"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Unhealthy alcohol",
+          "canonical": "Unhealthy alcohol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-09-03"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-13",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-09-13T22:40:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2021-05-23",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2021-09-06",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Localized  primary osteoarthritis of the hand (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "primary osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "osteoarthritis",
+          "canonical": "Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-16",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "emergency",
+      "reason": "Fracture of mandible (disorder)",
+      "seen_at": "BAYADA HOME HEALTH CARE  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Meperidine Hydrochloride",
+          "canonical": "Meperidine Hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-02T20:03:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-02T23:13:27Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-27",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of mandible (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-27T22:34:03Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-02",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Fracture of mandible (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "fracture",
+          "canonical": "Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2023-09-03",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC",
+      "entities": []
+    },
+    {
+      "date": "2023-09-17",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": []
+    },
+    {
+      "date": "2026-06-21",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "MIDDLESEX INTERNAL MEDICINE ASSOCIATES  INC",
+      "entities": []
+    },
+    {
+      "date": "2026-07-05",
+      "hospital": "MetroWest Health Partners",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "MARLBOROUGH HOSPITAL CORP",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-07-05T23:19:55Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Viral sinusitis",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingivitis",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Localized  primary osteoarthritis of the hand",
+      "reported_by": [
+        "MetroWest Health Partners"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

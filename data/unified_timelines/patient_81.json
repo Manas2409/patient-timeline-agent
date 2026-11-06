@@ -1,0 +1,740 @@
+{
+  "cluster_id": "81",
+  "hospitals": [
+    "North Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "2007-02-18",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "higher education",
+          "canonical": "higher education",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2011-02-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2014-03-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Limited",
+          "canonical": "Limited",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-04-12"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "contact",
+          "canonical": "contact",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-04-12"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2017-12-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2017-12-29",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2018-01-16",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2018-12-02",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2018-12-30",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2019-01-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-02-14"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Fetus with chromosomal abnormality (disorder)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2020-03-08",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-04-12"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-08T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-08T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-22T17:37:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-07",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Essential hypertension (disorder)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-14T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-06-05T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-06-05T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-05T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-06-05T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-05T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-05T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ness",
+          "canonical": "ness",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-06-05T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time employment",
+          "canonical": "Full-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-11-06"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-20T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-20T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2022-03-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight",
+          "canonical": "weight",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-06T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-06T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2022-07-21",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2022-08-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2022-08-21",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-08-16T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-30",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-25"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinusitis",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-25"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-22",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bronchitis",
+          "canonical": "Acute bronchitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-13"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-11-13"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "itis",
+          "canonical": "itis",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-11-13"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-13T14:13:27Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-06",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "SEA VIEW CONVALESCENT AND NURSING HOME",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-13T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-13T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-13",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "MIDDLETON FAMILY MEDICINE URGENT CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-20T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-20T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "time",
+          "canonical": "time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-03-26"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-26T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-03-26T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-27T17:47:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-04",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2023-03-26",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-31T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-03-31T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-16",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-08-10T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-08-10T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-31",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-06T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-06T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-14",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-14T17:36:14Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-10",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "outpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2024-08-19",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "inpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": []
+    },
+    {
+      "date": "2025-04-06",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "anxiety",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-12T14:54:53Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-12T14:54:53Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "ANNA JAQUES HOSPITAL SUBACUTE UNIT",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-20T17:15:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-27",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "SEA VIEW CONVALESCENT AND NURSING HOME",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-05-18T15:20:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-12",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "HOLISTIC FAMILY PRACTICE  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

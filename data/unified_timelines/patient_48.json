@@ -1,0 +1,269 @@
+{
+  "cluster_id": "48",
+  "hospitals": [
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2015-09-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2016-09-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2016-10-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-02T09:33:50Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-10-02T09:33:50Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-10-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-10-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-10-14T09:31:37Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-10-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-10-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2022-10-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2022-11-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-11-06T08:57:15Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-05",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2023-11-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-12-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2024-10-22",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "aryng",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-10-29"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2024-11-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-10-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "TEWKSBURY HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "drospirenone",
+          "canonical": "drospirenone",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-06-19",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "emergency",
+      "reason": "Injury of knee (disorder)",
+      "seen_at": "LOWELL COMMUNITY HEALTH CENTER",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "injury",
+          "canonical": "Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "tear",
+          "canonical": "tear",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-08-05T06:40:30Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,278 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,ENCOUNTERCLASS,DESCRIPTION,REASONDESCRIPTION,SEEN_AT
+9a3814bb-f5b0-05f3-3c53-f8c9735ec82c,SOUTHC-ac561e,2016-04-03T02:15:31Z,2016-04-03T02:30:31Z,ambulatory,Encounter for problem (procedure),Tree nut (substance),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-7f8d-c24687b1fda7,SOUTHC-ac561e,2016-04-13T17:15:31Z,2016-04-13T17:52:21Z,ambulatory,Encounter for problem (procedure),Allergic disposition (finding),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-8607-12bcd1ea3eba,SOUTHC-ac561e,2017-09-07T02:15:31Z,2017-09-07T02:30:31Z,ambulatory,Encounter for symptom (procedure),Childhood asthma (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-6f85-20b8fe1a53e0,SOUTHC-ac561e,2018-03-06T02:15:31Z,2018-03-06T02:30:31Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-e0dc-309e11331886,SOUTHC-ac561e,2018-06-17T02:15:31Z,2018-06-17T02:36:30Z,outpatient,Encounter for check up (procedure),,BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-230f-6985db10794d,SOUTHC-ac561e,2018-07-01T02:15:31Z,2018-07-01T06:18:24Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-2250-ae200a0ef6f1,SOUTHC-ac561e,2018-07-08T02:15:31Z,2018-07-08T02:30:31Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-a43f-3241e9cb896f,SOUTHC-ac561e,2018-09-04T02:15:31Z,2018-09-04T02:30:31Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-dc32-28cb99d5b416,SOUTHC-ac561e,2018-09-30T02:15:31Z,2018-09-30T02:30:31Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-4909-86e1cbc82d22,SOUTHC-ac561e,2018-10-27T02:15:31Z,2018-10-27T02:30:31Z,ambulatory,Encounter for symptom (procedure),Perennial allergic rhinitis with seasonal variation (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-0942-95c84e537b88,SOUTHC-ac561e,2019-02-03T02:15:31Z,2019-02-03T04:20:25Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-6ea8-79f53ba33c72,SOUTHC-ac561e,2019-02-10T02:15:31Z,2019-02-10T02:30:31Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-6f9f-4d5f03daf23a,SOUTHC-ac561e,2019-03-01T02:15:31Z,2019-03-01T02:30:31Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-173a-1276dc11f969,SOUTHC-ac561e,2020-05-28T15:15:31Z,2020-05-28T15:30:31Z,ambulatory,Encounter for problem (procedure),Tree nut (substance),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-4c97-bdf8295b8a0b,SOUTHC-ac561e,2020-08-22T02:15:31Z,2020-08-22T02:30:31Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-9d5d-5b85d9fc6d0c,SOUTHC-ac561e,2021-07-11T02:15:31Z,2021-07-11T05:50:12Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-38a7-d04d770223c1,SOUTHC-ac561e,2022-02-13T02:15:31Z,2022-02-13T02:30:31Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-f853-69d65aca1542,SOUTHC-ac561e,2023-07-23T02:15:31Z,2023-07-23T06:26:17Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-d5d2-0e67c98717f7,SOUTHC-ac561e,2023-08-07T02:15:31Z,2023-08-07T02:30:31Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-f3c7-7e3f60d12ec1,SOUTHC-ac561e,2024-11-01T00:15:31Z,2024-11-01T00:30:31Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-e4d0-1f4e3f48d49e,SOUTHC-ac561e,2024-11-17T02:15:31Z,2024-11-17T08:32:27Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-8f6e-9a15b5a948c0,SOUTHC-ac561e,2025-08-05T03:15:31Z,2025-08-05T03:30:31Z,ambulatory,Asthma follow-up (regime/therapy),Childhood asthma (disorder),BROCKTON HOSPITAL  INC.
+9a3814bb-f5b0-05f3-8a36-71495c57357a,SOUTHC-ac561e,2026-08-09T02:15:31Z,2026-08-09T04:35:01Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BROCKTON HOSPITAL  INC.
+f30304ab-8e45-1cbd-3e8a-2add4a50516f,SOUTHC-9ae386,2017-03-17T02:08:41Z,2017-03-17T02:23:41Z,outpatient,Encounter for check up (procedure),,STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-265d-c570cd8ff12f,SOUTHC-9ae386,2017-03-24T02:08:41Z,2017-03-24T02:23:41Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-00d1-4b52f051a7d4,SOUTHC-9ae386,2017-09-23T02:08:41Z,2017-09-23T02:23:41Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-1ac5-2f61265d7bef,SOUTHC-9ae386,2017-11-05T20:08:41Z,2017-11-05T20:23:41Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-0d13-378caf6b943b,SOUTHC-9ae386,2018-01-19T02:08:41Z,2018-01-19T05:30:14Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-d4b6-ec39d16a0d0a,SOUTHC-9ae386,2018-11-24T02:08:41Z,2018-11-24T02:23:41Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-911a-7b54fd7a3640,SOUTHC-9ae386,2019-01-18T02:08:41Z,2019-01-18T05:00:53Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-7179-0e4e3460b397,SOUTHC-9ae386,2020-03-02T02:08:41Z,2020-03-02T02:23:41Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-b3df-26028bc9bb51,SOUTHC-9ae386,2023-02-10T02:08:41Z,2023-02-10T05:35:21Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-c85e-8943b2aa3963,SOUTHC-9ae386,2023-03-25T11:08:41Z,2023-03-25T11:23:41Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-bafe-9353b65fda12,SOUTHC-9ae386,2023-08-25T05:08:41Z,2023-08-25T05:23:41Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-7040-1a04104db872,SOUTHC-9ae386,2024-01-06T03:08:41Z,2024-01-06T03:23:41Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),STURDY MEMORIAL HOSPITAL INC
+f30304ab-8e45-1cbd-c58a-7ed6222e947f,SOUTHC-9ae386,2025-02-21T02:08:41Z,2025-02-21T05:39:23Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),STURDY MEMORIAL HOSPITAL INC
+e34a6a5e-1d77-508d-b2d5-c8bd57af7d5a,SOUTHC-5aa69b,2017-07-28T15:58:38Z,2017-07-28T16:19:26Z,wellness,Well child visit (procedure),,LAKESIDE FAMILY PRACTICE
+e34a6a5e-1d77-508d-c128-551e959572f0,SOUTHC-5aa69b,2018-08-03T15:58:38Z,2018-08-03T16:20:22Z,wellness,Well child visit (procedure),,LAKESIDE FAMILY PRACTICE
+e34a6a5e-1d77-508d-d5b0-c8501f3ec0e2,SOUTHC-5aa69b,2018-08-17T15:58:38Z,2018-08-17T22:53:49Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-d254-c976e950054d,SOUTHC-5aa69b,2019-08-09T15:58:38Z,2019-08-09T16:24:47Z,wellness,Well child visit (procedure),,LAKESIDE FAMILY PRACTICE
+e34a6a5e-1d77-508d-5ccb-6650ff7a6211,SOUTHC-5aa69b,2020-06-21T15:58:38Z,2020-06-21T16:13:38Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-7a77-e15f104d697e,SOUTHC-5aa69b,2020-08-14T15:58:38Z,2020-08-14T16:19:35Z,wellness,Well child visit (procedure),,LAKESIDE FAMILY PRACTICE
+e34a6a5e-1d77-508d-77a5-a9466c0dc37b,SOUTHC-5aa69b,2021-04-09T15:58:38Z,2021-04-09T16:13:38Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-a025-6feca335d77c,SOUTHC-5aa69b,2021-04-24T15:58:38Z,2021-04-24T16:13:38Z,ambulatory,Patient-initiated encounter (procedure),Normal pregnancy (finding),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-5db0-8397e971a90d,SOUTHC-5aa69b,2021-05-13T15:58:38Z,2021-05-13T16:13:38Z,ambulatory,Prenatal visit (regime/therapy),Normal pregnancy (finding),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-ef63-a951fa0fba76,SOUTHC-5aa69b,2021-08-20T15:58:38Z,2021-08-20T16:23:51Z,wellness,Well child visit (procedure),,LAKESIDE FAMILY PRACTICE
+e34a6a5e-1d77-508d-7f32-92674319982c,SOUTHC-5aa69b,2021-08-27T15:58:38Z,2021-08-27T16:13:38Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-9f39-137908c0c841,SOUTHC-5aa69b,2021-09-03T15:58:38Z,2021-09-03T19:30:51Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-53b6-6a361c4bbd65,SOUTHC-5aa69b,2021-09-17T15:58:38Z,2021-09-17T16:13:38Z,outpatient,Administration of vaccine to produce active immunity (procedure),,BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-711c-d8e0271c650b,SOUTHC-5aa69b,2021-09-17T15:58:38Z,2021-09-17T17:27:27Z,ambulatory,Encounter for symptom (procedure),Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-20c5-f49607a46f9a,SOUTHC-5aa69b,2021-09-22T15:58:38Z,2021-09-22T17:46:05Z,virtual,Videotelephony encounter (procedure),,BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-0c1c-ac0a39473576,SOUTHC-5aa69b,2022-08-26T15:58:38Z,2022-08-26T16:57:24Z,wellness,General examination of patient (procedure),,LAKESIDE FAMILY PRACTICE
+e34a6a5e-1d77-508d-044d-372a89f08d28,SOUTHC-5aa69b,2022-09-09T15:58:38Z,2022-09-09T21:50:10Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-8a2c-76b0b324d33a,SOUTHC-5aa69b,2023-06-06T15:58:38Z,2023-06-06T16:13:38Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-d81c-7a987e9a3fab,SOUTHC-5aa69b,2023-09-01T15:58:38Z,2023-09-01T16:42:19Z,wellness,General examination of patient (procedure),,LAKESIDE FAMILY PRACTICE
+e34a6a5e-1d77-508d-e4e8-00aacb1f2de9,SOUTHC-5aa69b,2023-09-15T15:58:38Z,2023-09-15T19:34:32Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-cf98-164902e6462c,SOUTHC-5aa69b,2024-03-01T04:58:38Z,2024-03-01T05:13:38Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-9ae5-50132dd0d519,SOUTHC-5aa69b,2024-05-31T15:58:38Z,2024-05-31T16:13:38Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-ba7b-1b257533ebca,SOUTHC-5aa69b,2025-05-26T15:58:38Z,2025-05-26T16:13:38Z,outpatient,Consultation for treatment (procedure),Contraception care (regime/therapy),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-8ac4-58226ac25605,SOUTHC-5aa69b,2025-12-04T11:58:38Z,2025-12-04T12:13:38Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),BROCKTON HOSPITAL  INC.
+e34a6a5e-1d77-508d-ecf7-dd010ec08d2b,SOUTHC-5aa69b,2026-08-14T15:58:38Z,2026-08-14T16:13:38Z,ambulatory,Prenatal initial visit (regime/therapy),Normal pregnancy (finding),BROCKTON HOSPITAL  INC.
+4af53267-820e-7687-43ce-99973ce0cb46,SOUTHC-748765,2016-03-14T07:49:20Z,2016-03-14T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-7507-da868cbd854f,SOUTHC-748765,2016-11-05T07:49:20Z,2016-11-05T09:12:20Z,emergency,Emergency room admission (procedure),Fracture of bone (disorder),CLIFTON REHABILITATION NURSING CENTER
+4af53267-820e-7687-8328-b7a629f87dd1,SOUTHC-748765,2016-12-12T07:49:20Z,2016-12-12T08:07:49Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-efdd-05535f115b82,SOUTHC-748765,2017-02-20T09:12:20Z,2017-02-20T09:27:20Z,ambulatory,Encounter for check up (procedure),Fracture of clavicle (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-27ff-f7150cdb9a6e,SOUTHC-748765,2017-06-12T07:49:20Z,2017-06-12T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-bfa7-b423df323a1e,SOUTHC-748765,2017-08-22T07:49:20Z,2017-08-22T08:04:20Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-70e0-485d32bcfa63,SOUTHC-748765,2017-12-11T07:49:20Z,2017-12-11T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-aeff-58b01699b5d7,SOUTHC-748765,2018-04-14T09:12:20Z,2018-04-14T10:12:20Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),CLIFTON REHABILITATION NURSING CENTER
+4af53267-820e-7687-5576-f86fa3b47853,SOUTHC-748765,2018-06-11T07:49:20Z,2018-06-11T08:04:50Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-1060-801077239e8c,SOUTHC-748765,2018-06-18T07:49:20Z,2018-06-18T09:39:46Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-0d4a-4cb55cc3f6b9,SOUTHC-748765,2018-09-18T01:49:20Z,2018-09-18T02:04:20Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-ff5b-371ce5bd2764,SOUTHC-748765,2018-12-10T07:49:20Z,2018-12-10T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-e15f-036fa6695755,SOUTHC-748765,2019-12-16T07:49:20Z,2019-12-16T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-74e3-6db56d43ab3c,SOUTHC-748765,2019-12-23T07:49:20Z,2019-12-23T08:04:20Z,outpatient,Encounter for check up (procedure),,STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-b6e8-1f8e36f03db8,SOUTHC-748765,2019-12-30T07:49:20Z,2019-12-30T08:04:20Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-ade8-826a45e00942,SOUTHC-748765,2020-03-30T07:49:20Z,2020-03-30T08:04:20Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-8b04-81f74e0a75a1,SOUTHC-748765,2020-05-13T15:49:20Z,2020-05-13T16:04:20Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-2f5d-9d4612f17306,SOUTHC-748765,2020-06-25T14:49:20Z,2020-06-25T15:04:20Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-d1fb-b0ec9fcce8a7,SOUTHC-748765,2020-12-21T07:49:20Z,2020-12-21T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-ed4b-8b40a6f4315a,SOUTHC-748765,2021-12-27T07:49:20Z,2021-12-27T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-3056-c7d42e51d185,SOUTHC-748765,2023-01-02T07:49:20Z,2023-01-02T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-1e76-d80eef1d4e14,SOUTHC-748765,2024-01-08T07:49:20Z,2024-01-08T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-d35f-41940515cb96,SOUTHC-748765,2024-01-15T07:49:20Z,2024-01-15T11:21:34Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-2914-aced94af920e,SOUTHC-748765,2025-01-13T07:49:20Z,2025-01-13T08:04:20Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-a686-a5876353f831,SOUTHC-748765,2025-06-11T18:49:20Z,2025-06-11T19:04:20Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+4af53267-820e-7687-45e5-c77aee25e072,SOUTHC-748765,2026-01-19T07:49:20Z,2026-01-19T08:05:42Z,wellness,Well child visit (procedure),,STANLEY STREET TREATMENT AND RESOURCES  INC
+4af53267-820e-7687-b510-47d4dc6b8c9c,SOUTHC-748765,2026-01-26T07:49:20Z,2026-01-26T11:20:15Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),STEWARD ST. ANNES HOSPITAL CORPORATION
+8ece28c6-f931-b0e0-abe8-532197038d9b,SOUTHC-ede5b7,1960-04-30T01:49:50Z,1960-04-30T02:28:08Z,outpatient,Encounter for check up (procedure),,4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-896d-e0b1f1b04096,SOUTHC-ede5b7,1988-04-23T01:49:50Z,1988-04-23T02:20:57Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-7153-534549127919,SOUTHC-ede5b7,1997-10-10T01:49:50Z,1997-10-10T02:04:50Z,ambulatory,Encounter for problem (procedure),Gout,4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-3ed7-6472c6a43e53,SOUTHC-ede5b7,1998-05-09T01:49:50Z,1998-05-09T02:45:59Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-43b3-e2985a38eb14,SOUTHC-ede5b7,1998-05-16T01:49:50Z,1998-05-16T02:49:50Z,emergency,Emergency hospital admission (procedure),Chronic pain (finding),ROYAL OF FAIRHAVEN NURSING CENTER
+8ece28c6-f931-b0e0-974b-be019fd9601e,SOUTHC-ede5b7,2002-06-01T01:49:50Z,2002-06-01T02:41:58Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-5981-2e0729bac2b8,SOUTHC-ede5b7,2015-08-15T01:49:50Z,2015-08-15T02:31:54Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-22df-b402dda51ddd,SOUTHC-ede5b7,2016-08-20T01:49:50Z,2016-08-20T02:26:28Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-1150-c3970bfce3e4,SOUTHC-ede5b7,2016-09-10T01:49:50Z,2016-09-10T05:30:03Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-09ba-f35679165318,SOUTHC-ede5b7,2016-10-01T01:49:50Z,2016-10-01T02:25:45Z,outpatient,Encounter for check up (procedure),,4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-505a-d00a6c0ce72d,SOUTHC-ede5b7,2016-10-08T01:49:50Z,2016-10-08T02:04:50Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-7e64-8a67114567b3,SOUTHC-ede5b7,2017-08-26T01:49:50Z,2017-08-26T02:24:39Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-a2fc-625d9ab8471c,SOUTHC-ede5b7,2018-09-01T01:49:50Z,2018-09-01T02:22:22Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-d6a7-5d016fabc380,SOUTHC-ede5b7,2018-09-15T01:49:50Z,2018-09-15T05:40:23Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-ac7a-190e12763c8d,SOUTHC-ede5b7,2019-09-07T01:49:50Z,2019-09-07T02:49:22Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-6d18-ed3766978eca,SOUTHC-ede5b7,2020-05-03T01:16:50Z,2020-05-03T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-e96a-19fe6cda1bee,SOUTHC-ede5b7,2020-05-04T01:16:50Z,2020-05-04T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-fe1b-0bbbfb738ec7,SOUTHC-ede5b7,2020-05-05T01:16:50Z,2020-05-05T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-bad1-ac6de7fb3a3a,SOUTHC-ede5b7,2020-05-06T01:16:50Z,2020-05-06T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-fb60-0e4ed84ff13e,SOUTHC-ede5b7,2020-05-07T01:16:50Z,2020-05-07T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-fd63-e9b9b29755d3,SOUTHC-ede5b7,2020-05-08T01:16:50Z,2020-05-08T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-6747-4fd7a2ca60d0,SOUTHC-ede5b7,2020-05-09T01:16:50Z,2020-05-09T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-0968-ec6916622d5b,SOUTHC-ede5b7,2020-05-10T01:16:50Z,2020-05-10T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-598d-a86f6246228c,SOUTHC-ede5b7,2020-05-11T01:16:50Z,2020-05-11T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-b5e4-87756f65f315,SOUTHC-ede5b7,2020-05-12T01:16:50Z,2020-05-12T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-2008-a7c5af7e088a,SOUTHC-ede5b7,2020-05-13T01:16:50Z,2020-05-13T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-0674-b51533d3808c,SOUTHC-ede5b7,2020-05-14T01:16:50Z,2020-05-14T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-8d42-5f3c4ba7de47,SOUTHC-ede5b7,2020-05-15T01:16:50Z,2020-05-15T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-0347-2683a7e3bd0a,SOUTHC-ede5b7,2020-05-16T01:16:50Z,2020-05-16T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-4208-77d3b7317d20,SOUTHC-ede5b7,2020-05-17T01:16:50Z,2020-05-17T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-e770-63a0685697b9,SOUTHC-ede5b7,2020-05-18T01:16:50Z,2020-05-18T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-28e4-23c31c7bc7bd,SOUTHC-ede5b7,2020-05-19T01:16:50Z,2020-05-19T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-4d8a-2cb5bd9b9b5f,SOUTHC-ede5b7,2020-05-20T01:16:50Z,2020-05-20T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-7cd6-cad25020bead,SOUTHC-ede5b7,2020-05-21T01:16:50Z,2020-05-21T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-1702-e143bd2ca204,SOUTHC-ede5b7,2020-05-22T01:16:50Z,2020-05-22T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-d6d4-3a6403c5f698,SOUTHC-ede5b7,2020-05-23T01:16:50Z,2020-05-23T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-52b8-7a17050581ce,SOUTHC-ede5b7,2020-05-24T01:16:50Z,2020-05-24T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-4c43-78d0630c3323,SOUTHC-ede5b7,2020-05-25T01:16:50Z,2020-05-25T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-f904-d55cc47f3a26,SOUTHC-ede5b7,2020-05-26T01:16:50Z,2020-05-26T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-3753-bf054f51b5a6,SOUTHC-ede5b7,2020-05-27T01:16:50Z,2020-05-27T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-a150-5fb57adad794,SOUTHC-ede5b7,2020-05-28T01:16:50Z,2020-05-28T01:31:50Z,home,Home visit (procedure),Transition from acute care to home-health care (finding),SOUTHCOAST VISITING NURSE ASSOCIATION  INC
+8ece28c6-f931-b0e0-1657-76ea6a17c20c,SOUTHC-ede5b7,2020-09-12T01:49:50Z,2020-09-12T02:31:00Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-731a-003892e56191,SOUTHC-ede5b7,2020-09-26T01:49:50Z,2020-09-26T05:19:03Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-14bc-6278c66b6253,SOUTHC-ede5b7,2021-03-13T01:49:50Z,2021-03-13T02:04:50Z,outpatient,Administration of vaccine to produce active immunity (procedure),,4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-129b-d9fc3267ad8b,SOUTHC-ede5b7,2021-09-18T01:49:50Z,2021-09-18T02:23:46Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-482a-b972066329ff,SOUTHC-ede5b7,2021-10-02T01:49:50Z,2021-10-02T05:07:01Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-4da7-3be24086a224,SOUTHC-ede5b7,2022-09-24T01:49:50Z,2022-09-24T02:48:07Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-3431-7e367fa57e2c,SOUTHC-ede5b7,2022-10-08T01:49:50Z,2022-10-08T05:00:39Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-5870-cda02b8d71fe,SOUTHC-ede5b7,2022-10-18T13:49:50Z,2022-10-18T14:04:50Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-b284-105a73d139fa,SOUTHC-ede5b7,2022-10-29T01:49:50Z,2022-10-29T02:34:02Z,outpatient,Encounter for check up (procedure),,4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-0665-4317289e5ba4,SOUTHC-ede5b7,2022-11-12T01:49:50Z,2022-11-12T05:07:51Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-e15e-f120e984198e,SOUTHC-ede5b7,2023-09-30T01:49:50Z,2023-09-30T02:30:17Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-1775-8f401a2c6f78,SOUTHC-ede5b7,2023-11-06T01:49:50Z,2023-11-06T02:04:50Z,ambulatory,Encounter for problem (procedure),Gout,4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-759b-fd032d795588,SOUTHC-ede5b7,2024-10-05T01:49:50Z,2024-10-05T02:36:13Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-3d4d-e37ad4b472f0,SOUTHC-ede5b7,2024-12-14T01:49:50Z,2024-12-14T02:20:51Z,outpatient,Encounter for check up (procedure),,4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-0eb0-5570f29cf3ea,SOUTHC-ede5b7,2024-12-21T01:49:50Z,2024-12-21T02:04:50Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+8ece28c6-f931-b0e0-b43e-9b7f3b9b74eb,SOUTHC-ede5b7,2025-10-11T01:49:50Z,2025-10-11T02:25:10Z,wellness,General examination of patient (procedure),,GIFFORD STREET WELLNESS CENTER LLC
+8ece28c6-f931-b0e0-2fd7-cdf53c8d48c2,SOUTHC-ede5b7,2025-10-25T01:49:50Z,2025-10-25T06:02:56Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),4499 ACUSHNET AVENUE OPERATING COMPANY  LLC
+197ec76f-0730-2587-431f-931a6906c5f9,SOUTHC-ec63bd,2012-06-07T01:11:59Z,2012-06-07T01:26:59Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-99a4-0cd3962d2d88,SOUTHC-ec63bd,2017-07-06T01:11:59Z,2017-07-06T01:26:59Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-eb46-f3b320a0bcc3,SOUTHC-ec63bd,2018-07-12T01:11:59Z,2018-07-12T01:26:59Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-e903-4e549149ec81,SOUTHC-ec63bd,2019-07-18T01:11:59Z,2019-07-18T01:26:59Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-d933-020381652a2b,SOUTHC-ec63bd,2020-07-23T01:11:59Z,2020-07-23T01:26:59Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-61db-ec1076983e0f,SOUTHC-ec63bd,2021-07-29T01:11:59Z,2021-07-29T01:26:59Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-3b15-0bac5d16c0d4,SOUTHC-ec63bd,2022-08-04T01:11:59Z,2022-08-04T01:37:12Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-673e-70c01b4cb343,SOUTHC-ec63bd,2023-08-10T01:11:59Z,2023-08-10T01:29:08Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-f6b9-e67da9f5e252,SOUTHC-ec63bd,2024-08-15T01:11:59Z,2024-08-15T01:26:59Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+197ec76f-0730-2587-9f22-96ceea1e58d8,SOUTHC-ec63bd,2025-08-21T01:11:59Z,2025-08-21T01:48:43Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-ca48-e157e556a90b,SOUTHC-b970b5,1966-10-29T19:11:02Z,1966-10-29T19:26:02Z,ambulatory,Encounter for symptom (procedure),Acute bacterial sinusitis (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-5b13-5c5dc26d52fe,SOUTHC-b970b5,1967-08-20T23:11:02Z,1967-08-24T14:19:49Z,inpatient,Encounter for problem (procedure),Appendicitis (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-d862-f3590426c2e8,SOUTHC-b970b5,1981-04-11T02:11:02Z,1981-04-11T02:33:24Z,wellness,Well child visit (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-1083-90b47b7cdcb7,SOUTHC-b970b5,1982-04-17T02:11:02Z,1982-04-17T02:51:51Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-db7e-444b27362fc7,SOUTHC-b970b5,1998-05-09T02:11:02Z,1998-05-09T02:53:16Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-461a-aab35fa16657,SOUTHC-b970b5,2004-11-12T02:11:02Z,2004-11-12T02:26:02Z,ambulatory,Encounter for problem (procedure),Gout,THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-7368-fed4d835c14e,SOUTHC-b970b5,2010-03-13T02:11:02Z,2010-03-13T03:03:03Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-a305-482d20d5f967,SOUTHC-b970b5,2011-02-26T02:11:02Z,2011-02-26T03:26:25Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-1bc6-4b20f0e126b1,SOUTHC-b970b5,2015-02-28T02:11:02Z,2015-02-28T02:57:36Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-b04b-486b5dd7c217,SOUTHC-b970b5,2017-03-11T02:11:02Z,2017-03-11T03:03:43Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-49d9-90c3415555f1,SOUTHC-b970b5,2017-03-25T02:11:02Z,2017-03-25T06:01:24Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-fe55-87a5e59a6626,SOUTHC-b970b5,2017-08-22T15:11:02Z,2017-08-22T15:26:02Z,ambulatory,Encounter for symptom (procedure),Sinusitis (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-6cec-6eac8a6019c7,SOUTHC-b970b5,2018-03-17T02:11:02Z,2018-03-17T03:01:38Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-181f-ec1185f48934,SOUTHC-b970b5,2018-03-31T02:11:02Z,2018-03-31T05:03:12Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-88b1-f9c1d971e11b,SOUTHC-b970b5,2018-12-21T10:11:02Z,2018-12-21T10:26:02Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-36f9-e605242febde,SOUTHC-b970b5,2019-03-01T02:54:49Z,2019-03-01T03:38:21Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-0c1c-475e466ce414,SOUTHC-b970b5,2019-03-23T02:11:02Z,2019-03-23T02:47:20Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-800a-48bd3fdabd8c,SOUTHC-b970b5,2019-03-26T07:40:12Z,2019-03-26T08:55:27Z,ambulatory,Encounter for problem (procedure),Loss of teeth (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-e511-9242926b8050,SOUTHC-b970b5,2019-04-16T08:55:27Z,2019-04-16T09:19:11Z,ambulatory,Follow-up encounter (procedure),Loss of teeth (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-655d-98ecd1601371,SOUTHC-b970b5,2020-02-08T02:11:02Z,2020-02-08T03:08:40Z,ambulatory,Encounter for symptom (procedure),Sleep disorder (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-cbed-68436847f9b0,SOUTHC-b970b5,2020-02-19T03:08:40Z,2020-02-19T03:58:16Z,ambulatory,Encounter for symptom (procedure),Sleep disorder (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-38e6-96474eb27726,SOUTHC-b970b5,2020-03-07T03:58:16Z,2020-03-08T03:58:16Z,inpatient,Encounter for problem (procedure),Sleep disorder (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-0e04-1bd67f0589d2,SOUTHC-b970b5,2020-03-28T02:11:02Z,2020-03-28T02:58:40Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-f2b2-526546936cd5,SOUTHC-b970b5,2021-01-14T02:11:02Z,2021-01-14T04:34:01Z,emergency,Encounter for symptom (procedure),Acute infective cystitis (disorder),COMPASSIONATE CARE HOSPICE OF SOUTHEASTERN MASS LL
+adec1419-cf81-6640-557f-c299ad621dc4,SOUTHC-b970b5,2021-04-03T02:11:02Z,2021-04-03T02:59:15Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-9ba7-97262a6890d1,SOUTHC-b970b5,2021-06-05T02:11:02Z,2021-06-05T02:26:02Z,outpatient,Administration of vaccine to produce active immunity (procedure),,THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-0248-be413cda5764,SOUTHC-b970b5,2022-04-09T02:11:02Z,2022-04-09T03:08:19Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-6a36-9e7a6f5f75cc,SOUTHC-b970b5,2022-04-23T02:11:02Z,2022-04-23T05:40:50Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-ca88-24dea7690ef7,SOUTHC-b970b5,2022-06-17T08:11:02Z,2022-06-17T08:26:02Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-119c-d6c95ecf57b9,SOUTHC-b970b5,2023-04-15T02:11:02Z,2023-04-15T03:06:08Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-c933-50af50fca041,SOUTHC-b970b5,2023-04-29T02:11:02Z,2023-04-29T05:18:55Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-709f-fe2067c85415,SOUTHC-b970b5,2023-12-20T08:21:07Z,2023-12-20T08:43:38Z,ambulatory,Encounter for symptom (procedure),Acute bronchitis (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-fa85-cc03ee636a06,SOUTHC-b970b5,2023-12-30T02:11:02Z,2023-12-30T02:51:45Z,outpatient,Encounter for check up (procedure),,THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-c270-8c6943927ccf,SOUTHC-b970b5,2024-02-29T03:38:21Z,2024-02-29T04:12:01Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-0b5f-8b85da12d7e8,SOUTHC-b970b5,2024-04-20T02:11:02Z,2024-04-20T02:42:48Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-2336-99355e6037f5,SOUTHC-b970b5,2024-11-18T03:42:02Z,2024-11-18T04:42:02Z,emergency,Emergency room admission (procedure),Laceration - injury (disorder),COMPASSIONATE CARE HOSPICE OF SOUTHEASTERN MASS LL
+adec1419-cf81-6640-2bde-31ec176c6d9b,SOUTHC-b970b5,2025-04-26T02:11:02Z,2025-04-26T02:51:02Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-aedd-2b6b374c123b,SOUTHC-b970b5,2025-05-10T02:11:02Z,2025-05-10T05:28:51Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),THE COMMONWEALTH OF MASSACHUSETTS
+adec1419-cf81-6640-68af-3301b5fafada,SOUTHC-b970b5,2026-05-02T02:11:02Z,2026-05-02T02:46:56Z,wellness,General examination of patient (procedure),,NORTON HEALTH CARE PC
+adec1419-cf81-6640-81f9-a0c63d748dd1,SOUTHC-b970b5,2026-05-16T02:11:02Z,2026-05-16T05:23:17Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),THE COMMONWEALTH OF MASSACHUSETTS
+30889246-5f7d-9305-6614-726a4fb16834,SOUTHC-a9fb35,1960-03-25T10:39:49Z,1960-03-25T10:54:49Z,wellness,Well child visit (procedure),,CHILD & FAMILY SERVICES  INC.
+30889246-5f7d-9305-51d7-6fb5afd81835,SOUTHC-a9fb35,1960-04-01T10:39:49Z,1960-04-01T13:24:35Z,emergency,Emergency room admission (procedure),Seizure disorder (disorder),ROYAL OF FAIRHAVEN NURSING CENTER
+30889246-5f7d-9305-4a13-36b0de74f304,SOUTHC-a9fb35,1960-04-29T10:39:49Z,1960-04-29T10:54:49Z,wellness,Well child visit (procedure),,CHILD & FAMILY SERVICES  INC.
+30889246-5f7d-9305-1fc6-b14d9308937e,SOUTHC-a9fb35,1960-07-01T10:39:49Z,1960-07-01T10:54:49Z,wellness,Well child visit (procedure),,CHILD & FAMILY SERVICES  INC.
+30889246-5f7d-9305-890d-e32a05fcef38,SOUTHC-a9fb35,1960-09-02T10:39:49Z,1960-09-02T10:54:49Z,wellness,Well child visit (procedure),,CHILD & FAMILY SERVICES  INC.
+30889246-5f7d-9305-cdc7-c5a7ce794dbf,SOUTHC-a9fb35,1960-12-02T10:39:49Z,1960-12-02T10:54:49Z,wellness,Well child visit (procedure),,CHILD & FAMILY SERVICES  INC.
+30889246-5f7d-9305-88a0-699375c58b3c,SOUTHC-a9fb35,1961-03-03T10:39:49Z,1961-03-03T10:54:49Z,wellness,Well child visit (procedure),,CHILD & FAMILY SERVICES  INC.
+30889246-5f7d-9305-57b9-e97cd5e221b2,SOUTHC-a9fb35,1961-06-02T10:39:49Z,1961-06-02T10:54:49Z,wellness,Well child visit (procedure),,CHILD & FAMILY SERVICES  INC.
+30889246-5f7d-9305-7e77-76f2c3ab3ab0,SOUTHC-a9fb35,1961-07-28T10:39:49Z,1961-08-23T10:39:49Z,hospice,Admission to hospice (procedure),,COMMUNITY NURSE HOME CARE  INC.
+30889246-5f7d-9305-46a9-78e82d3b58f3,SOUTHC-a9fb35,1961-08-25T10:39:49Z,1961-08-25T10:54:49Z,wellness,Death Certification,Sudden cardiac death (disorder),CHILD & FAMILY SERVICES  INC.
+1dabc422-e007-d5ee-ffe2-fae7892313c7,SOUTHC-932357,2018-05-07T06:48:16Z,2018-05-07T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-49f6-977d0c0b33a1,SOUTHC-932357,2018-06-11T06:48:16Z,2018-06-11T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-997c-ede7bcd16575,SOUTHC-932357,2018-08-13T06:48:16Z,2018-08-13T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-eb50-50f3a1b9bbaf,SOUTHC-932357,2018-10-15T06:48:16Z,2018-10-15T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-c402-66134e4e73b2,SOUTHC-932357,2019-01-14T06:48:16Z,2019-01-14T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-dffd-3797fc297e14,SOUTHC-932357,2019-04-15T06:48:16Z,2019-04-15T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-695a-fc5d9eb7608d,SOUTHC-932357,2019-07-15T06:48:16Z,2019-07-15T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-d200-75babeef2bb3,SOUTHC-932357,2019-10-14T06:48:16Z,2019-10-14T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-36c8-2d31cf2d8e1d,SOUTHC-932357,2020-03-27T06:48:16Z,2020-03-27T07:03:16Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-4c8e-89010111c2b4,SOUTHC-932357,2020-04-13T06:48:16Z,2020-04-13T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-4c5c-cb1c3f24009f,SOUTHC-932357,2020-08-26T07:48:16Z,2020-08-26T08:03:16Z,ambulatory,Encounter for symptom (procedure),Streptococcal sore throat (disorder),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-5692-08f636ba36ba,SOUTHC-932357,2020-10-12T06:48:16Z,2020-10-12T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-ed1d-8621d22c8281,SOUTHC-932357,2021-04-12T06:48:16Z,2021-04-12T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-d391-5e79e6a4a0e0,SOUTHC-932357,2021-04-19T06:48:16Z,2021-04-19T13:08:56Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-2199-8012d8d02d9c,SOUTHC-932357,2021-08-03T06:48:16Z,2021-08-03T07:03:16Z,outpatient,Encounter for symptom (procedure),Otitis media (disorder),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-582a-a91500bafd3a,SOUTHC-932357,2021-10-11T06:48:16Z,2021-10-11T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-230b-6924b1f4220f,SOUTHC-932357,2022-04-11T06:48:16Z,2022-04-11T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-e5c3-99c5cde95736,SOUTHC-932357,2022-04-18T06:48:16Z,2022-04-18T10:54:19Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-6aa6-8b44a027df8b,SOUTHC-932357,2022-04-25T06:48:16Z,2022-04-25T10:20:16Z,emergency,Emergency room admission (procedure),Gunshot wound (disorder),CLIFTON REHABILITATION NURSING CENTER
+1dabc422-e007-d5ee-9e07-de5e66483682,SOUTHC-932357,2022-04-25T10:20:16Z,2022-05-06T10:35:16Z,snf,Hospital admission (procedure),Patient transfer to skilled nursing facility (procedure),CATHOLIC MEMORIAL HOME
+1dabc422-e007-d5ee-4cc9-3f740040d606,SOUTHC-932357,2022-07-01T10:20:16Z,2022-07-01T10:35:16Z,ambulatory,Encounter for check up (procedure),Bullet wound (disorder),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-b08d-fd785cc1cee6,SOUTHC-932357,2023-04-17T06:48:16Z,2023-04-17T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-30aa-1357d47ed457,SOUTHC-932357,2023-04-24T06:48:16Z,2023-04-24T10:08:34Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-bb02-414ecad9934f,SOUTHC-932357,2023-11-27T00:48:16Z,2023-11-27T01:03:16Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-8047-410d3cdc599a,SOUTHC-932357,2024-04-22T06:48:16Z,2024-04-22T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-e4e1-7d5732d523c7,SOUTHC-932357,2025-04-28T06:48:16Z,2025-04-28T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-6ed0-a0f80627124d,SOUTHC-932357,2025-05-05T06:48:16Z,2025-05-05T09:36:38Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-d3a4-159aad9323a6,SOUTHC-932357,2025-09-29T12:48:16Z,2025-09-29T13:03:16Z,ambulatory,Encounter for symptom (procedure),Acute viral pharyngitis (disorder),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-f191-effcc10bb427,SOUTHC-932357,2026-05-04T06:48:16Z,2026-05-04T07:03:16Z,wellness,Well child visit (procedure),,VMD PRIMARY PROVIDERS MASSACHUSETTS PLLC
+1dabc422-e007-d5ee-9fe8-f0a90cc9a3f1,SOUTHC-932357,2026-06-10T10:20:16Z,2026-06-10T10:35:16Z,ambulatory,Encounter for problem (procedure),Injury of tendon of the rotator cuff of shoulder (disorder),SOUTHCOAST HOSPITALS GROUP INC
+1dabc422-e007-d5ee-747f-8f639a19ff30,SOUTHC-932357,2026-08-06T10:20:16Z,2026-08-06T10:35:16Z,ambulatory,Encounter for check up (procedure),Injury of tendon of the rotator cuff of shoulder (disorder),SOUTHCOAST HOSPITALS GROUP INC
+3732fde5-efc6-d57a-79bf-e3e04b39e22e,SOUTHC-3375af,1978-05-19T10:39:49Z,1978-05-19T11:26:51Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-0793-f144f041af74,SOUTHC-3375af,2007-11-12T10:39:49Z,2007-11-12T10:54:49Z,ambulatory,Encounter for problem (procedure),Osteoarthritis of knee (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-220f-3a7f37fe4522,SOUTHC-3375af,2008-04-18T10:39:49Z,2008-04-18T11:24:16Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-04a1-88c5c87cf692,SOUTHC-3375af,2012-05-11T10:39:49Z,2012-05-11T11:17:50Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-88f7-6c8a4edce6e3,SOUTHC-3375af,2016-06-03T10:39:49Z,2016-06-03T11:11:42Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-0520-6184d092114d,SOUTHC-3375af,2016-06-24T10:39:49Z,2016-06-24T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-2ad1-50b9e41abf46,SOUTHC-3375af,2017-06-09T10:39:49Z,2017-06-09T11:23:14Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-ddc3-4358f4d15145,SOUTHC-3375af,2017-06-23T10:39:49Z,2017-06-23T14:22:54Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),AP MEDICAL LLC
+3732fde5-efc6-d57a-e54f-bb5e158fe3d0,SOUTHC-3375af,2017-06-24T10:39:49Z,2017-06-24T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-0c0f-5258ae49bf4e,SOUTHC-3375af,2018-06-15T10:39:49Z,2018-06-15T11:26:39Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-82f0-65485cba9875,SOUTHC-3375af,2018-06-24T10:39:49Z,2018-06-24T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-105c-58e6664f3efa,SOUTHC-3375af,2019-06-21T10:39:49Z,2019-06-21T11:34:16Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-7773-b123991c509a,SOUTHC-3375af,2019-06-24T10:39:49Z,2019-06-24T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-60d9-7e3435cb75a4,SOUTHC-3375af,2020-03-25T11:37:51Z,2020-03-25T12:19:40Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),AP MEDICAL LLC
+3732fde5-efc6-d57a-495c-e18dfeb5ad8c,SOUTHC-3375af,2020-03-31T10:39:49Z,2020-03-31T11:42:05Z,virtual,Telephone encounter (procedure),Acute infective cystitis (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-36a1-6c3ebef58fe0,SOUTHC-3375af,2020-04-01T23:42:05Z,2020-04-02T01:45:01Z,emergency,Follow-up encounter (procedure),Acute infective cystitis (disorder),ROYAL OF FAIRHAVEN NURSING CENTER
+3732fde5-efc6-d57a-2f7f-cbbe4aff7f41,SOUTHC-3375af,2020-06-26T10:39:49Z,2020-06-26T11:37:10Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-aafc-3ee4323a41c3,SOUTHC-3375af,2020-07-03T10:39:49Z,2020-07-03T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-1386-f506588b63cb,SOUTHC-3375af,2020-07-10T10:39:49Z,2020-07-10T16:34:35Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-5b8d-a480950d5ccb,SOUTHC-3375af,2020-08-29T10:39:49Z,2020-08-29T12:13:48Z,ambulatory,Encounter for symptom (procedure),Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),AP MEDICAL LLC
+3732fde5-efc6-d57a-244c-7303d2836565,SOUTHC-3375af,2020-08-29T12:13:48Z,2020-09-07T13:00:16Z,inpatient,Hospital admission for isolation (procedure),Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-0be9-8d9d22713faf,SOUTHC-3375af,2021-01-22T10:39:49Z,2021-01-22T10:54:49Z,outpatient,Administration of vaccine to produce active immunity (procedure),,AP MEDICAL LLC
+3732fde5-efc6-d57a-dc05-04a39c6e8387,SOUTHC-3375af,2021-02-19T10:39:49Z,2021-02-19T10:54:49Z,outpatient,Administration of vaccine to produce active immunity (procedure),,AP MEDICAL LLC
+3732fde5-efc6-d57a-1c15-0f3aac2481f1,SOUTHC-3375af,2021-07-02T10:39:49Z,2021-07-02T11:27:57Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-a710-2eb0a64c6eef,SOUTHC-3375af,2021-07-03T10:39:49Z,2021-07-03T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-4290-bac0578594c4,SOUTHC-3375af,2022-07-08T10:39:49Z,2022-07-08T11:36:40Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-656a-45cd54c64340,SOUTHC-3375af,2022-07-15T10:39:49Z,2022-07-15T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-8cc4-c12fde87e9b0,SOUTHC-3375af,2023-07-14T10:39:49Z,2023-07-14T11:33:57Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-fd13-1f02a1221868,SOUTHC-3375af,2023-07-15T10:39:49Z,2023-07-15T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-65e5-dceafa38ca2f,SOUTHC-3375af,2023-07-28T10:39:49Z,2023-07-28T14:14:58Z,ambulatory,Encounter for check up (procedure),Patient referral for dental care (procedure),AP MEDICAL LLC
+3732fde5-efc6-d57a-f3e3-ed3ea674f94e,SOUTHC-3375af,2024-07-19T10:39:49Z,2024-07-19T11:11:04Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-ddea-4bd3c30a6eaf,SOUTHC-3375af,2024-07-26T10:39:49Z,2024-07-26T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-847c-1f58b45e68f2,SOUTHC-3375af,2025-03-01T06:39:49Z,2025-03-01T06:54:49Z,ambulatory,Encounter for symptom (procedure),Viral sinusitis (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-e00b-aed566976d1b,SOUTHC-3375af,2025-03-25T12:19:40Z,2025-03-25T13:01:03Z,ambulatory,Encounter for check up (procedure),Screening for malignant neoplasm of colon (procedure),AP MEDICAL LLC
+3732fde5-efc6-d57a-fd09-bf267684e413,SOUTHC-3375af,2025-03-28T10:39:49Z,2025-04-02T10:54:49Z,snf,Hospital admission (procedure),Patient transfer to skilled nursing facility (procedure),DARTMOUTH HOUSE NURSING HOME INC
+3732fde5-efc6-d57a-14d2-1a5bfba44ffe,SOUTHC-3375af,2025-07-25T10:39:49Z,2025-07-25T11:26:36Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-ce46-cee24523c019,SOUTHC-3375af,2025-07-26T10:39:49Z,2025-07-26T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-c6cb-bb598642f9ef,SOUTHC-3375af,2026-07-31T10:39:49Z,2026-07-31T11:35:17Z,wellness,General examination of patient (procedure),,DARTMOUTH PRIMARY MEDICINE  LLC
+3732fde5-efc6-d57a-0be1-1dfc33a723af,SOUTHC-3375af,2026-08-07T10:39:49Z,2026-08-07T10:54:49Z,ambulatory,Follow-up encounter (procedure),Hyperlipidemia (disorder),AP MEDICAL LLC
+3732fde5-efc6-d57a-7ce6-486c5a0ccaf9,SOUTHC-3375af,2026-08-14T10:39:49Z,2026-08-14T11:14:40Z,ambulatory,Encounter for check up (procedure),Gingivitis (disorder),AP MEDICAL LLC

@@ -1,0 +1,1319 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,CATEGORY,ENTITY_TEXT,CANONICAL,MATCH_METHOD,MATCH_SCORE
+8b9df7af-24b3-66ee-6e92-99e3acd14bac,MERRIM-70dd97,DIAGNOSIS,viral sinusitis,Viral sinusitis,exact_synonym,1.0
+8b9df7af-24b3-66ee-8975-1ef03abfc74d,MERRIM-70dd97,DIAGNOSIS,cystitis,Acute infective cystitis,fuzzy,1.0
+8b9df7af-24b3-66ee-5ca7-72a6a1f9f6bc,MERRIM-70dd97,DIAGNOSIS,cysti,Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+8b9df7af-24b3-66ee-5ca7-72a6a1f9f6bc,MERRIM-70dd97,MEDICATION,sulfamethoxazole,sulfamethoxazole,fuzzy,1.0
+8b9df7af-24b3-66ee-5ca7-72a6a1f9f6bc,MERRIM-70dd97,MEDICATION,trimethoprim,trimethoprim,fuzzy,1.0
+8b9df7af-24b3-66ee-c09b-0032c401e2c2,MERRIM-70dd97,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+8b9df7af-24b3-66ee-c09b-0032c401e2c2,MERRIM-70dd97,DIAGNOSIS,second trimester,Miscarriage in second trimester,fuzzy,1.0
+8b9df7af-24b3-66ee-c09b-0032c401e2c2,MERRIM-70dd97,DIAGNOSIS,uterine,Congenital uterine anomaly,fuzzy,1.0
+8b9df7af-24b3-66ee-55a2-0fb29e44e440,MERRIM-70dd97,DIAGNOSIS,pregnancy,Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy,ambiguous,1.0
+8b9df7af-24b3-66ee-276d-b0d31e4b09ba,MERRIM-70dd97,DIAGNOSIS,bronch,Acute bronchitis,fuzzy,1.0
+8b9df7af-24b3-66ee-276d-b0d31e4b09ba,MERRIM-70dd97,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+8b9df7af-24b3-66ee-f894-82c17d1ea6db,MERRIM-70dd97,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+8b9df7af-24b3-66ee-f894-82c17d1ea6db,MERRIM-70dd97,SYMPTOM,sin,sin,unmapped,0.0
+8b9df7af-24b3-66ee-f894-82c17d1ea6db,MERRIM-70dd97,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+8b9df7af-24b3-66ee-9dcb-d8741bb2695c,MERRIM-70dd97,DIAGNOSIS,aryng,Acute viral pharyngitis,fuzzy,1.0
+8b9df7af-24b3-66ee-9dcb-d8741bb2695c,MERRIM-70dd97,SYMPTOM,sore,sore,unmapped,0.0
+8b9df7af-24b3-66ee-eb41-51c775e7f964,MERRIM-70dd97,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+8b9df7af-24b3-66ee-eb41-51c775e7f964,MERRIM-70dd97,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+8b9df7af-24b3-66ee-eb41-51c775e7f964,MERRIM-70dd97,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+8b9df7af-24b3-66ee-eb41-51c775e7f964,MERRIM-70dd97,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+8b9df7af-24b3-66ee-642b-5775fe565710,MERRIM-70dd97,MEDICATION,medroxyprogesterone acetate,medroxyPROGESTERone acetate | medroxyprogesterone acetate,ambiguous,1.0
+9389eec9-a5c3-a9e1-668d-f126350322a4,MERRIM-80b959,MEDICATION,et,et,unmapped,0.0
+9389eec9-a5c3-a9e1-668d-f126350322a4,MERRIM-80b959,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+9389eec9-a5c3-a9e1-ecd6-a456432c56f2,MERRIM-80b959,DIAGNOSIS,gum,gum,unmapped,0.0
+9389eec9-a5c3-a9e1-ecd6-a456432c56f2,MERRIM-80b959,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+9389eec9-a5c3-a9e1-419c-23e600484574,MERRIM-80b959,SYMPTOM,sore,sore,unmapped,0.0
+9389eec9-a5c3-a9e1-0136-291f289128f9,MERRIM-80b959,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+9389eec9-a5c3-a9e1-0136-291f289128f9,MERRIM-80b959,SYMPTOM,light,Blighted ovum,fuzzy,1.0
+9389eec9-a5c3-a9e1-f46c-43bae3357f23,MERRIM-80b959,SYMPTOM,ed,ed,unmapped,0.0
+9389eec9-a5c3-a9e1-593f-97645f5c913b,MERRIM-80b959,DIAGNOSIS,cysti,Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis,ambiguous,1.0
+9389eec9-a5c3-a9e1-593f-97645f5c913b,MERRIM-80b959,MEDICATION,nitrofurantoin,nitrofurantoin macrocrystals | nitrofurantoin monohydrate,ambiguous,1.0
+9389eec9-a5c3-a9e1-593f-97645f5c913b,MERRIM-80b959,MEDICATION,macrocrystals,nitrofurantoin macrocrystals,fuzzy,1.0
+9389eec9-a5c3-a9e1-593f-97645f5c913b,MERRIM-80b959,MEDICATION,nitrofurantoin,nitrofurantoin macrocrystals | nitrofurantoin monohydrate,ambiguous,1.0
+9389eec9-a5c3-a9e1-593f-97645f5c913b,MERRIM-80b959,MEDICATION,monohydrate,nitrofurantoin monohydrate,fuzzy,1.0
+9389eec9-a5c3-a9e1-df33-33f0c4999786,MERRIM-80b959,MEDICATION,tramadol hydrochloride,tramadol hydrochloride,fuzzy,1.0
+9389eec9-a5c3-a9e1-207f-348a088b07b1,MERRIM-80b959,MEDICATION,Fentanyl,Fentanyl,fuzzy,1.0
+9389eec9-a5c3-a9e1-7766-91bdcb5af10a,MERRIM-80b959,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+9389eec9-a5c3-a9e1-d2df-0933372e036e,MERRIM-80b959,DIAGNOSIS,pregnancy,Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy,ambiguous,1.0
+9389eec9-a5c3-a9e1-1943-d5cf752d1ace,MERRIM-80b959,DIAGNOSIS,sinus,Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis,ambiguous,1.0
+9389eec9-a5c3-a9e1-1943-d5cf752d1ace,MERRIM-80b959,DIAGNOSIS,sinusitis,Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis,ambiguous,1.0
+9389eec9-a5c3-a9e1-f0db-de49eab962b0,MERRIM-80b959,DIAGNOSIS,sinus,Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis,ambiguous,1.0
+9389eec9-a5c3-a9e1-f0db-de49eab962b0,MERRIM-80b959,DIAGNOSIS,sinusitis,Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis,ambiguous,1.0
+9389eec9-a5c3-a9e1-d91f-3f6833946a79,MERRIM-80b959,MEDICATION,nor,nor,unmapped,0.0
+9389eec9-a5c3-a9e1-d91f-3f6833946a79,MERRIM-80b959,MEDICATION,Jolivet,Jolivet,unmapped,0.0
+9389eec9-a5c3-a9e1-1e69-a4c845cbc53b,MERRIM-80b959,MEDICATION,Fentanyl,Fentanyl,fuzzy,1.0
+9389eec9-a5c3-a9e1-1e69-a4c845cbc53b,MERRIM-80b959,MEDICATION,tramadol hydrochloride,tramadol hydrochloride,fuzzy,1.0
+9389eec9-a5c3-a9e1-0e1b-a08e2a7abfdc,MERRIM-80b959,DIAGNOSIS,gum disease,Gingival disease,exact_synonym,1.0
+9389eec9-a5c3-a9e1-d053-009e527fe5f9,MERRIM-80b959,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+9389eec9-a5c3-a9e1-99ef-263786ec63cd,MERRIM-80b959,DIAGNOSIS,viral sinus,Viral sinusitis,fuzzy,1.0
+9389eec9-a5c3-a9e1-99ef-263786ec63cd,MERRIM-80b959,DIAGNOSIS,sinus infection,sinus infection,unmapped,0.0
+9389eec9-a5c3-a9e1-99ef-263786ec63cd,MERRIM-80b959,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+9389eec9-a5c3-a9e1-99ef-263786ec63cd,MERRIM-80b959,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+6095681c-dfc1-8f20-73e3-eff033cd60c8,MERRIM-2bdac4,SYMPTOM,sore,sore,unmapped,0.0
+6095681c-dfc1-8f20-73e3-eff033cd60c8,MERRIM-2bdac4,SYMPTOM,sore,sore,unmapped,0.0
+6095681c-dfc1-8f20-c91b-9a56cc8db074,MERRIM-2bdac4,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+6095681c-dfc1-8f20-c91b-9a56cc8db074,MERRIM-2bdac4,MEDICATION,Dextromethorphan Hydrobromide,Dextromethorphan Hydrobromide,fuzzy,1.0
+6095681c-dfc1-8f20-c91b-9a56cc8db074,MERRIM-2bdac4,MEDICATION,doxylamine succinate,doxylamine succinate,fuzzy,1.0
+6095681c-dfc1-8f20-e0a1-b2f2610e05e1,MERRIM-2bdac4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+6095681c-dfc1-8f20-e0a1-b2f2610e05e1,MERRIM-2bdac4,MEDICATION,Gel,Gel,unmapped,0.0
+6095681c-dfc1-8f20-3af5-988ca0c1cd41,MERRIM-2bdac4,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+6095681c-dfc1-8f20-3af5-988ca0c1cd41,MERRIM-2bdac4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+6095681c-dfc1-8f20-929e-34c3b2480375,MERRIM-2bdac4,DIAGNOSIS,pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+6095681c-dfc1-8f20-929e-34c3b2480375,MERRIM-2bdac4,SYMPTOM,sore,sore,unmapped,0.0
+6095681c-dfc1-8f20-6d4c-7a24596ee746,MERRIM-2bdac4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+6095681c-dfc1-8f20-1af4-acd8852752c0,MERRIM-2bdac4,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+6095681c-dfc1-8f20-7409-6f37c8d4beaa,MERRIM-2bdac4,DIAGNOSIS,bronch,Acute bronchitis,fuzzy,1.0
+6095681c-dfc1-8f20-7409-6f37c8d4beaa,MERRIM-2bdac4,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+6095681c-dfc1-8f20-2844-2ff659ea9ce0,MERRIM-2bdac4,SYMPTOM,sore,sore,unmapped,0.0
+6095681c-dfc1-8f20-2844-2ff659ea9ce0,MERRIM-2bdac4,DIAGNOSIS,cca,cca,unmapped,0.0
+6095681c-dfc1-8f20-2844-2ff659ea9ce0,MERRIM-2bdac4,SYMPTOM,sore,sore,unmapped,0.0
+6095681c-dfc1-8f20-2844-2ff659ea9ce0,MERRIM-2bdac4,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+6095681c-dfc1-8f20-076e-50b9f94922d5,MERRIM-2bdac4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+8c5b83b2-737e-46cf-80d3-d09fe21dd361,MERRIM-0ac500,DIAGNOSIS,prediabet,Prediabetes,fuzzy,1.0
+8c5b83b2-737e-46cf-80d3-d09fe21dd361,MERRIM-0ac500,SYMPTOM,an,an,unmapped,0.0
+8c5b83b2-737e-46cf-f2cf-8fe3ef317c42,MERRIM-0ac500,DIAGNOSIS,violence,violence,unmapped,0.0
+8c5b83b2-737e-46cf-a779-bae98fa2653a,MERRIM-0ac500,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+8c5b83b2-737e-46cf-a779-bae98fa2653a,MERRIM-0ac500,DIAGNOSIS,Not in labor force,Not in labor force,unmapped,0.0
+8c5b83b2-737e-46cf-a779-bae98fa2653a,MERRIM-0ac500,DIAGNOSIS,intimate,intimate,unmapped,0.0
+83093df7-a1e4-b827-be3e-2eea7c39e98b,MERRIM-078e57,DIAGNOSIS,cca,cca,unmapped,0.0
+83093df7-a1e4-b827-be3e-2eea7c39e98b,MERRIM-078e57,SYMPTOM,sore,sore,unmapped,0.0
+83093df7-a1e4-b827-be3e-2eea7c39e98b,MERRIM-078e57,SYMPTOM,sore,sore,unmapped,0.0
+83093df7-a1e4-b827-be3e-2eea7c39e98b,MERRIM-078e57,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+83093df7-a1e4-b827-256c-f242238075e0,MERRIM-078e57,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+83093df7-a1e4-b827-0b1f-610e8188d262,MERRIM-078e57,DIAGNOSIS,bro,bro,unmapped,0.0
+83093df7-a1e4-b827-0b1f-610e8188d262,MERRIM-078e57,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+83093df7-a1e4-b827-2ad7-6c084423a6a4,MERRIM-078e57,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+83093df7-a1e4-b827-2ad7-6c084423a6a4,MERRIM-078e57,DIAGNOSIS,gum,gum,unmapped,0.0
+83093df7-a1e4-b827-2ad7-6c084423a6a4,MERRIM-078e57,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+83093df7-a1e4-b827-3396-bdd8829af079,MERRIM-078e57,DIAGNOSIS,bro,bro,unmapped,0.0
+83093df7-a1e4-b827-3396-bdd8829af079,MERRIM-078e57,DIAGNOSIS,bro,bro,unmapped,0.0
+83093df7-a1e4-b827-3396-bdd8829af079,MERRIM-078e57,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+83093df7-a1e4-b827-3e76-9fa984311901,MERRIM-078e57,DIAGNOSIS,pharyngitis,Acute viral pharyngitis,fuzzy,1.0
+83093df7-a1e4-b827-3e76-9fa984311901,MERRIM-078e57,SYMPTOM,sore,sore,unmapped,0.0
+83093df7-a1e4-b827-3e76-9fa984311901,MERRIM-078e57,MEDICATION,Penicillin,Penicillin V Potassium,fuzzy,1.0
+83093df7-a1e4-b827-cc95-06075c087429,MERRIM-078e57,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+83093df7-a1e4-b827-cc95-06075c087429,MERRIM-078e57,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+83093df7-a1e4-b827-83c4-019220f36dde,MERRIM-078e57,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+83093df7-a1e4-b827-83c4-019220f36dde,MERRIM-078e57,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+45f3a7b6-d706-f174-72f7-f5282fdbe809,MERRIM-f92cfe,DIAGNOSIS,bro,bro,unmapped,0.0
+45f3a7b6-d706-f174-72f7-f5282fdbe809,MERRIM-f92cfe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+45f3a7b6-d706-f174-763f-3c0fdd7cc489,MERRIM-f92cfe,DIAGNOSIS,otitis,Otitis media,fuzzy,1.0
+45f3a7b6-d706-f174-763f-3c0fdd7cc489,MERRIM-f92cfe,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+45f3a7b6-d706-f174-763f-3c0fdd7cc489,MERRIM-f92cfe,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+45f3a7b6-d706-f174-13ee-73516a1139ab,MERRIM-f92cfe,MEDICATION,Fexofenadine hydrochloride,Fexofenadine hydrochloride,fuzzy,1.0
+45f3a7b6-d706-f174-13ee-73516a1139ab,MERRIM-f92cfe,MEDICATION,Epinephrine,HR | norepinephrine,ambiguous,1.0
+45f3a7b6-d706-f174-13ee-73516a1139ab,MERRIM-f92cfe,ALLERGY,Shellfish,Shellfish,fuzzy,1.0
+45f3a7b6-d706-f174-1ce3-a19c06a5d62e,MERRIM-f92cfe,SYMPTOM,allergic rhini,Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+45f3a7b6-d706-f174-1ce3-a19c06a5d62e,MERRIM-f92cfe,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+45f3a7b6-d706-f174-6f47-6e914e4787af,MERRIM-f92cfe,DIAGNOSIS,ot,ot,unmapped,0.0
+45f3a7b6-d706-f174-6f47-6e914e4787af,MERRIM-f92cfe,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+45f3a7b6-d706-f174-0603-792f0d9a8d8a,MERRIM-f92cfe,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+45f3a7b6-d706-f174-e63a-3a68946df226,MERRIM-f92cfe,DIAGNOSIS,ot,ot,unmapped,0.0
+45f3a7b6-d706-f174-e63a-3a68946df226,MERRIM-f92cfe,MEDICATION,Azithromycin,Azithromycin | HR,ambiguous,1.0
+45f3a7b6-d706-f174-e63a-3a68946df226,MERRIM-f92cfe,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+029c95e2-d252-d8d3-e8d7-3b8dd705a8c1,MERRIM-146d19,DIAGNOSIS,prediabetes,Prediabetes,exact_synonym,1.0
+029c95e2-d252-d8d3-4ff0-660f796f4167,MERRIM-146d19,SYMPTOM,pain,pain,unmapped,0.0
+029c95e2-d252-d8d3-d052-728547a16a2e,MERRIM-146d19,MEDICATION,nor,nor,unmapped,0.0
+029c95e2-d252-d8d3-d052-728547a16a2e,MERRIM-146d19,MEDICATION,Jolivet,Jolivet,unmapped,0.0
+029c95e2-d252-d8d3-29d0-7ab78aa260c5,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-a1a7-9788a0d941ba,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-950f-59c4ad245bfb,MERRIM-146d19,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+029c95e2-d252-d8d3-950f-59c4ad245bfb,MERRIM-146d19,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+029c95e2-d252-d8d3-9581-d543de5842e3,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-684e-ca613f35f30b,MERRIM-146d19,MEDICATION,medroxyprogesterone acetate,medroxyPROGESTERone acetate | medroxyprogesterone acetate,ambiguous,1.0
+029c95e2-d252-d8d3-dc44-e219c71e0fa9,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-e618-02c22c934526,MERRIM-146d19,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+029c95e2-d252-d8d3-afe9-2e2b243fcaec,MERRIM-146d19,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+029c95e2-d252-d8d3-afe9-2e2b243fcaec,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-9d7c-5e6910dbe500,MERRIM-146d19,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+029c95e2-d252-d8d3-9d7c-5e6910dbe500,MERRIM-146d19,DIAGNOSIS,miscarriage,Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage,ambiguous,1.0
+029c95e2-d252-d8d3-fa2d-3964f9bf06de,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-9472-1fd467ae4731,MERRIM-146d19,MEDICATION,nor,nor,unmapped,0.0
+029c95e2-d252-d8d3-0375-0f4e0e0454d7,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-0c9e-f3e260c23109,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-4244-928d0b83f368,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-144c-7701bcef10d7,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-346b-5730a1651d44,MERRIM-146d19,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+029c95e2-d252-d8d3-346b-5730a1651d44,MERRIM-146d19,MEDICATION,Gel,Gel,unmapped,0.0
+029c95e2-d252-d8d3-1b68-517f3db0add4,MERRIM-146d19,SYMPTOM,burn,burn,unmapped,0.0
+029c95e2-d252-d8d3-6751-1baf80492b3a,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+029c95e2-d252-d8d3-1d9c-3d2d09747dd5,MERRIM-146d19,SYMPTOM,burn,burn,unmapped,0.0
+029c95e2-d252-d8d3-2abf-0c7210e8023a,MERRIM-146d19,DIAGNOSIS,osteoarthritis,Localized  primary osteoarthritis of the hand | Osteoarthritis of hip | Osteoarthritis of knee,ambiguous,1.0
+029c95e2-d252-d8d3-2abf-0c7210e8023a,MERRIM-146d19,DIAGNOSIS,os,os,unmapped,0.0
+029c95e2-d252-d8d3-2abf-0c7210e8023a,MERRIM-146d19,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+029c95e2-d252-d8d3-94ad-3388053bf3b4,MERRIM-146d19,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+e170fdcd-8830-89c4-500c-39ee420a9be8,MERRIM-ce076c,MEDICATION,ferrous sulfate,ferrous sulfate,fuzzy,1.0
+e170fdcd-8830-89c4-500c-39ee420a9be8,MERRIM-ce076c,MEDICATION,Vitamin B12,Vitamin B,fuzzy,1.0
+e170fdcd-8830-89c4-2e3b-005b54e0d260,MERRIM-ce076c,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+e170fdcd-8830-89c4-fe09-c25c9ba3997a,MERRIM-ce076c,MEDICATION,nor,nor,unmapped,0.0
+e170fdcd-8830-89c4-89de-a8dc7cdaf59c,MERRIM-ce076c,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+e170fdcd-8830-89c4-aee1-3efd4de8d9a2,MERRIM-ce076c,MEDICATION,nor,nor,unmapped,0.0
+e170fdcd-8830-89c4-aee1-3efd4de8d9a2,MERRIM-ce076c,MEDICATION,Jolivet,Jolivet,unmapped,0.0
+e170fdcd-8830-89c4-8bb7-d542ce96c64d,MERRIM-ce076c,MEDICATION,nor,nor,unmapped,0.0
+e170fdcd-8830-89c4-dd94-c2b563fc01de,MERRIM-ce076c,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+e170fdcd-8830-89c4-caef-dd14d84dee74,MERRIM-ce076c,MEDICATION,nor,nor,unmapped,0.0
+e170fdcd-8830-89c4-94ae-234355fecdec,MERRIM-ce076c,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+e170fdcd-8830-89c4-f3ad-500cfe98531c,MERRIM-ce076c,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+e170fdcd-8830-89c4-e01a-cf11452701f0,MERRIM-ce076c,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+e170fdcd-8830-89c4-e01a-cf11452701f0,MERRIM-ce076c,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+e170fdcd-8830-89c4-412a-62fa538e78b2,MERRIM-ce076c,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+e170fdcd-8830-89c4-5416-88c878948691,MERRIM-ce076c,MEDICATION,die,die,unmapped,0.0
+e170fdcd-8830-89c4-5416-88c878948691,MERRIM-ce076c,MEDICATION,est,est,unmapped,0.0
+e170fdcd-8830-89c4-5416-88c878948691,MERRIM-ce076c,MEDICATION,iol,iol,unmapped,0.0
+e170fdcd-8830-89c4-5416-88c878948691,MERRIM-ce076c,MEDICATION,die,die,unmapped,0.0
+e170fdcd-8830-89c4-5416-88c878948691,MERRIM-ce076c,MEDICATION,ges,ges,unmapped,0.0
+e170fdcd-8830-89c4-5416-88c878948691,MERRIM-ce076c,MEDICATION,Nat,Nat,unmapped,0.0
+2e9a9dab-f5b6-8960-2419-1582617bc0cb,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-2419-1582617bc0cb,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-3228-d9ecc99ddfbb,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-3228-d9ecc99ddfbb,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-3228-d9ecc99ddfbb,MERRIM-6b9d10,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+2e9a9dab-f5b6-8960-d6d2-b1d033e76677,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-d6d2-b1d033e76677,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-8c59-115e830f83d0,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-8c59-115e830f83d0,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-c52a-6279f702c0d2,MERRIM-6b9d10,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+2e9a9dab-f5b6-8960-8fb1-e564a42af2b7,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-8fb1-e564a42af2b7,MERRIM-6b9d10,MEDICATION,Suspension,ML Inhalation Suspension | ML Injectable Suspension | ML Oral Suspension,ambiguous,1.0
+2e9a9dab-f5b6-8960-8fb1-e564a42af2b7,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-4cc9-2d7b5f19a9b5,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-4cc9-2d7b5f19a9b5,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-f8cd-eb934c776d1b,MERRIM-6b9d10,MEDICATION,drospirenone,drospirenone,unmapped,0.0
+2e9a9dab-f5b6-8960-f8cd-eb934c776d1b,MERRIM-6b9d10,MEDICATION,et,et,unmapped,0.0
+2e9a9dab-f5b6-8960-f8cd-eb934c776d1b,MERRIM-6b9d10,MEDICATION,yl est,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+2e9a9dab-f5b6-8960-f8cd-eb934c776d1b,MERRIM-6b9d10,MEDICATION,iol,iol,unmapped,0.0
+2e9a9dab-f5b6-8960-a542-ce8064b673ca,MERRIM-6b9d10,SYMPTOM,weight gain,weight gain,unmapped,0.0
+2e9a9dab-f5b6-8960-a542-ce8064b673ca,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-a542-ce8064b673ca,MERRIM-6b9d10,MEDICATION,hala,hala,unmapped,0.0
+2e9a9dab-f5b6-8960-a542-ce8064b673ca,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-c574-8f077e741564,MERRIM-6b9d10,DIAGNOSIS,Limited social contact,Limited social contact,unmapped,0.0
+2e9a9dab-f5b6-8960-c574-8f077e741564,MERRIM-6b9d10,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+2e9a9dab-f5b6-8960-c574-8f077e741564,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-c574-8f077e741564,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-335b-1364dc491f08,MERRIM-6b9d10,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2e9a9dab-f5b6-8960-ed5e-6dd1c39bc449,MERRIM-6b9d10,MEDICATION,Ethinyl Estradiol,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+2e9a9dab-f5b6-8960-ed5e-6dd1c39bc449,MERRIM-6b9d10,MEDICATION,norelgestromin,norelgestromin,fuzzy,1.0
+2e9a9dab-f5b6-8960-da1a-d00e01c67125,MERRIM-6b9d10,DIAGNOSIS,Part-time employment,Part-time employment,unmapped,0.0
+2e9a9dab-f5b6-8960-da1a-d00e01c67125,MERRIM-6b9d10,DIAGNOSIS,Unhealthy alcohol drinking,Unhealthy alcohol drinking,unmapped,0.0
+2e9a9dab-f5b6-8960-da1a-d00e01c67125,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-da1a-d00e01c67125,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-84ec-d256ee97102c,MERRIM-6b9d10,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+2e9a9dab-f5b6-8960-9900-278eeca0a92a,MERRIM-6b9d10,DIAGNOSIS,gingivi,Gingivitis,fuzzy,1.0
+2e9a9dab-f5b6-8960-9900-278eeca0a92a,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-9900-278eeca0a92a,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-d55d-9652367acc32,MERRIM-6b9d10,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+2e9a9dab-f5b6-8960-d55d-9652367acc32,MERRIM-6b9d10,SYMPTOM,sinus,Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis,ambiguous,1.0
+2e9a9dab-f5b6-8960-d55d-9652367acc32,MERRIM-6b9d10,MEDICATION,Amoxicillin,Amoxicillin | amoxicillin,ambiguous,1.0
+2e9a9dab-f5b6-8960-d55d-9652367acc32,MERRIM-6b9d10,MEDICATION,Clavulanate,Clavulanate | clavulanate,ambiguous,1.0
+2e9a9dab-f5b6-8960-745c-4b34421bcb10,MERRIM-6b9d10,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+2e9a9dab-f5b6-8960-b032-523be36600b9,MERRIM-6b9d10,MEDICATION,Etonogestrel,Etonogestrel | etonogestrel,ambiguous,1.0
+2e9a9dab-f5b6-8960-e226-12bdf9a235cb,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-e226-12bdf9a235cb,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-4e15-c1eb437d0c65,MERRIM-6b9d10,MEDICATION,et,et,unmapped,0.0
+2e9a9dab-f5b6-8960-4e15-c1eb437d0c65,MERRIM-6b9d10,MEDICATION,est,est,unmapped,0.0
+2e9a9dab-f5b6-8960-4e15-c1eb437d0c65,MERRIM-6b9d10,MEDICATION,iol,iol,unmapped,0.0
+2e9a9dab-f5b6-8960-4e15-c1eb437d0c65,MERRIM-6b9d10,MEDICATION,levonorgestrel,levonorgestrel,fuzzy,1.0
+2e9a9dab-f5b6-8960-89d6-5090bebbd7b2,MERRIM-6b9d10,MEDICATION,budesonide,budesonide,fuzzy,1.0
+2e9a9dab-f5b6-8960-89d6-5090bebbd7b2,MERRIM-6b9d10,MEDICATION,albuterol,albuterol,fuzzy,1.0
+2e9a9dab-f5b6-8960-89d6-5090bebbd7b2,MERRIM-6b9d10,MEDICATION,Solution,ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution,ambiguous,1.0
+2211f478-b7b4-7711-9a9f-03d1d5bff6f1,MERRIM-c498d3,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-9a9f-03d1d5bff6f1,MERRIM-c498d3,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-9a9f-03d1d5bff6f1,MERRIM-c498d3,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-8583-ac8486f7ccf0,MERRIM-c498d3,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-8583-ac8486f7ccf0,MERRIM-c498d3,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-8583-ac8486f7ccf0,MERRIM-c498d3,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,dornase alfa,dornase alfa,fuzzy,1.0
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,Pancreatin,Pancreatin,fuzzy,1.0
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+2211f478-b7b4-7711-2063-bd8974846363,MERRIM-c498d3,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+716c6d0a-2a5d-0aaa-0259-525eee714321,MERRIM-19b639,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+716c6d0a-2a5d-0aaa-0259-525eee714321,MERRIM-19b639,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+6b687f11-0721-ccaf-60b3-178a73b27787,MERRIM-70ea72,DIAGNOSIS,concussion,Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness,ambiguous,1.0
+6b687f11-0721-ccaf-60b3-178a73b27787,MERRIM-70ea72,DIAGNOSIS,concussion injury,Concussion injury of brain,fuzzy,1.0
+6b687f11-0721-ccaf-60b3-178a73b27787,MERRIM-70ea72,DIAGNOSIS,concussion,Concussion injury of brain | Concussion with loss of consciousness | Concussion with no loss of consciousness,ambiguous,1.0
+6b687f11-0721-ccaf-daa4-523d0beedb7d,MERRIM-70ea72,DIAGNOSIS,concussion injury,Concussion injury of brain,fuzzy,1.0
+6b687f11-0721-ccaf-daa4-523d0beedb7d,MERRIM-70ea72,DIAGNOSIS,concussion injury,Concussion injury of brain,fuzzy,1.0
+6b687f11-0721-ccaf-c6bc-e72561afb13f,MERRIM-70ea72,DIAGNOSIS,concussion injury,Concussion injury of brain,fuzzy,1.0
+a5816bea-ad10-431f-6cd4-9e367b41a769,MERRIM-ac192b,MEDICATION,cetirizine hydrochloride,cetirizine hydrochloride,fuzzy,1.0
+a5816bea-ad10-431f-6cd4-9e367b41a769,MERRIM-ac192b,MEDICATION,Epinephrine,HR | norepinephrine,ambiguous,1.0
+a5816bea-ad10-431f-6cd4-9e367b41a769,MERRIM-ac192b,SYMPTOM,all,all,unmapped,0.0
+a5816bea-ad10-431f-6cd4-9e367b41a769,MERRIM-ac192b,ALLERGY,Tree nut,Tree nut,fuzzy,1.0
+a5816bea-ad10-431f-4ac3-5c69888cbebd,MERRIM-ac192b,SYMPTOM,allergic rhinitis,Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-4ac3-5c69888cbebd,MERRIM-ac192b,SYMPTOM,allergic rhinitis,Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-828c-6ee257676ef6,MERRIM-ac192b,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+a5816bea-ad10-431f-828c-6ee257676ef6,MERRIM-ac192b,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+a5816bea-ad10-431f-1d58-a903bc1315c4,MERRIM-ac192b,DIAGNOSIS,dental caries,Primary dental caries,fuzzy,1.0
+a5816bea-ad10-431f-5ea4-5863bdb673d0,MERRIM-ac192b,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+a5816bea-ad10-431f-5ea4-5863bdb673d0,MERRIM-ac192b,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+a5816bea-ad10-431f-5ea4-5863bdb673d0,MERRIM-ac192b,SYMPTOM,sprain,Sprain (morphologic abnormality) | Sprain of ankle | Sprain of wrist,ambiguous,1.0
+a5816bea-ad10-431f-5ea4-5863bdb673d0,MERRIM-ac192b,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+a5816bea-ad10-431f-be0d-1ebd7c1ca24f,MERRIM-ac192b,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+a5816bea-ad10-431f-be0d-1ebd7c1ca24f,MERRIM-ac192b,MEDICATION,Gel,Gel,unmapped,0.0
+a5816bea-ad10-431f-540c-328954e2b7d3,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-f88d-ed7fb59c9876,MERRIM-ac192b,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+a5816bea-ad10-431f-f88d-ed7fb59c9876,MERRIM-ac192b,DIAGNOSIS,viral,Acute viral pharyngitis | Viral sinusitis,ambiguous,1.0
+a5816bea-ad10-431f-5d82-def3b04da629,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-4ec7-b7046325136f,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-3eaf-c964da2b67cb,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-7c8c-cb2827a0628c,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-8209-21a0d852a0a3,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-3bd5-ae5634f6014c,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-5547-c998e863d828,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-9be5-e9e7ede9d972,MERRIM-ac192b,MEDICATION,medroxyprogesterone acetate,medroxyPROGESTERone acetate | medroxyprogesterone acetate,ambiguous,1.0
+a5816bea-ad10-431f-bfb8-c87dc3541a54,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-d04c-97f15abc583f,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-e567-d7b8fbd7bb0e,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-19f6-05c997f41861,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-1d06-c382c093d31a,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-7d58-98000a6fe67b,MERRIM-ac192b,MEDICATION,et,et,unmapped,0.0
+a5816bea-ad10-431f-7d58-98000a6fe67b,MERRIM-ac192b,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+a5816bea-ad10-431f-d67f-b247caa77d57,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-3f67-bd62b15c62bc,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-ae95-4ca8531e52e0,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-b923-479d0de6bf77,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-6e59-7f009feb3309,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-fe19-d75b5ad7c058,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-1f94-3f2b55f6fdb6,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-cbfd-3cbe950c9c7e,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-0d7a-062f6695a7de,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-ebab-0e440671f697,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-e616-835f7349d0e3,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-64ec-d09482dbf641,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-9213-9fd33005813c,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-3b00-f32245df35ab,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-4637-f1adcff4bbf4,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+a5816bea-ad10-431f-5541-91f0d4eeb13c,MERRIM-ac192b,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+82623afe-e51c-e02e-9fa0-5b2cd8d72efe,MERRIM-b32e00,SYMPTOM,allergic disposition,allergic disposition,unmapped,0.0
+82623afe-e51c-e02e-9fa0-5b2cd8d72efe,MERRIM-b32e00,MEDICATION,Fexofenadine hydrochloride,Fexofenadine hydrochloride,fuzzy,1.0
+82623afe-e51c-e02e-9fa0-5b2cd8d72efe,MERRIM-b32e00,MEDICATION,Epinephrine,HR | norepinephrine,ambiguous,1.0
+82623afe-e51c-e02e-9fa0-5b2cd8d72efe,MERRIM-b32e00,ALLERGY,Peanut,Peanut,fuzzy,1.0
+82623afe-e51c-e02e-121d-23cd199b3bef,MERRIM-b32e00,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+82623afe-e51c-e02e-43c8-b8e6de275c23,MERRIM-b32e00,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+82623afe-e51c-e02e-d617-5326c746b07d,MERRIM-b32e00,SYMPTOM,allergic,Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis,ambiguous,1.0
+82623afe-e51c-e02e-ad5c-56e0ed756bb6,MERRIM-b32e00,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+82623afe-e51c-e02e-50a5-a61df30f297d,MERRIM-b32e00,SYMPTOM,pain,pain,unmapped,0.0
+82623afe-e51c-e02e-827f-70c092e0dffa,MERRIM-b32e00,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+82623afe-e51c-e02e-827f-70c092e0dffa,MERRIM-b32e00,MEDICATION,Gel,Gel,unmapped,0.0
+82623afe-e51c-e02e-b054-a0a4ba49bd05,MERRIM-b32e00,MEDICATION,et,et,unmapped,0.0
+82623afe-e51c-e02e-b054-a0a4ba49bd05,MERRIM-b32e00,MEDICATION,iol,iol,unmapped,0.0
+82623afe-e51c-e02e-b054-a0a4ba49bd05,MERRIM-b32e00,MEDICATION,iol,iol,unmapped,0.0
+82623afe-e51c-e02e-b054-a0a4ba49bd05,MERRIM-b32e00,MEDICATION,levonorge,levonorgestrel,fuzzy,1.0
+82623afe-e51c-e02e-9995-5c34cdb367c8,MERRIM-b32e00,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+82623afe-e51c-e02e-9995-5c34cdb367c8,MERRIM-b32e00,MEDICATION,Gel,Gel,unmapped,0.0
+82623afe-e51c-e02e-63ff-d419d11c0bcf,MERRIM-b32e00,MEDICATION,noreth,Norethynodrel | norethindrone,ambiguous,1.0
+82623afe-e51c-e02e-63ff-d419d11c0bcf,MERRIM-b32e00,MEDICATION,Jolivet,Jolivet,unmapped,0.0
+82623afe-e51c-e02e-723c-cf9d5c953aa5,MERRIM-b32e00,MEDICATION,Ethinyl Estradiol,Ethinyl Estradiol | ethinyl estradiol,ambiguous,1.0
+82623afe-e51c-e02e-723c-cf9d5c953aa5,MERRIM-b32e00,MEDICATION,norelgestromin,norelgestromin,fuzzy,1.0
+82623afe-e51c-e02e-da81-92c81bfa0e1b,MERRIM-b32e00,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+82623afe-e51c-e02e-dc6e-f42553468d57,MERRIM-b32e00,MEDICATION,amLODIPine,ML | amLODIPine,ambiguous,1.0
+82623afe-e51c-e02e-1747-76a4a1b9f9b5,MERRIM-b32e00,DIAGNOSIS,gingival disease,Gingival disease,exact_synonym,1.0
+82623afe-e51c-e02e-1747-76a4a1b9f9b5,MERRIM-b32e00,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+82623afe-e51c-e02e-7838-78fab592a0da,MERRIM-b32e00,DIAGNOSIS,tubal ligation,History of tubal ligation,fuzzy,1.0
+8d91c36a-1f7e-3842-e2fc-80d329261a31,MERRIM-83325f,DIAGNOSIS,Stress,Acute respiratory distress syndrome | Respiratory distress,ambiguous,1.0
+8d91c36a-1f7e-3842-e2fc-80d329261a31,MERRIM-83325f,DIAGNOSIS,Un,Un,unmapped,0.0
+8d91c36a-1f7e-3842-e2fc-80d329261a31,MERRIM-83325f,DIAGNOSIS,lth,lth,unmapped,0.0
+8d91c36a-1f7e-3842-48ee-0b986de96d92,MERRIM-83325f,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+8d91c36a-1f7e-3842-c5a8-3d51f8bb0e72,MERRIM-83325f,SYMPTOM,weight,weight,unmapped,0.0
+8d91c36a-1f7e-3842-c5a8-3d51f8bb0e72,MERRIM-83325f,MEDICATION,carvedilol,carvedilol,fuzzy,1.0
+8d91c36a-1f7e-3842-c5a8-3d51f8bb0e72,MERRIM-83325f,MEDICATION,Furosemide,Furosemide,fuzzy,1.0
+8d91c36a-1f7e-3842-c5a8-3d51f8bb0e72,MERRIM-83325f,MEDICATION,losartan potassium,losartan potassium,fuzzy,1.0
+8d91c36a-1f7e-3842-f145-ead7c5c00ed9,MERRIM-83325f,MEDICATION,carvedilol,carvedilol,fuzzy,1.0
+8d91c36a-1f7e-3842-f145-ead7c5c00ed9,MERRIM-83325f,MEDICATION,Furosemide,Furosemide,fuzzy,1.0
+8d91c36a-1f7e-3842-f145-ead7c5c00ed9,MERRIM-83325f,MEDICATION,losartan potassium,losartan potassium,fuzzy,1.0
+8d91c36a-1f7e-3842-f145-ead7c5c00ed9,MERRIM-83325f,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+8d91c36a-1f7e-3842-f2ee-063081772107,MERRIM-83325f,MEDICATION,carvedilol,carvedilol,fuzzy,1.0
+8d91c36a-1f7e-3842-f2ee-063081772107,MERRIM-83325f,MEDICATION,Furosemide,Furosemide,fuzzy,1.0
+8d91c36a-1f7e-3842-f2ee-063081772107,MERRIM-83325f,MEDICATION,losartan potassium,losartan potassium,fuzzy,1.0
+8d91c36a-1f7e-3842-f2ee-063081772107,MERRIM-83325f,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+8d91c36a-1f7e-3842-3c8b-9f8a2437d1e9,MERRIM-83325f,DIAGNOSIS,heart,Abnormal findings diagnostic imaging heart+coronary circulat | Chronic congestive heart failure | Ischemic heart disease,ambiguous,1.0
+e142981b-3577-4115-bddc-c6a2733dfeac,MERRIM-150703,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+e142981b-3577-4115-635e-f12a71321634,MERRIM-150703,DIAGNOSIS,coronavirus,Disease caused by severe acute respiratory syndrome coronavirus 2 | Suspected disease caused by Severe acute respiratory coronavirus 2,ambiguous,1.0
+e142981b-3577-4115-635e-f12a71321634,MERRIM-150703,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+e142981b-3577-4115-8baa-9b9ca21f5138,MERRIM-150703,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+e142981b-3577-4115-bc8b-952262a597c3,MERRIM-150703,DIAGNOSIS,burn,burn,unmapped,0.0
+e142981b-3577-4115-bc8b-952262a597c3,MERRIM-150703,DIAGNOSIS,burn,burn,unmapped,0.0
+e142981b-3577-4115-bc8b-952262a597c3,MERRIM-150703,SYMPTOM,burn,burn,unmapped,0.0
+e142981b-3577-4115-bc8b-952262a597c3,MERRIM-150703,MEDICATION,Naproxen sodium,Naproxen | Naproxen sodium,ambiguous,1.0
+1426480f-ccc7-2393-5e98-efb96c38eba7,MERRIM-1b72a6,DIAGNOSIS,criminal record,criminal record,unmapped,0.0
+dc77ef0d-1846-94fd-21ee-53eb16bd49e8,MERRIM-c4f683,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+dc77ef0d-1846-94fd-21ee-53eb16bd49e8,MERRIM-c4f683,MEDICATION,Gel,Gel,unmapped,0.0
+dc77ef0d-1846-94fd-7f6e-741293cc1fb9,MERRIM-c4f683,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+dc77ef0d-1846-94fd-681b-bb812a714698,MERRIM-c4f683,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+dc77ef0d-1846-94fd-015e-80c19e6bb8ca,MERRIM-c4f683,DIAGNOSIS,aryng,Acute viral pharyngitis,fuzzy,1.0
+dc77ef0d-1846-94fd-015e-80c19e6bb8ca,MERRIM-c4f683,SYMPTOM,sore,sore,unmapped,0.0
+dc77ef0d-1846-94fd-b824-5df950f21bbe,MERRIM-c4f683,MEDICATION,drospirenone,drospirenone,unmapped,0.0
+dc77ef0d-1846-94fd-b824-5df950f21bbe,MERRIM-c4f683,MEDICATION,et,et,unmapped,0.0
+dc77ef0d-1846-94fd-b824-5df950f21bbe,MERRIM-c4f683,MEDICATION,est,est,unmapped,0.0
+dc77ef0d-1846-94fd-b824-5df950f21bbe,MERRIM-c4f683,MEDICATION,iol,iol,unmapped,0.0
+dc77ef0d-1846-94fd-3552-4360fc140325,MERRIM-c4f683,SYMPTOM,injury,Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+dc77ef0d-1846-94fd-3552-4360fc140325,MERRIM-c4f683,SYMPTOM,injury,Burn injury (morphologic abnormality) | Concussion injury of brain | Injury of neck | Injury of tendon of the rotator cuff of shoulder,ambiguous,1.0
+dc77ef0d-1846-94fd-3552-4360fc140325,MERRIM-c4f683,SYMPTOM,tear,tear,unmapped,0.0
+dc77ef0d-1846-94fd-3552-4360fc140325,MERRIM-c4f683,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-a0c9-295ffe4f6650,MERRIM-bacf17,DIAGNOSIS,hypertriglyceridemia,Hypertriglyceridemia,fuzzy,1.0
+bca1691f-8839-1d66-3ecf-c3f5ff267d42,MERRIM-bacf17,DIAGNOSIS,kidney disease,Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4,ambiguous,1.0
+bca1691f-8839-1d66-3ecf-c3f5ff267d42,MERRIM-bacf17,SYMPTOM,microalbuminuria,Microalbuminuria due to type 2 diabetes mellitus,fuzzy,1.0
+bca1691f-8839-1d66-3ecf-c3f5ff267d42,MERRIM-bacf17,DIAGNOSIS,type 2 diabetes,Diabetes mellitus type 2,exact_synonym,1.0
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-ca3b-ec38322bcb6e,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-3f27-12150a892c5c,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,DIAGNOSIS,kidney disease,Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4,ambiguous,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,SYMPTOM,3,3,unmapped,0.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,SYMPTOM,proteinuria,Proteinuria due to type 2 diabetes mellitus,fuzzy,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,DIAGNOSIS,type 2 diabetes mellit,Microalbuminuria due to type 2 diabetes mellitus | Neuropathy due to type 2 diabetes mellitus | Proteinuria due to type 2 diabetes mellitus,ambiguous,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-cd2e-c2396d5d30d2,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-7e3c-e7ab7a25bcc3,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-1ed2-87026bf317c4,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-0627-2f54e426705d,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-3b6b-ced2b8cd4798,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-f04b-5f9687923cd3,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-ac1f-ef5e9dd25879,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-9e60-de96bcfefa59,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-1651-920344da0d40,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-5809-391c1a96ad57,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-c6d9-35bbe965ec0f,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-4d8a-af4235a5e11c,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-4f82-05389f746de6,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-6b14-889a125e7318,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-bdf3-e613d29da0d1,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-0518-10771ae0b593,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-9af5-32dea394ed1e,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-e73a-cd4ec2f916d9,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-4328-3e3683b5ddd0,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-692a-73648db0dc84,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-2df7-64a60ddc92f4,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-71de-305450b619a9,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-a20c-3096f2eb9cbb,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-ef1a-1547ecbf2ccc,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-52f4-79ab3ff8aac3,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-80cc-792ec8ed4696,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,Ty,Ty,unmapped,0.0
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-118a-e898b839e8ed,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-e07d-45056ec6915b,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-9ed9-2787a6a0686f,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-1667-b953ffad4a13,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-b746-ceaede37658f,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-4bc9-d405c2405219,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-940d-1f2e300e7cd7,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-1a4d-43c6a50d4c03,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-062d-be9cc163945f,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-4b12-b763d062c0da,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,Ty,Ty,unmapped,0.0
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-9861-6b827ab55f9d,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-0157-5804e8255b6d,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-0ec9-6120ffafb598,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-d7ae-fe369e19e62b,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-7b27-289ac111cb93,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,Ty,Ty,unmapped,0.0
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-83d2-57d075ab98a9,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-b4bb-bddf9b7dbff5,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-35d8-b3a805092221,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-9e93-5fc51ba0839e,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-0f5f-6943657acc48,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-d788-70bc32b961b2,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,DIAGNOSIS,alzheimer',Alzheimer's disease,fuzzy,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-ef35-f2b9a6b33361,MERRIM-bacf17,MEDICATION,Galantamine,Galantamine,fuzzy,1.0
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-2e51-cf31e97edeb4,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-f328-07432cf48e3d,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-55ca-c3e84eefa2e6,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-a985-b2110ad17fe3,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-cf27-15a984f3cfa7,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-1531-f6848af0ab01,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-86cf-203e0d3b9bfc,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-25d2-cd60c6746a0f,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-63a7-7d2ddc3f2e91,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-ab4e-4cd6b5836da1,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,DIAGNOSIS,inflammation,inflammation,unmapped,0.0
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-28f5-fddaec86e620,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-c613-177636677dc6,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-7008-28841b2656d2,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-4314-6eaa93269767,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-afa7-5601f24afa56,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-17bd-bc3d447e43fc,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-bac5-205c30668c19,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-03a0-82b1712fc871,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-b5bf-7ad594b0a144,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,DIAGNOSIS,time,time,unmapped,0.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,Ty,Ty,unmapped,0.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-73d6-6552a3e3fb4c,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-2c40-4a1f739894de,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-4768-56715a374c75,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-18d9-55611eb44b0f,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-293e-c94b4725c779,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-9138-4a0f2ca2d6dc,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-2413-fe1cde621093,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,verapamil hydrochloride,verapamil hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Digoxin,Digoxin,fuzzy,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Warfarin,Warfarin Sodium,fuzzy,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-b1e3-eb696f370b8c,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,verapamil hydrochloride,verapamil hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Digoxin,Digoxin,fuzzy,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Warfarin Sodium,Warfarin Sodium,fuzzy,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-046e-f41cb197085d,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,verapamil hydrochloride,verapamil hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Digoxin,Digoxin,fuzzy,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Warfarin Sodium,Warfarin Sodium,fuzzy,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-e76e-1a640e1fb064,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,verapamil hydrochloride,verapamil hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Digoxin,Digoxin,fuzzy,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Warfarin Sodium,Warfarin Sodium,fuzzy,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-a7d8-41067fbc83df,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,verapamil hydrochloride,verapamil hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Digoxin,Digoxin,fuzzy,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Ty,Ty,unmapped,0.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Warfarin Sodium,Warfarin Sodium,fuzzy,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-6c0e-eff0f14cc9a1,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,verapamil hydrochloride,verapamil hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Digoxin,Digoxin,fuzzy,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Warfarin,Warfarin Sodium,fuzzy,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-2d76-f76587f58e72,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,verapamil hydrochloride,verapamil hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Digoxin,Digoxin,fuzzy,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Warfarin Sodium,Warfarin Sodium,fuzzy,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,Metformin hydrochloride,Metformin hydrochloride,fuzzy,1.0
+bca1691f-8839-1d66-3f00-cd3cb821a205,MERRIM-bacf17,MEDICATION,lisinopril,lisinopril,fuzzy,1.0
+5693c080-f485-91e7-4533-c0538f2b28d4,MERRIM-7383c4,SYMPTOM,borderline blood,borderline blood,unmapped,0.0
+5693c080-f485-91e7-4533-c0538f2b28d4,MERRIM-7383c4,DIAGNOSIS,obesity,Body mass index 30+ - obesity,fuzzy,1.0
+5693c080-f485-91e7-b1f0-289af62b1d07,MERRIM-7383c4,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+5693c080-f485-91e7-d551-b4f8563a4bd8,MERRIM-7383c4,SYMPTOM,impacted,Impacted molars,fuzzy,1.0
+5693c080-f485-91e7-d551-b4f8563a4bd8,MERRIM-7383c4,SYMPTOM,impacted,Impacted molars,fuzzy,1.0
+5693c080-f485-91e7-fdd9-76b03dda82f4,MERRIM-7383c4,DIAGNOSIS,metabolic syndrome,Metabolic syndrome X,fuzzy,1.0
+5693c080-f485-91e7-fe53-5e8b40e60bbc,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-0f9b-348962beab27,MERRIM-7383c4,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+5693c080-f485-91e7-0f9b-348962beab27,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,DIAGNOSIS,kidney disease,Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4,ambiguous,1.0
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,SYMPTOM,disorder,Disorder of kidney due to diabetes mellitus | Seizure disorder | Sleep disorder,ambiguous,1.0
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,DIAGNOSIS,diabetes mellit,Diabetes mellitus due to cystic fibrosis | Diabetes mellitus type 2 | Disorder of kidney due to diabetes mellitus | Microalbuminuria due to type 2 diabetes mellitus,ambiguous,1.0
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-71d5-aa84c2a5fac7,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b60b-1358639543c0,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-b60b-1358639543c0,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b60b-1358639543c0,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,DIAGNOSIS,kidney disease,Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4,ambiguous,1.0
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,SYMPTOM,microalbuminuria,Microalbuminuria due to type 2 diabetes mellitus,fuzzy,1.0
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,DIAGNOSIS,type 2 diabetes,Diabetes mellitus type 2,exact_synonym,1.0
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-fd5f-192ce65dca7d,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-c38f-c0f011d6753e,MERRIM-7383c4,DIAGNOSIS,gingi,Gingival disease | Gingivitis,ambiguous,1.0
+5693c080-f485-91e7-c38f-c0f011d6753e,MERRIM-7383c4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+5693c080-f485-91e7-c38f-c0f011d6753e,MERRIM-7383c4,MEDICATION,Gel,Gel,unmapped,0.0
+5693c080-f485-91e7-93ff-ef1d9821fe5c,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-93ff-ef1d9821fe5c,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-93ff-ef1d9821fe5c,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-93ff-ef1d9821fe5c,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,DIAGNOSIS,kidney disease,Chronic kidney disease stage 1 | Chronic kidney disease stage 2 | Chronic kidney disease stage 3 | Chronic kidney disease stage 4,ambiguous,1.0
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,SYMPTOM,3,3,unmapped,0.0
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,SYMPTOM,proteinuria,Proteinuria due to type 2 diabetes mellitus,fuzzy,1.0
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,DIAGNOSIS,type 2 diabetes mellit,Microalbuminuria due to type 2 diabetes mellitus | Neuropathy due to type 2 diabetes mellitus | Proteinuria due to type 2 diabetes mellitus,ambiguous,1.0
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5727-ac22739913a3,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-16a2-7bfc60dc4738,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-16a2-7bfc60dc4738,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-16a2-7bfc60dc4738,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-16a2-7bfc60dc4738,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-9dff-fe3bf78f6e18,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-9dff-fe3bf78f6e18,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-9dff-fe3bf78f6e18,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-9dff-fe3bf78f6e18,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-d100-588719f55734,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-d100-588719f55734,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d100-588719f55734,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d100-588719f55734,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-ab5d-37c52ec04c90,MERRIM-7383c4,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+5693c080-f485-91e7-ab5d-37c52ec04c90,MERRIM-7383c4,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+5693c080-f485-91e7-ab5d-37c52ec04c90,MERRIM-7383c4,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+5693c080-f485-91e7-ab5d-37c52ec04c90,MERRIM-7383c4,MEDICATION,Ibuprofen,Ibuprofen,fuzzy,1.0
+5693c080-f485-91e7-5cd7-5693d8b26122,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5cd7-5693d8b26122,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5cd7-5693d8b26122,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5cd7-5693d8b26122,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-76b9-019244d1a38d,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-76b9-019244d1a38d,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-76b9-019244d1a38d,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-76b9-019244d1a38d,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-f2cc-ca1d58f1bff4,MERRIM-7383c4,DIAGNOSIS,fracture,Fracture of bone | Fracture of clavicle | Fracture of forearm | Fracture subluxation of wrist,ambiguous,1.0
+5693c080-f485-91e7-f2cc-ca1d58f1bff4,MERRIM-7383c4,SYMPTOM,sub,sub,unmapped,0.0
+5693c080-f485-91e7-fc09-a17e1ef182a2,MERRIM-7383c4,DIAGNOSIS,infection,Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection,ambiguous,1.0
+5693c080-f485-91e7-f8e0-eaa515864eaa,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-f8e0-eaa515864eaa,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-f8e0-eaa515864eaa,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-f8e0-eaa515864eaa,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-3ff0-793ab6c45796,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-3ff0-793ab6c45796,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-3ff0-793ab6c45796,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-3ff0-793ab6c45796,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-8fc6-9debaf65a3f8,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-8fc6-9debaf65a3f8,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-8fc6-9debaf65a3f8,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-8fc6-9debaf65a3f8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-1b74-3d2497220e99,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-1b74-3d2497220e99,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-1b74-3d2497220e99,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-1b74-3d2497220e99,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-b4f0-4e8972de91b2,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-b4f0-4e8972de91b2,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b4f0-4e8972de91b2,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b4f0-4e8972de91b2,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-1bae-e1c7ee79ce81,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-1bae-e1c7ee79ce81,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-1bae-e1c7ee79ce81,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-1bae-e1c7ee79ce81,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-08be-99c241180048,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-08be-99c241180048,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-08be-99c241180048,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-08be-99c241180048,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-f392-f08776f03c80,MERRIM-7383c4,MEDICATION,sodium fluoride,sodium fluoride,fuzzy,1.0
+5693c080-f485-91e7-0551-1d90530afd21,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-0551-1d90530afd21,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-4cf1-6353996906ef,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-4cf1-6353996906ef,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-4cf1-6353996906ef,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-08f2-c9bb02499e4a,MERRIM-7383c4,DIAGNOSIS,bronch,Acute bronchitis,fuzzy,1.0
+5693c080-f485-91e7-08f2-c9bb02499e4a,MERRIM-7383c4,MEDICATION,Acetaminophen,Acetaminophen,fuzzy,1.0
+5693c080-f485-91e7-bcb8-528126589a71,MERRIM-7383c4,DIAGNOSIS,gingivitis,Gingivitis,exact_synonym,1.0
+5693c080-f485-91e7-bcb8-528126589a71,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-bcb8-528126589a71,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-bcb8-528126589a71,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-bcb8-528126589a71,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-6f8c-f2fa084ea40d,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-6f8c-f2fa084ea40d,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-6f8c-f2fa084ea40d,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-82bd-031de9785457,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-82bd-031de9785457,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-82bd-031de9785457,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-82bd-031de9785457,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Clopidogrel,Clopidogrel | clopidogrel,ambiguous,1.0
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Simvastatin,Simvastatin,fuzzy,1.0
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,metoprolol succinate,metoprolol succinate,fuzzy,1.0
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Nitroglycerin,Nitroglycerin | nitroglycerin,ambiguous,1.0
+5693c080-f485-91e7-4331-b0368ba8a639,MERRIM-7383c4,MEDICATION,Mucosal Spray,ACTUAT Mucosal Spray,fuzzy,1.0
+5693c080-f485-91e7-6467-2dfff77d136f,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-6467-2dfff77d136f,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-6467-2dfff77d136f,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-6467-2dfff77d136f,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-f14d-4a441626bcfa,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-f14d-4a441626bcfa,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-f14d-4a441626bcfa,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-5070-33c6eec97be5,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5070-33c6eec97be5,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5070-33c6eec97be5,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5070-33c6eec97be5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-a439-311484e63827,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-a439-311484e63827,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-a439-311484e63827,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-a439-311484e63827,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-b01a-b761da138d96,MERRIM-7383c4,DIAGNOSIS,gi,gi,unmapped,0.0
+5693c080-f485-91e7-b01a-b761da138d96,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-b01a-b761da138d96,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b01a-b761da138d96,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b01a-b761da138d96,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-c5bb-d67b926205e5,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-c5bb-d67b926205e5,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-c5bb-d67b926205e5,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-c5bb-d67b926205e5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-9eb9-1c504b89ffae,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-9eb9-1c504b89ffae,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-9eb9-1c504b89ffae,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-d59e-825579665ebf,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-d59e-825579665ebf,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d59e-825579665ebf,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-5adf-5eb510ff9305,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5adf-5eb510ff9305,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5adf-5eb510ff9305,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5adf-5eb510ff9305,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-6473-03dfbee628e3,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-6473-03dfbee628e3,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-6473-03dfbee628e3,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-6473-03dfbee628e3,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-27eb-bc9427f9f697,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-27eb-bc9427f9f697,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-27eb-bc9427f9f697,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-27eb-bc9427f9f697,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-7489-44956e8f91f8,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-7489-44956e8f91f8,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-7489-44956e8f91f8,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-7489-44956e8f91f8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-2295-9ebc819b7573,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-2295-9ebc819b7573,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-2295-9ebc819b7573,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-72d4-4245f58abd50,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-72d4-4245f58abd50,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-72d4-4245f58abd50,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-72d4-4245f58abd50,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-e348-bce2765ff5c4,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-e348-bce2765ff5c4,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-e348-bce2765ff5c4,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-e348-bce2765ff5c4,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-86e8-a4777be05afb,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-86e8-a4777be05afb,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-86e8-a4777be05afb,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-86e8-a4777be05afb,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-bda4-b35ab8f532ff,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-bda4-b35ab8f532ff,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-bda4-b35ab8f532ff,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-d382-1105552e9144,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-d382-1105552e9144,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d382-1105552e9144,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d382-1105552e9144,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-4ea1-f60e44f2d024,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-4ea1-f60e44f2d024,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-4ea1-f60e44f2d024,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-4ea1-f60e44f2d024,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-fcf7-131e1dfa24e8,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-fcf7-131e1dfa24e8,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-fcf7-131e1dfa24e8,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-fcf7-131e1dfa24e8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-6b79-dae2069f547b,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-6b79-dae2069f547b,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-6b79-dae2069f547b,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-d891-754be4002310,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-d891-754be4002310,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d891-754be4002310,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d891-754be4002310,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-e065-5fdc37452de5,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-e065-5fdc37452de5,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-e065-5fdc37452de5,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-e065-5fdc37452de5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-8bdf-409835149bed,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-8bdf-409835149bed,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-8bdf-409835149bed,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-8bdf-409835149bed,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-4732-8f092674410a,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-4732-8f092674410a,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-4732-8f092674410a,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-5e1d-015254d67162,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5e1d-015254d67162,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5e1d-015254d67162,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5e1d-015254d67162,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-5492-ccc24cb6399c,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5492-ccc24cb6399c,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5492-ccc24cb6399c,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-c883-9f1aa4792250,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-c883-9f1aa4792250,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-c883-9f1aa4792250,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-c883-9f1aa4792250,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-5fd7-55b2ff2b152a,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5fd7-55b2ff2b152a,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5fd7-55b2ff2b152a,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5fd7-55b2ff2b152a,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-80b7-b9c6d63a6bd6,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-80b7-b9c6d63a6bd6,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-80b7-b9c6d63a6bd6,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-80b7-b9c6d63a6bd6,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-5b7f-d47811499ef6,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5b7f-d47811499ef6,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5b7f-d47811499ef6,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-ac17-a9bfb75ed20d,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-ac17-a9bfb75ed20d,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-ac17-a9bfb75ed20d,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-ac17-a9bfb75ed20d,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-4b3d-daa1f9f59aec,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-4b3d-daa1f9f59aec,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-4b3d-daa1f9f59aec,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-981e-5d157ae12974,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-981e-5d157ae12974,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-981e-5d157ae12974,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-981e-5d157ae12974,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-bd2e-670dbabf2e76,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-bd2e-670dbabf2e76,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-bd2e-670dbabf2e76,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-bd2e-670dbabf2e76,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-8db8-42e5c59f0c39,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-8db8-42e5c59f0c39,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-8db8-42e5c59f0c39,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-004f-7dd9fe101f30,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-004f-7dd9fe101f30,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-004f-7dd9fe101f30,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-b568-563711e9477b,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-b568-563711e9477b,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b568-563711e9477b,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b568-563711e9477b,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-6f47-bab6657d8417,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-6f47-bab6657d8417,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-d65c-4181cd25f860,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-d65c-4181cd25f860,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d65c-4181cd25f860,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-d65c-4181cd25f860,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-cd16-2bf6edcdd350,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-cd16-2bf6edcdd350,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-cd16-2bf6edcdd350,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-89fc-f43f764cb6a5,MERRIM-7383c4,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+5693c080-f485-91e7-89fc-f43f764cb6a5,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-89fc-f43f764cb6a5,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-89fc-f43f764cb6a5,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-89fc-f43f764cb6a5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-5bf9-55394374a359,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-5bf9-55394374a359,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-5bf9-55394374a359,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-4137-b9b3a772bc0e,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-4137-b9b3a772bc0e,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-4137-b9b3a772bc0e,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-4137-b9b3a772bc0e,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-fe95-0c0438e8002a,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-fe95-0c0438e8002a,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-fe95-0c0438e8002a,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-fe95-0c0438e8002a,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-b717-03a877c82e5e,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-b717-03a877c82e5e,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-b717-03a877c82e5e,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-bfa1-7c5a31b329ab,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-bfa1-7c5a31b329ab,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-bfa1-7c5a31b329ab,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-9897-235847e014d5,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-9897-235847e014d5,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-9897-235847e014d5,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-9897-235847e014d5,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-a953-e31a68ed5402,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-a953-e31a68ed5402,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-a953-e31a68ed5402,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-0a16-21c3a2966b3b,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-0a16-21c3a2966b3b,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-0a16-21c3a2966b3b,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-0a16-21c3a2966b3b,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-0cff-74234d4364ac,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-0cff-74234d4364ac,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-0cff-74234d4364ac,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-0cff-74234d4364ac,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-29bf-6ebe26e532d8,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-29bf-6ebe26e532d8,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-29bf-6ebe26e532d8,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-29bf-6ebe26e532d8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-6c95-3ec83f8da3a3,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-6c95-3ec83f8da3a3,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-6c95-3ec83f8da3a3,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-6c95-3ec83f8da3a3,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-2b8e-3766984e0ded,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-2b8e-3766984e0ded,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-2b8e-3766984e0ded,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-747d-616456a1bde8,MERRIM-7383c4,DIAGNOSIS,intimate partner,intimate partner,unmapped,0.0
+5693c080-f485-91e7-747d-616456a1bde8,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-747d-616456a1bde8,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-747d-616456a1bde8,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-747d-616456a1bde8,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-ee79-8b7773bf61ab,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-ee79-8b7773bf61ab,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-ee79-8b7773bf61ab,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-c457-7123951dd9a4,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-c457-7123951dd9a4,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-c457-7123951dd9a4,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-c457-7123951dd9a4,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-034b-3de865cc2797,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-034b-3de865cc2797,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-034b-3de865cc2797,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-034b-3de865cc2797,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-624a-95829a0defc7,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-624a-95829a0defc7,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-624a-95829a0defc7,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-90b3-f232dde54da1,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-90b3-f232dde54da1,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-90b3-f232dde54da1,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-c7db-571f996cfd66,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-c7db-571f996cfd66,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-c7db-571f996cfd66,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-c7db-571f996cfd66,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-23dd-922afabbd9e4,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-23dd-922afabbd9e4,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-23dd-922afabbd9e4,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-23dd-922afabbd9e4,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-a4a1-9872c1e148a9,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-a4a1-9872c1e148a9,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-a4a1-9872c1e148a9,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-f2ec-14abfb3a8219,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-f2ec-14abfb3a8219,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-f2ec-14abfb3a8219,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-f2ec-14abfb3a8219,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-aca5-32aee652e771,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-aca5-32aee652e771,MERRIM-7383c4,MEDICATION,human,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-aca5-32aee652e771,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-aca5-32aee652e771,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0
+5693c080-f485-91e7-3fd3-a7cb9c4518f6,MERRIM-7383c4,MEDICATION,insulin isophane,insulin isophane human,fuzzy,1.0
+5693c080-f485-91e7-3fd3-a7cb9c4518f6,MERRIM-7383c4,MEDICATION,insulin,insulin isophane human | insulin regular human,ambiguous,1.0
+5693c080-f485-91e7-3fd3-a7cb9c4518f6,MERRIM-7383c4,MEDICATION,Hydrochlorothiazide,Hydrochlorothiazide,fuzzy,1.0

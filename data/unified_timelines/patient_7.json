@@ -1,0 +1,898 @@
+{
+  "cluster_id": "7",
+  "hospitals": [
+    "Greater Boston Medical Center",
+    "Merrimack Valley Health Network"
+  ],
+  "timeline": [
+    {
+      "date": "2015-06-21",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "panic",
+          "canonical": "Severe anxiety (panic)",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2017-05-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-05-04T08:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-04T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum",
+          "canonical": "gum",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-07-16T13:52:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-06",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": []
+    },
+    {
+      "date": "2018-07-15",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-07-31"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "light",
+          "canonical": "Blighted ovum",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Blighted ovum (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "ed",
+          "canonical": "ed",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2018-11-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2018-12-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2018-12-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nitrofurantoin",
+          "canonical": "nitrofurantoin macrocrystals | nitrofurantoin monohydrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-12-08T19:38:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "macrocrystals",
+          "canonical": "nitrofurantoin macrocrystals",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-08T19:38:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nitrofurantoin",
+          "canonical": "nitrofurantoin macrocrystals | nitrofurantoin monohydrate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-12-08T19:38:12Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "monohydrate",
+          "canonical": "nitrofurantoin monohydrate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-08T19:38:12Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-08",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2018-12-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "COURTYARD NURSING CARE CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ciprofloxacin",
+          "canonical": "ciprofloxacin",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-10T17:27:07Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-01-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-02-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-03-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-04-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-05-19",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-06-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-06-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-06-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "COURTYARD NURSING CARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2019-06-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-07-14T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "time",
+          "canonical": "time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-07-31"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Limited",
+          "canonical": "Limited",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-07-19"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-19T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-28",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-07",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-07-19T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-07-25T08:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-07-25T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-02T10:16:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pregnancy",
+          "canonical": "Eclampsia in pregnancy | Normal pregnancy | Past pregnancy history of miscarriage | Tubal pregnancy",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-08-01"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2021-07-25",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "contact",
+          "canonical": "contact",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-08-06"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-31T08:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-31T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-04-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-05-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-05-29",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-06-26",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-07-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-07-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part-time employment",
+          "canonical": "Part-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-12-25"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-25T08:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-12-25T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-21",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-09-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-10-16",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-10-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "COURTYARD NURSING CARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2022-11-03",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-28"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinusitis",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-12-28"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-11",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2022-12-14",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinusitis",
+          "canonical": "Acute bacterial sinusitis | Chronic sinusitis | Sinusitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-12-13T08:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Jolivet",
+          "canonical": "Jolivet",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-12-13T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-25",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-06T08:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-06T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-11T08:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-11T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-20",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-13",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "noreth",
+          "canonical": "Norethynodrel | norethindrone",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-12-07T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-08-17T08:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-08-17T08:11:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WOODLAND INTERNISTS  P.C.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Fentanyl",
+          "canonical": "Fentanyl",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "tramadol hydrochloride",
+          "canonical": "tramadol hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-31",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": []
+    },
+    {
+      "date": "2026-02-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "FIRST PSYCHIATRIC PLANNERS  INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinus",
+          "canonical": "Viral sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-03-07"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sinus infection",
+          "canonical": "sinus infection",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-03-07T14:11:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-03-07T14:11:56Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "SYMPTOM",
+      "canonical": "Severe anxiety (panic)",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "SYMPTOM",
+      "canonical": "Blighted ovum",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Body mass index 30+ - obesity",
+      "reported_by": [
+        "Greater Boston Medical Center"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Viral sinusitis",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

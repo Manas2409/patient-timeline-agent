@@ -1,0 +1,458 @@
+{
+  "cluster_id": "20",
+  "hospitals": [
+    "Greater Boston Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "1982-08-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "1988-05-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "1998-09-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "prediabetes",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2006-07-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "obesity",
+          "canonical": "Body mass index 30+ - obesity",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2010-07-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2013-07-19",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Impacted molars (disorder)",
+      "seen_at": "BOSTON HOME  INC (THE)",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "impacted",
+          "canonical": "Impacted molars",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "impacted",
+          "canonical": "Impacted molars",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2014-06-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2014-07-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "an",
+          "canonical": "an",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Vitamin B12",
+          "canonical": "Vitamin B",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2018-07-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2018-07-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2019-02-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-03-08"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-02",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2019-07-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-12",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "BOSTON HOME  INC (THE)",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "foot",
+          "canonical": "foot",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-03T00:57:46Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2020-07-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "BOSTON HOME  INC (THE)",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Oxycodone Hydrochloride",
+          "canonical": "Oxycodone Hydrochloride | oxyCODONE Hydrochloride",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-07-17T23:29:08Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2020-08-11",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-08-12T03:01:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-04",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2021-06-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2021-08-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full",
+          "canonical": "Full",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-08-10"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "employment",
+          "canonical": "employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-08-10"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-08-10"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-17",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2022-07-08",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-07-17"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2022-08-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-08-24T04:38:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2023-08-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-08-30T01:07:10Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": []
+    },
+    {
+      "date": "2024-08-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2025-08-26",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "entities": []
+    },
+    {
+      "date": "2025-09-09",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE SHRINERS HOSPITAL FOR CHILDREN",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-09-10T02:00:51Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-09-10T02:00:51Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

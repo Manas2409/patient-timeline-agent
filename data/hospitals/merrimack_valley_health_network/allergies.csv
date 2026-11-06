@@ -1,0 +1,26 @@
+LOCAL_PATIENT_ID,START,DESCRIPTION,REACTION,SEVERITY
+MERRIM-f92cfe,2020-04-21,Allergic disposition (finding),,
+MERRIM-f92cfe,2020-04-21,Mold (organism),Cutaneous hypersensitivity (disorder),MILD
+MERRIM-f92cfe,2020-04-21,Aspirin,,
+MERRIM-f92cfe,2020-04-21,Penicillin V,,
+MERRIM-f92cfe,2020-04-21,Shellfish (substance),Anaphylaxis (disorder),SEVERE
+MERRIM-ac192b,2010-02-19,Allergic disposition (finding),,
+MERRIM-ac192b,2010-02-19,Mold (organism),,
+MERRIM-ac192b,2010-02-19,House dust mite (organism),,
+MERRIM-ac192b,2010-02-19,Animal dander (substance),Cough (finding),MODERATE
+MERRIM-ac192b,2010-02-19,Grass pollen (substance),,
+MERRIM-ac192b,2010-02-19,Tree pollen (substance),,
+MERRIM-ac192b,2010-02-19,Eggs (edible) (substance),,
+MERRIM-ac192b,2010-02-19,Wheat (substance),Eruption of skin (disorder),MODERATE
+MERRIM-ac192b,2010-02-19,Shellfish (substance),Eruption of skin (disorder),MODERATE
+MERRIM-ac192b,2010-02-19,Tree nut (substance),Eruption of skin (disorder),MODERATE
+MERRIM-b32e00,2001-01-03,Allergic disposition (finding),,
+MERRIM-b32e00,2001-01-03,Mold (organism),,
+MERRIM-b32e00,2001-01-03,Animal dander (substance),Rhinoconjunctivitis (disorder),MODERATE
+MERRIM-b32e00,2001-01-03,Grass pollen (substance),,
+MERRIM-b32e00,2001-01-03,Tree pollen (substance),,
+MERRIM-b32e00,2001-01-03,Aspirin,,
+MERRIM-b32e00,2001-01-03,Penicillin V,Eruption of skin (disorder),MILD
+MERRIM-b32e00,2001-01-03,Eggs (edible) (substance),Wheal (finding),MODERATE
+MERRIM-b32e00,2001-01-03,Tree nut (substance),Anaphylaxis (disorder),SEVERE
+MERRIM-b32e00,2001-01-03,Peanut (substance),Wheal (finding),MODERATE

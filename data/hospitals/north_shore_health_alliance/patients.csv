@@ -1,0 +1,9 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+NORTH_-879e5f,B.,,Gutkowski,05/13/1995,False,F,,Lynn,Massachusetts,,
+NORTH_-889d4f,Carman,,Bergnaum,1988-12-25,False,F,162 Grant Ramp Apt 92,Newburyport,Massachusetts,01951,999-73-8584
+NORTH_-cd5527,Byron,Carmen,Emard,12/14/2009,False,M,846 Green Estate Unit 47,North Andover,Massachusetts,00000,
+NORTH_-238b1d,Rick,,Kulas,10-05-1954,False,M,826 Vandervort Fort Apt 52,Beverly,Massachusetts,01915,999-80-5340
+NORTH_-c76981,Manuela,,Montoya,2004-10-12,False,F,,Marblehead,Massachusetts,,
+NORTH_-7c56c1,Pat,Owen,Rutherford,10-22-1975,False,M,,Lynn,Massachusetts,,999-47-4932
+NORTH_-6a632d,B.,,Klein,03-16-1963,False,M,623 Pfeffer Street Suite 66,Saugus,Massachusetts,01906,
+NORTH_-3f4705,Maurice,,Auer,03-25-1973,False,M,,Andover,Massachusetts,,

@@ -1,0 +1,381 @@
+{
+  "cluster_id": "37",
+  "hospitals": [
+    "Merrimack Valley Health Network",
+    "North Shore Health Alliance"
+  ],
+  "timeline": [
+    {
+      "date": "2016-09-10",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-09-17"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-09-17T14:08:35Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-05",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-11",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-18",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-18T23:20:19Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-12",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-05-28"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-28T21:41:25Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-21",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "MIDDLETON FAMILY MEDICINE URGENT CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-12-17",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-12-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-12-23",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-30",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-12-28",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-01-04",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-12-27",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-01-03",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-01-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-01-17",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingi",
+          "canonical": "Gingival disease | Gingivitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-01-18"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "gum",
+          "canonical": "gum",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-01-18T02:39:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-04-12"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-04-12"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-12T11:24:37Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-24",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-05"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-05-05T16:08:35Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-02",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2023-01-09",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-01-23",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-24"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-01-24T02:57:32Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-15",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-01-20",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-12-01",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-12-09T14:08:35Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-12-09T14:08:35Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-26",
+      "hospital": "North Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2026-02-09"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "hospital": "Merrimack Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "LAWRENCE GENERAL HOSPITAL",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute viral pharyngitis",
+      "reported_by": [
+        "Merrimack Valley Health Network"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 2
+    }
+  ]
+}

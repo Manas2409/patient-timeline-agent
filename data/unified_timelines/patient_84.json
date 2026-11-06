@@ -1,0 +1,207 @@
+{
+  "cluster_id": "84",
+  "hospitals": [
+    "Pioneer Valley Health Network",
+    "Worcester Regional Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "1996-03-11",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2006-03-27",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2009-03-30",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2012-04-02",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2015-04-06",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2016-03-28",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BAYSTATE MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2016-10-25",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BAYSTATE MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2018-01-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2018-02-05",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BAYSTATE MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-02-05T12:22:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-27",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2020-02-10",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BAYSTATE MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-02-10T11:11:14Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-02-10T11:11:14Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-18",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BAYSTATE MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2021-11-08",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BAYSTATE MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2022-01-31",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2022-02-14",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BAYSTATE MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-02-14T11:09:18Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    },
+    {
+      "date": "2025-11-29",
+      "hospital": "Pioneer Valley Health Network",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BAYSTATE MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-12-13"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-12-13T13:35:36Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-12-13T13:35:36Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "WEST BROOKFIELD FAMILY PRACTICE",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

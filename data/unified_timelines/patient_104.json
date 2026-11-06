@@ -1,0 +1,226 @@
+{
+  "cluster_id": "104",
+  "hospitals": [
+    "Worcester Regional Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "1993-04-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Eggs (edible) (substance)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "1993-05-03",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Loratadine",
+          "canonical": "Loratadine",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Eggs (edible)",
+          "canonical": "Eggs (edible)",
+          "match_method": "fuzzy",
+          "reaction": "Finding of vomiting (finding)",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "date": "2010-01-29",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2011-02-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2015-02-13",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-04-04",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "LIFE CARE CENTER OF AUBURN",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Naproxen sodium",
+          "canonical": "Naproxen | Naproxen sodium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-04-20T13:24:51Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-16",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-02-19",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-10-15",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-11-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-02-23",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2026-04-19",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-17"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-05-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinus",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "emergency",
+      "reason": "",
+      "seen_at": "LIFE CARE CENTER OF AUBURN",
+      "entities": []
+    },
+    {
+      "date": "2026-05-29",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-07"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-07"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "hospital": "Worcester Regional Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-05T15:03:15Z"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

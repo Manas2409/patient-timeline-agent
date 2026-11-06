@@ -1,0 +1,601 @@
+{
+  "cluster_id": "95",
+  "hospitals": [
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "1966-10-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "1967-08-20",
+      "hospital": "Southcoast Health",
+      "encounter_class": "inpatient",
+      "reason": "Appendicitis (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "ici",
+          "canonical": "ici",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "app",
+          "canonical": "app",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "1981-04-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "1982-04-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "1998-05-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight",
+          "canonical": "weight",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2004-11-12",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gout",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gout",
+          "canonical": "gout",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2010-03-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2011-02-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "loss of teeth",
+          "canonical": "Loss of teeth",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2017-03-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2017-03-25",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-25T05:14:34Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-22",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Sinusitis (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-10-01"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-10-01T15:11:02Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-10-01T15:11:02Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "time",
+          "canonical": "time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-03-23"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-31",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2018-12-21",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-01"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-01"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2019-03-23",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2019-03-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2019-04-16",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Loss of teeth (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "loss",
+          "canonical": "loss",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-08",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Sleep disorder (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2020-02-19",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Sleep disorder (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sleep",
+          "canonical": "Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-07",
+      "hospital": "Southcoast Health",
+      "encounter_class": "inpatient",
+      "reason": "Sleep disorder (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "sleep",
+          "canonical": "Obstructive sleep apnea syndrome | Sleep apnea | Sleep disorder",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "infective cy",
+          "canonical": "Acute infective cystitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-01-15"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-14",
+      "hospital": "Southcoast Health",
+      "encounter_class": "emergency",
+      "reason": "Acute infective cystitis (disorder)",
+      "seen_at": "COMPASSIONATE CARE HOSPICE OF SOUTHEASTERN MASS LL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cysti",
+          "canonical": "Acute infective cystitis | Cystic fibrosis | Diabetes mellitus due to cystic fibrosis | Female infertility due to cystic fibrosis",
+          "match_method": "ambiguous",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sulfamethoxazole",
+          "canonical": "sulfamethoxazole",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-01-15T23:34:01Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "trimethoprim",
+          "canonical": "trimethoprim",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-01-15T23:34:01Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part-time employment",
+          "canonical": "Part-time employment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-04-15"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-04-09"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-05",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2022-04-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2022-04-23",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-04-23T04:54:18Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-26"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral pharyngitis",
+          "canonical": "Acute viral pharyngitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-26"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-15",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2023-04-29"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2023-12-20",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bro",
+          "canonical": "bro",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-01-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-01-09T08:43:38Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-30",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Part-time",
+          "canonical": "Part-time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-04-20"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-29",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Screening for malignant neoplasm of colon (procedure)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2024-04-20",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2024-11-18",
+      "hospital": "Southcoast Health",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "COMPASSIONATE CARE HOSPICE OF SOUTHEASTERN MASS LL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "laceration",
+          "canonical": "Facial laceration | Laceration - injury | Laceration of foot | Laceration of forearm",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ibuprofen",
+          "canonical": "Ibuprofen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-12-08T04:04:48Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-26",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": []
+    },
+    {
+      "date": "2025-05-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2026-05-02",
+      "hospital": "Southcoast Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NORTON HEALTH CARE PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "THE COMMONWEALTH OF MASSACHUSETTS",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

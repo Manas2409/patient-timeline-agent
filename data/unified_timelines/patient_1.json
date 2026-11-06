@@ -1,0 +1,545 @@
+{
+  "cluster_id": "1",
+  "hospitals": [
+    "Berkshires Regional Health"
+  ],
+  "timeline": [
+    {
+      "date": "2008-09-14",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUBURBAN INTERNAL MEDICINE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2009-09-20",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUBURBAN INTERNAL MEDICINE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2012-09-23",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUBURBAN INTERNAL MEDICINE  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight",
+          "canonical": "weight",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2015-09-27",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUBURBAN INTERNAL MEDICINE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2016-12-11",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-01-08",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-02-05",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-03-05",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-04-02",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-04-30",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-05-28",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-06-25",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-09",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-16",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-23",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-30",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "KIMBALL FARMS NURSING CARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2017-09-10",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-17",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "miscarriage",
+          "canonical": "Complete miscarriage | Miscarriage in first trimester | Miscarriage in second trimester | Past pregnancy history of miscarriage",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-12-27"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "light",
+          "canonical": "Blighted ovum",
+          "match_method": "fuzzy"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-27",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Blighted ovum (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2018-09-30",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUBURBAN INTERNAL MEDICINE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2019-04-14",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-05-01",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Complete miscarriage (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-25",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-08-25",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-09-22",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-10-20",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-11-17",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-15",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-01-12",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-02-09",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-08",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-22",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-29",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "KIMBALL FARMS NURSING CARE CENTER",
+      "entities": []
+    },
+    {
+      "date": "2020-05-10",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2021-05-19",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Etonogestrel",
+          "canonical": "Etonogestrel | etonogestrel",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-05-14T05:38:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-15",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": []
+    },
+    {
+      "date": "2021-09-05",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": []
+    },
+    {
+      "date": "2021-10-03",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUBURBAN INTERNAL MEDICINE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-10-17",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": []
+    },
+    {
+      "date": "2023-05-02",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinus",
+          "canonical": "Viral sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-05-10"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral sinusitis",
+          "canonical": "Viral sinusitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2023-05-10"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-09",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": []
+    },
+    {
+      "date": "2023-05-11",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": []
+    },
+    {
+      "date": "2024-05-05",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-04-30T17:33:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-03",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "streptococcal",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-15"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "strept",
+          "canonical": "Streptococcal sore throat",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-15"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-08-15"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-15T00:59:04Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Potassium",
+          "canonical": "Penicillin V Potassium | losartan potassium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-08-15T00:59:04Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-11",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": []
+    },
+    {
+      "date": "2024-08-25",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-25T07:13:34Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Gel",
+          "canonical": "Gel",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-08-25T07:13:34Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-06",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SUBURBAN INTERNAL MEDICINE  INC.",
+      "entities": []
+    },
+    {
+      "date": "2025-06-01",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": []
+    },
+    {
+      "date": "2026-03-11",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "outpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": []
+    },
+    {
+      "date": "2026-05-14",
+      "hospital": "Berkshires Regional Health",
+      "encounter_class": "inpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "entities": []
+    }
+  ],
+  "conflicts": []
+}

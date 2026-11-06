@@ -1,0 +1,975 @@
+{
+  "cluster_id": "57",
+  "hospitals": [
+    "Norfolk County Health Network",
+    "South Shore Health Alliance",
+    "Southcoast Health"
+  ],
+  "timeline": [
+    {
+      "date": "2016-04-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Tree nut (substance)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2016-04-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Allergic disposition (finding)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "allergic",
+          "canonical": "Acute allergic reaction | Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "cetirizine hydrochloride",
+          "canonical": "cetirizine hydrochloride",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Epinephrine",
+          "canonical": "HR | norepinephrine",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "ALLERGY",
+          "text": "Tree nut",
+          "canonical": "Tree nut",
+          "match_method": "fuzzy",
+          "reaction": "Anaphylaxis (disorder)",
+          "severity": "SEVERE"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-25",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2016-12-25",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-06-25",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-09-07",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-12-24T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-12-24T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-24",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-06-10T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-10T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-06",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2018-06-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-06-17T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-17T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-06-24T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-06-24T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-24",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-09-16T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-16T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-07-01T05:31:22Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-08",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinus",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-27"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sin",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-27"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-04",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-16",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-09-23T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-09-23T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-09-23T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-23",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-12-23T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-12-23T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-30",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bacterial sinusitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "bacterial sinus",
+          "canonical": "Acute bacterial sinusitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-27",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Perennial allergic rhinitis with seasonal variation (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "allergic rhinitis",
+          "canonical": "Perennial allergic rhinitis | Perennial allergic rhinitis with seasonal variation | Seasonal allergic rhinitis",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2018-12-23",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-01-06T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-06T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-06",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-01-13T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-13T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-13",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-01-20T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-20T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-20",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-01-27T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-01-27T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-27",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-06-23T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-06-23T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-03",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2019-02-10",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-02-18"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-02-18"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-02-18T23:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Potassium",
+          "canonical": "Penicillin V Potassium | losartan potassium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2019-02-18T23:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2019-06-23",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-06-28T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-06-28T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-28",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Tree nut (substance)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2020-06-28",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-07-04T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-07-04T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-22",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2021-07-04",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2022-07-10T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-07-10T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-11",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2022-02-13",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2022-07-10",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2023-07-16T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-16T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-16",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-07-21T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-07-21T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-23",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-07-23T05:54:29Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-07",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2024-07-21",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-11-10T00:25:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-11-10T00:25:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "hala",
+          "canonical": "hala",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-11-10T00:25:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-11-10T00:25:40Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-04",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Laceration - injury (disorder)",
+      "seen_at": "HOSPICE SERVICES OF MASSACHUSETTS",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "lace",
+          "canonical": "lace",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-08-18T02:59:25Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-01",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute bronchitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-11-10T00:25:40Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-11-10T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-11-10T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Inhala",
+          "canonical": "ML Inhalation Solution | ML Inhalation Suspension",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-11-10T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Solution",
+          "canonical": "ML Inhalation Solution | ML Injectable Solution | ML Ophthalmic Solution | ML Oral Solution",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2024-11-10T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-10",
+      "hospital": "Norfolk County Health Network",
+      "encounter_class": "urgentcare",
+      "reason": "",
+      "seen_at": "CARECENTRAL URGENT CARE MEDICAL GROUP PC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivitis",
+          "canonical": "Gingivitis",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2024-11-17"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-07-27T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-27T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-17",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingival disease",
+          "canonical": "Gingival disease",
+          "match_method": "exact_synonym",
+          "outcome": "resolved 2024-11-17"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-11-17T07:48:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ACTUA",
+          "canonical": "ACTUAT | ACTUAT Dry Powder Inhaler | ACTUAT Metered Dose Inhaler | ACTUAT Mucosal Spray",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-08-02T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "fluticasone propionate",
+          "canonical": "Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-08-02T02:15:31Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-08-02T02:15:31Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-03",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "emergency",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "HOSPICE SERVICES OF MASSACHUSETTS",
+      "entities": []
+    },
+    {
+      "date": "2025-08-05",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Childhood asthma (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    },
+    {
+      "date": "2026-08-02",
+      "hospital": "South Shore Health Alliance",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "SAVARD & MOSKOS EYE HEALTH CARE  LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-08-09"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ACTUAT fluticasone propionate",
+          "canonical": "ACTUAT | Fluticasone propionate | fluticasone propionate",
+          "match_method": "ambiguous",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "albuterol",
+          "canonical": "albuterol",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "hospital": "Southcoast Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "BROCKTON HOSPITAL  INC.",
+      "entities": []
+    }
+  ],
+  "conflicts": [
+    {
+      "category": "ALLERGY",
+      "canonical": "Tree nut",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Acute bacterial sinusitis",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    },
+    {
+      "category": "DIAGNOSIS",
+      "canonical": "Gingival disease",
+      "reported_by": [
+        "Southcoast Health"
+      ],
+      "status": "unconfirmed_single_source",
+      "total_hospitals_for_patient": 3
+    }
+  ]
+}

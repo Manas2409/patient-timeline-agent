@@ -1,0 +1,11 @@
+LOCAL_PATIENT_ID,FIRST,MIDDLE,LAST,DOB,DOB_HAD_TYPO,GENDER,ADDRESS,CITY,STATE,ZIP,SSN
+SOUTHC-ac561e,Esperanza,Rachell,Auer,2015-07-19,False,F,666 Ebert Lodge,Taunton,Massachusetts,02718,999-56-4831
+SOUTHC-9ae386,Elodia,,Waters,2015-02-06,False,F,,Foxborough,Massachusetts,,
+SOUTHC-5aa69b,Magali,,Abbott,2004-07-02,False,F,567 Braun Pathway Apt 24,Taunton,Massachusetts,02767,999-42-9786
+SOUTHC-748765,S.,,Zemlak,2015-01-05,False,F,656 West Light,Fall River,Massachusetts,02720,
+SOUTHC-ede5b7,Aurelio,,Eichmann,04-04-1942,False,M,154 Weimann Orchard,Mattapoisett,Massachusetts,00000,999-95-3958
+SOUTHC-ec63bd,R.,,Leuschke,2007-06-28,False,F,439 Adams Route,Norton Center,Massachusetts,00000,
+SOUTHC-b970b5,Nathaniel,,Kuhic,02/22/1964,False,M,,Norton,Massachusetts,,999-81-2752
+SOUTHC-a9fb35,Dudley,Elijah,Torphy,"Mar 25, 1960",False,M,231 Schiller Esplanade Unit 87,New Bedford,Massachusetts,02747,
+SOUTHC-932357,H.,,Spinka,2018-05-07,False,F,203 Spencer Terrace,Fall River,Massachusetts,02723,999-28-6636
+SOUTHC-3375af,Danny,,Jacobs,03/25/1960,False,M,308 Friesen Ramp Suite 39,New Bedford,Massachusetts,02743,

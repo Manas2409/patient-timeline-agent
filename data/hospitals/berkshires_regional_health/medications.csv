@@ -1,0 +1,12 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,START,STOP,DESCRIPTION,REASONDESCRIPTION
+d21fc5fa-6dc5-8058-e632-38d1e7468329,BERKSH-591a1c,2017-07-24T02:24:27Z,2017-07-24T02:24:27Z,sodium fluoride 0.0272 MG/MG Oral Gel,Gingivitis (disorder)
+d21fc5fa-6dc5-8058-5858-2920bf4f4c8d,BERKSH-591a1c,2018-02-18T23:56:17Z,2018-03-11T23:56:17Z,Acetaminophen 160 MG Chewable Tablet,
+d21fc5fa-6dc5-8058-57ae-c3622afc213f,BERKSH-591a1c,2023-07-31T13:48:55Z,2023-08-16T13:48:55Z,Acetaminophen 325 MG Oral Tablet,Acute bronchitis (disorder)
+d21fc5fa-6dc5-8058-de3a-a521dc09a203,BERKSH-591a1c,2023-09-04T04:52:29Z,2023-09-04T04:52:29Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)
+d21fc5fa-6dc5-8058-4d26-d82a73f4e850,BERKSH-591a1c,2024-08-06T23:25:26Z,2024-08-25T23:25:26Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+d21fc5fa-6dc5-8058-aa5b-388cb64b40ba,BERKSH-591a1c,2024-08-25T23:25:26Z,2025-08-31T23:25:26Z,Ibuprofen 400 MG Oral Tablet [Ibu],
+d21fc5fa-6dc5-8058-d7b7-ce56295cecbe,BERKSH-591a1c,2025-08-31T23:25:26Z,,Ibuprofen 400 MG Oral Tablet [Ibu],
+d537941e-1fb7-9868-c545-2a83ce132cf3,BERKSH-ee35ac,2021-05-19T04:59:04Z,2022-05-14T05:38:40Z,Etonogestrel 68 MG Drug Implant,
+d537941e-1fb7-9868-6deb-ea0ea4b14b1f,BERKSH-ee35ac,2024-05-05T17:33:30Z,2025-04-30T17:33:30Z,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],
+d537941e-1fb7-9868-ef6c-a36b6327e2b3,BERKSH-ee35ac,2024-08-03T23:59:04Z,2024-08-15T00:59:04Z,Penicillin V Potassium 500 MG Oral Tablet,Streptococcal sore throat (disorder)
+d537941e-1fb7-9868-2cc4-a4db85820d10,BERKSH-ee35ac,2024-08-25T07:13:34Z,2024-08-25T07:13:34Z,sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care (procedure)

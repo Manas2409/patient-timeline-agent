@@ -1,0 +1,1084 @@
+{
+  "cluster_id": "73",
+  "hospitals": [
+    "North Central Mass Health"
+  ],
+  "timeline": [
+    {
+      "date": "1999-03-16",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2006-03-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "prediabetes",
+          "canonical": "Prediabetes",
+          "match_method": "exact_synonym",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2012-04-03",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2013-04-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": []
+    },
+    {
+      "date": "2016-04-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-05-09T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-05-09T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-04-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-05-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-27T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-27T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-07-07",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-07-18"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-07-18"
+        }
+      ]
+    },
+    {
+      "date": "2017-07-11",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-08-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-09-05",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-03",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-10-31",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-11-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2017-12-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "eclampsia",
+          "canonical": "Eclampsia in pregnancy | Pre-eclampsia",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-16",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-23",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-01-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "emergency",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "HOSPICE OF NASHOBA NURSING SERVICE",
+      "entities": []
+    },
+    {
+      "date": "2018-03-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2018-03-20",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-03-15T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-20",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Streptococcal sore throat (disorder)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-29"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "cca",
+          "canonical": "cca",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-29"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Penicillin",
+          "canonical": "Penicillin V Potassium",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-29T11:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Potassium",
+          "canonical": "Penicillin V Potassium | losartan potassium",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2018-03-29T11:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-15T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-05-15T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-15",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-05-21T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-05-21T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-15",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-03-09T01:28:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-21",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-26T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-05-26T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-09-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2019-12-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-03-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "yl est",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgestimate",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "norgesti",
+          "canonical": "norgestimate",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "nor",
+          "canonical": "nor",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ti",
+          "canonical": "ti",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "ness",
+          "canonical": "ness",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-04T01:28:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-05-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-27T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-10-27T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-23",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-07-18",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2020-08-05"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-22",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2020-10-18",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Acute viral pharyngitis (disorder)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "sore",
+          "canonical": "sore",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sore throat",
+          "canonical": "Sore throat | Streptococcal sore throat",
+          "match_method": "ambiguous"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-01T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-01T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-22",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-03-04",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "drospirenone",
+          "canonical": "drospirenone",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-02-27T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-02-27T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-02-27T01:28:42Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-02-27T01:28:42Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-23",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-06-01",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-07T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-06-07T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-15",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "fractured",
+          "canonical": "Fractured dental filling",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-06-15T04:27:52Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-29",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-09-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-10-19",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-11-09",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2021-12-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-03-29",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-06-07",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "time",
+          "canonical": "time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2024-06-18"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-13T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-06-13T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-09-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2022-12-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-02-22",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-02-21T23:13:57Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-03-28",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-06-13",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-06-18T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-06-18T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-09-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2023-12-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-05-14",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Normal pregnancy (finding)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-06-01",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Complete miscarriage (disorder)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2024-06-18",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-06-24T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-06-24T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-15",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "medroxyprogesterone acetate",
+          "canonical": "medroxyPROGESTERone acetate | medroxyprogesterone acetate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2026-02-10T23:32:30Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-27",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-06-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "inflammation",
+          "canonical": "inflammation",
+          "match_method": "unmapped",
+          "outcome": "not available"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-30T01:16:49Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-06-30T01:16:49Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-08"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-07-08T07:01:27Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2025-11-25",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-02-10",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "est",
+          "canonical": "est",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "die",
+          "canonical": "die",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Nat",
+          "canonical": "Nat",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-05-26",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "DEVENS TREATMENT & RECOVERY CENTER LLC",
+      "entities": []
+    },
+    {
+      "date": "2026-06-30",
+      "hospital": "North Central Mass Health",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "NASHOBA VALLEY MEDICAL CENTER",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Hydrochlorothiazide",
+          "canonical": "Hydrochlorothiazide",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "lisinopril",
+          "canonical": "lisinopril",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,247 @@
+LOCAL_ENCOUNTER_ID,LOCAL_PATIENT_ID,DATE,NOTE_TEXT
+cc3eac4a-34a7-9a15-13f3-57f4a6b934f9,WORCES-390062,1996-03-11,Wellness visit for general evaluation. Care-coordination note: Received higher education. Medication list unchanged.
+cc3eac4a-34a7-9a15-1dc5-a353457420c6,WORCES-390062,2006-03-27,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment."
+cc3eac4a-34a7-9a15-94b5-26ac8c6c7134,WORCES-390062,2009-03-30,"Patient continues to be followed for prediabetes, a low blood count, and significant weight gain."
+cc3eac4a-34a7-9a15-2a3d-1a1ba491a8ac,WORCES-390062,2012-04-02,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Stress.
+cc3eac4a-34a7-9a15-99df-e3a0393fa95e,WORCES-390062,2015-04-06,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Social isolation."
+cc3eac4a-34a7-9a15-da83-de2c625ae978,WORCES-390062,2018-01-22,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Part-time employment."
+cc3eac4a-34a7-9a15-747e-7510e2463417,WORCES-390062,2020-01-27,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Full-time employment. No new medications prescribed at this time."
+cc3eac4a-34a7-9a15-ca32-5d73928c0a72,WORCES-390062,2022-01-31,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due, Reports of violence in the environment, and Victim of intimate partner abuse."
+cc3eac4a-34a7-9a15-65ed-a29acec55dc1,WORCES-390062,2024-02-05,Wellness visit for general evaluation. Care-coordination note: Limited social contact and Stress.
+cc3eac4a-34a7-9a15-0045-5d8e18d8dd42,WORCES-390062,2026-02-09,Patient seen for a scheduled wellness encounter. Care-coordination note: Social isolation. No new medications prescribed at this time.
+355cd402-8f45-353f-a3cc-1bce4e2d22f9,WORCES-106f71,2016-05-22,"Routine urgentcare visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment."
+a406f356-c8b4-54ad-ca7c-9561dbdd9ed9,WORCES-3330be,1993-04-22,Patient reports symptoms consistent with eggs (edible).
+a406f356-c8b4-54ad-560a-98ba116ad8d0,WORCES-3330be,1993-05-03,Patient was evaluated for allergic disposition. Medications prescribed today: Loratadine 5 MG Chewable Tablet and NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Chart notes an existing Eggs (edible) allergy.
+a406f356-c8b4-54ad-93d7-e66098750b07,WORCES-3330be,2010-01-29,Wellness visit for general evaluation. Social history noted: Medication review due and Only received primary school education.
+a406f356-c8b4-54ad-ad0d-784d83a4cb42,WORCES-3330be,2011-02-04,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Stress."
+a406f356-c8b4-54ad-8afd-4759ace93fbb,WORCES-3330be,2015-02-13,Wellness visit for general evaluation. Care-coordination note: Full-time employment.
+a406f356-c8b4-54ad-4a52-8dd4200b1c16,WORCES-3330be,2017-04-04,Follow-up visit regarding laceration - injury. Clinical impression: laceration - injury and laceration of hand. Started on Naproxen sodium 220 MG Oral Tablet.
+a406f356-c8b4-54ad-c184-46e725ceb8e4,WORCES-3330be,2018-02-16,Patient seen for a scheduled wellness encounter. Social history noted: Social isolation and Misuses drugs.
+a406f356-c8b4-54ad-bce1-9c6131007a11,WORCES-3330be,2021-02-19,Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due.
+a406f356-c8b4-54ad-3807-d81ddc7d3c8a,WORCES-3330be,2021-10-15,"Routine outpatient visit, no acute complaints voiced at check-in."
+a406f356-c8b4-54ad-4af2-f24dac26f433,WORCES-3330be,2021-11-05,"Routine outpatient visit, no acute complaints voiced at check-in."
+a406f356-c8b4-54ad-0d28-75e38f0245b3,WORCES-3330be,2024-02-23,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due and Part-time employment."
+a406f356-c8b4-54ad-9d1b-6ee03f89f93e,WORCES-3330be,2026-04-19,Presenting complaint: acute bacterial sinusitis. Patient continues to be followed for acute bacterial sinusitis.
+a406f356-c8b4-54ad-7a07-bb8616684a01,WORCES-3330be,2026-05-10,Presenting complaint: acute bacterial sinusitis. New findings on exam include long-standing sinus infection. Medication list unchanged.
+a406f356-c8b4-54ad-486b-382043d0b8bb,WORCES-3330be,2026-05-22,"Routine emergency visit, no acute complaints voiced at check-in. Care-coordination note: Full-time employment."
+a406f356-c8b4-54ad-ad37-f72a5994d5fc,WORCES-3330be,2026-05-29,Patient presents today with acute viral pharyngitis. Diagnosed with acute viral pharyngitis at this visit.
+a406f356-c8b4-54ad-5d7b-f3ed98482704,WORCES-3330be,2026-06-05,Ambulatory visit for general evaluation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+edb5a2e3-a981-d33c-3db0-5427687709d1,WORCES-edee44,2010-01-22,Follow-up visit regarding childhood asthma. Clinical impression: childhood asthma.
+edb5a2e3-a981-d33c-9684-a45f5c29896f,WORCES-edee44,2015-10-04,Patient seen for a scheduled wellness encounter. Patient given budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution during this encounter.
+edb5a2e3-a981-d33c-24cf-f01d3728e2a1,WORCES-edee44,2016-10-09,Diagnosed with gum inflammation at this visit. Social history noted: Medication review due. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution.
+edb5a2e3-a981-d33c-aeca-529a1b69325c,WORCES-edee44,2016-10-16,Presenting complaint: gum inflammation. Patient given sodium fluoride 0.0272 MG/MG Oral Gel during this encounter.
+edb5a2e3-a981-d33c-9f02-8f942274699f,WORCES-edee44,2017-06-14,Presenting complaint: childhood asthma. No new medications prescribed at this time.
+edb5a2e3-a981-d33c-7746-387f8572c0d7,WORCES-edee44,2017-08-28,Patient seen for a scheduled wellness encounter.
+edb5a2e3-a981-d33c-2b65-b1c590309522,WORCES-edee44,2017-10-08,Ambulatory visit for general evaluation.
+edb5a2e3-a981-d33c-5e74-aca863634115,WORCES-edee44,2017-10-08,Outpatient visit for general evaluation. No new medications prescribed at this time.
+edb5a2e3-a981-d33c-7761-2de1eacea0a1,WORCES-edee44,2017-10-25,Follow-up visit regarding adolescent idiopathic scoliosis. Clinical impression: adolescent idiopathic scoliosis.
+edb5a2e3-a981-d33c-e92a-659929123729,WORCES-edee44,2017-11-30,Patient seen for a scheduled ambulatory encounter.
+edb5a2e3-a981-d33c-91e4-e5f8bfdb9ee1,WORCES-edee44,2018-09-02,Patient seen for a scheduled wellness encounter. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution.
+edb5a2e3-a981-d33c-9813-8bc5d83c95de,WORCES-edee44,2019-09-08,Patient continues to be followed for gum inflammation. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution.
+edb5a2e3-a981-d33c-36ed-248cba604e6b,WORCES-edee44,2019-09-22,Patient presents today with gum inflammation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+edb5a2e3-a981-d33c-1c86-161ff002a602,WORCES-edee44,2020-03-08,Clinical impression: gingivitis. Care-coordination note: Medication review due. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution.
+edb5a2e3-a981-d33c-f5ee-b2749da85bb3,WORCES-edee44,2020-03-15,Patient seen for a scheduled outpatient encounter. Patient given budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution during this encounter.
+edb5a2e3-a981-d33c-ead4-704926882bab,WORCES-edee44,2020-03-22,Patient was evaluated for gingivitis. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+edb5a2e3-a981-d33c-0a4a-eefa8e77bd28,WORCES-edee44,2020-03-29,Patient reports symptoms consistent with acute viral pharyngitis. Patient continues to be followed for a sore throat.
+edb5a2e3-a981-d33c-806b-630c57c14a2c,WORCES-edee44,2020-09-13,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution."
+edb5a2e3-a981-d33c-4c06-6bebde63cf4d,WORCES-edee44,2021-05-23,Patient seen for a scheduled outpatient encounter. Medication list unchanged.
+edb5a2e3-a981-d33c-d006-debf19a0c75e,WORCES-edee44,2021-05-24,Patient was evaluated for pediatric asthma.
+edb5a2e3-a981-d33c-ecd6-95359fe73d30,WORCES-edee44,2021-06-13,Patient seen for a scheduled outpatient encounter.
+edb5a2e3-a981-d33c-a0b0-f08f62700185,WORCES-edee44,2021-09-19,Patient seen for a scheduled wellness encounter. Social history noted: Risk activity involvement. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution.
+edb5a2e3-a981-d33c-fc3b-e5ab9c052779,WORCES-edee44,2021-10-03,Patient seen for a scheduled ambulatory encounter. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+edb5a2e3-a981-d33c-5aaf-e3ccc1ddb874,WORCES-edee44,2021-11-20,Patient reports symptoms consistent with childhood asthma. No new medications prescribed at this time.
+edb5a2e3-a981-d33c-5481-98e598bd68cb,WORCES-edee44,2021-12-26,New findings on exam include gum inflammation. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution.
+edb5a2e3-a981-d33c-56c3-f49aad719878,WORCES-edee44,2022-01-02,Follow-up visit regarding viral sinusitis. Diagnosed with viral sinusitis at this visit. No new medications prescribed at this time.
+edb5a2e3-a981-d33c-1550-69d7cf0e97ef,WORCES-edee44,2022-01-09,Seen in clinic for gum inflammation. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+edb5a2e3-a981-d33c-867c-3521ae84caea,WORCES-edee44,2022-05-19,Seen in clinic for pediatric asthma.
+edb5a2e3-a981-d33c-5672-15b5fa71ed91,WORCES-edee44,2022-09-25,Assessment: gum inflammation. Plan: initiate budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution.
+edb5a2e3-a981-d33c-1415-1eeb1ba4d9b0,WORCES-edee44,2022-10-09,Presenting complaint: gingivitis. Assessment: gingival disease.
+edb5a2e3-a981-d33c-eadd-921b551b7d10,WORCES-edee44,2023-10-01,"Routine wellness visit, no acute complaints voiced at check-in. Patient given budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution during this encounter."
+edb5a2e3-a981-d33c-d38b-208d46dd621a,WORCES-edee44,2023-10-15,Patient seen for a scheduled ambulatory encounter.
+edb5a2e3-a981-d33c-5245-043cd6bc50e9,WORCES-edee44,2024-10-06,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Educated to high school level and Full-time employment. Started on budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution."
+edb5a2e3-a981-d33c-a7a5-045eb7c68d3a,WORCES-edee44,2024-10-20,Ambulatory visit for general evaluation. Plan: initiate sodium fluoride 0.0272 MG/MG Oral Gel.
+edb5a2e3-a981-d33c-0abd-d93e42d5f097,WORCES-edee44,2025-09-04,Outpatient visit for general evaluation. Started on 1 ML medroxyprogesterone acetate 150 MG/ML Injection.
+edb5a2e3-a981-d33c-e4bd-ec6af8a21173,WORCES-edee44,2025-10-12,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Stress. Medications prescribed today: budesonide 0.25 MG/ML Inhalation Suspension and albuterol 0.83 MG/ML Inhalation Solution."
+edb5a2e3-a981-d33c-be28-4776a00da782,WORCES-edee44,2025-10-26,Diagnosed with fractured dental filling at this visit. Medication list unchanged.
+edb5a2e3-a981-d33c-67a1-48dccd08134b,WORCES-edee44,2025-12-14,Patient seen for a scheduled outpatient encounter.
+edb5a2e3-a981-d33c-34de-27f00e8fac7e,WORCES-edee44,2026-03-15,Patient seen for a scheduled outpatient encounter.
+edb5a2e3-a981-d33c-ae95-80923ce12c53,WORCES-edee44,2026-06-14,Outpatient visit for general evaluation.
+afb99eee-0bd5-8853-edbf-ce89202267eb,WORCES-1a6cdb,2017-03-05,Patient presents today with fracture of bone. Diagnosed with fracture of bone and fracture of rib at this visit. Started on Ibuprofen 200 MG Oral Tablet.
+afb99eee-0bd5-8853-1bb6-bb3c78ebf071,WORCES-1a6cdb,2017-06-05,Patient presents today with fracture of rib. Medication list unchanged.
+afb99eee-0bd5-8853-df9b-b6c8b98e761f,WORCES-1a6cdb,2017-12-22,New findings on exam include acute infective cystitis. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+afb99eee-0bd5-8853-85b9-38c13bae933e,WORCES-1a6cdb,2019-01-13,Patient presents today with acute infective cystitis. Plan: initiate sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet.
+afb99eee-0bd5-8853-9ec5-71ff3ce88930,WORCES-1a6cdb,2020-12-25,Seen in clinic for gingivitis. No new medications prescribed at this time.
+afb99eee-0bd5-8853-4f69-7ce79ea777ff,WORCES-1a6cdb,2024-04-06,Presenting complaint: concussion injury of brain. Patient continues to be followed for concussion injury of brain and concussion with loss of consciousness.
+afb99eee-0bd5-8853-7a30-582aeea4aaa9,WORCES-1a6cdb,2024-05-16,Presenting complaint: concussion with loss of consciousness.
+afb99eee-0bd5-8853-bcdd-40e5c43edcd6,WORCES-1a6cdb,2026-02-11,Follow-up visit regarding a sinus infection. New findings on exam include viral sinusitis. Medication list unchanged.
+46fcc34a-97a1-f038-ce5a-a68dbde9c1b7,WORCES-c121ad,1990-04-05,Seen in clinic for seasonal allergic rhinitis. Medications prescribed today: Terfenadine 60 MG Oral Tablet.
+46fcc34a-97a1-f038-dbf2-fa76c7f7110b,WORCES-c121ad,1990-04-16,Patient reports symptoms consistent with allergic disposition. Medications prescribed today: NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector. Allergy history notable for Tree pollen.
+46fcc34a-97a1-f038-5fa6-f301ae898671,WORCES-c121ad,2008-10-18,Patient reports symptoms consistent with complete miscarriage. Diagnosed with past pregnancy history of miscarriage at this visit. Medication list unchanged.
+46fcc34a-97a1-f038-2013-a1445cc983b6,WORCES-c121ad,2014-01-31,"Patient presents today with ongoing pain. New findings on exam include ongoing pain, chronic low back pain, and fibromyalgia."
+46fcc34a-97a1-f038-3016-022093fe87df,WORCES-c121ad,2014-04-22,Presenting complaint: ongoing pain. Medication list unchanged.
+46fcc34a-97a1-f038-cf8f-2b43cd9da3dd,WORCES-c121ad,2015-02-04,"Urgentcare visit for general evaluation. Care-coordination note: Medication review due, Stress, and Has a criminal record. No new medications prescribed at this time."
+46fcc34a-97a1-f038-426b-3a0f8a44dfd7,WORCES-c121ad,2016-03-16,Seen in clinic for normal pregnancy. New findings on exam include normal pregnancy. No new medications prescribed at this time.
+46fcc34a-97a1-f038-4f9e-dd80bd7b8b1c,WORCES-c121ad,2016-08-31,Presenting complaint: normal pregnancy.
+46fcc34a-97a1-f038-b630-3ffe3455a7da,WORCES-c121ad,2016-09-28,Presenting complaint: normal pregnancy. Medication list unchanged.
+46fcc34a-97a1-f038-e968-203ac44b060f,WORCES-c121ad,2016-10-12,Seen in clinic for normal pregnancy.
+46fcc34a-97a1-f038-5563-19c776e8b2ec,WORCES-c121ad,2016-11-23,Patient seen for a scheduled ambulatory encounter.
+46fcc34a-97a1-f038-1e7a-8285f098736d,WORCES-c121ad,2017-09-27,Presenting complaint: gum inflammation. Patient continues to be followed for gingival disease. Medication list unchanged.
+46fcc34a-97a1-f038-a123-d4747d8d1080,WORCES-c121ad,2018-10-03,Patient was evaluated for gum inflammation. Clinical impression: gingival disease.
+46fcc34a-97a1-f038-8c70-e6130a71adab,WORCES-c121ad,2018-11-30,"Routine outpatient visit, no acute complaints voiced at check-in. Medications prescribed today: levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]."
+46fcc34a-97a1-f038-a1dc-9c43c877ecb3,WORCES-c121ad,2018-12-04,Outpatient visit for general evaluation.
+46fcc34a-97a1-f038-37c4-96e01dab3dbd,WORCES-c121ad,2019-10-09,Patient presents today with gum inflammation. Diagnosed with primary dental caries at this visit.
+46fcc34a-97a1-f038-eb4d-396682727acc,WORCES-c121ad,2019-12-04,Patient seen for a scheduled outpatient encounter. Care-coordination note: Unemployed and Stress. Started on Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+46fcc34a-97a1-f038-4c69-07f645cc67af,WORCES-c121ad,2019-12-11,Patient seen for a scheduled outpatient encounter. Patient given {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] during this encounter.
+46fcc34a-97a1-f038-6407-6e95fa1328c5,WORCES-c121ad,2019-12-11,Patient reports symptoms consistent with viral sinusitis. Patient continues to be followed for viral sinusitis.
+46fcc34a-97a1-f038-e16b-fcc656d95b8d,WORCES-c121ad,2019-12-18,New findings on exam include primary dental caries. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+46fcc34a-97a1-f038-0d91-706248ffcf2b,WORCES-c121ad,2020-12-05,Patient seen for a scheduled outpatient encounter. Started on Etonogestrel 68 MG Drug Implant.
+46fcc34a-97a1-f038-4e3e-c1be2f453fe4,WORCES-c121ad,2021-03-31,Patient seen for a scheduled outpatient encounter.
+46fcc34a-97a1-f038-bd44-289b75cb8bea,WORCES-c121ad,2021-11-30,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]."
+46fcc34a-97a1-f038-2b3b-9e41c2377c9a,WORCES-c121ad,2021-12-04,Patient seen for a scheduled outpatient encounter.
+46fcc34a-97a1-f038-e122-e77d0b78d268,WORCES-c121ad,2022-10-26,Follow-up visit regarding gingivitis. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+46fcc34a-97a1-f038-dc38-aec4048893e4,WORCES-c121ad,2022-11-30,Patient seen for a scheduled outpatient encounter. Plan: initiate {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique].
+46fcc34a-97a1-f038-c2bb-a19436b83a5a,WORCES-c121ad,2023-11-01,Patient presents today with gingivitis. New findings on exam include gum disease.
+46fcc34a-97a1-f038-d6af-c8b94f7cae43,WORCES-c121ad,2023-12-13,"Routine outpatient visit, no acute complaints voiced at check-in."
+46fcc34a-97a1-f038-eef3-961f5ab34eed,WORCES-c121ad,2024-11-19,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]."
+46fcc34a-97a1-f038-48b3-91f86928270d,WORCES-c121ad,2025-11-12,Presenting complaint: gingivitis. Patient continues to be followed for gingival disease. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+46fcc34a-97a1-f038-771f-2a8271a9c2ed,WORCES-c121ad,2025-11-26,Patient seen for a scheduled outpatient encounter. Medications prescribed today: levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena].
+46fcc34a-97a1-f038-f819-acf5c7c5c053,WORCES-c121ad,2025-11-28,Outpatient visit for general evaluation.
+3314e296-2326-2826-911a-5ed37a6d9920,WORCES-c3dcd8,2002-06-16,Patient seen for a scheduled wellness encounter. Social history noted: Risk activity involvement.
+3314e296-2326-2826-0b54-189d70231639,WORCES-c3dcd8,2008-07-20,Patient seen for a scheduled wellness encounter. Care-coordination note: Educated to high school level and Full-time employment.
+3314e296-2326-2826-dfaf-df11c54c0d86,WORCES-c3dcd8,2009-07-26,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. No new medications prescribed at this time."
+3314e296-2326-2826-84ae-cbecec394f05,WORCES-c3dcd8,2012-07-29,Patient continues to be followed for obesity (BMI 30+). Medication list unchanged.
+3314e296-2326-2826-742c-ccfdd4bf3a88,WORCES-c3dcd8,2015-08-02,Wellness visit for general evaluation. Social history noted: Limited social contact and Stress.
+3314e296-2326-2826-f230-98843387c8fd,WORCES-c3dcd8,2016-02-21,Patient presents today with normal pregnancy. Assessment: normal pregnancy.
+3314e296-2326-2826-80a8-6594eda82a06,WORCES-c3dcd8,2016-04-01,Patient was evaluated for otitis media. Clinical impression: a middle-ear infection. No new medications prescribed at this time.
+3314e296-2326-2826-c0c5-70199ff5b42e,WORCES-c3dcd8,2016-09-04,Presenting complaint: normal pregnancy.
+3314e296-2326-2826-514a-df81e2b2efe9,WORCES-c3dcd8,2016-09-18,Seen in clinic for normal pregnancy.
+3314e296-2326-2826-de50-88eef0eedd62,WORCES-c3dcd8,2016-09-25,Patient presents today with normal pregnancy.
+3314e296-2326-2826-01d1-e841f6c95319,WORCES-c3dcd8,2016-10-02,Patient was evaluated for normal pregnancy.
+3314e296-2326-2826-4d65-2b5ea7d029bd,WORCES-c3dcd8,2016-11-13,"Routine ambulatory visit, no acute complaints voiced at check-in."
+3314e296-2326-2826-18d7-9b733123f995,WORCES-c3dcd8,2017-05-14,Patient was evaluated for normal pregnancy. Diagnosed with normal pregnancy at this visit.
+3314e296-2326-2826-3f0a-fee30f544c37,WORCES-c3dcd8,2017-06-11,Presenting complaint: normal pregnancy. No new medications prescribed at this time.
+3314e296-2326-2826-3689-50199400a19e,WORCES-c3dcd8,2017-07-09,Seen in clinic for normal pregnancy.
+3314e296-2326-2826-06f8-e7f6da57c226,WORCES-c3dcd8,2017-08-06,Presenting complaint: normal pregnancy. No new medications prescribed at this time.
+3314e296-2326-2826-75ea-9936d72cff1e,WORCES-c3dcd8,2017-09-03,Patient was evaluated for normal pregnancy.
+3314e296-2326-2826-183c-0e63c9c2c345,WORCES-c3dcd8,2017-10-01,Patient was evaluated for normal pregnancy.
+3314e296-2326-2826-6d12-6d823c28995b,WORCES-c3dcd8,2017-10-29,Patient presents today with normal pregnancy.
+3314e296-2326-2826-e66e-ff31d38c5cc3,WORCES-c3dcd8,2017-11-26,Follow-up visit regarding normal pregnancy. Medication list unchanged.
+3314e296-2326-2826-d84d-a800b444f908,WORCES-c3dcd8,2017-12-10,Follow-up visit regarding normal pregnancy. No new medications prescribed at this time.
+3314e296-2326-2826-3f0f-0debc8ca537b,WORCES-c3dcd8,2018-01-21,Patient seen for a scheduled ambulatory encounter.
+3314e296-2326-2826-d6a1-c8ef73dae655,WORCES-c3dcd8,2018-01-28,Patient seen for a scheduled outpatient encounter. Plan: initiate levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena].
+3314e296-2326-2826-51fb-d6ea66de10b2,WORCES-c3dcd8,2018-02-01,Outpatient visit for general evaluation. Medication list unchanged.
+3314e296-2326-2826-90b9-47072e2449d8,WORCES-c3dcd8,2018-08-05,"Routine wellness visit, no acute complaints voiced at check-in. No new medications prescribed at this time."
+3314e296-2326-2826-258e-188743233b3a,WORCES-c3dcd8,2019-04-21,"Routine outpatient visit, no acute complaints voiced at check-in."
+3314e296-2326-2826-2998-3800d9b1a634,WORCES-c3dcd8,2019-06-09,Patient reports symptoms consistent with normal pregnancy. Assessment: normal pregnancy.
+3314e296-2326-2826-5ed7-b3580a06600e,WORCES-c3dcd8,2019-06-21,Presenting complaint: normal pregnancy.
+3314e296-2326-2826-e96a-0b6b52a5847b,WORCES-c3dcd8,2019-06-29,Seen in clinic for normal pregnancy.
+3314e296-2326-2826-dffc-510aac833ff9,WORCES-c3dcd8,2020-04-19,Patient presents today with normal pregnancy. New findings on exam include normal pregnancy.
+3314e296-2326-2826-a776-1057a2123a9e,WORCES-c3dcd8,2020-05-07,Seen in clinic for normal pregnancy.
+3314e296-2326-2826-3154-bc9e58a9f907,WORCES-c3dcd8,2020-05-25,Patient reports symptoms consistent with normal pregnancy. Medication list unchanged.
+3314e296-2326-2826-d44f-c1305b45e833,WORCES-c3dcd8,2020-11-08,Seen in clinic for normal pregnancy. Patient continues to be followed for normal pregnancy and anemia.
+3314e296-2326-2826-6afd-96fa701c1bf1,WORCES-c3dcd8,2020-11-08,Patient presents today with anemia.
+3314e296-2326-2826-e5fb-7aaef795e591,WORCES-c3dcd8,2020-12-06,Patient reports symptoms consistent with normal pregnancy.
+3314e296-2326-2826-ffb0-3a9819c95da4,WORCES-c3dcd8,2021-01-03,Seen in clinic for normal pregnancy.
+3314e296-2326-2826-fbe3-1babc46942fb,WORCES-c3dcd8,2021-01-31,Presenting complaint: normal pregnancy.
+3314e296-2326-2826-aba8-78b0d8f1dc85,WORCES-c3dcd8,2021-02-28,Patient presents today with normal pregnancy.
+3314e296-2326-2826-29fc-7672b21f61a8,WORCES-c3dcd8,2021-03-28,Patient presents today with normal pregnancy. Medication list unchanged.
+3314e296-2326-2826-1bbb-44b70cac9ddc,WORCES-c3dcd8,2021-04-25,Follow-up visit regarding normal pregnancy.
+3314e296-2326-2826-092b-0bde0b1f8d77,WORCES-c3dcd8,2021-05-23,Seen in clinic for normal pregnancy.
+3314e296-2326-2826-2d6e-19d563aa9381,WORCES-c3dcd8,2021-06-06,Patient presents today with normal pregnancy.
+3314e296-2326-2826-27b4-e77cccbfe199,WORCES-c3dcd8,2021-06-13,Presenting complaint: normal pregnancy. Medication list unchanged.
+3314e296-2326-2826-16fb-b3cc49911257,WORCES-c3dcd8,2021-07-25,Patient seen for a scheduled ambulatory encounter.
+3314e296-2326-2826-75f1-6a7627dd938a,WORCES-c3dcd8,2021-08-08,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Not in labor force, Social isolation, Reports of violence in the environment, Victim of intimate partner abuse, and Misuses drugs. Medication list unchanged."
+3314e296-2326-2826-05bc-4a7cc2721811,WORCES-c3dcd8,2021-09-05,Outpatient visit for general evaluation.
+3314e296-2326-2826-4544-7979891d6099,WORCES-c3dcd8,2021-09-26,Patient seen for a scheduled outpatient encounter.
+3314e296-2326-2826-a051-443743d49209,WORCES-c3dcd8,2023-10-01,Patient reports symptoms consistent with normal pregnancy. Diagnosed with normal pregnancy at this visit. Medication list unchanged.
+3314e296-2326-2826-1cae-e3335014fb50,WORCES-c3dcd8,2023-10-17,Patient was evaluated for normal pregnancy.
+3314e296-2326-2826-1354-51293fdc8d6e,WORCES-c3dcd8,2023-10-26,Patient presents today with normal pregnancy. Medication list unchanged.
+3314e296-2326-2826-e1fc-a0c07f24d9df,WORCES-c3dcd8,2024-04-14,Follow-up visit regarding normal pregnancy. Clinical impression: normal pregnancy.
+3314e296-2326-2826-c9c1-359e1d1d8c17,WORCES-c3dcd8,2024-05-12,Patient reports symptoms consistent with normal pregnancy.
+3314e296-2326-2826-0325-a20e52eb57ca,WORCES-c3dcd8,2024-06-09,Follow-up visit regarding normal pregnancy.
+3314e296-2326-2826-f534-ec694f48da01,WORCES-c3dcd8,2024-07-07,Seen in clinic for normal pregnancy. Medication list unchanged.
+3314e296-2326-2826-bb42-56acd916125b,WORCES-c3dcd8,2024-08-04,Patient reports symptoms consistent with normal pregnancy.
+3314e296-2326-2826-9fd5-dcbd2ca2e0cc,WORCES-c3dcd8,2024-08-11,"Routine wellness visit, no acute complaints voiced at check-in. Care-coordination note: Medication review due and Full-time employment."
+3314e296-2326-2826-6a24-b5094e644399,WORCES-c3dcd8,2024-09-01,Patient was evaluated for normal pregnancy. Medication list unchanged.
+3314e296-2326-2826-5023-c694147e4852,WORCES-c3dcd8,2024-09-29,Follow-up visit regarding normal pregnancy. New findings on exam include pre-eclampsia.
+3314e296-2326-2826-d0f3-428ca737aaf1,WORCES-c3dcd8,2024-10-27,Seen in clinic for normal pregnancy.
+3314e296-2326-2826-fb11-a0c52ce7e816,WORCES-c3dcd8,2024-11-10,Presenting complaint: normal pregnancy.
+3314e296-2326-2826-cda6-7aef235792f5,WORCES-c3dcd8,2024-11-17,Follow-up visit regarding normal pregnancy.
+3314e296-2326-2826-dade-9f840e05f82a,WORCES-c3dcd8,2024-11-24,Patient presents today with normal pregnancy. No new medications prescribed at this time.
+3314e296-2326-2826-f55e-112ed6ec0c9d,WORCES-c3dcd8,2025-01-05,"Routine ambulatory visit, no acute complaints voiced at check-in."
+3314e296-2326-2826-1b3d-57d3f292f8f9,WORCES-c3dcd8,2025-01-12,"Routine outpatient visit, no acute complaints voiced at check-in. Plan: initiate {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]."
+3314e296-2326-2826-6e4d-de8dadf17bcd,WORCES-c3dcd8,2025-02-18,Seen in clinic for fracture of bone. New findings on exam include fracture of bone and fracture of forearm. Patient given Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet and Ibuprofen 200 MG Oral Tablet during this encounter.
+3314e296-2326-2826-4605-8665a9e0c1f4,WORCES-c3dcd8,2025-04-08,Patient was evaluated for fracture of forearm.
+3314e296-2326-2826-df3a-1d13586a59f0,WORCES-c3dcd8,2026-01-07,Patient seen for a scheduled outpatient encounter. Plan: initiate {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day].
+3eec36b2-71cc-13c4-1af6-f71c378e6ba7,WORCES-992abe,2013-02-21,Wellness visit for general evaluation. Care-coordination note: Housing unsatisfactory and Educated to high school level.
+3eec36b2-71cc-13c4-2522-946a5cb53deb,WORCES-992abe,2014-02-01,Patient presents today with chronic pain. Clinical impression: ongoing pain and chronic low back pain.
+3eec36b2-71cc-13c4-656c-648277e5cf74,WORCES-992abe,2015-03-05,Patient seen for a scheduled wellness encounter. Care-coordination note: Part-time employment. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-4f65-af02ae1e3c0c,WORCES-992abe,2016-03-10,Patient seen for a scheduled wellness encounter. Social history noted: Medication review due and Misuses drugs. Medications prescribed today: Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+3eec36b2-71cc-13c4-7c3c-b0eb332d661d,WORCES-992abe,2016-09-04,"Routine outpatient visit, no acute complaints voiced at check-in. Patient given 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System during this encounter."
+3eec36b2-71cc-13c4-19f3-4977ac4717b5,WORCES-992abe,2017-03-16,Wellness visit for general evaluation. Care-coordination note: Not in labor force and Reports of violence in the environment. Patient given Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] during this encounter.
+3eec36b2-71cc-13c4-c215-47acb6449985,WORCES-992abe,2018-03-22,Patient seen for a scheduled wellness encounter. Care-coordination note: Full-time employment and Stress. Plan: initiate Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+3eec36b2-71cc-13c4-42fa-bfc96da1024f,WORCES-992abe,2019-03-28,Patient continues to be followed for acute infective cystitis. Care-coordination note: Medication review due. Medications prescribed today: Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+3eec36b2-71cc-13c4-589d-8ea0618a436a,WORCES-992abe,2019-04-13,Presenting complaint: acute infective cystitis. Plan: initiate sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet.
+3eec36b2-71cc-13c4-8bde-14e97bced69d,WORCES-992abe,2019-05-09,Follow-up visit regarding normal pregnancy. Clinical impression: normal pregnancy.
+3eec36b2-71cc-13c4-1beb-e73ce2ae4dd6,WORCES-992abe,2019-06-06,Presenting complaint: normal pregnancy.
+3eec36b2-71cc-13c4-208f-92a973a3d7ed,WORCES-992abe,2019-07-04,Patient presents today with normal pregnancy.
+3eec36b2-71cc-13c4-da67-3e61882561ea,WORCES-992abe,2019-08-01,Patient reports symptoms consistent with normal pregnancy. Clinical impression: recurrent urinary tract infection and acute infective cystitis. Medication list unchanged.
+3eec36b2-71cc-13c4-6142-5c6f0e3cd1d4,WORCES-992abe,2019-08-13,Patient was evaluated for acute infective cystitis. Plan: initiate nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule.
+3eec36b2-71cc-13c4-3656-3bf7232843bb,WORCES-992abe,2019-08-29,Presenting complaint: normal pregnancy.
+3eec36b2-71cc-13c4-63ac-3af6b50645eb,WORCES-992abe,2019-09-26,Patient reports symptoms consistent with normal pregnancy.
+3eec36b2-71cc-13c4-4add-f5c485ed2fd2,WORCES-992abe,2019-10-24,Patient was evaluated for normal pregnancy. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-8c0b-46d44df6bae5,WORCES-992abe,2019-11-21,Presenting complaint: normal pregnancy. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-5375-cba693886b80,WORCES-992abe,2019-12-05,Patient presents today with normal pregnancy. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-50f3-3200ac83c10d,WORCES-992abe,2019-12-12,Presenting complaint: normal pregnancy.
+3eec36b2-71cc-13c4-ac4e-19047234f5b5,WORCES-992abe,2020-01-23,Ambulatory visit for general evaluation.
+3eec36b2-71cc-13c4-823d-0a4b7a15b575,WORCES-992abe,2020-04-02,"Routine wellness visit, no acute complaints voiced at check-in. Social history noted: Medication review due. Medications prescribed today: Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]."
+3eec36b2-71cc-13c4-b46a-345df0144308,WORCES-992abe,2020-04-16,Patient continues to be followed for gingival disease and suspected disease caused by Severe acute respiratory coronavirus 2. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+3eec36b2-71cc-13c4-bb45-200cf43f5b8d,WORCES-992abe,2020-10-01,"Patient presents today with suspected disease caused by Severe acute respiratory coronavirus 2. Clinical impression: cough, fever, loss of taste, and disease caused by severe acute respiratory syndrome coronavirus 2. No new medications prescribed at this time."
+3eec36b2-71cc-13c4-4451-3c4ca4feb03e,WORCES-992abe,2021-01-14,Presenting complaint: normal pregnancy. Clinical impression: normal pregnancy. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-4755-d866b74c015c,WORCES-992abe,2021-01-22,Follow-up visit regarding normal pregnancy.
+3eec36b2-71cc-13c4-c1dd-27aa86e29ae9,WORCES-992abe,2021-01-30,Patient presents today with normal pregnancy. Medication list unchanged.
+3eec36b2-71cc-13c4-05e8-791f80d3563b,WORCES-992abe,2021-03-11,Patient seen for a scheduled outpatient encounter.
+3eec36b2-71cc-13c4-340a-812abd667586,WORCES-992abe,2021-04-08,Diagnosed with gum inflammation at this visit. Care-coordination note: Part-time employment and Victim of intimate partner abuse. Patient given Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] during this encounter.
+3eec36b2-71cc-13c4-7948-ae8ba9939c14,WORCES-992abe,2021-04-22,Patient presents today with gum inflammation. Patient continues to be followed for primary dental caries. Started on sodium fluoride 0.0272 MG/MG Oral Gel.
+3eec36b2-71cc-13c4-4393-31f36dea142a,WORCES-992abe,2021-06-21,Patient was evaluated for acute viral pharyngitis. Diagnosed with acute viral pharyngitis at this visit.
+3eec36b2-71cc-13c4-82eb-9de249d3e52c,WORCES-992abe,2021-09-18,Presenting complaint: fracture of bone. Patient continues to be followed for fracture of bone and fracture of ankle. Medications prescribed today: Ibuprofen 200 MG Oral Tablet.
+3eec36b2-71cc-13c4-8962-9d2cb102a467,WORCES-992abe,2021-11-13,Patient reports symptoms consistent with fracture of ankle.
+3eec36b2-71cc-13c4-4883-d06e8e3e6b80,WORCES-992abe,2022-04-14,Clinical impression: prediabetes and anemia. Care-coordination note: Not in labor force and Stress. Medications prescribed today: Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+3eec36b2-71cc-13c4-a7d7-364bd2a4c771,WORCES-992abe,2022-04-21,Seen in clinic for a low blood count. Medication list unchanged.
+3eec36b2-71cc-13c4-2b66-f2b4422c060e,WORCES-992abe,2023-04-06,"Routine outpatient visit, no acute complaints voiced at check-in. Medications prescribed today: Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]."
+3eec36b2-71cc-13c4-3303-086fa59fbf12,WORCES-992abe,2023-04-13,Follow-up visit regarding a sinus infection. Patient continues to be followed for a sinus infection. Medications prescribed today: Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet.
+3eec36b2-71cc-13c4-3181-2dd4a5dcda70,WORCES-992abe,2023-04-20,"Patient seen for a scheduled wellness encounter. Care-coordination note: Medication review due, Full-time employment, and Stress. Patient given Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] during this encounter."
+3eec36b2-71cc-13c4-f5d7-8a4cb3f0c478,WORCES-992abe,2023-07-20,Patient presents today with normal pregnancy. Assessment: normal pregnancy.
+3eec36b2-71cc-13c4-33bb-79dfc4794e4e,WORCES-992abe,2023-08-17,Seen in clinic for normal pregnancy.
+3eec36b2-71cc-13c4-3f97-116e4177f319,WORCES-992abe,2023-09-14,Presenting complaint: normal pregnancy.
+3eec36b2-71cc-13c4-5b3f-9021c7c8ebd7,WORCES-992abe,2023-10-12,Seen in clinic for normal pregnancy.
+3eec36b2-71cc-13c4-0c4c-1f5ffc9de949,WORCES-992abe,2023-11-09,Patient reports symptoms consistent with normal pregnancy.
+3eec36b2-71cc-13c4-c8d1-98f94f25febc,WORCES-992abe,2023-12-07,Seen in clinic for normal pregnancy.
+3eec36b2-71cc-13c4-2ab5-bea25535fb1f,WORCES-992abe,2024-01-04,Seen in clinic for normal pregnancy. Medication list unchanged.
+3eec36b2-71cc-13c4-8f24-9ad9be498969,WORCES-992abe,2024-02-01,Presenting complaint: normal pregnancy.
+3eec36b2-71cc-13c4-7e94-3a07e79c8009,WORCES-992abe,2024-02-15,Patient was evaluated for normal pregnancy. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-87fc-9ed5e82cee33,WORCES-992abe,2024-02-22,Seen in clinic for normal pregnancy.
+3eec36b2-71cc-13c4-c1af-459102cc9f5e,WORCES-992abe,2024-04-04,"Routine ambulatory visit, no acute complaints voiced at check-in."
+3eec36b2-71cc-13c4-f940-f7f7e0157a12,WORCES-992abe,2024-04-25,Wellness visit for general evaluation. Medications prescribed today: Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+3eec36b2-71cc-13c4-f798-fe0a3f5f5177,WORCES-992abe,2024-07-04,Patient presents today with normal pregnancy. Assessment: normal pregnancy. Medication list unchanged.
+3eec36b2-71cc-13c4-1ecc-89abac96523e,WORCES-992abe,2024-08-01,Patient presents today with normal pregnancy.
+3eec36b2-71cc-13c4-7b3d-ae78c4872056,WORCES-992abe,2024-08-29,Presenting complaint: normal pregnancy.
+3eec36b2-71cc-13c4-25b6-044025c11441,WORCES-992abe,2024-09-26,Patient presents today with normal pregnancy.
+3eec36b2-71cc-13c4-23ef-eb0646a2c6aa,WORCES-992abe,2024-10-24,Follow-up visit regarding normal pregnancy.
+3eec36b2-71cc-13c4-2818-02d940132710,WORCES-992abe,2024-11-21,Patient was evaluated for normal pregnancy. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-daeb-4d66a65d7ed9,WORCES-992abe,2024-12-19,Patient presents today with normal pregnancy.
+3eec36b2-71cc-13c4-e642-370583bdf285,WORCES-992abe,2025-01-16,Patient was evaluated for normal pregnancy.
+3eec36b2-71cc-13c4-4a4b-5d59cd9f75f1,WORCES-992abe,2025-01-30,Patient presents today with normal pregnancy. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-9156-a2b23f81ef00,WORCES-992abe,2025-03-13,Ambulatory visit for general evaluation.
+3eec36b2-71cc-13c4-c723-d1f522ecb283,WORCES-992abe,2025-05-01,Clinical impression: gum inflammation. Social history noted: Medication review due and Part-time employment. Plan: initiate Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+3eec36b2-71cc-13c4-65c4-fe0da3d676ce,WORCES-992abe,2025-05-15,Follow-up visit regarding gum inflammation.
+3eec36b2-71cc-13c4-53ea-2ff2a8e7fa83,WORCES-992abe,2025-08-14,Patient was evaluated for normal pregnancy. Patient continues to be followed for normal pregnancy.
+3eec36b2-71cc-13c4-ba1b-ca0854634316,WORCES-992abe,2025-08-23,Patient reports symptoms consistent with normal pregnancy. No new medications prescribed at this time.
+3eec36b2-71cc-13c4-adaa-c22f6c5e9bb1,WORCES-992abe,2025-09-03,Patient reports symptoms consistent with normal pregnancy.
+3eec36b2-71cc-13c4-7909-525d7ec9a1f2,WORCES-992abe,2026-04-09,Presenting complaint: normal pregnancy. New findings on exam include normal pregnancy.
+3eec36b2-71cc-13c4-69e5-a342dfb25e60,WORCES-992abe,2026-05-07,Wellness visit for general evaluation. Care-coordination note: Medication review due and Not in labor force. Started on Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet].
+3eec36b2-71cc-13c4-f789-c4fcf7fff4c4,WORCES-992abe,2026-05-14,Patient reports symptoms consistent with normal pregnancy.
+3eec36b2-71cc-13c4-4763-5a64b2fe51a3,WORCES-992abe,2026-05-21,Ambulatory visit for general evaluation. Medications prescribed today: sodium fluoride 0.0272 MG/MG Oral Gel.
+3eec36b2-71cc-13c4-597d-3caea598dfc8,WORCES-992abe,2026-06-11,Patient presents today with normal pregnancy. Patient continues to be followed for miscarriage in second trimester and fetus with chromosomal abnormality.
+3eec36b2-71cc-13c4-4fca-05129da5acd7,WORCES-992abe,2026-06-21,Follow-up visit regarding fetus with chromosomal abnormality. Assessment: past pregnancy history of miscarriage. Medication list unchanged.
+3eec36b2-71cc-13c4-3db5-a0cb7107a12c,WORCES-992abe,2026-07-02,"Routine outpatient visit, no acute complaints voiced at check-in. Medications prescribed today: {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]."

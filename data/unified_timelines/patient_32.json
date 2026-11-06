@@ -1,0 +1,627 @@
+{
+  "cluster_id": "32",
+  "hospitals": [
+    "Greater Boston Medical Center"
+  ],
+  "timeline": [
+    {
+      "date": "2011-01-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "Risk",
+          "canonical": "Risk",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2013-01-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2014-01-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Chronic pain (finding)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "pain",
+          "canonical": "pain",
+          "match_method": "unmapped"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": []
+    },
+    {
+      "date": "2015-10-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2016-10-03T06:21:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-02-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-07"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-03-01T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-08-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-08-25"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "sin",
+          "canonical": "sin",
+          "match_method": "unmapped",
+          "outcome": "resolved 2016-08-25"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-08-25T15:33:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2016-08-25T15:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2016-10-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "ethinyl est",
+          "canonical": "Ethinyl Estradiol | ethinyl estradiol",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-09-28T06:21:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "iol",
+          "canonical": "iol",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-09-28T06:21:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorgestrel",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2017-09-28T06:21:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Lev",
+          "canonical": "Lev",
+          "match_method": "unmapped",
+          "outcome": "resolved 2017-09-28T06:21:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "violence",
+          "canonical": "violence",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-07"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "environment",
+          "canonical": "environment",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-07"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-07"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2018-03-07T00:33:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2018-03-07T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "viral",
+          "canonical": "Acute viral pharyngitis | Viral sinusitis",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2017-10-14"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-03-13T00:33:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-03-13T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-23",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-09-18T06:21:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "et",
+          "canonical": "et",
+          "match_method": "unmapped",
+          "outcome": "resolved 2019-09-18T06:21:21Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "levonorge",
+          "canonical": "levonorgestrel",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2019-09-18T06:21:21Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-13",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "borderline",
+          "canonical": "borderline",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "Full-time",
+          "canonical": "Full-time",
+          "match_method": "unmapped",
+          "outcome": "resolved 2025-04-16"
+        },
+        {
+          "category": "DIAGNOSIS",
+          "text": "intimate partner",
+          "canonical": "intimate partner",
+          "match_method": "unmapped",
+          "outcome": "resolved 2020-03-18"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-03-18T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-20",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Anemia (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-04-03",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-09-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2019-09-29",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "inpatient",
+      "reason": "Sterilization requested (situation)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2020-03-18",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "weight gain",
+          "canonical": "weight gain",
+          "match_method": "unmapped"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2021-03-24T00:33:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2021-03-24T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-01",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Gingivitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "gingivi",
+          "canonical": "Gingivitis",
+          "match_method": "fuzzy",
+          "outcome": "not available"
+        },
+        {
+          "category": "SYMPTOM",
+          "text": "fractured",
+          "canonical": "Fractured dental filling",
+          "match_method": "fuzzy"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "sodium fluoride",
+          "canonical": "sodium fluoride",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2020-04-01T03:38:15Z"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-14",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-03-07",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-03-24",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2022-03-30T00:33:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2022-03-30T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-31",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2021-04-28",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2022-03-30",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2023-04-05T00:33:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Ty",
+          "canonical": "Ty",
+          "match_method": "unmapped",
+          "outcome": "resolved 2023-04-05T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-05",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2024-04-10T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-10",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2025-04-16T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-16",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "DIAGNOSIS",
+          "text": "partner",
+          "canonical": "partner",
+          "match_method": "unmapped",
+          "outcome": "ongoing"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "resolved 2026-04-22T00:33:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Tylen",
+          "canonical": "Tylen",
+          "match_method": "unmapped",
+          "outcome": "resolved 2026-04-22T00:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "outpatient",
+      "reason": "Contraception care (regime/therapy)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": []
+    },
+    {
+      "date": "2025-10-15",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Viral sinusitis (disorder)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Amoxicillin",
+          "canonical": "Amoxicillin | amoxicillin",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-30T15:33:56Z"
+        },
+        {
+          "category": "MEDICATION",
+          "text": "Clavulanate",
+          "canonical": "Clavulanate | clavulanate",
+          "match_method": "ambiguous",
+          "outcome": "resolved 2025-10-30T15:33:56Z"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "wellness",
+      "reason": "",
+      "seen_at": "UPHAMS CORNER HEALTH COMMITTEE INC",
+      "entities": [
+        {
+          "category": "MEDICATION",
+          "text": "Acetaminophen",
+          "canonical": "Acetaminophen",
+          "match_method": "fuzzy",
+          "outcome": "ongoing"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "hospital": "Greater Boston Medical Center",
+      "encounter_class": "ambulatory",
+      "reason": "Patient referral for dental care (procedure)",
+      "seen_at": "LEMUEL SHATTUCK HOSPITAL",
+      "entities": [
+        {
+          "category": "SYMPTOM",
+          "text": "infection",
+          "canonical": "Infection caused by Staphylococcus aureus | Infection of tooth | Recurrent urinary tract infection",
+          "match_method": "ambiguous"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}
