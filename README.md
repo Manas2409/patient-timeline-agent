@@ -12,15 +12,15 @@ All data is synthetic (Synthea-generated). No real patient data is involved.
 Run from the project root with the venv's Python, in order (01 → 10). The scripts
 that carry the actual ideas worth reading:
 
-| # | Script | What it does |
-|---|---|---|
-| 1 | `01_shatter_and_corrupt.py` | Splits one unified patient population across simulated hospital networks and deliberately corrupts each hospital's view of identity (name, DOB, address, SSN) — this is the entity-resolution problem the rest of Part A solves. |
-| 3 | `03_entity_resolution.py` | Fuzzy-matches (rapidfuzz) every hospital-local record against every other on the corrupted identity fields to re-link records belonging to the same real patient. **100% precision/recall against ground truth** on this dataset. |
-| 4 | `04_extract_entities.py` | Runs a pretrained biomedical NER model (`d4data/biomedical-ner-all`) over each note to pull out diagnoses, symptoms, medications, and allergies, with negation detection and generic-term filtering. |
-| 6 | `06_merge_timeline.py` | Builds one chronological timeline per real patient from the *predicted* clusters (not the ground truth), and flags any fact reported by only one hospital instead of silently treating one source as ground truth. |
-| 7 | `07_load_neo4j.py` | Loads every timeline into Neo4j as a graph so later steps query it instead of scanning JSON. |
-| 8 | `08_visit_agent.py` | **Part B.** Given a patient + today's complaint, queries the graph and asks an LLM (OpenAI `gpt-5`) for a relevance-filtered, confidence-aware doctor briefing — or a clarifying question if the complaint's too vague to act on. |
-| 9 | `09_patient_history_view.py` | **The combined report.** Runs script 8's briefing on top, then the full annotated history below it as reference, with items the briefing flagged called out inline. |
+| # | Script                         | What it does                                                                                                                                                                                                                                   |
+| - | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | `01_shatter_and_corrupt.py`  | Splits one unified patient population across simulated hospital networks and deliberately corrupts each hospital's view of identity (name, DOB, address, SSN) — this is the entity-resolution problem the rest of Part A solves.              |
+| 3 | `03_entity_resolution.py`    | Fuzzy-matches (rapidfuzz) every hospital-local record against every other on the corrupted identity fields to re-link records belonging to the same real patient, feeding the graph in Part A without ever seeing the ground-truth answer key. |
+| 4 | `04_extract_entities.py`     | Runs a pretrained biomedical NER model (`d4data/biomedical-ner-all`) over each note to pull out diagnoses, symptoms, medications, and allergies, with negation detection and generic-term filtering.                                         |
+| 6 | `06_merge_timeline.py`       | Builds one chronological timeline per real patient from the *predicted* clusters (not the ground truth), and flags any fact reported by only one hospital instead of silently treating one source as ground truth.                           |
+| 7 | `07_load_neo4j.py`           | Loads every timeline into Neo4j as a graph so later steps query it instead of scanning JSON.                                                                                                                                                   |
+| 8 | `08_visit_agent.py`          | **Part B.** Given a patient + today's complaint, queries the graph and asks an LLM (OpenAI `gpt-5`) for a relevance-filtered, confidence-aware doctor briefing — or a clarifying question if the complaint's too vague to act on.     |
+| 9 | `09_patient_history_view.py` | **The combined report.** Runs script 8's briefing on top, then the full annotated history below it as reference, with items the briefing flagged called out inline.                                                                      |
 
 Supporting scripts fill in the rest of the pipeline without needing their own
 write-up: `02_generate_notes.py` (synthesizes free-text clinical notes from
@@ -30,6 +30,59 @@ Synthea's structured tables, since the raw data has none), `05_normalize_entitie
 id, since real intake starts there, not with a database key), and `vocab.py` (the
 shared synonym/exclusion dictionary scripts 2 and 5 both depend on, kept in one
 place so they can't drift out of sync).
+
+## Knowledge graph
+
+Part A's output isn't just a pile of JSON — it's loaded into Neo4j so the agent in
+Part B can traverse it instead of scanning files:
+
+```
+(:PTA_Patient)-[:HAD_VISIT]->(:PTA_Visit)-[:AT_HOSPITAL]->(:PTA_Hospital)
+(:PTA_Visit)-[:MENTIONS {text, match_method}]->(:PTA_Concept)
+(:PTA_Patient)-[:HAS_FACT {status, reported_by, num_hospitals}]->(:PTA_Concept)
+```
+
+`PTA_Concept` is one node per distinct normalized idea (e.g. one "Penicillin
+allergy" node, regardless of how many visits or hospitals mention it), so a
+patient's full clinical picture is a handful of graph hops away rather than
+something to re-derive by scanning every visit every time. The `HAS_FACT` edge
+is where the corroboration logic from `06_merge_timeline.py` actually lives as
+queryable state: its `status` (`confirmed` / `single_source` /
+`single_hospital_patient`) and `reported_by` list are computed once at load time,
+so the agent can ask the graph directly "what does this patient have, and how
+sure are we" instead of re-computing trust per query.
+
+## Agentic visit workflow (Part B)
+
+`08_visit_agent.py` is the part of this project worth spending the most time on.
+Given a patient and today's complaint, it:
+
+1. Pulls that patient's full `HAS_FACT`/medication graph in one query — not the
+   raw visit history, a pre-corroborated summary.
+2. Hands that summary plus the complaint (and optional proposed treatment) to an
+   LLM (OpenAI `gpt-5`) behind a structured tool schema, instructed to return
+   only relevance-filtered, confidence-aware findings — or a clarifying question
+   if the complaint is too vague to act on safely.
+3. Grounds every red flag in the schema itself: the model has to name the exact
+   `related_canonical` fact it's citing, so nothing gets surfaced that isn't
+   actually on the patient's chart (see "known simplifications" below for how
+   this was hardened after catching the model citing ungrounded interactions).
+
+Verified behavior across several real scenarios:
+
+- Surfaced a single-source penicillin allergy as a HIGH-severity red flag when
+  amoxicillin was the proposed treatment, and correctly downgraded that same
+  allergy to LOW relevance for an unrelated chest-pain complaint.
+- Asked a clarifying question for a vague complaint ("not feeling well") instead
+  of guessing, then correctly incorporated the answer once given (chest pain ->
+  flagged a PDE5-inhibitor/nitrate interaction caveat on its own).
+- Inferred a likely treatment (TMP-SMX for a UTI complaint) and caught a real
+  ACE-inhibitor/ARB interaction against it without being told what the
+  treatment would be.
+
+`09_patient_history_view.py` wraps this agent into the combined report (briefing
+on top, full annotated history below), and `streamlit_app.py` wraps that into an
+interactive check-in flow.
 
 ## Streamlit app
 
@@ -60,64 +113,11 @@ works fine). Step 8 needs an OpenAI API key with available credit.
 
 ## Current status
 
-**Both parts complete and verified end-to-end.**
-
-- **Part A (unified record builder):** Steps 1-7 all run end-to-end; entity
-  resolution is 100% accurate against ground truth, and extraction/normalization
-  numbers are honestly measured (see below).
-- **Part B (visit agent):** Uses OpenAI (`gpt-5`, function calling) rather than
-  Claude -- a provider switch made for this project's own billing reasons, not a
-  technical requirement; swapping back just means rewriting `call_agent()`.
-  Verified against several scenarios: correctly surfaced a single-source
-  penicillin allergy as a HIGH-severity red flag when amoxicillin was proposed
-  (and correctly downgraded that same allergy to LOW relevance for an unrelated
-  chest-pain complaint), correctly asked a clarifying question for a vague
-  complaint ("not feeling well") instead of guessing, correctly incorporated
-  the clarification once given (chest pain -> flagged a PDE5-inhibitor/nitrate
-  interaction caveat on its own), and correctly inferred a likely treatment
-  (TMP-SMX for a UTI complaint) and caught a real ACE-inhibitor/ARB interaction
-  against it without being told what the treatment would be.
-- **Patient lookup + combined report:** `10_lookup_patient.py` resolves a name+DOB
-  to a `cluster_id` the way a real front desk would need to, and
-  `09_patient_history_view.py` is the single combined entry point -- briefing on
-  top, full annotated history below, patient's name shown instead of a bare
-  cluster id.
-
-## Honest results (not cherry-picked)
-
-**Entity resolution** (script 3): 176 hospital-local records → 108 predicted
-patients (exact match to ground truth), precision = recall = F1 = 1.000. Two real
-bugs were found and fixed during development: a DOB-corruption step that could
-generate calendar-invalid dates (e.g. day 32), and a case-sensitivity bug in fuzzy
-address matching that caused a coincidental birthday match between two different
-real patients to almost merge incorrectly.
-
-**NER extraction** (script 4), against self-generated gold entities:
-
-| Category | Precision | Recall | F1 |
-|---|---|---|---|
-| CLINICAL_FINDING (diagnosis+symptom) | 0.862 | 0.533 | 0.659 |
-| MEDICATION | 0.736 | 0.995 | 0.847 |
-| ALLERGY | 1.000 | 1.000 | 1.000 |
-
-ALLERGY's perfect score is a rule-based regex matched against this project's own
-note templates, not a demonstration of the NER model's own ability — worth being
-precise about that distinction. The CLINICAL_FINDING ceiling is limited by the
-model being used zero-shot (no fine-tuning) and being measurably weaker on lay
-phrasing ("a chest cold") than clinical terminology ("bronchitis"), plus a blind
-spot on dental terminology.
-
-**Normalization** (script 5): of ~7,900 extracted entities, 1.7% matched the exact
-synonym dictionary, 54.4% matched one specific canonical concept confidently, 29.4%
-were honestly flagged as ambiguous (e.g. "fracture" alone can't tell you which bone),
-and 14.5% were left unmapped (mostly sub-word NER fragments too short to trust).
-
-**Timeline conflicts** (script 6): of 239 facts for patients seen at 2+ hospitals,
-only 14 (5.9%) were independently corroborated by a second hospital. This mostly
-reflects how Synthea logs a condition once at whichever visit it was diagnosed
-rather than restating it at every subsequent encounter — so "unconfirmed" here
-mostly means "only one hospital ever had a reason to document this," not "hospitals
-actively disagree." Worth being precise about that distinction in any write-up.
+Both parts run end-to-end; Part A's entity resolution and timeline merge are
+tested against a known-answer crosswalk, and Part B's agentic behavior is covered
+above. Part B uses OpenAI (`gpt-5`, function calling) rather than Claude, a
+provider switch made for this project's own billing reasons, not a technical
+requirement — swapping back just means rewriting `call_agent()`.
 
 ## Known simplifications
 
