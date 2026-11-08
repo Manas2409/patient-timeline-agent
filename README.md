@@ -9,24 +9,27 @@ All data is synthetic (Synthea-generated). No real patient data is involved.
 
 ## Pipeline
 
-Run from the project root with the venv's Python, in order:
+Run from the project root with the venv's Python, in order (01 → 10). The scripts
+that carry the actual ideas worth reading:
 
-| # | Script | What it does | Key output |
-|---|---|---|---|
-| 1 | `01_shatter_and_corrupt.py` | Splits Synthea's 108 unified patients across 13 simulated regional hospital networks (grouped from Synthea's 278 real orgs by MA ZIP geography). Deliberately corrupts each hospital's view of patient identity (name formatting, DOB format, address completeness, SSN presence) so the same person looks different at every hospital — this is the entity-resolution problem to solve. | `data/hospitals/<slug>/patients.csv` + `data/ground_truth/patient_crosswalk.csv` (answer key) |
-| 2 | `02_generate_notes.py` | Synthea's sample data has no free-text notes, only structured tables. This synthesizes a realistic clinical note per encounter from the structured fields, injecting lay/clinical synonym variation ("heart attack" vs "myocardial infarction") and separating genuine clinical conditions from Synthea's social/administrative findings (employment status, housing, etc.). | `data/hospitals/<slug>/notes.csv` + `notes_gold_entities.csv` (NER answer key) |
-| 3 | `03_entity_resolution.py` | Fuzzy-matches (rapidfuzz) every hospital-local patient record against every other, using only the corrupted name/DOB/address/SSN fields, to re-link records belonging to the same real patient. Blocks by (gender, birth year) for efficiency. | `data/entity_resolution/predicted_clusters.csv`, `pair_scores.csv` — **scores 100% precision/recall against ground truth** on this dataset |
-| 4 | `04_extract_entities.py` | Runs a pretrained biomedical NER model (`d4data/biomedical-ner-all`, BERT/MACCROBAT) over every note to extract DIAGNOSIS, SYMPTOM, MEDICATION, ALLERGY, DATE. Includes negation detection and generic-term filtering. | `data/hospitals/<slug>/extracted_entities.csv` |
-| 5 | `05_normalize_entities.py` | Maps extracted surface text to one canonical concept per idea (so "heart attack"/"myocardial infarction"/"NSTEMI" collapse together) via exact synonym lookup + fuzzy matching against Synthea's own vocabulary. Explicitly flags genuinely ambiguous matches instead of guessing. | `data/hospitals/<slug>/normalized_entities.csv` |
-| 6 | `06_merge_timeline.py` | Uses the *predicted* entity-resolution clusters (not the ground truth) to build one timeline per real patient across all their hospitals, sorted by date, with source attribution. Flags any fact reported by only one of a patient's hospitals as `unconfirmed_single_source`. Also enriches DIAGNOSIS/MEDICATION entities with an `outcome` (resolved-by-date vs ongoing, from each record's STOP date) and ALLERGY entities with `reaction`/`severity` (from Synthea's own structured allergy fields) — both matched back to extracted entities via fuzzy text matching. | `data/unified_timelines/patient_<id>.json` |
-| 7 | `07_load_neo4j.py` | Loads every patient timeline into Neo4j as a graph (`PTA_Patient`, `PTA_Hospital`, `PTA_Visit`, `PTA_Concept` nodes; `HAD_VISIT`/`AT_HOSPITAL`/`MENTIONS`/`HAS_FACT` relationships), so later steps can query instead of scanning JSON. Also picks one representative `display_name`/`display_dob` per patient (the most complete-looking of their hospital-local records) and stores it on the `PTA_Patient` node, purely so reports can show a human name instead of a bare cluster id. | Graph in the Neo4j instance configured in `.env` |
-| 8 | `08_visit_agent.py` | **Part B.** Given a patient + today's complaint (+ optional proposed treatment), queries the graph for that patient's compact fact/medication summary, and asks the model (OpenAI `gpt-5`) to produce a relevance-filtered, confidence-aware doctor-facing briefing — or ask a clarifying question if the complaint is too ambiguous to act on. | Printed briefing |
-| 9 | `09_patient_history_view.py` | **The combined report.** If `--complaint` is given, calls script 8's agent (reused, not duplicated) and prints its briefing + red flags first — "what matters right now" — then the *complete* chronological history below it as reference: every visit, every entity, with confidence/outcome/severity/reaction and confirmed-vs-single-source status on everything, with an inline `RELEVANT TODAY -- <why>` note on items the briefing called out. Visits with no extracted clinical findings and non-clinical SDOH/administrative noise are filtered out of the display (not the data) so "complete" doesn't mean "cluttered." Without `--complaint`, it's just the full history (no briefing section). | Printed combined report |
-| 10 | `10_lookup_patient.py` | **The missing front door.** Every other script above assumes you already know a patient's `cluster_id` — but a real intake process starts with a name and DOB, not a database key. Takes a name/DOB (+ optional middle name/address/SSN) and fuzzy-matches it against every hospital-local record using script 3's exact scoring functions (reused, not reimplemented), returning the matching `cluster_id` or "no match — new patient." | Printed match (or no-match) result |
+| # | Script | What it does |
+|---|---|---|
+| 1 | `01_shatter_and_corrupt.py` | Splits one unified patient population across simulated hospital networks and deliberately corrupts each hospital's view of identity (name, DOB, address, SSN) — this is the entity-resolution problem the rest of Part A solves. |
+| 3 | `03_entity_resolution.py` | Fuzzy-matches (rapidfuzz) every hospital-local record against every other on the corrupted identity fields to re-link records belonging to the same real patient. **100% precision/recall against ground truth** on this dataset. |
+| 4 | `04_extract_entities.py` | Runs a pretrained biomedical NER model (`d4data/biomedical-ner-all`) over each note to pull out diagnoses, symptoms, medications, and allergies, with negation detection and generic-term filtering. |
+| 6 | `06_merge_timeline.py` | Builds one chronological timeline per real patient from the *predicted* clusters (not the ground truth), and flags any fact reported by only one hospital instead of silently treating one source as ground truth. |
+| 7 | `07_load_neo4j.py` | Loads every timeline into Neo4j as a graph so later steps query it instead of scanning JSON. |
+| 8 | `08_visit_agent.py` | **Part B.** Given a patient + today's complaint, queries the graph and asks an LLM (OpenAI `gpt-5`) for a relevance-filtered, confidence-aware doctor briefing — or a clarifying question if the complaint's too vague to act on. |
+| 9 | `09_patient_history_view.py` | **The combined report.** Runs script 8's briefing on top, then the full annotated history below it as reference, with items the briefing flagged called out inline. |
 
-`vocab.py` holds the shared synonym dictionary and admin/SDOH exclusion list used by
-both script 2 (note generation) and script 5 (normalization), so the two can't drift
-out of sync.
+Supporting scripts fill in the rest of the pipeline without needing their own
+write-up: `02_generate_notes.py` (synthesizes free-text clinical notes from
+Synthea's structured tables, since the raw data has none), `05_normalize_entities.py`
+(collapses extracted text to one canonical concept per idea, e.g. "heart attack" /
+"myocardial infarction"), `10_lookup_patient.py` (resolves a name + DOB to a patient
+id, since real intake starts there, not with a database key), and `vocab.py` (the
+shared synonym/exclusion dictionary scripts 2 and 5 both depend on, kept in one
+place so they can't drift out of sync).
 
 ## Streamlit app
 
