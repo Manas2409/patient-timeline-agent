@@ -2,7 +2,7 @@
 
 Simulates the real-world problem of a patient's medical history being scattered
 across multiple hospitals, then builds a system that,
-(A) re-links and reconciles that history /n
+(A) re-links and reconciles that history
 (B) briefs a doctor on what's
 relevant to a *new* visit instead of dumping the full record.
 
