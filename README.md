@@ -1,8 +1,9 @@
 # Unified Patient History & Smart Visit Agent
 
 Simulates the real-world problem of a patient's medical history being scattered
-across multiple hospitals that don't share records, then builds a system that
-(A) re-links and reconciles that history, and (B) briefs a doctor on what's
+across multiple hospitals, then builds a system that,
+(A) re-links and reconciles that history
+(B) briefs a doctor on what's
 relevant to a *new* visit instead of dumping the full record.
 
 All data is synthetic (Synthea-generated). No real patient data is involved.
