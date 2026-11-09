@@ -13,6 +13,15 @@ All data is synthetic (Synthea-generated). No real patient data is involved.
 Run from the project root with the venv's Python, in order (01 → 10). The scripts
 that carry the actual ideas worth reading:
 
+## Unified record builder (Part A)
+
+Before any briefing can happen, the fragmented history has to become one
+trustworthy record. Part A takes the same real patient as seen (inconsistently)
+by several different hospitals, re-links those records to the correct person,
+pulls the clinical facts out of free-text notes, and merges everything into one
+chronological, source-attributed timeline per patient — flagging disagreements
+between hospitals instead of silently picking one as ground truth. That merged
+output is what gets loaded into the knowledge graph below.
 | # | Script                         | What it does                                                                                                                                                                                                                                   |
 | - | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | `01_shatter_and_corrupt.py`  | Splits one unified patient population across simulated hospital networks and deliberately corrupts each hospital's view of identity (name, DOB, address, SSN) — this is the entity-resolution problem the rest of Part A solves.              |
